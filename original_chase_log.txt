@@ -1,1 +1,0 @@
-Chase|Leg|Track|RaceTime|Runner|BalBefore|Stake|Result|BalAfter|ROI%

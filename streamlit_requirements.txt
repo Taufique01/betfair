@@ -2,3 +2,4 @@ streamlit>=1.38
 pandas>=2.2
 matplotlib>=3.8
 numpy>=1.26
+SQLAlchemy==2.0.43
