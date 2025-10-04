@@ -1,0 +1,33 @@
+{
+  "cutoff_time": "23:00",
+  "first_bet": {
+    "percentage": 0.04,
+    "balance_cap": 5000,
+    "max_amount": 200
+  },
+  "bet_lead_seconds": 300,
+  "multipliers": [
+    {
+      "min_odds": 3.0,
+      "multiplier": 1.5
+    },
+    {
+      "min_odds": 2.25,
+      "max_odds": 3.0,
+      "multiplier": 1.65
+    },
+    {
+      "max_odds": 2.25,
+      "profit_buffer_multiplier": 1.2
+    }
+  ],
+  "max_chase_legs": 6,
+  "first_bet_is_penny": true,
+  "use_penny_first": true,
+  "minimum_stake": 0.01,
+  "tick_size": 0.01,
+  "currency_precision": 2,
+  "sim_mode": "penny_first"
+}
+
+
