@@ -1,0 +1,447 @@
+
+    <h2>🐎 Ghost Bet Report — Thursday, September 11, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
+        <thead style="background-color:#f2f2f2;">
+            <tr>
+                <th>Time</th>
+                <th>Venue</th>
+                <th>Race</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#28a745">
+            <td>Sep 11, 2025 01:22 PM</td>
+            <td>Doncaster</td>
+            <td>6f Nursery</td>
+            <td>Half Sovereign</td>
+            <td>3.70</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 01:32 PM</td>
+            <td>Chelmsford City</td>
+            <td>6f Nov Stks</td>
+            <td>Zen Diva</td>
+            <td>2.84</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 01:46 PM</td>
+            <td>Epsom</td>
+            <td>7f Nov Stks</td>
+            <td>St Anton</td>
+            <td>2.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 02:02 PM</td>
+            <td>Doncaster</td>
+            <td>6f Stks</td>
+            <td>Brussels</td>
+            <td>3.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 11, 2025 02:09 PM</td>
+            <td>Chelmsford City</td>
+            <td>1m6f Hcap</td>
+            <td>New York Minute</td>
+            <td>3.15</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 11, 2025 02:21 PM</td>
+            <td>Epsom</td>
+            <td>7f Hcap</td>
+            <td>Kisskodi</td>
+            <td>5.40</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 02:36 PM</td>
+            <td>Doncaster</td>
+            <td>1m Grp 2</td>
+            <td>Moon Target</td>
+            <td>2.40</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 11, 2025 02:42 PM</td>
+            <td>Chelmsford City</td>
+            <td>5f Hcap</td>
+            <td>Startling</td>
+            <td>3.40</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 11, 2025 03:01 PM</td>
+            <td>Epsom</td>
+            <td>1m2f Hcap</td>
+            <td>Double Red</td>
+            <td>5.40</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 03:11 PM</td>
+            <td>Doncaster</td>
+            <td>1m6f Grp 2</td>
+            <td>Danielle</td>
+            <td>3.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 03:18 PM</td>
+            <td>Chelmsford City</td>
+            <td>6f Hcap</td>
+            <td>Pinjarra</td>
+            <td>4.40</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 03:34 PM</td>
+            <td>Clonmel</td>
+            <td>1m1f Mdn</td>
+            <td>Tswalu</td>
+            <td>3.35</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 11, 2025 03:39 PM</td>
+            <td>Epsom</td>
+            <td>1m4f Hcap</td>
+            <td>Give It To Me Oj</td>
+            <td>2.04</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 03:43 PM</td>
+            <td>Doncaster</td>
+            <td>1m2f Hcap</td>
+            <td>Respond</td>
+            <td>3.30</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 03:55 PM</td>
+            <td>Chelmsford City</td>
+            <td>7f Hcap</td>
+            <td>Rokuni</td>
+            <td>7.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 04:08 PM</td>
+            <td>Epsom</td>
+            <td>1m4f Hcap</td>
+            <td>Love You Back</td>
+            <td>2.58</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 04:09 PM</td>
+            <td>Clonmel</td>
+            <td>1m1f Mdn</td>
+            <td>Rock Of Ireland</td>
+            <td>3.45</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 04:16 PM</td>
+            <td>Doncaster</td>
+            <td>7f Nursery</td>
+            <td>Jeddaal</td>
+            <td>4.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 11, 2025 04:29 PM</td>
+            <td>Chelmsford City</td>
+            <td>7f Hcap</td>
+            <td>Love Is The Law</td>
+            <td>4.70</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 04:39 PM</td>
+            <td>Epsom</td>
+            <td>1m Hcap</td>
+            <td>Mostawaa</td>
+            <td>4.60</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 11, 2025 04:40 PM</td>
+            <td>Uttoxeter</td>
+            <td>2m7f Mdn Hrd</td>
+            <td>Bettys Tiara</td>
+            <td>2.04</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 04:43 PM</td>
+            <td>Clonmel</td>
+            <td>1m1f Hcap</td>
+            <td>Amavasya</td>
+            <td>5.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 04:57 PM</td>
+            <td>Chelmsford City</td>
+            <td>7f Hcap</td>
+            <td>Lessay</td>
+            <td>4.30</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 05:00 PM</td>
+            <td>Newcastle</td>
+            <td>1m2f Nov Stks</td>
+            <td>Majaz</td>
+            <td>2.04</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 11, 2025 05:02 PM</td>
+            <td>Doncaster</td>
+            <td>1m Nursery</td>
+            <td>Mcmurray</td>
+            <td>3.00</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 05:08 PM</td>
+            <td>Epsom</td>
+            <td>1m Hcap</td>
+            <td>Wilhelmina</td>
+            <td>4.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 05:14 PM</td>
+            <td>Uttoxeter</td>
+            <td>2m Hcap Chs</td>
+            <td>En Avant</td>
+            <td>4.10</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 11, 2025 05:17 PM</td>
+            <td>Clonmel</td>
+            <td>1m1f Hcap</td>
+            <td>Iron Fist</td>
+            <td>3.50</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 11, 2025 05:24 PM</td>
+            <td>Doncaster</td>
+            <td>1m4f Hcap</td>
+            <td>Munsif</td>
+            <td>4.10</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 05:30 PM</td>
+            <td>Chelmsford City</td>
+            <td>1m Mdn Stks</td>
+            <td>Blessed Star</td>
+            <td>1.35</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 05:31 PM</td>
+            <td>Newcastle</td>
+            <td>1m2f Hcap</td>
+            <td>Coloane</td>
+            <td>1.85</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 05:45 PM</td>
+            <td>Uttoxeter</td>
+            <td>3m Hcap Chs</td>
+            <td>Wheresmemoneygone</td>
+            <td>2.16</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 05:51 PM</td>
+            <td>Clonmel</td>
+            <td>1m1f Hcap</td>
+            <td>Warazam</td>
+            <td>2.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 06:02 PM</td>
+            <td>Newcastle</td>
+            <td>2m Hcap</td>
+            <td>Jedhi Knight</td>
+            <td>3.95</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 06:03 PM</td>
+            <td>Chelmsford City</td>
+            <td>1m Hcap</td>
+            <td>Hinitsa Bay</td>
+            <td>2.78</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 06:14 PM</td>
+            <td>Uttoxeter</td>
+            <td>2m4f Hcap Hrd</td>
+            <td>Liverpool Knight</td>
+            <td>3.75</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 11, 2025 06:25 PM</td>
+            <td>Clonmel</td>
+            <td>2m Hcap</td>
+            <td>Shoda</td>
+            <td>2.68</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 06:32 PM</td>
+            <td>Newcastle</td>
+            <td>1m4f Hcap</td>
+            <td>Lightning Touch</td>
+            <td>3.35</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 06:45 PM</td>
+            <td>Uttoxeter</td>
+            <td>2m4f Hcap Hrd</td>
+            <td>Queens Wish</td>
+            <td>3.65</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 06:52 PM</td>
+            <td>Clonmel</td>
+            <td>2m Hcap</td>
+            <td>Sequoiaspirit</td>
+            <td>5.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 07:00 PM</td>
+            <td>Newcastle</td>
+            <td>6f Hcap</td>
+            <td>Easy Peeler</td>
+            <td>4.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 11, 2025 07:18 PM</td>
+            <td>Uttoxeter</td>
+            <td>2m7f Hcap Hrd</td>
+            <td>Tropical Speed</td>
+            <td>5.40</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 07:27 PM</td>
+            <td>Clonmel</td>
+            <td>2m Hcap</td>
+            <td>No Big Deal</td>
+            <td>5.60</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 07:37 PM</td>
+            <td>Newcastle</td>
+            <td>6f Hcap</td>
+            <td>Fan Mail</td>
+            <td>3.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 08:06 PM</td>
+            <td>Newcastle</td>
+            <td>7f Nov Stks</td>
+            <td>Spitzbergen</td>
+            <td>1.82</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 11, 2025 08:37 PM</td>
+            <td>Newcastle</td>
+            <td>7f Hcap</td>
+            <td>Ziggys Angel</td>
+            <td>4.70</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 11, 2025 09:07 PM</td>
+            <td>Newcastle</td>
+            <td>7f Hcap</td>
+            <td>Carolus Magnus</td>
+            <td>4.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 47 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 14 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 33 <br>
+        <strong>Net Profit/Loss:</strong> <span style="color:#28a745;">$6.21</span>
+    </p>
+    

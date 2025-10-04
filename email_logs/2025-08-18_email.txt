@@ -1,0 +1,36 @@
+🐎 Ghost Bet Report — 2025-08-18
+--------------------------------------------------
+[2025-08-18 14:25:31] Catterick — 1m4f Hcap — Made All @ 2.42 — LOST
+[2025-08-18 14:36:31] Stratford — 2m6f Nov Hcap Chs — Topgun Simmy @ 2.22 — WON
+[2025-08-18 14:57:31] Catterick — 6f Nursery — Mossvale Diva @ 2.16 — LOST
+[2025-08-18 15:08:31] Stratford — 2m6f Nov Hrd — Don Virginia @ 2.02 — LOST
+[2025-08-18 15:22:00] Catterick — 6f Hcap — Mister Sky Blue @ 4.60 — LOST
+[2025-08-18 15:37:01] Stratford — 2m6f Hcap Hrd — Barely Famous @ 3.65 — LOST
+[2025-08-18 15:54:31] Catterick — 1m4f Nov Stks — Chico Magnifica @ 1.72 — LOST
+[2025-08-18 16:05:31] Stratford — 2m3f Hcap Chs — Arclight @ 3.20 — LOST
+[2025-08-18 16:22:31] Catterick — 5f Hcap — Another Baar @ 3.50 — WON
+[2025-08-18 16:28:31] Windsor — 1m3f Hcap — Pergola @ 3.25 — LOST
+[2025-08-18 16:37:01] Stratford — 2m Hcap Hrd — Diesel Line @ 2.42 — LOST
+[2025-08-18 16:53:31] Catterick — 7f Hcap — Emerald Army @ 5.00 — LOST
+[2025-08-18 17:05:01] Windsor — 5f Hcap — Cabeza De Llave @ 2.76 — LOST
+[2025-08-18 17:13:01] Stratford — 3m3f Hcap Chs — My Girl Katie @ 2.68 — WON
+[2025-08-18 17:32:31] Windsor — 5f Nov Stks — Sovereign Spell @ 2.14 — WON
+[2025-08-18 17:43:31] Stratford — 2m Stks — Way Maker @ 1.38 — WON
+[2025-08-18 17:50:30] Ayr — 6f Mdn Stks — Media Darling @ 2.20 — WON
+[2025-08-18 18:05:31] Windsor — 5f Nursery — Dazzling Haze @ 3.90 — LOST
+[2025-08-18 18:22:31] Ayr — 1m2f Hcap — Sophiesticate @ 3.10 — LOST
+[2025-08-18 18:37:01] Windsor — 1m2f Mdn Stks — Earl Of Rochester @ 1.74 — LOST
+[2025-08-18 18:50:30] Ayr — 7f Hcap — Jannas Journey @ 1.25 — WON
+[2025-08-18 19:06:31] Windsor — 6f Hcap — Under The Twilight @ 3.85 — LOST
+[2025-08-18 19:19:30] Ayr — 6f Hcap — Aberama Gold @ 3.85 — WON
+[2025-08-18 19:40:01] Windsor — 6f Hcap — Summertime Blues @ 2.02 — LOST
+[2025-08-18 19:51:31] Ayr — 1m Hcap — Ravishing Beauty @ 5.10 — LOST
+[2025-08-18 19:52:31] Ayr — 1m Hcap — Ravishing Beauty @ 5.10 — LOST
+[2025-08-18 20:05:31] Windsor — 6f Hcap — Phoenix Moon @ 4.50 — LOST
+[2025-08-18 20:22:31] Ayr — 1m5f Hcap — Waystar @ 3.00 — LOST
+[2025-08-18 20:22:31] Ayr — 1m5f Hcap — Waystar @ 2.84 — LOST
+
+Total Bets: 29
+Wins: 8
+Losses: 21
+Net Profit/Loss: $-9.78

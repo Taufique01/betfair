@@ -1,0 +1,170 @@
+
+    <h2>🐎 CHASE Report — Monday, September 08, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 01:27 PM</td>
+            <td>Lingfield 8th Sep</td>
+            <td>Ribenska</td>
+            <td>1.08</td>
+            <td>£8.80</td>
+            <td>WON</td>
+            <td>£0.70</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 01:59 PM</td>
+            <td>Lingfield 8th Sep</td>
+            <td>Shumus</td>
+            <td>2.58</td>
+            <td>£8.83</td>
+            <td>LOST</td>
+            <td>£-8.83</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 02:17 PM</td>
+            <td>Perth 8th Sep</td>
+            <td>Chortal</td>
+            <td>1.41</td>
+            <td>£25.85</td>
+            <td>WON</td>
+            <td>£10.60</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 02:29 PM</td>
+            <td>Lingfield 8th Sep</td>
+            <td>Saliko</td>
+            <td>1.93</td>
+            <td>£8.90</td>
+            <td>LOST</td>
+            <td>£-8.90</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 02:40 PM</td>
+            <td>Windsor 8th Sep</td>
+            <td>Hilitany</td>
+            <td>1.92</td>
+            <td>£11.61</td>
+            <td>WON</td>
+            <td>£10.68</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 03:12 PM</td>
+            <td>Windsor 8th Sep</td>
+            <td>Just Adair</td>
+            <td>3.25</td>
+            <td>£8.98</td>
+            <td>WON</td>
+            <td>£20.21</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 03:36 PM</td>
+            <td>Lingfield 8th Sep</td>
+            <td>Harryella</td>
+            <td>2.24</td>
+            <td>£9.78</td>
+            <td>WON</td>
+            <td>£12.13</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 03:50 PM</td>
+            <td>Perth 8th Sep</td>
+            <td>Jumping Susie</td>
+            <td>4.30</td>
+            <td>£10.27</td>
+            <td>LOST</td>
+            <td>£-10.27</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 04:06 PM</td>
+            <td>Lingfield 8th Sep</td>
+            <td>Zaltalla</td>
+            <td>5.00</td>
+            <td>£15.41</td>
+            <td>LOST</td>
+            <td>£-15.41</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 04:18 PM</td>
+            <td>Perth 8th Sep</td>
+            <td>Top Flight Century</td>
+            <td>4.70</td>
+            <td>£23.12</td>
+            <td>LOST</td>
+            <td>£-23.12</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 04:28 PM</td>
+            <td>Galway 8th Sep</td>
+            <td>Kotkito Bello</td>
+            <td>6.60</td>
+            <td>£34.68</td>
+            <td>LOST</td>
+            <td>£-34.68</td>
+            <td>Leg 4</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 04:48 PM</td>
+            <td>Windsor 8th Sep</td>
+            <td>Dalmally</td>
+            <td>4.80</td>
+            <td>£52.02</td>
+            <td>LOST</td>
+            <td>£-52.02</td>
+            <td>Leg 5</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 04:58 PM</td>
+            <td>Galway 8th Sep</td>
+            <td>Run For Oscar</td>
+            <td>3.55</td>
+            <td>£121.09</td>
+            <td>LOST</td>
+            <td>£-121.09</td>
+            <td>Leg 6</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 13 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 5 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 8 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £-220.00
+    </p>
+    

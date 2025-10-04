@@ -1,0 +1,126 @@
+
+    <h2>🐎 CHASE Report — Sunday, September 21, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 02:44 PM</td>
+            <td>Hamilton 21st Sep</td>
+            <td>Mehsun</td>
+            <td>2.86</td>
+            <td>£8.80</td>
+            <td>LOST</td>
+            <td>£-8.80</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 02:58 PM</td>
+            <td>Plumpton 21st Sep</td>
+            <td>Sain Et Sauf</td>
+            <td>4.80</td>
+            <td>£13.20</td>
+            <td>LOST</td>
+            <td>£-13.20</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 03:16 PM</td>
+            <td>Southwell 21st Sep</td>
+            <td>Best Rate</td>
+            <td>4.30</td>
+            <td>£19.80</td>
+            <td>LOST</td>
+            <td>£-19.80</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 21, 2025 03:30 PM</td>
+            <td>Plumpton 21st Sep</td>
+            <td>Kajikia</td>
+            <td>1.30</td>
+            <td>£167.20</td>
+            <td>WON</td>
+            <td>£50.16</td>
+            <td>Leg 4</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 21, 2025 03:42 PM</td>
+            <td>Southwell 21st Sep</td>
+            <td>Hypnotised</td>
+            <td>1.80</td>
+            <td>£9.14</td>
+            <td>WON</td>
+            <td>£7.31</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 03:59 PM</td>
+            <td>Plumpton 21st Sep</td>
+            <td>Nap Hand</td>
+            <td>2.76</td>
+            <td>£9.43</td>
+            <td>LOST</td>
+            <td>£-9.43</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 04:23 PM</td>
+            <td>Hamilton 21st Sep</td>
+            <td>Naturalia</td>
+            <td>3.65</td>
+            <td>£14.15</td>
+            <td>LOST</td>
+            <td>£-14.15</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 04:37 PM</td>
+            <td>Listowel 21st Sep</td>
+            <td>Waterford Whispers</td>
+            <td>4.40</td>
+            <td>£21.23</td>
+            <td>LOST</td>
+            <td>£-21.23</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 21, 2025 05:01 PM</td>
+            <td>Plumpton 21st Sep</td>
+            <td>Masked Mistress</td>
+            <td>1.66</td>
+            <td>£81.48</td>
+            <td>WON</td>
+            <td>£53.78</td>
+            <td>Leg 4</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 9 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 3 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 6 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £24.64
+    </p>
+    

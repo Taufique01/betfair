@@ -1,0 +1,174 @@
+2025-09-29 05:00:00 | INFO | Logged in to Betfair API
+2025-09-29 05:00:00 | INFO | Fetched 43 markets for today
+2025-09-29 05:00:00 | INFO | Scheduled bet for 1m7f Mdn Hrd at 1:38:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 5f Mdn Stks at 1:48:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 2m Nov Hcap Chs at 1:54:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 5f Nursery Hcap at 2:02:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 5f App Hcap at 2:08:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 1m7f Hcap Hrd at 2:13:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 6f Hcap at 2:23:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 2m2f Hcap Hrd at 2:29:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 1m5f Hcap at 2:37:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 7f Mdn Stks at 2:43:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 2m4f Mdn Hrd at 2:48:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 1m Hcap at 2:58:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 2m1f Nov Hrd at 3:04:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 7f Mdn at 3:12:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 7f Nursery at 3:18:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 2m4f Hcap Hrd at 3:23:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 1m1f Hcap at 3:33:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 3m2f Nov Hcap Hrd at 3:39:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 7f Mdn at 3:47:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 1m Hcap at 3:53:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 3m Hcap Hrd at 3:58:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 5f Hcap at 4:08:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 3m2f Hcap Chs at 4:14:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 7f Hcap at 4:22:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 1m4f Hcap at 4:28:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 2m Grd 3 Nov Chs at 4:33:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 5f Hcap at 4:43:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 2m5f Hcap Hrd at 4:48:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 1m3f Hcap at 4:53:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 2m Hcap at 4:58:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 7f Hcap at 5:03:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 2m5f Hcap Chs at 5:08:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 1m4f Hcap at 5:18:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 1m5f Hcap at 5:23:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 7f Nov Stks at 5:28:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 6f Hcap at 5:38:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 1m7f INHF at 5:43:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 6f Nov Stks at 5:58:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 6f Hcap at 6:28:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 5f Hcap at 6:58:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 1m Hcap at 7:28:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 7f Nov Stks at 7:58:30PM
+2025-09-29 05:00:00 | INFO | Scheduled bet for 6f Hcap at 8:28:30PM
+2025-09-29 13:38:30 | INFO | Bet placed: Rakki x 1.58 @ Roscommon 1m7f Mdn Hrd
+2025-09-29 13:48:30 | INFO | Bet placed: Eat Pray Run x 1.05 @ Hamilton 5f Mdn Stks
+2025-09-29 13:49:01 | INFO | Logged bet: 2025-09-29 13:49:01 | Roscommon | 1m7f Mdn Hrd | 2025-09-29 13:40:00 | 61720577 | Rakki | 1.58 | WON
+2025-09-29 13:49:01 | INFO | watch - Market closed: 1m7f Mdn Hrd, result: WON
+2025-09-29 13:54:30 | INFO | Bet placed: Centara x 1.93 @ Newton 2m Nov Hcap Chs
+2025-09-29 13:54:30 | INFO | Logged bet: 2025-09-29 13:54:30 | Hamilton | 5f Mdn Stks | 2025-09-29 13:50:00 | 85557494 | Eat Pray Run | 1.05 | WON
+2025-09-29 13:54:30 | INFO | watch - Market closed: 5f Mdn Stks, result: WON
+2025-09-29 14:02:30 | INFO | Bet placed: Award Ceremony x 6.8 @ Down 5f Nursery Hcap
+2025-09-29 14:04:01 | INFO | Logged bet: 2025-09-29 14:04:01 | Newton Abbot | 2m Nov Hcap Chs | 2025-09-29 13:56:00 | 53789468 | Centara | 1.93 | WON
+2025-09-29 14:04:01 | INFO | watch - Market closed: 2m Nov Hcap Chs, result: WON
+2025-09-29 14:08:00 | INFO | Logged bet: 2025-09-29 14:08:00 | Down Royal | 5f Nursery Hcap | 2025-09-29 14:04:00 | 2584419 | Award Ceremony | 6.8 | LOST
+2025-09-29 14:08:00 | INFO | watch - Market closed: 5f Nursery Hcap, result: LOST
+2025-09-29 14:08:30 | INFO | Bet placed: Starsong x 3.15 @ Brighton 5f App Hcap
+2025-09-29 14:13:30 | INFO | Bet placed: No Big Deal x 5.0 @ Roscommon 1m7f Hcap Hrd
+2025-09-29 14:16:31 | INFO | Logged bet: 2025-09-29 14:16:31 | Brighton | 5f App Hcap | 2025-09-29 14:10:00 | 6232736 | Starsong | 3.15 | WON
+2025-09-29 14:16:31 | INFO | watch - Market closed: 5f App Hcap, result: WON
+2025-09-29 14:22:30 | INFO | Logged bet: 2025-09-29 14:22:30 | Roscommon | 1m7f Hcap Hrd | 2025-09-29 14:15:00 | 13179534 | No Big Deal | 5.0 | LOST
+2025-09-29 14:22:30 | INFO | watch - Market closed: 1m7f Hcap Hrd, result: LOST
+2025-09-29 14:23:30 | INFO | Bet placed: Impressor x 3.95 @ Hamilton 6f Hcap
+2025-09-29 14:29:30 | INFO | Bet placed: Dickens x 3.2 @ Newton 2m2f Hcap Hrd
+2025-09-29 14:32:31 | INFO | Logged bet: 2025-09-29 14:32:31 | Hamilton | 6f Hcap | 2025-09-29 14:25:00 | 24905194 | Impressor | 3.95 | LOST
+2025-09-29 14:32:31 | INFO | watch - Market closed: 6f Hcap, result: LOST
+2025-09-29 14:37:30 | INFO | Bet placed: Billie Frechette x 2.84 @ Down 1m5f Hcap
+2025-09-29 14:42:01 | INFO | Logged bet: 2025-09-29 14:42:01 | Newton Abbot | 2m2f Hcap Hrd | 2025-09-29 14:31:00 | 233636 | Dickens | 3.2 | WON
+2025-09-29 14:42:01 | INFO | watch - Market closed: 2m2f Hcap Hrd, result: WON
+2025-09-29 14:43:30 | INFO | Bet placed: Fierce Fortitude x 2.9 @ Brighton 7f Mdn Stks
+2025-09-29 14:43:30 | INFO | Logged bet: 2025-09-29 14:43:30 | Down Royal | 1m5f Hcap | 2025-09-29 14:39:00 | 67371681 | Billie Frechette | 2.84 | LOST
+2025-09-29 14:43:30 | INFO | watch - Market closed: 1m5f Hcap, result: LOST
+2025-09-29 14:48:30 | INFO | Bet placed: Woodland Adventure x 3.7 @ Roscommon 2m4f Mdn Hrd
+2025-09-29 14:52:00 | INFO | Logged bet: 2025-09-29 14:52:00 | Brighton | 7f Mdn Stks | 2025-09-29 14:45:00 | 87264490 | Fierce Fortitude | 2.9 | WON
+2025-09-29 14:52:00 | INFO | watch - Market closed: 7f Mdn Stks, result: WON
+2025-09-29 14:58:30 | INFO | Bet placed: Arkenstaar x 4.1 @ Hamilton 1m Hcap
+2025-09-29 14:59:01 | INFO | Logged bet: 2025-09-29 14:59:01 | Roscommon | 2m4f Mdn Hrd | 2025-09-29 14:50:00 | 83421732 | Woodland Adventure | 3.7 | LOST
+2025-09-29 14:59:01 | INFO | watch - Market closed: 2m4f Mdn Hrd, result: LOST
+2025-09-29 15:04:30 | INFO | Bet placed: John Barbour x 1.74 @ Newton 2m1f Nov Hrd
+2025-09-29 15:06:30 | INFO | Logged bet: 2025-09-29 15:06:30 | Hamilton | 1m Hcap | 2025-09-29 15:00:00 | 47826341 | Arkenstaar | 4.1 | WON
+2025-09-29 15:06:30 | INFO | watch - Market closed: 1m Hcap, result: WON
+2025-09-29 15:12:30 | INFO | Bet placed: Stars Will Shine x 2.92 @ Down 7f Mdn
+2025-09-29 15:16:01 | INFO | Logged bet: 2025-09-29 15:16:01 | Newton Abbot | 2m1f Nov Hrd | 2025-09-29 15:06:00 | 69110289 | John Barbour | 1.74 | LOST
+2025-09-29 15:16:01 | INFO | watch - Market closed: 2m1f Nov Hrd, result: LOST
+2025-09-29 15:18:30 | INFO | Bet placed: Receding x 3.15 @ Brighton 7f Nursery
+2025-09-29 15:19:00 | INFO | Logged bet: 2025-09-29 15:19:00 | Down Royal | 7f Mdn | 2025-09-29 15:14:00 | 88237680 | Stars Will Shine | 2.92 | WON
+2025-09-29 15:19:00 | INFO | watch - Market closed: 7f Mdn, result: WON
+2025-09-29 15:23:30 | INFO | Bet placed: Nettuno Italia x 4.7 @ Roscommon 2m4f Hcap Hrd
+2025-09-29 15:28:00 | INFO | Logged bet: 2025-09-29 15:28:00 | Brighton | 7f Nursery | 2025-09-29 15:20:00 | 86528668 | Receding | 3.15 | LOST
+2025-09-29 15:28:00 | INFO | watch - Market closed: 7f Nursery, result: LOST
+2025-09-29 15:33:30 | INFO | Bet placed: Impartiality x 3.5 @ Hamilton 1m1f Hcap
+2025-09-29 15:35:01 | INFO | Logged bet: 2025-09-29 15:35:01 | Roscommon | 2m4f Hcap Hrd | 2025-09-29 15:25:00 | 77705237 | Nettuno Italia | 4.7 | LOST
+2025-09-29 15:35:01 | INFO | watch - Market closed: 2m4f Hcap Hrd, result: LOST
+2025-09-29 15:39:30 | INFO | Bet placed: Touchwoodexpress x 3.1 @ Newton 3m2f Nov Hcap Hrd
+2025-09-29 15:41:00 | INFO | Logged bet: 2025-09-29 15:41:00 | Hamilton | 1m1f Hcap | 2025-09-29 15:35:00 | 71273645 | Impartiality | 3.5 | LOST
+2025-09-29 15:41:00 | INFO | watch - Market closed: 1m1f Hcap, result: LOST
+2025-09-29 15:47:30 | INFO | Bet placed: Diego El Queso x 1.83 @ Down 7f Mdn
+2025-09-29 15:52:31 | INFO | Logged bet: 2025-09-29 15:52:31 | Newton Abbot | 3m2f Nov Hcap Hrd | 2025-09-29 15:41:00 | 53418 | Touchwoodexpress | 3.1 | WON
+2025-09-29 15:52:31 | INFO | watch - Market closed: 3m2f Nov Hcap Hrd, result: WON
+2025-09-29 15:53:00 | INFO | Logged bet: 2025-09-29 15:53:00 | Down Royal | 7f Mdn | 2025-09-29 15:49:00 | 81615071 | Diego El Queso | 1.83 | LOST
+2025-09-29 15:53:00 | INFO | watch - Market closed: 7f Mdn, result: LOST
+2025-09-29 15:53:30 | INFO | Bet placed: Dalmally x 5.2 @ Brighton 1m Hcap
+2025-09-29 15:58:30 | INFO | Bet placed: Birmingham Alabama x 4.8 @ Roscommon 3m Hcap Hrd
+2025-09-29 16:04:31 | INFO | Logged bet: 2025-09-29 16:04:31 | Brighton | 1m Hcap | 2025-09-29 15:55:00 | 3830874 | Dalmally | 5.2 | LOST
+2025-09-29 16:04:31 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-09-29 16:08:30 | INFO | Bet placed: Corolla Point x 5.1 @ Hamilton 5f Hcap
+2025-09-29 16:10:31 | INFO | Logged bet: 2025-09-29 16:10:31 | Roscommon | 3m Hcap Hrd | 2025-09-29 16:00:00 | 70217865 | Birmingham Alabama | 4.8 | LOST
+2025-09-29 16:10:31 | INFO | watch - Market closed: 3m Hcap Hrd, result: LOST
+2025-09-29 16:14:30 | INFO | Bet placed: Hold Your Fort x 2.96 @ Newton 3m2f Hcap Chs
+2025-09-29 16:17:00 | INFO | Logged bet: 2025-09-29 16:17:00 | Hamilton | 5f Hcap | 2025-09-29 16:10:00 | 75281312 | Corolla Point | 5.1 | WON
+2025-09-29 16:17:00 | INFO | watch - Market closed: 5f Hcap, result: WON
+2025-09-29 16:22:30 | INFO | Bet placed: Bishopton x 4.5 @ Down 7f Hcap
+2025-09-29 16:27:31 | INFO | Logged bet: 2025-09-29 16:27:31 | Newton Abbot | 3m2f Hcap Chs | 2025-09-29 16:16:00 | 48353348 | Hold Your Fort | 2.96 | LOST
+2025-09-29 16:27:31 | INFO | watch - Market closed: 3m2f Hcap Chs, result: LOST
+2025-09-29 16:28:30 | INFO | Bet placed: Love You Back x 2.92 @ Brighton 1m4f Hcap
+2025-09-29 16:28:30 | INFO | Logged bet: 2025-09-29 16:28:30 | Down Royal | 7f Hcap | 2025-09-29 16:24:00 | 72360915 | Bishopton | 4.5 | WON
+2025-09-29 16:28:30 | INFO | watch - Market closed: 7f Hcap, result: WON
+2025-09-29 16:33:30 | INFO | Bet placed: Westport Cove x 1.85 @ Roscommon 2m Grd 3 Nov Chs
+2025-09-29 16:36:00 | INFO | Logged bet: 2025-09-29 16:36:00 | Brighton | 1m4f Hcap | 2025-09-29 16:30:00 | 11398009 | Love You Back | 2.92 | WON
+2025-09-29 16:36:00 | INFO | watch - Market closed: 1m4f Hcap, result: WON
+2025-09-29 16:43:30 | INFO | Bet placed: Stirrup Cup x 3.4 @ Hamilton 5f Hcap
+2025-09-29 16:43:31 | INFO | Logged bet: 2025-09-29 16:43:31 | Roscommon | 2m Grd 3 Nov Chs | 2025-09-29 16:35:00 | 51643712 | Westport Cove | 1.85 | WON
+2025-09-29 16:43:31 | INFO | watch - Market closed: 2m Grd 3 Nov Chs, result: WON
+2025-09-29 16:48:30 | INFO | Bet placed: The Height Of Fame x 2.56 @ Newton 2m5f Hcap Hrd
+2025-09-29 16:53:00 | INFO | Logged bet: 2025-09-29 16:53:00 | Hamilton | 5f Hcap | 2025-09-29 16:45:00 | 64545654 | Stirrup Cup | 3.4 | LOST
+2025-09-29 16:53:00 | INFO | watch - Market closed: 5f Hcap, result: LOST
+2025-09-29 16:53:30 | INFO | Bet placed: Lunar Landscape x 6.0 @ Down 1m3f Hcap
+2025-09-29 16:58:30 | INFO | Bet placed: Big Win x 2.26 @ Southwell 2m Hcap
+2025-09-29 17:01:00 | INFO | Logged bet: 2025-09-29 17:01:00 | Down Royal | 1m3f Hcap | 2025-09-29 16:55:00 | 1427772 | Lunar Landscape | 6.0 | LOST
+2025-09-29 17:01:00 | INFO | watch - Market closed: 1m3f Hcap, result: LOST
+2025-09-29 17:03:30 | INFO | Bet placed: Gone Rogue x 3.7 @ Brighton 7f Hcap
+2025-09-29 17:08:30 | INFO | Bet placed: Betty Dutton x 4.4 @ Roscommon 2m5f Hcap Chs
+2025-09-29 17:09:01 | INFO | Logged bet: 2025-09-29 17:09:01 | Southwell | 2m Hcap | 2025-09-29 17:00:00 | 34457927 | Big Win | 2.26 | LOST
+2025-09-29 17:09:01 | INFO | watch - Market closed: 2m Hcap, result: LOST
+2025-09-29 17:11:32 | INFO | Logged bet: 2025-09-29 17:11:32 | Newton Abbot | 2m5f Hcap Hrd | 2025-09-29 16:50:00 | 38649192 | The Height Of Fame | 2.56 | WON
+2025-09-29 17:11:32 | INFO | watch - Market closed: 2m5f Hcap Hrd, result: WON
+2025-09-29 17:15:31 | INFO | Logged bet: 2025-09-29 17:15:31 | Brighton | 7f Hcap | 2025-09-29 17:05:00 | 25008211 | Gone Rogue | 3.7 | LOST
+2025-09-29 17:15:31 | INFO | watch - Market closed: 7f Hcap, result: LOST
+2025-09-29 17:18:30 | INFO | Bet placed: Both Of Us x 1.78 @ Hamilton 1m4f Hcap
+2025-09-29 17:19:31 | INFO | Logged bet: 2025-09-29 17:19:31 | Roscommon | 2m5f Hcap Chs | 2025-09-29 17:10:00 | 45859546 | Betty Dutton | 4.4 | LOST
+2025-09-29 17:19:31 | INFO | watch - Market closed: 2m5f Hcap Chs, result: LOST
+2025-09-29 17:23:30 | INFO | Bet placed: Glenroyal x 3.55 @ Down 1m5f Hcap
+2025-09-29 17:27:30 | INFO | Logged bet: 2025-09-29 17:27:30 | Hamilton | 1m4f Hcap | 2025-09-29 17:20:00 | 84116041 | Both Of Us | 1.78 | LOST
+2025-09-29 17:27:30 | INFO | watch - Market closed: 1m4f Hcap, result: LOST
+2025-09-29 17:28:30 | INFO | Bet placed: Art Gallery x 3.25 @ Southwell 7f Nov Stks
+2025-09-29 17:31:30 | INFO | Logged bet: 2025-09-29 17:31:30 | Down Royal | 1m5f Hcap | 2025-09-29 17:25:00 | 81530996 | Glenroyal | 3.55 | WON
+2025-09-29 17:31:30 | INFO | watch - Market closed: 1m5f Hcap, result: WON
+2025-09-29 17:36:30 | INFO | Logged bet: 2025-09-29 17:36:30 | Southwell | 7f Nov Stks | 2025-09-29 17:30:00 | 2139322 | Art Gallery | 3.25 | LOST
+2025-09-29 17:36:30 | INFO | watch - Market closed: 7f Nov Stks, result: LOST
+2025-09-29 17:38:30 | INFO | Bet placed: Rovinia x 3.65 @ Brighton 6f Hcap
+2025-09-29 17:43:30 | INFO | Bet placed: Shadys Lady x 1.64 @ Roscommon 1m7f INHF
+2025-09-29 17:52:30 | INFO | Logged bet: 2025-09-29 17:52:30 | Roscommon | 1m7f INHF | 2025-09-29 17:45:00 | 67126404 | Shadys Lady | 1.64 | LOST
+2025-09-29 17:52:30 | INFO | watch - Market closed: 1m7f INHF, result: LOST
+2025-09-29 17:58:30 | INFO | Bet placed: Rose Of Honour x 1.61 @ Southwell 6f Nov Stks
+2025-09-29 17:59:32 | INFO | Logged bet: 2025-09-29 17:59:32 | Brighton | 6f Hcap | 2025-09-29 17:40:00 | 74783996 | Rovinia | 3.65 | LOST
+2025-09-29 17:59:32 | INFO | watch - Market closed: 6f Hcap, result: LOST
+2025-09-29 18:05:30 | INFO | Logged bet: 2025-09-29 18:05:30 | Southwell | 6f Nov Stks | 2025-09-29 18:00:00 | 88525555 | Rose Of Honour | 1.61 | WON
+2025-09-29 18:05:30 | INFO | watch - Market closed: 6f Nov Stks, result: WON
+2025-09-29 18:28:30 | INFO | Bet placed: Phoenix Moon x 5.8 @ Southwell 6f Hcap
+2025-09-29 18:38:31 | INFO | Logged bet: 2025-09-29 18:38:31 | Southwell | 6f Hcap | 2025-09-29 18:30:00 | 56880969 | Phoenix Moon | 5.8 | LOST
+2025-09-29 18:38:31 | INFO | watch - Market closed: 6f Hcap, result: LOST
+2025-09-29 18:58:30 | INFO | Bet placed: Grace Angel x 3.15 @ Southwell 5f Hcap
+2025-09-29 19:05:00 | INFO | Logged bet: 2025-09-29 19:05:00 | Southwell | 5f Hcap | 2025-09-29 19:00:00 | 36256857 | Grace Angel | 3.15 | LOST
+2025-09-29 19:05:00 | INFO | watch - Market closed: 5f Hcap, result: LOST
+2025-09-29 19:28:30 | INFO | Bet placed: My Ambition x 4.3 @ Southwell 1m Hcap
+2025-09-29 19:35:30 | INFO | Logged bet: 2025-09-29 19:35:30 | Southwell | 1m Hcap | 2025-09-29 19:30:00 | 40074637 | My Ambition | 4.3 | LOST
+2025-09-29 19:35:30 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-09-29 19:58:30 | INFO | Bet placed: Welljudged x 3.95 @ Southwell 7f Nov Stks
+2025-09-29 20:06:00 | INFO | Logged bet: 2025-09-29 20:06:00 | Southwell | 7f Nov Stks | 2025-09-29 20:00:00 | 89170620 | Welljudged | 3.95 | LOST
+2025-09-29 20:06:00 | INFO | watch - Market closed: 7f Nov Stks, result: LOST
+2025-09-29 20:28:30 | INFO | Bet placed: Roaring Ralph x 5.8 @ Southwell 6f Hcap
+2025-09-29 20:37:31 | INFO | Logged bet: 2025-09-29 20:37:31 | Southwell | 6f Hcap | 2025-09-29 20:30:00 | 46361122 | Roaring Ralph | 5.8 | LOST
+2025-09-29 20:37:31 | INFO | watch - Market closed: 6f Hcap, result: LOST

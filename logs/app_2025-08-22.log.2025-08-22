@@ -1,0 +1,235 @@
+2025-08-22 07:57:32 | INFO | Logged in to Betfair API
+2025-08-22 07:57:32 | INFO | ⏱ Already past 5:00 AM, fetching today's races immediately...
+2025-08-22 07:57:32 | INFO | Fetched 47 markets for today
+2025-08-22 07:57:32 | INFO | Scheduled bet for 6f Hcap at 12:48:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 6f Listed at 1:18:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m4f Hcap at 1:48:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 7f Nov Stks at 1:58:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 2m Hcap at 2:08:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 2m Grp 2 at 2:23:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 7f Nov Stks at 2:33:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 7f Nov Stks at 2:43:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 6f Grp 2 at 2:58:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 6f Hcap at 3:08:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 7f Hcap at 3:18:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 5f Grp 1 at 3:33:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m2f Hcap at 3:43:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 7f Hcap at 3:53:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m2f Hcap at 4:08:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m4f Hcap at 4:18:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m2f Stks at 4:28:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 7f Mdn Stks at 4:43:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 2m Mdn Hrd at 4:48:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m4f Hcap at 4:58:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m Mdn Stks at 5:03:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m Nursery at 5:08:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m1f Hcap at 5:13:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m Hcap at 5:18:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 2m3f Nov Hrd at 5:23:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m1f Hcap at 5:33:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m Stks at 5:39:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 6f Mdn Stks at 5:46:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 2m3f Hcap Hrd at 5:53:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m3f Nov Stks at 6:03:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m Listed at 6:09:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m Hcap at 6:16:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 3m1f Mdn Hrd at 6:23:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m4f Hcap at 6:33:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m Hcap at 6:39:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m4f Hcap at 6:46:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 3m2f Hcap Chs at 6:53:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 5f Hcap at 7:03:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m6f Hcap at 7:09:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 5f Hcap at 7:16:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 3m2f Hcap Chs at 7:23:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 6f Hcap at 7:33:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 1m6f Hcap at 7:39:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 6f Hcap at 7:46:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 2m INHF at 7:53:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 5f Hcap at 8:03:30PM
+2025-08-22 07:57:32 | INFO | Scheduled bet for 2m1f Stks at 8:13:30PM
+2025-08-22 12:48:30 | INFO | Bet placed: Dorney Lake x 3.55 @ Newmarket 6f Hcap
+2025-08-22 13:00:31 | INFO | Logged bet: 2025-08-22 13:00:31 | Newmarket | 6f Hcap | 2025-08-22 12:50:00 | 58787847 | Dorney Lake | 3.55 | LOST
+2025-08-22 13:00:31 | INFO | watch - Market closed: 6f Hcap, result: LOST
+2025-08-22 13:18:30 | INFO | Bet placed: Lethal Levi x 4.3 @ Newmarket 6f Listed
+2025-08-22 13:27:01 | INFO | Logged bet: 2025-08-22 13:27:01 | Newmarket | 6f Listed | 2025-08-22 13:20:00 | 39580324 | Lethal Levi | 4.3 | WON
+2025-08-22 13:27:01 | INFO | watch - Market closed: 6f Listed, result: WON
+2025-08-22 13:48:30 | INFO | Bet placed: Mount Atlas x 2.96 @ York 1m4f Hcap
+2025-08-22 13:58:00 | INFO | Logged bet: 2025-08-22 13:58:00 | York | 1m4f Hcap | 2025-08-22 13:50:00 | 68245509 | Mount Atlas | 2.96 | LOST
+2025-08-22 13:58:00 | INFO | watch - Market closed: 1m4f Hcap, result: LOST
+2025-08-22 13:58:30 | INFO | Bet placed: Enchanted Queen x 2.48 @ Newmarket 7f Nov Stks
+2025-08-22 14:03:24 | INFO | Logged in to Betfair API
+2025-08-22 14:03:24 | INFO | ⏱ Already past 5:00 AM, fetching today's races immediately...
+2025-08-22 14:03:24 | INFO | Fetched 43 markets for today
+2025-08-22 14:03:24 | INFO | Scheduled bet for 2m Hcap at 2:08:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 2m Grp 2 at 2:23:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 7f Nov Stks at 2:33:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 7f Nov Stks at 2:43:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 6f Grp 2 at 2:58:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 6f Hcap at 3:08:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 7f Hcap at 3:18:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 5f Grp 1 at 3:33:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m2f Hcap at 3:43:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 7f Hcap at 3:53:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m2f Hcap at 4:08:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m4f Hcap at 4:18:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m2f Stks at 4:28:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 7f Mdn Stks at 4:43:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 2m Mdn Hrd at 4:48:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m4f Hcap at 4:58:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m Mdn Stks at 5:03:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m Nursery at 5:08:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m1f Hcap at 5:13:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m Hcap at 5:18:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 2m3f Nov Hrd at 5:23:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m1f Hcap at 5:33:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m Stks at 5:39:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 6f Mdn Stks at 5:46:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 2m3f Hcap Hrd at 5:53:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m3f Nov Stks at 6:03:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m Listed at 6:09:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m Hcap at 6:16:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 3m1f Mdn Hrd at 6:23:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m4f Hcap at 6:33:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m Hcap at 6:39:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m4f Hcap at 6:46:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 3m2f Hcap Chs at 6:53:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 5f Hcap at 7:03:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m6f Hcap at 7:09:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 5f Hcap at 7:16:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 3m2f Hcap Chs at 7:23:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 6f Hcap at 7:33:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 1m6f Hcap at 7:39:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 6f Hcap at 7:46:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 2m INHF at 7:53:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 5f Hcap at 8:03:30PM
+2025-08-22 14:03:24 | INFO | Scheduled bet for 2m1f Stks at 8:13:30PM
+2025-08-22 14:08:30 | INFO | Bet placed: Navid x 1.73 @ Ffos 2m Hcap
+2025-08-22 14:20:01 | INFO | Logged bet: 2025-08-22 14:20:01 | Ffos Las | 2m Hcap | 2025-08-22 14:10:00 | 71447028 | Navid | 1.73 | LOST
+2025-08-22 14:20:01 | INFO | watch - Market closed: 2m Hcap, result: LOST
+2025-08-22 14:23:30 | INFO | Bet placed: Trawlerman x 1.93 @ York 2m Grp 2
+2025-08-22 14:33:30 | INFO | Bet placed: Monoceros x 2.56 @ Newmarket 7f Nov Stks
+2025-08-22 14:34:31 | INFO | Logged bet: 2025-08-22 14:34:31 | York | 2m Grp 2 | 2025-08-22 14:25:00 | 2554281 | Trawlerman | 1.93 | WON
+2025-08-22 14:34:31 | INFO | watch - Market closed: 2m Grp 2, result: WON
+2025-08-22 14:43:30 | INFO | Bet placed: Lost Signal x 1.74 @ Ffos 7f Nov Stks
+2025-08-22 14:47:01 | INFO | Logged bet: 2025-08-22 14:47:01 | Newmarket | 7f Nov Stks | 2025-08-22 14:35:00 | 1033226 | Monoceros | 2.56 | WON
+2025-08-22 14:47:01 | INFO | watch - Market closed: 7f Nov Stks, result: WON
+2025-08-22 14:51:00 | INFO | Logged bet: 2025-08-22 14:51:00 | Ffos Las | 7f Nov Stks | 2025-08-22 14:45:00 | 85791138 | Lost Signal | 1.74 | WON
+2025-08-22 14:51:00 | INFO | watch - Market closed: 7f Nov Stks, result: WON
+2025-08-22 14:58:30 | INFO | Bet placed: Do Or Do Not x 3.2 @ York 6f Grp 2
+2025-08-22 15:07:01 | INFO | Logged bet: 2025-08-22 15:07:01 | York | 6f Grp 2 | 2025-08-22 15:00:00 | 83654051 | Do Or Do Not | 3.2 | LOST
+2025-08-22 15:07:01 | INFO | watch - Market closed: 6f Grp 2, result: LOST
+2025-08-22 15:08:30 | INFO | Bet placed: Arabian Leopard x 3.55 @ Newmarket 6f Hcap
+2025-08-22 15:18:01 | INFO | Logged bet: 2025-08-22 15:18:01 | Newmarket | 6f Hcap | 2025-08-22 15:10:00 | 10243790 | Arabian Leopard | 3.55 | LOST
+2025-08-22 15:18:01 | INFO | watch - Market closed: 6f Hcap, result: LOST
+2025-08-22 15:18:30 | INFO | Bet placed: Windsor Pass x 2.98 @ Ffos 7f Hcap
+2025-08-22 15:25:00 | INFO | Logged bet: 2025-08-22 15:25:00 | Ffos Las | 7f Hcap | 2025-08-22 15:20:00 | 28925618 | Windsor Pass | 2.98 | LOST
+2025-08-22 15:25:00 | INFO | watch - Market closed: 7f Hcap, result: LOST
+2025-08-22 15:33:30 | INFO | Bet placed: Arizona Blaze x 7.0 @ York 5f Grp 1
+2025-08-22 15:43:30 | INFO | Bet placed: Arundel x 3.0 @ Newmarket 1m2f Hcap
+2025-08-22 15:44:31 | INFO | Logged bet: 2025-08-22 15:44:31 | York | 5f Grp 1 | 2025-08-22 15:35:00 | 67168370 | Arizona Blaze | 7.0 | LOST
+2025-08-22 15:44:31 | INFO | watch - Market closed: 5f Grp 1, result: LOST
+2025-08-22 15:53:30 | INFO | Bet placed: On A Vespa x 3.1 @ Ffos 7f Hcap
+2025-08-22 15:53:31 | INFO | Logged bet: 2025-08-22 15:53:31 | Newmarket | 1m2f Hcap | 2025-08-22 15:45:00 | 245405 | Arundel | 3.0 | LOST
+2025-08-22 15:53:31 | INFO | watch - Market closed: 1m2f Hcap, result: LOST
+2025-08-22 16:00:30 | INFO | Logged bet: 2025-08-22 16:00:30 | Ffos Las | 7f Hcap | 2025-08-22 15:55:00 | 71661999 | On A Vespa | 3.1 | WON
+2025-08-22 16:00:30 | INFO | watch - Market closed: 7f Hcap, result: WON
+2025-08-22 16:08:30 | INFO | Bet placed: Zgharta x 3.3 @ York 1m2f Hcap
+2025-08-22 16:18:30 | INFO | Bet placed: Venezuelan x 1.59 @ Newmarket 1m4f Hcap
+2025-08-22 16:20:31 | INFO | Logged bet: 2025-08-22 16:20:31 | York | 1m2f Hcap | 2025-08-22 16:10:00 | 12696756 | Zgharta | 3.3 | LOST
+2025-08-22 16:20:31 | INFO | watch - Market closed: 1m2f Hcap, result: LOST
+2025-08-22 16:28:30 | INFO | Bet placed: The Pug x 3.5 @ Ffos 1m2f Stks
+2025-08-22 16:31:01 | INFO | Logged bet: 2025-08-22 16:31:01 | Newmarket | 1m4f Hcap | 2025-08-22 16:20:00 | 74823461 | Venezuelan | 1.59 | LOST
+2025-08-22 16:31:01 | INFO | watch - Market closed: 1m4f Hcap, result: LOST
+2025-08-22 16:37:01 | INFO | Logged bet: 2025-08-22 16:37:01 | Ffos Las | 1m2f Stks | 2025-08-22 16:30:00 | 48500509 | The Pug | 3.5 | WON
+2025-08-22 16:37:01 | INFO | watch - Market closed: 1m2f Stks, result: WON
+2025-08-22 16:43:30 | INFO | Bet placed: Naval Light x 4.3 @ York 7f Mdn Stks
+2025-08-22 16:48:30 | INFO | Bet placed: Kabylia x 2.6 @ Kilbeggan 2m Mdn Hrd
+2025-08-22 16:51:30 | INFO | Logged bet: 2025-08-22 16:51:30 | York | 7f Mdn Stks | 2025-08-22 16:45:00 | 83846567 | Naval Light | 4.3 | LOST
+2025-08-22 16:51:30 | INFO | watch - Market closed: 7f Mdn Stks, result: LOST
+2025-08-22 16:58:30 | INFO | Bet placed: Moab x 3.2 @ Ffos 1m4f Hcap
+2025-08-22 16:59:01 | INFO | Logged bet: 2025-08-22 16:59:01 | Kilbeggan | 2m Mdn Hrd | 2025-08-22 16:50:00 | 75497687 | Kabylia | 2.6 | LOST
+2025-08-22 16:59:01 | INFO | watch - Market closed: 2m Mdn Hrd, result: LOST
+2025-08-22 17:03:30 | INFO | Bet placed: August George x 1.74 @ Hamilton 1m Mdn Stks
+2025-08-22 17:06:00 | INFO | Logged bet: 2025-08-22 17:06:00 | Ffos Las | 1m4f Hcap | 2025-08-22 17:00:00 | 63615664 | Moab | 3.2 | LOST
+2025-08-22 17:06:00 | INFO | watch - Market closed: 1m4f Hcap, result: LOST
+2025-08-22 17:08:30 | INFO | Bet placed: Invincible Will x 3.75 @ Killarney 1m Nursery
+2025-08-22 17:13:30 | INFO | Bet placed: Risen Again x 3.8 @ Goodwood 1m1f Hcap
+2025-08-22 17:14:01 | INFO | Logged bet: 2025-08-22 17:14:01 | Hamilton | 1m Mdn Stks | 2025-08-22 17:05:00 | 86905824 | August George | 1.74 | WON
+2025-08-22 17:14:01 | INFO | watch - Market closed: 1m Mdn Stks, result: WON
+2025-08-22 17:16:00 | INFO | Logged bet: 2025-08-22 17:16:00 | Killarney | 1m Nursery | 2025-08-22 17:10:00 | 83686487 | Invincible Will | 3.75 | LOST
+2025-08-22 17:16:00 | INFO | watch - Market closed: 1m Nursery, result: LOST
+2025-08-22 17:18:30 | INFO | Bet placed: Fifth Column x 5.0 @ York 1m Hcap
+2025-08-22 17:21:30 | INFO | Logged bet: 2025-08-22 17:21:30 | Goodwood | 1m1f Hcap | 2025-08-22 17:15:00 | 66168084 | Risen Again | 3.8 | LOST
+2025-08-22 17:21:30 | INFO | watch - Market closed: 1m1f Hcap, result: LOST
+2025-08-22 17:23:30 | INFO | Bet placed: Avondale x 3.95 @ Kilbeggan 2m3f Nov Hrd
+2025-08-22 17:29:31 | INFO | Logged bet: 2025-08-22 17:29:31 | York | 1m Hcap | 2025-08-22 17:20:00 | 549657 | Fifth Column | 5.0 | WON
+2025-08-22 17:29:31 | INFO | watch - Market closed: 1m Hcap, result: WON
+2025-08-22 17:33:30 | INFO | Bet placed: Seren Star x 1.81 @ Hamilton 1m1f Hcap
+2025-08-22 17:33:31 | INFO | Logged bet: 2025-08-22 17:33:31 | Kilbeggan | 2m3f Nov Hrd | 2025-08-22 17:25:00 | 50961876 | Avondale | 3.95 | LOST
+2025-08-22 17:33:31 | INFO | watch - Market closed: 2m3f Nov Hrd, result: LOST
+2025-08-22 17:39:30 | INFO | Bet placed: Sujet x 2.36 @ Killarney 1m Stks
+2025-08-22 17:42:31 | INFO | Logged bet: 2025-08-22 17:42:31 | Hamilton | 1m1f Hcap | 2025-08-22 17:35:00 | 82550990 | Seren Star | 1.81 | WON
+2025-08-22 17:42:31 | INFO | watch - Market closed: 1m1f Hcap, result: WON
+2025-08-22 17:46:30 | INFO | Bet placed: Enha x 3.05 @ Goodwood 6f Mdn Stks
+2025-08-22 17:47:00 | INFO | Logged bet: 2025-08-22 17:47:00 | Killarney | 1m Stks | 2025-08-22 17:41:00 | 71525965 | Sujet | 2.36 | WON
+2025-08-22 17:47:00 | INFO | watch - Market closed: 1m Stks, result: WON
+2025-08-22 17:53:30 | INFO | Bet placed: Smiling Bess x 4.0 @ Kilbeggan 2m3f Hcap Hrd
+2025-08-22 17:55:01 | INFO | Logged bet: 2025-08-22 17:55:01 | Goodwood | 6f Mdn Stks | 2025-08-22 17:48:00 | 86834837 | Enha | 3.05 | LOST
+2025-08-22 17:55:01 | INFO | watch - Market closed: 6f Mdn Stks, result: LOST
+2025-08-22 18:03:30 | INFO | Bet placed: Tiernan x 1.26 @ Hamilton 1m3f Nov Stks
+2025-08-22 18:03:31 | INFO | Logged bet: 2025-08-22 18:03:31 | Kilbeggan | 2m3f Hcap Hrd | 2025-08-22 17:55:00 | 59054751 | Smiling Bess | 4.0 | LOST
+2025-08-22 18:03:31 | INFO | watch - Market closed: 2m3f Hcap Hrd, result: LOST
+2025-08-22 18:09:30 | INFO | Bet placed: Fiery Lucy x 3.6 @ Killarney 1m Listed
+2025-08-22 18:10:30 | INFO | Logged bet: 2025-08-22 18:10:30 | Hamilton | 1m3f Nov Stks | 2025-08-22 18:05:00 | 72033622 | Tiernan | 1.26 | LOST
+2025-08-22 18:10:30 | INFO | watch - Market closed: 1m3f Nov Stks, result: LOST
+2025-08-22 18:16:30 | INFO | Bet placed: Atlantis Blue x 2.62 @ Goodwood 1m Hcap
+2025-08-22 18:17:30 | INFO | Logged bet: 2025-08-22 18:17:30 | Killarney | 1m Listed | 2025-08-22 18:11:00 | 69557373 | Fiery Lucy | 3.6 | LOST
+2025-08-22 18:17:30 | INFO | watch - Market closed: 1m Listed, result: LOST
+2025-08-22 18:23:30 | INFO | Bet placed: Quantum Quest x 1.87 @ Kilbeggan 3m1f Mdn Hrd
+2025-08-22 18:24:30 | INFO | Logged bet: 2025-08-22 18:24:30 | Goodwood | 1m Hcap | 2025-08-22 18:18:00 | 41411046 | Atlantis Blue | 2.62 | LOST
+2025-08-22 18:24:30 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-08-22 18:33:30 | INFO | Bet placed: Defiance x 3.2 @ Hamilton 1m4f Hcap
+2025-08-22 18:35:31 | INFO | Logged bet: 2025-08-22 18:35:31 | Kilbeggan | 3m1f Mdn Hrd | 2025-08-22 18:25:00 | 41935092 | Quantum Quest | 1.87 | WON
+2025-08-22 18:35:31 | INFO | watch - Market closed: 3m1f Mdn Hrd, result: WON
+2025-08-22 18:39:30 | INFO | Bet placed: Vegas Muse x 7.2 @ Killarney 1m Hcap
+2025-08-22 18:42:31 | INFO | Logged bet: 2025-08-22 18:42:31 | Hamilton | 1m4f Hcap | 2025-08-22 18:35:00 | 9648 | Defiance | 3.2 | LOST
+2025-08-22 18:42:31 | INFO | watch - Market closed: 1m4f Hcap, result: LOST
+2025-08-22 18:46:30 | INFO | Bet placed: Sound Janet x 4.4 @ Goodwood 1m4f Hcap
+2025-08-22 18:49:31 | INFO | Logged bet: 2025-08-22 18:49:31 | Killarney | 1m Hcap | 2025-08-22 18:41:00 | 70113642 | Vegas Muse | 7.2 | WON
+2025-08-22 18:49:31 | INFO | watch - Market closed: 1m Hcap, result: WON
+2025-08-22 18:53:30 | INFO | Bet placed: Hit The Frame x 6.2 @ Kilbeggan 3m2f Hcap Chs
+2025-08-22 18:57:31 | INFO | Logged bet: 2025-08-22 18:57:31 | Goodwood | 1m4f Hcap | 2025-08-22 18:48:00 | 78060262 | Sound Janet | 4.4 | LOST
+2025-08-22 18:57:31 | INFO | watch - Market closed: 1m4f Hcap, result: LOST
+2025-08-22 19:03:30 | INFO | Bet placed: Naanas Sparkle x 3.5 @ Hamilton 5f Hcap
+2025-08-22 19:06:01 | INFO | Logged bet: 2025-08-22 19:06:01 | Kilbeggan | 3m2f Hcap Chs | 2025-08-22 18:55:00 | 72322095 | Hit The Frame | 6.2 | LOST
+2025-08-22 19:06:01 | INFO | watch - Market closed: 3m2f Hcap Chs, result: LOST
+2025-08-22 19:09:30 | INFO | Bet placed: Kilmeaden x 5.3 @ Killarney 1m6f Hcap
+2025-08-22 19:16:30 | INFO | Bet placed: On Edge x 4.2 @ Goodwood 5f Hcap
+2025-08-22 19:18:00 | INFO | Logged bet: 2025-08-22 19:18:00 | Killarney | 1m6f Hcap | 2025-08-22 19:11:00 | 82651759 | Kilmeaden | 5.3 | LOST
+2025-08-22 19:18:00 | INFO | watch - Market closed: 1m6f Hcap, result: LOST
+2025-08-22 19:23:00 | INFO | Logged bet: 2025-08-22 19:23:00 | Goodwood | 5f Hcap | 2025-08-22 19:18:00 | 145113 | On Edge | 4.2 | LOST
+2025-08-22 19:23:00 | INFO | watch - Market closed: 5f Hcap, result: LOST
+2025-08-22 19:23:30 | INFO | Bet placed: Bal Kauto x 2.46 @ Kilbeggan 3m2f Hcap Chs
+2025-08-22 19:25:02 | INFO | Logged bet: 2025-08-22 19:25:02 | Hamilton | 5f Hcap | 2025-08-22 19:05:00 | 72592644 | Naanas Sparkle | 3.5 | LOST
+2025-08-22 19:25:02 | INFO | watch - Market closed: 5f Hcap, result: LOST
+2025-08-22 19:33:30 | INFO | Bet placed: The Good Biscuit x 3.4 @ Hamilton 6f Hcap
+2025-08-22 19:37:01 | INFO | Logged bet: 2025-08-22 19:37:01 | Kilbeggan | 3m2f Hcap Chs | 2025-08-22 19:25:00 | 42866969 | Bal Kauto | 2.46 | WON
+2025-08-22 19:37:01 | INFO | watch - Market closed: 3m2f Hcap Chs, result: WON
+2025-08-22 19:39:30 | INFO | Bet placed: Bear Creek x 3.3 @ Killarney 1m6f Hcap
+2025-08-22 19:46:01 | INFO | Logged bet: 2025-08-22 19:46:01 | Hamilton | 6f Hcap | 2025-08-22 19:35:00 | 57238336 | The Good Biscuit | 3.4 | LOST
+2025-08-22 19:46:01 | INFO | watch - Market closed: 6f Hcap, result: LOST
+2025-08-22 19:46:30 | INFO | Bet placed: Hunky Dory x 5.1 @ Goodwood 6f Hcap
+2025-08-22 19:49:31 | INFO | Logged bet: 2025-08-22 19:49:31 | Killarney | 1m6f Hcap | 2025-08-22 19:41:00 | 25244542 | Bear Creek | 3.3 | LOST
+2025-08-22 19:49:31 | INFO | watch - Market closed: 1m6f Hcap, result: LOST
+2025-08-22 19:53:30 | INFO | Bet placed: Sellerna Bay x 2.38 @ Kilbeggan 2m INHF
+2025-08-22 19:56:31 | INFO | Logged bet: 2025-08-22 19:56:31 | Goodwood | 6f Hcap | 2025-08-22 19:48:00 | 13095708 | Hunky Dory | 5.1 | LOST
+2025-08-22 19:56:31 | INFO | watch - Market closed: 6f Hcap, result: LOST
+2025-08-22 20:02:00 | INFO | Logged bet: 2025-08-22 20:02:00 | Kilbeggan | 2m INHF | 2025-08-22 19:55:00 | 68799505 | Sellerna Bay | 2.38 | LOST
+2025-08-22 20:02:00 | INFO | watch - Market closed: 2m INHF, result: LOST
+2025-08-22 20:03:30 | INFO | Bet placed: South Shore x 4.1 @ Hamilton 5f Hcap
+2025-08-22 20:13:30 | INFO | Bet placed: Enniskerry x 2.96 @ Killarney 2m1f Stks
+2025-08-22 20:13:31 | INFO | Logged bet: 2025-08-22 20:13:31 | Hamilton | 5f Hcap | 2025-08-22 20:05:00 | 55581778 | South Shore | 4.1 | LOST
+2025-08-22 20:13:31 | INFO | watch - Market closed: 5f Hcap, result: LOST
+2025-08-22 20:22:01 | INFO | Logged bet: 2025-08-22 20:22:01 | Killarney | 2m1f Stks | 2025-08-22 20:15:00 | 27082247 | Enniskerry | 2.96 | LOST
+2025-08-22 20:22:01 | INFO | watch - Market closed: 2m1f Stks, result: LOST

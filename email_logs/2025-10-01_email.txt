@@ -1,0 +1,411 @@
+
+    <h2>🐎 Ghost Bet Report — Wednesday, October 01, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
+        <thead style="background-color:#f2f2f2;">
+            <tr>
+                <th>Time</th>
+                <th>Venue</th>
+                <th>Race</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 01:43 PM</td>
+            <td>Bellewstown</td>
+            <td>1m Mdn</td>
+            <td>All Told</td>
+            <td>3.25</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 01:50 PM</td>
+            <td>Musselburgh</td>
+            <td>5f Nov Stks</td>
+            <td>Tea Queen</td>
+            <td>2.46</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 01:57 PM</td>
+            <td>Sligo</td>
+            <td>2m1f Beg Chs</td>
+            <td>Jalila Moriviere</td>
+            <td>1.50</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 02:05 PM</td>
+            <td>Catterick</td>
+            <td>5f Hcap</td>
+            <td>Happier</td>
+            <td>3.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 02:12 PM</td>
+            <td>Warwick</td>
+            <td>2m4f Hcap Chs</td>
+            <td>Got Grey</td>
+            <td>1.96</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 02:21 PM</td>
+            <td>Bellewstown</td>
+            <td>1m Hcap</td>
+            <td>Fleetfootsoldier</td>
+            <td>5.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 02:26 PM</td>
+            <td>Musselburgh</td>
+            <td>7f Hcap</td>
+            <td>Jesmond Dawn</td>
+            <td>3.90</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 02:32 PM</td>
+            <td>Sligo</td>
+            <td>2m1f Beg Chs</td>
+            <td>Addragoole</td>
+            <td>2.86</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 02:36 PM</td>
+            <td>Catterick</td>
+            <td>5f Nursery</td>
+            <td>Campenaerts</td>
+            <td>2.34</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 02:47 PM</td>
+            <td>Warwick</td>
+            <td>2m4f Nov Hcap Chs</td>
+            <td>Beau Quali</td>
+            <td>1.53</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 02:54 PM</td>
+            <td>Bellewstown</td>
+            <td>1m Hcap</td>
+            <td>Port Louis</td>
+            <td>6.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 03:01 PM</td>
+            <td>Musselburgh</td>
+            <td>7f Nursery</td>
+            <td>Lyrical Song</td>
+            <td>3.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 03:09 PM</td>
+            <td>Sligo</td>
+            <td>2m1f Nov Hcap Chs</td>
+            <td>Clonshire River</td>
+            <td>3.60</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 03:17 PM</td>
+            <td>Catterick</td>
+            <td>7f Nov Stks</td>
+            <td>Real American</td>
+            <td>2.58</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 03:25 PM</td>
+            <td>Warwick</td>
+            <td>2m Nov Hrd</td>
+            <td>Jackstell</td>
+            <td>2.14</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 03:28 PM</td>
+            <td>Bellewstown</td>
+            <td>5f Mdn</td>
+            <td>Glory To Be</td>
+            <td>1.42</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 03:37 PM</td>
+            <td>Musselburgh</td>
+            <td>1m1f Stks</td>
+            <td>Empirestateofmind</td>
+            <td>1.50</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 03:44 PM</td>
+            <td>Sligo</td>
+            <td>2m5f Beg Chs</td>
+            <td>Quarry Tiepy</td>
+            <td>3.65</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 03:53 PM</td>
+            <td>Catterick</td>
+            <td>2m Hcap</td>
+            <td>Bollin Neil</td>
+            <td>3.25</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 03:57 PM</td>
+            <td>Warwick</td>
+            <td>2m5f Mdn Hrd</td>
+            <td>Keppel Queen</td>
+            <td>1.15</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 04:03 PM</td>
+            <td>Bellewstown</td>
+            <td>5f Hcap</td>
+            <td>Escaping Thejungle</td>
+            <td>4.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 04:13 PM</td>
+            <td>Musselburgh</td>
+            <td>5f Hcap</td>
+            <td>Arnhem</td>
+            <td>4.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 04:18 PM</td>
+            <td>Sligo</td>
+            <td>2m5f Hcap Chs</td>
+            <td>The Striker Dylan</td>
+            <td>4.30</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 04:23 PM</td>
+            <td>Catterick</td>
+            <td>6f Hcap</td>
+            <td>Langholm</td>
+            <td>4.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 04:32 PM</td>
+            <td>Kempton</td>
+            <td>1m3f Mdn Stks</td>
+            <td>Nasebah</td>
+            <td>2.28</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 04:37 PM</td>
+            <td>Warwick</td>
+            <td>2m5f Hcap Hrd</td>
+            <td>Crystal Glance</td>
+            <td>3.75</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 04:41 PM</td>
+            <td>Bellewstown</td>
+            <td>1m4f Hcap</td>
+            <td>Sir Callisto</td>
+            <td>4.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 04:45 PM</td>
+            <td>Musselburgh</td>
+            <td>1m6f Hcap</td>
+            <td>Sea Master</td>
+            <td>4.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 04:51 PM</td>
+            <td>Sligo</td>
+            <td>2m5f Chs</td>
+            <td>Jesse Evans</td>
+            <td>2.06</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 04:59 PM</td>
+            <td>Catterick</td>
+            <td>7f Hcap</td>
+            <td>Vince Le Prince</td>
+            <td>3.40</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 05:02 PM</td>
+            <td>Kempton</td>
+            <td>6f Nov Stks</td>
+            <td>Generous Rascal</td>
+            <td>4.30</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 05:06 PM</td>
+            <td>Warwick</td>
+            <td>2m NHF</td>
+            <td>Hopeless Dancer</td>
+            <td>2.58</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 05:14 PM</td>
+            <td>Bellewstown</td>
+            <td>1m4f Mdn</td>
+            <td>Lifting Sails</td>
+            <td>2.10</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 05:17 PM</td>
+            <td>Musselburgh</td>
+            <td>5f Hcap</td>
+            <td>Ski Angel</td>
+            <td>3.30</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 05:30 PM</td>
+            <td>Sligo</td>
+            <td>3m2f Hcap Chs</td>
+            <td>Ballagh Star</td>
+            <td>4.00</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 05:30 PM</td>
+            <td>Catterick</td>
+            <td>1m4f Hcap</td>
+            <td>Lightning Tiger</td>
+            <td>3.30</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 05:37 PM</td>
+            <td>Kempton</td>
+            <td>7f Hcap</td>
+            <td>Palmarian</td>
+            <td>4.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 06:07 PM</td>
+            <td>Kempton</td>
+            <td>6f Cond Stks</td>
+            <td>Ten Pounds</td>
+            <td>2.38</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 06:36 PM</td>
+            <td>Kempton</td>
+            <td>1m3f Hcap</td>
+            <td>Port Of London</td>
+            <td>3.75</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 07:07 PM</td>
+            <td>Kempton</td>
+            <td>1m Hcap</td>
+            <td>Olympic Candle</td>
+            <td>4.40</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 07:40 PM</td>
+            <td>Kempton</td>
+            <td>1m Hcap</td>
+            <td>Love Your Work</td>
+            <td>3.60</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 08:06 PM</td>
+            <td>Kempton</td>
+            <td>1m Hcap</td>
+            <td>Island Ocean</td>
+            <td>3.05</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 08:41 PM</td>
+            <td>Kempton</td>
+            <td>6f Hcap</td>
+            <td>Chasing Gold</td>
+            <td>5.30</td>
+            <td>LOST</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 43 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 19 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 24 <br>
+        <strong>Net Profit/Loss:</strong> <span style="color:#28a745;">$9.81</span>
+    </p>
+    

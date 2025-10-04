@@ -1,0 +1,159 @@
+
+    <h2>🐎 CHASE Report — Friday, September 05, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Sep 05, 2025 01:41 PM</td>
+            <td>Haydock 5th Sep</td>
+            <td>Mission Possible</td>
+            <td>3.00</td>
+            <td>£8.80</td>
+            <td>LOST</td>
+            <td>£-8.80</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 05, 2025 01:50 PM</td>
+            <td>Ascot 5th Sep</td>
+            <td>Terries Royale</td>
+            <td>4.10</td>
+            <td>£13.20</td>
+            <td>LOST</td>
+            <td>£-13.20</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 05, 2025 02:03 PM</td>
+            <td>Bangor-on-Dee 5th Sep</td>
+            <td>Intosomethinggood</td>
+            <td>1.71</td>
+            <td>£37.19</td>
+            <td>WON</td>
+            <td>£26.40</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 05, 2025 02:15 PM</td>
+            <td>Haydock 5th Sep</td>
+            <td>Legacy Link</td>
+            <td>1.82</td>
+            <td>£8.98</td>
+            <td>WON</td>
+            <td>£7.36</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 05, 2025 02:26 PM</td>
+            <td>Ascot 5th Sep</td>
+            <td>Raaheeb</td>
+            <td>2.48</td>
+            <td>£9.28</td>
+            <td>WON</td>
+            <td>£13.73</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 05, 2025 02:40 PM</td>
+            <td>Bangor-on-Dee 5th Sep</td>
+            <td>Independent Jimmy</td>
+            <td>5.00</td>
+            <td>£9.83</td>
+            <td>WON</td>
+            <td>£39.32</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 05, 2025 02:48 PM</td>
+            <td>Haydock 5th Sep</td>
+            <td>Changeofmind</td>
+            <td>6.20</td>
+            <td>£11.40</td>
+            <td>LOST</td>
+            <td>£-11.40</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 05, 2025 03:04 PM</td>
+            <td>Ascot 5th Sep</td>
+            <td>Maneuver</td>
+            <td>2.08</td>
+            <td>£12.67</td>
+            <td>LOST</td>
+            <td>£-12.67</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 05, 2025 03:24 PM</td>
+            <td>Haydock 5th Sep</td>
+            <td>Pixie Diva</td>
+            <td>5.60</td>
+            <td>£19.01</td>
+            <td>LOST</td>
+            <td>£-19.01</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 05, 2025 03:35 PM</td>
+            <td>Ascot 5th Sep</td>
+            <td>Watcha Snoop</td>
+            <td>2.46</td>
+            <td>£31.37</td>
+            <td>WON</td>
+            <td>£45.80</td>
+            <td>Leg 4</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 05, 2025 03:55 PM</td>
+            <td>Bangor-on-Dee 5th Sep</td>
+            <td>Art Of Diplomacy</td>
+            <td>3.25</td>
+            <td>£11.51</td>
+            <td>WON</td>
+            <td>£25.90</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 05, 2025 04:05 PM</td>
+            <td>Kilbeggan 5th Sep</td>
+            <td>Nelson Muntz</td>
+            <td>1.63</td>
+            <td>£12.54</td>
+            <td>WON</td>
+            <td>£7.90</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 12 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 7 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 5 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £101.33
+    </p>
+    

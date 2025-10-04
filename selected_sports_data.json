@@ -1,0 +1,2235 @@
+{
+  "10": {
+    "sport_name": "Special Bets",
+    "competitions": {
+      "12708118": {
+        "competition_name": "BBC Sports Personality of the Year 2025",
+        "markets": {
+          "1.237432752": {
+            "market_name": "Winner",
+            "runners": [
+              {
+                "selection_id": 2486673,
+                "runner_name": "Rory McIlroy"
+              },
+              {
+                "selection_id": 51404491,
+                "runner_name": "Lando Norris"
+              },
+              {
+                "selection_id": 64262982,
+                "runner_name": "Luke Littler"
+              },
+              {
+                "selection_id": 78073785,
+                "runner_name": "Ellie Kildunne"
+              },
+              {
+                "selection_id": 46136772,
+                "runner_name": "Leah Williamson"
+              },
+              {
+                "selection_id": 48107205,
+                "runner_name": "Jack Draper"
+              },
+              {
+                "selection_id": 51404485,
+                "runner_name": "Alessia Russo"
+              },
+              {
+                "selection_id": 42167235,
+                "runner_name": "Zoe Aldcroft"
+              },
+              {
+                "selection_id": 40091246,
+                "runner_name": "Emma Raducanu"
+              },
+              {
+                "selection_id": 51404558,
+                "runner_name": "Lauren James"
+              },
+              {
+                "selection_id": 43559309,
+                "runner_name": "Keely Hodgkinson"
+              },
+              {
+                "selection_id": 64634129,
+                "runner_name": "Tom Aspinall"
+              },
+              {
+                "selection_id": 7110169,
+                "runner_name": "Joe Root"
+              },
+              {
+                "selection_id": 52974928,
+                "runner_name": "Harry Brook"
+              },
+              {
+                "selection_id": 13477797,
+                "runner_name": "Tommy Fleetwood"
+              },
+              {
+                "selection_id": 47214894,
+                "runner_name": "Chloe Kelly"
+              },
+              {
+                "selection_id": 59434641,
+                "runner_name": "Ella Toone"
+              },
+              {
+                "selection_id": 84381791,
+                "runner_name": "Aggie Beever-Jones"
+              },
+              {
+                "selection_id": 45971175,
+                "runner_name": "Lauren Hemp"
+              },
+              {
+                "selection_id": 46642457,
+                "runner_name": "Beth Mead"
+              },
+              {
+                "selection_id": 18819693,
+                "runner_name": "Simon Yates"
+              },
+              {
+                "selection_id": 10580443,
+                "runner_name": "Lucy Bronze"
+              },
+              {
+                "selection_id": 9509336,
+                "runner_name": "Ben Stokes"
+              },
+              {
+                "selection_id": 8226439,
+                "runner_name": "Katarina Johnson Thompson"
+              },
+              {
+                "selection_id": 64262981,
+                "runner_name": "Luke Humphries"
+              },
+              {
+                "selection_id": 9520415,
+                "runner_name": "Tyson Fury"
+              },
+              {
+                "selection_id": 41378159,
+                "runner_name": "Cameron Norrie"
+              },
+              {
+                "selection_id": 57314738,
+                "runner_name": "Katie Boulter"
+              },
+              {
+                "selection_id": 9594885,
+                "runner_name": "Ronnie O'Sullivan"
+              },
+              {
+                "selection_id": 2255714,
+                "runner_name": "Lewis Hamilton"
+              },
+              {
+                "selection_id": 69110175,
+                "runner_name": "Cole Palmer"
+              },
+              {
+                "selection_id": 38085795,
+                "runner_name": "George Russell"
+              },
+              {
+                "selection_id": 50495343,
+                "runner_name": "Jude Bellingham"
+              },
+              {
+                "selection_id": 5514829,
+                "runner_name": "Judd Trump"
+              },
+              {
+                "selection_id": 42404083,
+                "runner_name": "Emily Scarratt"
+              },
+              {
+                "selection_id": 78289525,
+                "runner_name": "Marlie Packer"
+              },
+              {
+                "selection_id": 64262965,
+                "runner_name": "Declan Rice"
+              },
+              {
+                "selection_id": 48920082,
+                "runner_name": "Bukayo Saka"
+              }
+            ]
+          }
+        }
+      },
+      "12734906": {
+        "competition_name": "Eurovision 2026",
+        "markets": {
+          "1.243751273": {
+            "market_name": "Winner",
+            "runners": [
+              {
+                "selection_id": 17781,
+                "runner_name": "Sweden"
+              },
+              {
+                "selection_id": 17971,
+                "runner_name": "Ukraine"
+              },
+              {
+                "selection_id": 36215,
+                "runner_name": "Israel"
+              },
+              {
+                "selection_id": 17763,
+                "runner_name": "Italy"
+              },
+              {
+                "selection_id": 17112,
+                "runner_name": "France"
+              },
+              {
+                "selection_id": 17774,
+                "runner_name": "Finland"
+              },
+              {
+                "selection_id": 36211,
+                "runner_name": "Spain"
+              },
+              {
+                "selection_id": 17105,
+                "runner_name": "Australia"
+              },
+              {
+                "selection_id": 1435877,
+                "runner_name": "Armenia"
+              },
+              {
+                "selection_id": 2851927,
+                "runner_name": "Azerbaijan"
+              },
+              {
+                "selection_id": 246850,
+                "runner_name": "Albania"
+              },
+              {
+                "selection_id": 17096,
+                "runner_name": "Croatia"
+              },
+              {
+                "selection_id": 139990,
+                "runner_name": "Cyprus"
+              },
+              {
+                "selection_id": 60048898,
+                "runner_name": "Czechia"
+              },
+              {
+                "selection_id": 36207,
+                "runner_name": "Denmark"
+              },
+              {
+                "selection_id": 4103393,
+                "runner_name": "Estonia "
+              },
+              {
+                "selection_id": 26854,
+                "runner_name": "Georgia"
+              },
+              {
+                "selection_id": 17765,
+                "runner_name": "Germany"
+              },
+              {
+                "selection_id": 36208,
+                "runner_name": "Greece"
+              },
+              {
+                "selection_id": 17117,
+                "runner_name": "Iceland"
+              },
+              {
+                "selection_id": 36213,
+                "runner_name": "Latvia"
+              },
+              {
+                "selection_id": 36214,
+                "runner_name": "Lithuania"
+              },
+              {
+                "selection_id": 3277908,
+                "runner_name": "Luxembourg"
+              },
+              {
+                "selection_id": 36209,
+                "runner_name": "Malta"
+              },
+              {
+                "selection_id": 2071208,
+                "runner_name": "Montenegro"
+              },
+              {
+                "selection_id": 36220,
+                "runner_name": "Netherlands"
+              },
+              {
+                "selection_id": 36216,
+                "runner_name": "Norway"
+              },
+              {
+                "selection_id": 17764,
+                "runner_name": "Poland"
+              },
+              {
+                "selection_id": 17770,
+                "runner_name": "Portugal"
+              },
+              {
+                "selection_id": 2851944,
+                "runner_name": "San Marino"
+              },
+              {
+                "selection_id": 2071209,
+                "runner_name": "Serbia"
+              },
+              {
+                "selection_id": 17114,
+                "runner_name": "Slovenia"
+              },
+              {
+                "selection_id": 140043,
+                "runner_name": "Switzerland"
+              },
+              {
+                "selection_id": 36210,
+                "runner_name": "United Kingdom"
+              },
+              {
+                "selection_id": 36212,
+                "runner_name": "Ireland"
+              }
+            ]
+          }
+        }
+      },
+      "12737980": {
+        "competition_name": "Love Island 2025",
+        "markets": {
+          "1.244319191": {
+            "market_name": "Top Male",
+            "runners": [
+              {
+                "selection_id": 84410104,
+                "runner_name": "Tommy Bradley"
+              },
+              {
+                "selection_id": 84410107,
+                "runner_name": "Dejon Noel Williams"
+              },
+              {
+                "selection_id": 84961587,
+                "runner_name": "Harrison Solomon"
+              },
+              {
+                "selection_id": 84410102,
+                "runner_name": "Harry Cooksley"
+              },
+              {
+                "selection_id": 84473380,
+                "runner_name": "Conor Philips"
+              },
+              {
+                "selection_id": 85201336,
+                "runner_name": "Giorgio Russo"
+              },
+              {
+                "selection_id": 84410108,
+                "runner_name": "Ben Holbrough"
+              },
+              {
+                "selection_id": 84410103,
+                "runner_name": "Blu Chegini"
+              },
+              {
+                "selection_id": 84695463,
+                "runner_name": "Shea Mannings"
+              },
+              {
+                "selection_id": 84695464,
+                "runner_name": "Remell Mullins"
+              },
+              {
+                "selection_id": 85201335,
+                "runner_name": "Will Means"
+              },
+              {
+                "selection_id": 85486182,
+                "runner_name": "Ryan Bannister"
+              },
+              {
+                "selection_id": 84410109,
+                "runner_name": "Kyle Ashman"
+              }
+            ]
+          },
+          "1.244319168": {
+            "market_name": "Top Female",
+            "runners": [
+              {
+                "selection_id": 84697446,
+                "runner_name": "Emily Moran"
+              },
+              {
+                "selection_id": 84410096,
+                "runner_name": "Meg Moore"
+              },
+              {
+                "selection_id": 84410094,
+                "runner_name": "Shakira Khan"
+              },
+              {
+                "selection_id": 84641960,
+                "runner_name": "Antonia Laites"
+              },
+              {
+                "selection_id": 84823041,
+                "runner_name": "Yasmin Pettet"
+              },
+              {
+                "selection_id": 84410080,
+                "runner_name": "Helena Ford"
+              },
+              {
+                "selection_id": 85486181,
+                "runner_name": "Bilikis Azeez"
+              },
+              {
+                "selection_id": 84410095,
+                "runner_name": "Megan Forte Clarke"
+              },
+              {
+                "selection_id": 84410101,
+                "runner_name": "Alima Gagigo"
+              },
+              {
+                "selection_id": 84410097,
+                "runner_name": "Sophie Lee"
+              },
+              {
+                "selection_id": 84823040,
+                "runner_name": "Malisha Jordan"
+              },
+              {
+                "selection_id": 85201333,
+                "runner_name": "Poppy Harrison"
+              },
+              {
+                "selection_id": 85201334,
+                "runner_name": "Caprice Alexandra"
+              }
+            ]
+          }
+        }
+      },
+      "11410497": {
+        "competition_name": "James Bond",
+        "markets": {
+          "1.243088004": {
+            "market_name": "Next James Bond after Daniel Craig",
+            "runners": [
+              {
+                "selection_id": 12235792,
+                "runner_name": "Aaron Taylor-Johnson"
+              },
+              {
+                "selection_id": 85067855,
+                "runner_name": "Scott Rose-Marsh"
+              },
+              {
+                "selection_id": 14078600,
+                "runner_name": "Jack Lowden"
+              },
+              {
+                "selection_id": 42561902,
+                "runner_name": "Harris Dickinson"
+              },
+              {
+                "selection_id": 11272450,
+                "runner_name": "Theo James"
+              },
+              {
+                "selection_id": 12447813,
+                "runner_name": "James Norton"
+              },
+              {
+                "selection_id": 1261016,
+                "runner_name": "Henry Cavill"
+              },
+              {
+                "selection_id": 41193885,
+                "runner_name": "Callum Turner"
+              },
+              {
+                "selection_id": 27838974,
+                "runner_name": "Tom Holland"
+              },
+              {
+                "selection_id": 7320005,
+                "runner_name": "Dan Stevens"
+              },
+              {
+                "selection_id": 38403609,
+                "runner_name": "Josh O'Connor"
+              },
+              {
+                "selection_id": 58535621,
+                "runner_name": "Damson Idris"
+              },
+              {
+                "selection_id": 80270103,
+                "runner_name": "Stuart Martin"
+              },
+              {
+                "selection_id": 74472960,
+                "runner_name": "Aaron Pierre"
+              },
+              {
+                "selection_id": 10766839,
+                "runner_name": "Nicholas Hoult"
+              },
+              {
+                "selection_id": 1261032,
+                "runner_name": "Cillian Murphy"
+              },
+              {
+                "selection_id": 3572073,
+                "runner_name": "Tom Hiddleston"
+              },
+              {
+                "selection_id": 44916851,
+                "runner_name": "Jonathan Bailey"
+              },
+              {
+                "selection_id": 10419220,
+                "runner_name": "Richard Madden"
+              },
+              {
+                "selection_id": 10820587,
+                "runner_name": "Taron Egerton"
+              },
+              {
+                "selection_id": 8333508,
+                "runner_name": "Tom Hardy"
+              },
+              {
+                "selection_id": 28419544,
+                "runner_name": "Paul Mescal"
+              },
+              {
+                "selection_id": 8333494,
+                "runner_name": "Robert Pattinson"
+              },
+              {
+                "selection_id": 11272451,
+                "runner_name": "Luke Evans"
+              },
+              {
+                "selection_id": 9081941,
+                "runner_name": "Eddie Redmayne"
+              },
+              {
+                "selection_id": 9212339,
+                "runner_name": "Jamie Dornan"
+              },
+              {
+                "selection_id": 48006573,
+                "runner_name": "Luke Bracey"
+              },
+              {
+                "selection_id": 28543828,
+                "runner_name": "Sope Dirisu"
+              },
+              {
+                "selection_id": 25099211,
+                "runner_name": "Jodie Comer"
+              },
+              {
+                "selection_id": 47636293,
+                "runner_name": "Rege-Jean Page"
+              },
+              {
+                "selection_id": 47350638,
+                "runner_name": "Daryl McCormack"
+              },
+              {
+                "selection_id": 20616450,
+                "runner_name": "Kit Harrington"
+              },
+              {
+                "selection_id": 5760302,
+                "runner_name": "Lucien Laviscount"
+              },
+              {
+                "selection_id": 65860807,
+                "runner_name": "David Jonsson"
+              },
+              {
+                "selection_id": 38085186,
+                "runner_name": "Kingsley Ben-Adir"
+              },
+              {
+                "selection_id": 7336596,
+                "runner_name": "Idris Elba"
+              },
+              {
+                "selection_id": 20616448,
+                "runner_name": "Henry Golding"
+              },
+              {
+                "selection_id": 85067848,
+                "runner_name": "Sam C Wilson"
+              },
+              {
+                "selection_id": 82143934,
+                "runner_name": "Louis Partridge"
+              },
+              {
+                "selection_id": 14078599,
+                "runner_name": "Aidan Turner"
+              },
+              {
+                "selection_id": 3620732,
+                "runner_name": "Dev Patel"
+              },
+              {
+                "selection_id": 47636571,
+                "runner_name": "Paapa Essiedu"
+              },
+              {
+                "selection_id": 6031555,
+                "runner_name": "Michael Fassbender"
+              },
+              {
+                "selection_id": 11246343,
+                "runner_name": "John Boyega"
+              },
+              {
+                "selection_id": 7336600,
+                "runner_name": "Andrew Scott"
+              },
+              {
+                "selection_id": 11387736,
+                "runner_name": "Nikolaj Coster-Waldau"
+              },
+              {
+                "selection_id": 53961695,
+                "runner_name": "Pedro Pascal"
+              },
+              {
+                "selection_id": 5258998,
+                "runner_name": "Tom Hooper"
+              },
+              {
+                "selection_id": 10419217,
+                "runner_name": "Daniel Kaluuya"
+              },
+              {
+                "selection_id": 1261024,
+                "runner_name": "Chiwetel Ejiofor"
+              },
+              {
+                "selection_id": 2106933,
+                "runner_name": "Chris Evans"
+              },
+              {
+                "selection_id": 41152709,
+                "runner_name": "Lashana Lynch"
+              },
+              {
+                "selection_id": 8142378,
+                "runner_name": "Oscar Isaac"
+              },
+              {
+                "selection_id": 77320463,
+                "runner_name": "Joe Alwyn"
+              },
+              {
+                "selection_id": 13607835,
+                "runner_name": "Charlie Hunnam"
+              },
+              {
+                "selection_id": 9206615,
+                "runner_name": "Harry Styles"
+              },
+              {
+                "selection_id": 23192210,
+                "runner_name": "Riz Ahmed"
+              },
+              {
+                "selection_id": 11414113,
+                "runner_name": "Jack Huston"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "2378961": {
+    "sport_name": "Politics",
+    "competitions": {
+      "12672144": {
+        "competition_name": "UK General Election",
+        "markets": {
+          "1.243393188": {
+            "market_name": "Overall Majority",
+            "runners": [
+              {
+                "selection_id": 1405187,
+                "runner_name": "Labour Majority"
+              },
+              {
+                "selection_id": 64474472,
+                "runner_name": "Reform UK Majority"
+              },
+              {
+                "selection_id": 25879699,
+                "runner_name": "Conservatives Majority"
+              },
+              {
+                "selection_id": 24456321,
+                "runner_name": "Liberal Democrats Majority"
+              },
+              {
+                "selection_id": 1076592,
+                "runner_name": "No Overall Majority"
+              }
+            ]
+          },
+          "1.230583324": {
+            "market_name": "Most Seats",
+            "runners": [
+              {
+                "selection_id": 1111884,
+                "runner_name": "Labour"
+              },
+              {
+                "selection_id": 38700528,
+                "runner_name": "Reform UK"
+              },
+              {
+                "selection_id": 1111889,
+                "runner_name": "Conservatives"
+              },
+              {
+                "selection_id": 5191378,
+                "runner_name": "Liberal Democrats"
+              },
+              {
+                "selection_id": 3614184,
+                "runner_name": "Green Party"
+              },
+              {
+                "selection_id": 39615675,
+                "runner_name": "Workers Party of Britain"
+              }
+            ]
+          }
+        }
+      },
+      "10538818": {
+        "competition_name": "UK - Party Leaders",
+        "markets": {
+          "1.170273835": {
+            "market_name": "Next Labour Leader",
+            "runners": [
+              {
+                "selection_id": 11149003,
+                "runner_name": "Wes Streeting"
+              },
+              {
+                "selection_id": 5859542,
+                "runner_name": "Rachel Reeves"
+              },
+              {
+                "selection_id": 2601290,
+                "runner_name": "Andy Burnham"
+              },
+              {
+                "selection_id": 28275586,
+                "runner_name": "Bridget Phillipson"
+              },
+              {
+                "selection_id": 1288344,
+                "runner_name": "Yvette Cooper"
+              },
+              {
+                "selection_id": 11811130,
+                "runner_name": "Angela Rayner"
+              },
+              {
+                "selection_id": 5859546,
+                "runner_name": "Lisa Nandy"
+              },
+              {
+                "selection_id": 70710756,
+                "runner_name": "Josh Simons"
+              },
+              {
+                "selection_id": 70710770,
+                "runner_name": "Torsten Bell"
+              },
+              {
+                "selection_id": 1382294,
+                "runner_name": "David Lammy"
+              },
+              {
+                "selection_id": 17129397,
+                "runner_name": "Darren Jones"
+              },
+              {
+                "selection_id": 2601254,
+                "runner_name": "David Miliband"
+              },
+              {
+                "selection_id": 70333952,
+                "runner_name": "Georgia Gould"
+              },
+              {
+                "selection_id": 1366848,
+                "runner_name": "Douglas Alexander"
+              },
+              {
+                "selection_id": 8916765,
+                "runner_name": "Steve Reed"
+              },
+              {
+                "selection_id": 4722753,
+                "runner_name": "Sadiq Khan"
+              },
+              {
+                "selection_id": 51623822,
+                "runner_name": "Sarah Jones"
+              },
+              {
+                "selection_id": 11149000,
+                "runner_name": "Shabana Mahmood"
+              },
+              {
+                "selection_id": 19619950,
+                "runner_name": "Rosena Allin-Khan"
+              },
+              {
+                "selection_id": 54027624,
+                "runner_name": "Ellie Reeves"
+              },
+              {
+                "selection_id": 50778367,
+                "runner_name": "Peter Kyle"
+              },
+              {
+                "selection_id": 38451147,
+                "runner_name": "Zarah Sultana"
+              },
+              {
+                "selection_id": 62404165,
+                "runner_name": "Abena Oppong-Asare"
+              },
+              {
+                "selection_id": 11148999,
+                "runner_name": "Jess Phillips"
+              },
+              {
+                "selection_id": 9343965,
+                "runner_name": "Stella Creasy"
+              },
+              {
+                "selection_id": 9199693,
+                "runner_name": "Liz Kendall"
+              },
+              {
+                "selection_id": 8498836,
+                "runner_name": "Dan Jarvis"
+              },
+              {
+                "selection_id": 27469045,
+                "runner_name": "Louise Haigh"
+              },
+              {
+                "selection_id": 28275572,
+                "runner_name": "Anneliese Dodds"
+              },
+              {
+                "selection_id": 11149001,
+                "runner_name": "Jonathan Reynolds"
+              },
+              {
+                "selection_id": 10275264,
+                "runner_name": "Stephen Kinnock"
+              },
+              {
+                "selection_id": 10386952,
+                "runner_name": "Heidi Alexander"
+              },
+              {
+                "selection_id": 10275269,
+                "runner_name": "Lucy Powell"
+              },
+              {
+                "selection_id": 58316902,
+                "runner_name": "Stephanie Peacock"
+              },
+              {
+                "selection_id": 13274101,
+                "runner_name": "Chi Onwurah"
+              },
+              {
+                "selection_id": 20609141,
+                "runner_name": "Dan Carden"
+              },
+              {
+                "selection_id": 11148998,
+                "runner_name": "Emma Reynolds"
+              },
+              {
+                "selection_id": 10386953,
+                "runner_name": "Jonathan Ashworth"
+              },
+              {
+                "selection_id": 52457658,
+                "runner_name": "Preet Kaur Gill"
+              },
+              {
+                "selection_id": 67519232,
+                "runner_name": "Hamish Falconer"
+              },
+              {
+                "selection_id": 9483638,
+                "runner_name": "Mary Creagh"
+              },
+              {
+                "selection_id": 11148981,
+                "runner_name": "Emily Thornberry"
+              },
+              {
+                "selection_id": 48845495,
+                "runner_name": "Helena Dollimore"
+              },
+              {
+                "selection_id": 11855680,
+                "runner_name": "Rebecca Long-Bailey"
+              },
+              {
+                "selection_id": 1140616,
+                "runner_name": "Hilary Benn"
+              },
+              {
+                "selection_id": 9553914,
+                "runner_name": "Jeremy Corbyn"
+              },
+              {
+                "selection_id": 50283685,
+                "runner_name": "Tulip Siddiq"
+              },
+              {
+                "selection_id": 10275270,
+                "runner_name": "Matthew Pennycook"
+              },
+              {
+                "selection_id": 40199933,
+                "runner_name": "Thangam Debbonaire"
+              },
+              {
+                "selection_id": 14710730,
+                "runner_name": "Laura Pidcock"
+              },
+              {
+                "selection_id": 10386961,
+                "runner_name": "Seema Malhotra"
+              },
+              {
+                "selection_id": 28304795,
+                "runner_name": "Nick Thomas-Symonds"
+              },
+              {
+                "selection_id": 48845496,
+                "runner_name": "Satvir Kaur"
+              },
+              {
+                "selection_id": 53240917,
+                "runner_name": "James Murray"
+              },
+              {
+                "selection_id": 11478024,
+                "runner_name": "Richard Burgon"
+              },
+              {
+                "selection_id": 10386960,
+                "runner_name": "Chris Bryant"
+              },
+              {
+                "selection_id": 28304796,
+                "runner_name": "Alison McGovern"
+              },
+              {
+                "selection_id": 10275266,
+                "runner_name": "Clive Lewis"
+              },
+              {
+                "selection_id": 25134618,
+                "runner_name": "Stephen Morgan"
+              },
+              {
+                "selection_id": 18709743,
+                "runner_name": "Janet Daby"
+              },
+              {
+                "selection_id": 11149005,
+                "runner_name": "Jim McMahon"
+              },
+              {
+                "selection_id": 1140618,
+                "runner_name": "Ed Balls"
+              },
+              {
+                "selection_id": 56844641,
+                "runner_name": "Bella Sankey"
+              },
+              {
+                "selection_id": 10386965,
+                "runner_name": "Jon Trickett"
+              },
+              {
+                "selection_id": 11855681,
+                "runner_name": "Kate Osamor"
+              },
+              {
+                "selection_id": 11724089,
+                "runner_name": "Cat Smith"
+              },
+              {
+                "selection_id": 10386956,
+                "runner_name": "Nia Griffith"
+              },
+              {
+                "selection_id": 12608118,
+                "runner_name": "Barry Gardiner"
+              },
+              {
+                "selection_id": 9472712,
+                "runner_name": "Angela Eagle"
+              },
+              {
+                "selection_id": 9487470,
+                "runner_name": "Ian Lavery"
+              },
+              {
+                "selection_id": 18709793,
+                "runner_name": "Miatta Fahnbulleh"
+              },
+              {
+                "selection_id": 78792311,
+                "runner_name": "Imogen Walker"
+              },
+              {
+                "selection_id": 80369211,
+                "runner_name": "Sarah Sackman"
+              },
+              {
+                "selection_id": 80692839,
+                "runner_name": "Pat McFadden"
+              },
+              {
+                "selection_id": 81203895,
+                "runner_name": "Ed Milliband"
+              },
+              {
+                "selection_id": 1370435,
+                "runner_name": "John Healey"
+              },
+              {
+                "selection_id": 82652830,
+                "runner_name": "Lucy Rigby"
+              },
+              {
+                "selection_id": 83876249,
+                "runner_name": "Alistair Cairns"
+              }
+            ]
+          },
+          "1.179233218": {
+            "market_name": "Next Lib Dem Leader",
+            "runners": [
+              {
+                "selection_id": 27257482,
+                "runner_name": "Daisy Cooper"
+              },
+              {
+                "selection_id": 13258433,
+                "runner_name": "Layla Moran"
+              },
+              {
+                "selection_id": 12050150,
+                "runner_name": "Sarah Olney"
+              },
+              {
+                "selection_id": 27257483,
+                "runner_name": "Munira Wilson"
+              },
+              {
+                "selection_id": 27257481,
+                "runner_name": "Wendy Chamberlain"
+              },
+              {
+                "selection_id": 13258429,
+                "runner_name": "Wera Hobhouse"
+              },
+              {
+                "selection_id": 13258430,
+                "runner_name": "Christine Jardine"
+              },
+              {
+                "selection_id": 13258431,
+                "runner_name": "Jamie Stone"
+              },
+              {
+                "selection_id": 4615259,
+                "runner_name": "Alistair Carmichael"
+              },
+              {
+                "selection_id": 4615253,
+                "runner_name": "Tim Farron"
+              }
+            ]
+          },
+          "1.232677061": {
+            "market_name": "Year Keir Starmer replaced as Labour Leader",
+            "runners": [
+              {
+                "selection_id": 30013809,
+                "runner_name": "2025"
+              },
+              {
+                "selection_id": 44927004,
+                "runner_name": "2026"
+              },
+              {
+                "selection_id": 73498551,
+                "runner_name": "2027"
+              },
+              {
+                "selection_id": 73498552,
+                "runner_name": "2028"
+              },
+              {
+                "selection_id": 73498553,
+                "runner_name": "2029 or later"
+              },
+              {
+                "selection_id": 16735241,
+                "runner_name": "2024"
+              }
+            ]
+          },
+          "1.237923639": {
+            "market_name": "Next Reform Leader",
+            "runners": [
+              {
+                "selection_id": 25364036,
+                "runner_name": "Richard Tice"
+              },
+              {
+                "selection_id": 78158828,
+                "runner_name": "Rupert Lowe"
+              },
+              {
+                "selection_id": 78701444,
+                "runner_name": "Ben Habib"
+              },
+              {
+                "selection_id": 24378040,
+                "runner_name": "Robert Jenrick"
+              },
+              {
+                "selection_id": 51047842,
+                "runner_name": "Lee Anderson"
+              },
+              {
+                "selection_id": 78701488,
+                "runner_name": "James McMurdock"
+              },
+              {
+                "selection_id": 1138501,
+                "runner_name": "Boris Johnson"
+              },
+              {
+                "selection_id": 19629302,
+                "runner_name": "Suella Braverman"
+              },
+              {
+                "selection_id": 78701445,
+                "runner_name": "Nick Candy"
+              },
+              {
+                "selection_id": 10393242,
+                "runner_name": "Priti Patel"
+              },
+              {
+                "selection_id": 13363899,
+                "runner_name": "Jacob Rees Mogg"
+              },
+              {
+                "selection_id": 77944407,
+                "runner_name": "Holly Valance"
+              },
+              {
+                "selection_id": 78696211,
+                "runner_name": "Tommy Robinson"
+              },
+              {
+                "selection_id": 78696210,
+                "runner_name": "Matt Goodwin"
+              },
+              {
+                "selection_id": 78629210,
+                "runner_name": "Zia Yusuf"
+              }
+            ]
+          },
+          "1.237956720": {
+            "market_name": "Year Nigel Farage replaced as Reform Leader",
+            "runners": [
+              {
+                "selection_id": 30013809,
+                "runner_name": "2025"
+              },
+              {
+                "selection_id": 44927004,
+                "runner_name": "2026"
+              },
+              {
+                "selection_id": 73498551,
+                "runner_name": "2027"
+              },
+              {
+                "selection_id": 73498552,
+                "runner_name": "2028"
+              },
+              {
+                "selection_id": 73498553,
+                "runner_name": "2029 or later"
+              }
+            ]
+          },
+          "1.235470805": {
+            "market_name": "Next Conservative Leader",
+            "runners": [
+              {
+                "selection_id": 4758163,
+                "runner_name": "James Cleverly"
+              },
+              {
+                "selection_id": 4562764,
+                "runner_name": "Nigel Farage"
+              },
+              {
+                "selection_id": 24378040,
+                "runner_name": "Robert Jenrick"
+              },
+              {
+                "selection_id": 1138501,
+                "runner_name": "Boris Johnson"
+              },
+              {
+                "selection_id": 75848002,
+                "runner_name": "Chris Philip"
+              },
+              {
+                "selection_id": 4519444,
+                "runner_name": "Jeremy Hunt"
+              },
+              {
+                "selection_id": 13577692,
+                "runner_name": "Tom Tugendhat"
+              },
+              {
+                "selection_id": 10393242,
+                "runner_name": "Priti Patel"
+              },
+              {
+                "selection_id": 23273220,
+                "runner_name": "Mel Stride"
+              },
+              {
+                "selection_id": 57195015,
+                "runner_name": "Danny Kruger"
+              },
+              {
+                "selection_id": 46532571,
+                "runner_name": "Victoria Atkins"
+              },
+              {
+                "selection_id": 58058632,
+                "runner_name": "Laura Trott"
+              },
+              {
+                "selection_id": 46532570,
+                "runner_name": "Claire Coutinho"
+              },
+              {
+                "selection_id": 28007248,
+                "runner_name": "Oliver Dowden"
+              },
+              {
+                "selection_id": 19629302,
+                "runner_name": "Suella Braverman"
+              },
+              {
+                "selection_id": 1138430,
+                "runner_name": "David Cameron"
+              },
+              {
+                "selection_id": 5633952,
+                "runner_name": "Mark Harper"
+              },
+              {
+                "selection_id": 75848059,
+                "runner_name": "Ben Spencer"
+              },
+              {
+                "selection_id": 15684319,
+                "runner_name": "Rishi Sunak"
+              },
+              {
+                "selection_id": 13260061,
+                "runner_name": "Gavin Williamson"
+              },
+              {
+                "selection_id": 1136032,
+                "runner_name": "David Davis"
+              },
+              {
+                "selection_id": 75848134,
+                "runner_name": "Richard Holden"
+              },
+              {
+                "selection_id": 12350479,
+                "runner_name": "Andy Street"
+              },
+              {
+                "selection_id": 44698736,
+                "runner_name": "David Frost"
+              },
+              {
+                "selection_id": 48249159,
+                "runner_name": "Ben Houchen"
+              },
+              {
+                "selection_id": 79000604,
+                "runner_name": "Nick Timothy"
+              },
+              {
+                "selection_id": 11378965,
+                "runner_name": "Iain Duncan Smith"
+              },
+              {
+                "selection_id": 83986743,
+                "runner_name": "Katie Lam"
+              },
+              {
+                "selection_id": 78158828,
+                "runner_name": "Rupert Lowe"
+              }
+            ]
+          },
+          "1.235470534": {
+            "market_name": "Year Kemi Badenoch replaced as Conservative leader",
+            "runners": [
+              {
+                "selection_id": 30013809,
+                "runner_name": "2025"
+              },
+              {
+                "selection_id": 44927004,
+                "runner_name": "2026"
+              },
+              {
+                "selection_id": 73498551,
+                "runner_name": "2027"
+              },
+              {
+                "selection_id": 73498552,
+                "runner_name": "2028"
+              },
+              {
+                "selection_id": 73498553,
+                "runner_name": "2029 or later"
+              },
+              {
+                "selection_id": 16735241,
+                "runner_name": "2024"
+              }
+            ]
+          },
+          "1.230433061": {
+            "market_name": "Conservative Party leader at Next General Election",
+            "runners": [
+              {
+                "selection_id": 15305626,
+                "runner_name": "Kemi Badenoch"
+              },
+              {
+                "selection_id": 10393242,
+                "runner_name": "Priti Patel"
+              },
+              {
+                "selection_id": 4519444,
+                "runner_name": "Jeremy Hunt"
+              },
+              {
+                "selection_id": 13577692,
+                "runner_name": "Tom Tugendhat"
+              },
+              {
+                "selection_id": 4562764,
+                "runner_name": "Nigel Farage"
+              },
+              {
+                "selection_id": 4758163,
+                "runner_name": "James Cleverly"
+              },
+              {
+                "selection_id": 1138430,
+                "runner_name": "David Cameron"
+              },
+              {
+                "selection_id": 24378040,
+                "runner_name": "Robert Jenrick"
+              },
+              {
+                "selection_id": 19629302,
+                "runner_name": "Suella Braverman"
+              },
+              {
+                "selection_id": 1138501,
+                "runner_name": "Boris Johnson"
+              },
+              {
+                "selection_id": 46532571,
+                "runner_name": "Victoria Atkins"
+              },
+              {
+                "selection_id": 57195015,
+                "runner_name": "Danny Kruger"
+              },
+              {
+                "selection_id": 15829343,
+                "runner_name": "Ben Wallace"
+              },
+              {
+                "selection_id": 9505186,
+                "runner_name": "Graham Brady"
+              },
+              {
+                "selection_id": 15684319,
+                "runner_name": "Rishi Sunak"
+              },
+              {
+                "selection_id": 78158828,
+                "runner_name": "Rupert Lowe"
+              }
+            ]
+          }
+        }
+      },
+      "6761189": {
+        "competition_name": "French Politics",
+        "markets": {
+          "1.237973591": {
+            "market_name": "Next President",
+            "runners": [
+              {
+                "selection_id": 78738223,
+                "runner_name": "Jordan Bardella"
+              },
+              {
+                "selection_id": 5589756,
+                "runner_name": "Marine Le Pen"
+              },
+              {
+                "selection_id": 13026080,
+                "runner_name": "Edouard Philippe"
+              },
+              {
+                "selection_id": 38394849,
+                "runner_name": "David Lisnard"
+              },
+              {
+                "selection_id": 36850669,
+                "runner_name": "Bruno Retailleau"
+              },
+              {
+                "selection_id": 78738276,
+                "runner_name": "Gabriel Attal"
+              },
+              {
+                "selection_id": 5589758,
+                "runner_name": "Jean-Luc Melenchon"
+              },
+              {
+                "selection_id": 78738279,
+                "runner_name": "Elisabeth Borne"
+              },
+              {
+                "selection_id": 38520833,
+                "runner_name": "Eric Zemmour"
+              },
+              {
+                "selection_id": 78738302,
+                "runner_name": "Olivier Faure"
+              },
+              {
+                "selection_id": 78738319,
+                "runner_name": "Francois Ruffin"
+              },
+              {
+                "selection_id": 78738280,
+                "runner_name": "Yael Braun-Pivet"
+              },
+              {
+                "selection_id": 12452551,
+                "runner_name": "Laurent Wauquiez"
+              },
+              {
+                "selection_id": 12457543,
+                "runner_name": "Valerie Pecresse"
+              },
+              {
+                "selection_id": 5589760,
+                "runner_name": "Xavier Bertrand"
+              },
+              {
+                "selection_id": 78738281,
+                "runner_name": "Jean Castex"
+              },
+              {
+                "selection_id": 2155983,
+                "runner_name": "Francois Bayrou"
+              },
+              {
+                "selection_id": 1537497,
+                "runner_name": "Francois Hollande"
+              },
+              {
+                "selection_id": 23479626,
+                "runner_name": "Michel Barnier"
+              },
+              {
+                "selection_id": 13026063,
+                "runner_name": "Bernard Cazeneuve"
+              },
+              {
+                "selection_id": 12651886,
+                "runner_name": "Bruno Le Maire"
+              },
+              {
+                "selection_id": 78738299,
+                "runner_name": "Carole Delga"
+              },
+              {
+                "selection_id": 78738308,
+                "runner_name": "Mathilde Panot"
+              },
+              {
+                "selection_id": 38520829,
+                "runner_name": "Gerald Darmanin"
+              },
+              {
+                "selection_id": 78738303,
+                "runner_name": "Manuel Bompart"
+              }
+            ]
+          }
+        }
+      },
+      "12701894": {
+        "competition_name": "USA Presiential Election 2028",
+        "markets": {
+          "1.235690682": {
+            "market_name": "Election Winner",
+            "runners": [
+              {
+                "selection_id": 45008858,
+                "runner_name": "JD Vance"
+              },
+              {
+                "selection_id": 20036602,
+                "runner_name": "Alexandria Ocasio-Cortez"
+              },
+              {
+                "selection_id": 14253825,
+                "runner_name": "Gavin Newsom"
+              },
+              {
+                "selection_id": 22576023,
+                "runner_name": "Pete Buttigieg"
+              },
+              {
+                "selection_id": 27933518,
+                "runner_name": "Josh Shapiro"
+              },
+              {
+                "selection_id": 37511428,
+                "runner_name": "Donald Trump Jr."
+              },
+              {
+                "selection_id": 5075277,
+                "runner_name": "Marco Rubio"
+              },
+              {
+                "selection_id": 30371713,
+                "runner_name": "Ron DeSantis"
+              },
+              {
+                "selection_id": 27933516,
+                "runner_name": "Gretchen Whitmer"
+              },
+              {
+                "selection_id": 6196629,
+                "runner_name": "Nikki Haley"
+              },
+              {
+                "selection_id": 11415714,
+                "runner_name": "Ivanka Trump"
+              },
+              {
+                "selection_id": 64749112,
+                "runner_name": "Andy Beshear"
+              },
+              {
+                "selection_id": 57926035,
+                "runner_name": "Wes Moore"
+              },
+              {
+                "selection_id": 50116129,
+                "runner_name": "J.B Pritzker"
+              },
+              {
+                "selection_id": 14550644,
+                "runner_name": "Tulsi Gabbard"
+              },
+              {
+                "selection_id": 8313395,
+                "runner_name": "Michelle Obama"
+              },
+              {
+                "selection_id": 7438258,
+                "runner_name": "Cory Booker"
+              },
+              {
+                "selection_id": 76042805,
+                "runner_name": "Robert F. Kennedy Jr."
+              },
+              {
+                "selection_id": 12142995,
+                "runner_name": "Chris Murphy"
+              },
+              {
+                "selection_id": 6816443,
+                "runner_name": "Rahm Emanuel"
+              },
+              {
+                "selection_id": 12979521,
+                "runner_name": "Jon Ossoff"
+              },
+              {
+                "selection_id": 12126964,
+                "runner_name": "Kamala Harris"
+              },
+              {
+                "selection_id": 41418136,
+                "runner_name": "Glenn Youngkin"
+              },
+              {
+                "selection_id": 76074645,
+                "runner_name": "Ruben Gallego"
+              },
+              {
+                "selection_id": 50336459,
+                "runner_name": "Mark Kelly"
+              },
+              {
+                "selection_id": 12142993,
+                "runner_name": "Mark Cuban"
+              },
+              {
+                "selection_id": 24624330,
+                "runner_name": "Jon Stewart"
+              },
+              {
+                "selection_id": 41692652,
+                "runner_name": "John Fetterman"
+              },
+              {
+                "selection_id": 11237943,
+                "runner_name": "Tom Cotton"
+              },
+              {
+                "selection_id": 52685847,
+                "runner_name": "Vivek Ramaswamy"
+              },
+              {
+                "selection_id": 13052919,
+                "runner_name": "Dwayne Johnson"
+              },
+              {
+                "selection_id": 48075519,
+                "runner_name": "Stephen A. Smith"
+              },
+              {
+                "selection_id": 6886665,
+                "runner_name": "Amy Klobuchar"
+              },
+              {
+                "selection_id": 16890631,
+                "runner_name": "Jamie Dimon"
+              },
+              {
+                "selection_id": 19953619,
+                "runner_name": "Brian Kemp"
+              },
+              {
+                "selection_id": 46715056,
+                "runner_name": "Tim Walz"
+              },
+              {
+                "selection_id": 6816444,
+                "runner_name": "Andrew Cuomo"
+              },
+              {
+                "selection_id": 37617217,
+                "runner_name": "Lara Trump"
+              },
+              {
+                "selection_id": 30371712,
+                "runner_name": "Josh Hawley"
+              },
+              {
+                "selection_id": 38113555,
+                "runner_name": "Raphael Warnock"
+              },
+              {
+                "selection_id": 37547445,
+                "runner_name": "Ro Khanna"
+              },
+              {
+                "selection_id": 6364522,
+                "runner_name": "Elizabeth Warren"
+              },
+              {
+                "selection_id": 6886678,
+                "runner_name": "Ted Cruz"
+              },
+              {
+                "selection_id": 4296631,
+                "runner_name": "Mike Pence"
+              },
+              {
+                "selection_id": 6761309,
+                "runner_name": "Bernie Sanders"
+              },
+              {
+                "selection_id": 37511437,
+                "runner_name": "Tucker Carlson"
+              },
+              {
+                "selection_id": 80735980,
+                "runner_name": "Elissa Slotkin"
+              },
+              {
+                "selection_id": 1171623,
+                "runner_name": "Hillary Clinton"
+              },
+              {
+                "selection_id": 9546884,
+                "runner_name": "George Clooney"
+              },
+              {
+                "selection_id": 82549904,
+                "runner_name": "Abigail Spanberger"
+              },
+              {
+                "selection_id": 84211859,
+                "runner_name": "Jasmine Crockett"
+              },
+              {
+                "selection_id": 27933522,
+                "runner_name": "Gina Raimondo"
+              },
+              {
+                "selection_id": 35506776,
+                "runner_name": "Kristi Noem"
+              },
+              {
+                "selection_id": 10841383,
+                "runner_name": "Tim Scott"
+              },
+              {
+                "selection_id": 18753694,
+                "runner_name": "Candace Owens"
+              },
+              {
+                "selection_id": 84403303,
+                "runner_name": "Scott Jennings"
+              },
+              {
+                "selection_id": 12657109,
+                "runner_name": "Oprah Winfrey"
+              },
+              {
+                "selection_id": 81177215,
+                "runner_name": "Jake Auchincloss"
+              },
+              {
+                "selection_id": 22112909,
+                "runner_name": "Andrew Yang"
+              },
+              {
+                "selection_id": 76019882,
+                "runner_name": "Joe Rogan"
+              },
+              {
+                "selection_id": 65486991,
+                "runner_name": "Taylor Swift"
+              },
+              {
+                "selection_id": 2710860,
+                "runner_name": "Michael Bloomberg"
+              },
+              {
+                "selection_id": 28592779,
+                "runner_name": "Liz Cheney"
+              },
+              {
+                "selection_id": 76019883,
+                "runner_name": "Roger Goodell"
+              },
+              {
+                "selection_id": 12142996,
+                "runner_name": "Tom Brady"
+              },
+              {
+                "selection_id": 76019881,
+                "runner_name": "Lebron James"
+              },
+              {
+                "selection_id": 71487156,
+                "runner_name": "Dana White"
+              },
+              {
+                "selection_id": 10222763,
+                "runner_name": "Kanye West"
+              },
+              {
+                "selection_id": 76019880,
+                "runner_name": "Aaron Rodgers"
+              },
+              {
+                "selection_id": 28209207,
+                "runner_name": "Caitlyn Jenner"
+              },
+              {
+                "selection_id": 12139740,
+                "runner_name": "Leonardo DiCaprio"
+              },
+              {
+                "selection_id": 5573513,
+                "runner_name": "Alex Jones"
+              },
+              {
+                "selection_id": 15859282,
+                "runner_name": "Ben Shapiro"
+              },
+              {
+                "selection_id": 84746248,
+                "runner_name": "Mikie Sherill"
+              },
+              {
+                "selection_id": 12438697,
+                "runner_name": "Mark Zuckerberg"
+              },
+              {
+                "selection_id": 38207611,
+                "runner_name": "Marjorie Taylor Greene"
+              },
+              {
+                "selection_id": 85444594,
+                "runner_name": "Zohran Mamdani"
+              },
+              {
+                "selection_id": 20502367,
+                "runner_name": "Eric Trump"
+              },
+              {
+                "selection_id": 85483449,
+                "runner_name": "Thomas Massie"
+              }
+            ]
+          },
+          "1.236263390": {
+            "market_name": "Winning Party",
+            "runners": [
+              {
+                "selection_id": 38261569,
+                "runner_name": "Republican Party"
+              },
+              {
+                "selection_id": 12987900,
+                "runner_name": "Democratic Party"
+              },
+              {
+                "selection_id": 1167491,
+                "runner_name": "Any Other"
+              }
+            ]
+          }
+        }
+      },
+      "11992955": {
+        "competition_name": "Australian Federal Politics",
+        "markets": {
+          "1.244485042": {
+            "market_name": "Next Federal Election",
+            "runners": [
+              {
+                "selection_id": 2049781,
+                "runner_name": "Labor"
+              },
+              {
+                "selection_id": 2049782,
+                "runner_name": "Coalition"
+              },
+              {
+                "selection_id": 3168678,
+                "runner_name": "Any Other Result"
+              }
+            ]
+          }
+        }
+      },
+      "12723484": {
+        "competition_name": "USA - Donald Trump Impeachment",
+        "markets": {
+          "1.241116227": {
+            "market_name": "Will Trump be impeached before 2028 Election?",
+            "runners": [
+              {
+                "selection_id": 81531231,
+                "runner_name": "Yes (To Be Impeached)"
+              },
+              {
+                "selection_id": 81531232,
+                "runner_name": "No (Not To Be Impeached)"
+              }
+            ]
+          }
+        }
+      },
+      "12268308": {
+        "competition_name": "UK - Next Prime Minister",
+        "markets": {
+          "1.230434795": {
+            "market_name": "Prime Minister after Keir Starmer",
+            "runners": [
+              {
+                "selection_id": 4562764,
+                "runner_name": "Nigel Farage"
+              },
+              {
+                "selection_id": 11149003,
+                "runner_name": "Wes Streeting"
+              },
+              {
+                "selection_id": 1288344,
+                "runner_name": "Yvette Cooper"
+              },
+              {
+                "selection_id": 24378040,
+                "runner_name": "Robert Jenrick"
+              },
+              {
+                "selection_id": 11811130,
+                "runner_name": "Angela Rayner"
+              },
+              {
+                "selection_id": 15305626,
+                "runner_name": "Kemi Badenoch"
+              },
+              {
+                "selection_id": 1138501,
+                "runner_name": "Boris Johnson"
+              },
+              {
+                "selection_id": 4758163,
+                "runner_name": "James Cleverly"
+              },
+              {
+                "selection_id": 78158828,
+                "runner_name": "Rupert Lowe"
+              },
+              {
+                "selection_id": 2601290,
+                "runner_name": "Andy Burnham"
+              },
+              {
+                "selection_id": 17129397,
+                "runner_name": "Darren Jones"
+              },
+              {
+                "selection_id": 5859542,
+                "runner_name": "Rachel Reeves"
+              },
+              {
+                "selection_id": 19629302,
+                "runner_name": "Suella Braverman"
+              },
+              {
+                "selection_id": 28275586,
+                "runner_name": "Bridget Phillipson"
+              },
+              {
+                "selection_id": 70710770,
+                "runner_name": "Torsten Bell"
+              },
+              {
+                "selection_id": 5859546,
+                "runner_name": "Lisa Nandy"
+              },
+              {
+                "selection_id": 1342094,
+                "runner_name": "Ed Davey"
+              },
+              {
+                "selection_id": 78629210,
+                "runner_name": "Zia Yusuf"
+              },
+              {
+                "selection_id": 10393242,
+                "runner_name": "Priti Patel"
+              },
+              {
+                "selection_id": 57195015,
+                "runner_name": "Danny Kruger"
+              },
+              {
+                "selection_id": 78696210,
+                "runner_name": "Matt Goodwin"
+              },
+              {
+                "selection_id": 78722091,
+                "runner_name": "Andrew Tate"
+              },
+              {
+                "selection_id": 18709793,
+                "runner_name": "Miatta Fahnbulleh"
+              },
+              {
+                "selection_id": 4519444,
+                "runner_name": "Jeremy Hunt"
+              },
+              {
+                "selection_id": 77944407,
+                "runner_name": "Holly Valance"
+              },
+              {
+                "selection_id": 13577692,
+                "runner_name": "Tom Tugendhat"
+              },
+              {
+                "selection_id": 15684319,
+                "runner_name": "Rishi Sunak"
+              },
+              {
+                "selection_id": 9273095,
+                "runner_name": "Jeremy Clarkson"
+              },
+              {
+                "selection_id": 2601254,
+                "runner_name": "David Miliband"
+              },
+              {
+                "selection_id": 1138430,
+                "runner_name": "David Cameron"
+              },
+              {
+                "selection_id": 46532571,
+                "runner_name": "Victoria Atkins"
+              },
+              {
+                "selection_id": 15829343,
+                "runner_name": "Ben Wallace"
+              },
+              {
+                "selection_id": 9505186,
+                "runner_name": "Graham Brady"
+              },
+              {
+                "selection_id": 10386960,
+                "runner_name": "Chris Bryant"
+              },
+              {
+                "selection_id": 78696211,
+                "runner_name": "Tommy Robinson"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "6423": {
+    "sport_name": "American Football",
+    "competitions": {
+      "12282733": {
+        "competition_name": "NFL",
+        "markets": {
+          "1.239389463": {
+            "market_name": "Super Bowl LX Winner 2025-26",
+            "runners": [
+              {
+                "selection_id": 50205,
+                "runner_name": "Baltimore Ravens"
+              },
+              {
+                "selection_id": 50203,
+                "runner_name": "Buffalo Bills"
+              },
+              {
+                "selection_id": 50186,
+                "runner_name": "Philadelphia Eagles"
+              },
+              {
+                "selection_id": 50214,
+                "runner_name": "Kansas City Chiefs"
+              },
+              {
+                "selection_id": 50193,
+                "runner_name": "Detroit Lions"
+              },
+              {
+                "selection_id": 43010249,
+                "runner_name": "San Francisco 49ers"
+              },
+              {
+                "selection_id": 10782388,
+                "runner_name": "Los Angeles Rams"
+              },
+              {
+                "selection_id": 42568622,
+                "runner_name": "Washington Commanders"
+              },
+              {
+                "selection_id": 50210,
+                "runner_name": "Cincinnati Bengals"
+              },
+              {
+                "selection_id": 50192,
+                "runner_name": "Green Bay Packers"
+              },
+              {
+                "selection_id": 50191,
+                "runner_name": "Minnesota Vikings"
+              },
+              {
+                "selection_id": 12481798,
+                "runner_name": "Los Angeles Chargers"
+              },
+              {
+                "selection_id": 50211,
+                "runner_name": "Denver Broncos"
+              },
+              {
+                "selection_id": 179823,
+                "runner_name": "Houston Texans"
+              },
+              {
+                "selection_id": 50190,
+                "runner_name": "Tampa Bay Buccaneers"
+              },
+              {
+                "selection_id": 50208,
+                "runner_name": "Pittsburgh Steelers"
+              },
+              {
+                "selection_id": 50194,
+                "runner_name": "Chicago Bears"
+              },
+              {
+                "selection_id": 50213,
+                "runner_name": "Seattle Seahawks"
+              },
+              {
+                "selection_id": 50189,
+                "runner_name": "Dallas Cowboys"
+              },
+              {
+                "selection_id": 50188,
+                "runner_name": "Arizona Cardinals"
+              },
+              {
+                "selection_id": 50199,
+                "runner_name": "Atlanta Falcons"
+              },
+              {
+                "selection_id": 50204,
+                "runner_name": "New England Patriots"
+              },
+              {
+                "selection_id": 50185,
+                "runner_name": "New York Giants"
+              },
+              {
+                "selection_id": 50207,
+                "runner_name": "Jacksonville Jaguars"
+              },
+              {
+                "selection_id": 50201,
+                "runner_name": "Miami Dolphins"
+              },
+              {
+                "selection_id": 50200,
+                "runner_name": "Indianapolis Colts"
+              },
+              {
+                "selection_id": 50196,
+                "runner_name": "New Orleans Saints"
+              },
+              {
+                "selection_id": 50202,
+                "runner_name": "New York Jets"
+              },
+              {
+                "selection_id": 27443341,
+                "runner_name": "Las Vegas Raiders"
+              },
+              {
+                "selection_id": 50198,
+                "runner_name": "Carolina Panthers"
+              },
+              {
+                "selection_id": 50209,
+                "runner_name": "Cleveland Browns"
+              },
+              {
+                "selection_id": 50206,
+                "runner_name": "Tennessee Titans"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

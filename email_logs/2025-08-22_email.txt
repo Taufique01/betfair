@@ -1,0 +1,53 @@
+🐎 Ghost Bet Report — 2025-08-22
+--------------------------------------------------
+[2025-08-22 13:00:31] Newmarket — 6f Hcap — Dorney Lake @ 3.55 — LOST
+[2025-08-22 13:27:01] Newmarket — 6f Listed — Lethal Levi @ 4.30 — WON
+[2025-08-22 13:58:00] York — 1m4f Hcap — Mount Atlas @ 2.96 — LOST
+[2025-08-22 14:20:01] Ffos Las — 2m Hcap — Navid @ 1.73 — LOST
+[2025-08-22 14:34:31] York — 2m Grp 2 — Trawlerman @ 1.93 — WON
+[2025-08-22 14:47:01] Newmarket — 7f Nov Stks — Monoceros @ 2.56 — WON
+[2025-08-22 14:51:00] Ffos Las — 7f Nov Stks — Lost Signal @ 1.74 — WON
+[2025-08-22 15:07:01] York — 6f Grp 2 — Do Or Do Not @ 3.20 — LOST
+[2025-08-22 15:18:01] Newmarket — 6f Hcap — Arabian Leopard @ 3.55 — LOST
+[2025-08-22 15:25:00] Ffos Las — 7f Hcap — Windsor Pass @ 2.98 — LOST
+[2025-08-22 15:44:31] York — 5f Grp 1 — Arizona Blaze @ 7.00 — LOST
+[2025-08-22 15:53:31] Newmarket — 1m2f Hcap — Arundel @ 3.00 — LOST
+[2025-08-22 16:00:30] Ffos Las — 7f Hcap — On A Vespa @ 3.10 — WON
+[2025-08-22 16:20:31] York — 1m2f Hcap — Zgharta @ 3.30 — LOST
+[2025-08-22 16:31:01] Newmarket — 1m4f Hcap — Venezuelan @ 1.59 — LOST
+[2025-08-22 16:37:01] Ffos Las — 1m2f Stks — The Pug @ 3.50 — WON
+[2025-08-22 16:51:30] York — 7f Mdn Stks — Naval Light @ 4.30 — LOST
+[2025-08-22 16:59:01] Kilbeggan — 2m Mdn Hrd — Kabylia @ 2.60 — LOST
+[2025-08-22 17:06:00] Ffos Las — 1m4f Hcap — Moab @ 3.20 — LOST
+[2025-08-22 17:14:01] Hamilton — 1m Mdn Stks — August George @ 1.74 — WON
+[2025-08-22 17:16:00] Killarney — 1m Nursery — Invincible Will @ 3.75 — LOST
+[2025-08-22 17:21:30] Goodwood — 1m1f Hcap — Risen Again @ 3.80 — LOST
+[2025-08-22 17:29:31] York — 1m Hcap — Fifth Column @ 5.00 — WON
+[2025-08-22 17:33:31] Kilbeggan — 2m3f Nov Hrd — Avondale @ 3.95 — LOST
+[2025-08-22 17:42:31] Hamilton — 1m1f Hcap — Seren Star @ 1.81 — WON
+[2025-08-22 17:47:00] Killarney — 1m Stks — Sujet @ 2.36 — WON
+[2025-08-22 17:55:01] Goodwood — 6f Mdn Stks — Enha @ 3.05 — LOST
+[2025-08-22 18:03:31] Kilbeggan — 2m3f Hcap Hrd — Smiling Bess @ 4.00 — LOST
+[2025-08-22 18:10:30] Hamilton — 1m3f Nov Stks — Tiernan @ 1.26 — LOST
+[2025-08-22 18:17:30] Killarney — 1m Listed — Fiery Lucy @ 3.60 — LOST
+[2025-08-22 18:24:30] Goodwood — 1m Hcap — Atlantis Blue @ 2.62 — LOST
+[2025-08-22 18:35:31] Kilbeggan — 3m1f Mdn Hrd — Quantum Quest @ 1.87 — WON
+[2025-08-22 18:42:31] Hamilton — 1m4f Hcap — Defiance @ 3.20 — LOST
+[2025-08-22 18:49:31] Killarney — 1m Hcap — Vegas Muse @ 7.20 — WON
+[2025-08-22 18:57:31] Goodwood — 1m4f Hcap — Sound Janet @ 4.40 — LOST
+[2025-08-22 19:06:01] Kilbeggan — 3m2f Hcap Chs — Hit The Frame @ 6.20 — LOST
+[2025-08-22 19:18:00] Killarney — 1m6f Hcap — Kilmeaden @ 5.30 — LOST
+[2025-08-22 19:23:00] Goodwood — 5f Hcap — On Edge @ 4.20 — LOST
+[2025-08-22 19:25:02] Hamilton — 5f Hcap — Naanas Sparkle @ 3.50 — LOST
+[2025-08-22 19:37:01] Kilbeggan — 3m2f Hcap Chs — Bal Kauto @ 2.46 — WON
+[2025-08-22 19:46:01] Hamilton — 6f Hcap — The Good Biscuit @ 3.40 — LOST
+[2025-08-22 19:49:31] Killarney — 1m6f Hcap — Bear Creek @ 3.30 — LOST
+[2025-08-22 19:56:31] Goodwood — 6f Hcap — Hunky Dory @ 5.10 — LOST
+[2025-08-22 20:02:00] Kilbeggan — 2m INHF — Sellerna Bay @ 2.38 — LOST
+[2025-08-22 20:13:31] Hamilton — 5f Hcap — South Shore @ 4.10 — LOST
+[2025-08-22 20:22:01] Killarney — 2m1f Stks — Enniskerry @ 2.96 — LOST
+
+Total Bets: 46
+Wins: 13
+Losses: 33
+Net Profit/Loss: $-6.43

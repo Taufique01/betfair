@@ -1,0 +1,165 @@
+2025-10-03 05:00:00 | INFO | Logged in to Betfair API
+2025-10-03 05:00:00 | INFO | Fetched 42 markets for today
+2025-10-03 05:00:00 | INFO | Scheduled bet for 3m2f Hcap Chs at 1:51:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m Mdn Hrd at 1:59:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m Nov Hrd at 2:08:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 7f Hcap at 2:18:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m2f Hcap Hrd at 2:26:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m Mdn Hrd at 2:34:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m4f Nov Hcap Hrd at 2:43:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m Hcap at 2:53:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m2f Nov Hrd at 3:01:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m Hcap Hrd at 3:09:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m Hcap Hrd at 3:18:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 1m4f Nov Stks at 3:28:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m2f Hrd at 3:36:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m Hrd at 3:44:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m4f Hcap Hrd at 3:51:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m Hcap at 3:58:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 1m6f Listed at 4:03:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m3f Hcap Chs at 4:11:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m4f Hcap Hrd at 4:18:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m7f Hcap Hrd at 4:25:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 1m Nursery at 4:33:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 6f Hcap at 4:38:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m6f Hcap Hrd at 4:46:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m4f Hcap Hrd at 4:53:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m4f Hcap Chs at 5:00:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 7f Nov Stks at 5:08:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 1m Stks at 5:13:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 5f Hcap at 5:18:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 2m INHF at 5:28:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 3m Hcap Chs at 5:35:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 7f Nov Stks at 5:43:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 5f Stks at 5:53:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 7f Nov Stks at 6:13:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 5f Listed at 6:28:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 1m Hcap at 6:43:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 7f Nursery at 6:58:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 6f Hcap at 7:13:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 7f Listed at 7:28:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 5f Hcap at 7:43:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 7f Mdn at 7:58:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 1m6f Hcap at 8:13:30PM
+2025-10-03 05:00:00 | INFO | Scheduled bet for 7f Hcap at 8:28:30PM
+2025-10-03 13:51:30 | INFO | Bet placed: Unblinking x 3.95 @ Fontwell 3m2f Hcap Chs
+2025-10-03 13:59:30 | INFO | Bet placed: Dschingis Dragon x 1.51 @ Gowran 2m Mdn Hrd
+2025-10-03 14:04:01 | INFO | Logged bet: 2025-10-03 14:04:01 | Fontwell | 3m2f Hcap Chs | 2025-10-03 13:53:00 | 12011469 | Unblinking | 3.95 | LOST
+2025-10-03 14:04:01 | INFO | watch - Market closed: 3m2f Hcap Chs, result: LOST
+2025-10-03 14:08:30 | INFO | Bet placed: Spadestep x 1.49 @ Hexham 2m Nov Hrd
+2025-10-03 14:10:01 | INFO | Logged bet: 2025-10-03 14:10:01 | Gowran Park | 2m Mdn Hrd | 2025-10-03 14:01:00 | 71182823 | Dschingis Dragon | 1.51 | WON
+2025-10-03 14:10:01 | INFO | watch - Market closed: 2m Mdn Hrd, result: WON
+2025-10-03 14:18:30 | INFO | Bet placed: Dannick x 7.6 @ Ascot 7f Hcap
+2025-10-03 14:21:31 | INFO | Logged bet: 2025-10-03 14:21:31 | Hexham | 2m Nov Hrd | 2025-10-03 14:10:00 | 81034173 | Spadestep | 1.49 | WON
+2025-10-03 14:21:31 | INFO | watch - Market closed: 2m Nov Hrd, result: WON
+2025-10-03 14:26:30 | INFO | Bet placed: Jorebel x 1.94 @ Fontwell 2m2f Hcap Hrd
+2025-10-03 14:30:31 | INFO | Logged bet: 2025-10-03 14:30:31 | Ascot | 7f Hcap | 2025-10-03 14:20:00 | 73455018 | Dannick | 7.6 | LOST
+2025-10-03 14:30:31 | INFO | watch - Market closed: 7f Hcap, result: LOST
+2025-10-03 14:34:30 | INFO | Bet placed: Los Blanco x 2.18 @ Gowran 2m Mdn Hrd
+2025-10-03 14:38:01 | INFO | Logged bet: 2025-10-03 14:38:01 | Fontwell | 2m2f Hcap Hrd | 2025-10-03 14:28:00 | 77034532 | Jorebel | 1.94 | WON
+2025-10-03 14:38:01 | INFO | watch - Market closed: 2m2f Hcap Hrd, result: WON
+2025-10-03 14:43:30 | INFO | Bet placed: Slemish x 4.7 @ Hexham 2m4f Nov Hcap Hrd
+2025-10-03 14:44:30 | INFO | Logged bet: 2025-10-03 14:44:30 | Gowran Park | 2m Mdn Hrd | 2025-10-03 14:36:00 | 78278185 | Los Blanco | 2.18 | LOST
+2025-10-03 14:44:30 | INFO | watch - Market closed: 2m Mdn Hrd, result: LOST
+2025-10-03 14:53:30 | INFO | Bet placed: Double Meaning x 3.2 @ Ascot 2m Hcap
+2025-10-03 14:56:01 | INFO | Logged bet: 2025-10-03 14:56:01 | Hexham | 2m4f Nov Hcap Hrd | 2025-10-03 14:45:00 | 11208899 | Slemish | 4.7 | LOST
+2025-10-03 14:56:01 | INFO | watch - Market closed: 2m4f Nov Hcap Hrd, result: LOST
+2025-10-03 15:01:30 | INFO | Bet placed: Fresh Perspective x 2.32 @ Fontwell 2m2f Nov Hrd
+2025-10-03 15:04:31 | INFO | Logged bet: 2025-10-03 15:04:31 | Ascot | 2m Hcap | 2025-10-03 14:55:00 | 72651341 | Double Meaning | 3.2 | LOST
+2025-10-03 15:04:31 | INFO | watch - Market closed: 2m Hcap, result: LOST
+2025-10-03 15:09:30 | INFO | Bet placed: Leave In Secret x 5.1 @ Gowran 2m Hcap Hrd
+2025-10-03 15:12:31 | INFO | Logged bet: 2025-10-03 15:12:31 | Fontwell | 2m2f Nov Hrd | 2025-10-03 15:03:00 | 75729963 | Fresh Perspective | 2.32 | WON
+2025-10-03 15:12:31 | INFO | watch - Market closed: 2m2f Nov Hrd, result: WON
+2025-10-03 15:18:30 | INFO | Bet placed: Double Digits x 2.54 @ Hexham 2m Hcap Hrd
+2025-10-03 15:19:01 | INFO | Logged bet: 2025-10-03 15:19:01 | Gowran Park | 2m Hcap Hrd | 2025-10-03 15:11:00 | 70296564 | Leave In Secret | 5.1 | LOST
+2025-10-03 15:19:01 | INFO | watch - Market closed: 2m Hcap Hrd, result: LOST
+2025-10-03 15:28:30 | INFO | Bet placed: Race To The Stars x 2.28 @ Ascot 1m4f Nov Stks
+2025-10-03 15:29:01 | INFO | Logged bet: 2025-10-03 15:29:01 | Hexham | 2m Hcap Hrd | 2025-10-03 15:20:00 | 78957420 | Double Digits | 2.54 | LOST
+2025-10-03 15:29:01 | INFO | watch - Market closed: 2m Hcap Hrd, result: LOST
+2025-10-03 15:36:30 | INFO | Bet placed: Manyana Blue x 4.2 @ Fontwell 2m2f Hrd
+2025-10-03 15:39:00 | INFO | Logged bet: 2025-10-03 15:39:00 | Ascot | 1m4f Nov Stks | 2025-10-03 15:30:00 | 87964095 | Race To The Stars | 2.28 | LOST
+2025-10-03 15:39:01 | INFO | watch - Market closed: 1m4f Nov Stks, result: LOST
+2025-10-03 15:44:30 | INFO | Bet placed: The Great Nudie x 2.3 @ Gowran 2m Hrd
+2025-10-03 15:47:31 | INFO | Logged bet: 2025-10-03 15:47:31 | Fontwell | 2m2f Hrd | 2025-10-03 15:38:00 | 79404943 | Manyana Blue | 4.2 | LOST
+2025-10-03 15:47:31 | INFO | watch - Market closed: 2m2f Hrd, result: LOST
+2025-10-03 15:51:30 | INFO | Bet placed: Divilabother x 2.88 @ Hexham 2m4f Hcap Hrd
+2025-10-03 15:55:01 | INFO | Logged bet: 2025-10-03 15:55:01 | Gowran Park | 2m Hrd | 2025-10-03 15:46:00 | 71120888 | The Great Nudie | 2.3 | LOST
+2025-10-03 15:55:01 | INFO | watch - Market closed: 2m Hrd, result: LOST
+2025-10-03 15:58:30 | INFO | Bet placed: New York Minute x 3.45 @ Southwell 2m Hcap
+2025-10-03 16:03:30 | INFO | Bet placed: Push The Limit x 2.72 @ Ascot 1m6f Listed
+2025-10-03 16:06:30 | INFO | Logged bet: 2025-10-03 16:06:30 | Southwell | 2m Hcap | 2025-10-03 16:00:00 | 3330642 | New York Minute | 3.45 | WON
+2025-10-03 16:06:30 | INFO | watch - Market closed: 2m Hcap, result: WON
+2025-10-03 16:08:01 | INFO | Logged bet: 2025-10-03 16:08:01 | Hexham | 2m4f Hcap Hrd | 2025-10-03 15:53:00 | 60237780 | Divilabother | 2.88 | LOST
+2025-10-03 16:08:01 | INFO | watch - Market closed: 2m4f Hcap Hrd, result: LOST
+2025-10-03 16:11:30 | INFO | Bet placed: Hecouldbetheone x 3.35 @ Fontwell 2m3f Hcap Chs
+2025-10-03 16:13:31 | INFO | Logged bet: 2025-10-03 16:13:31 | Ascot | 1m6f Listed | 2025-10-03 16:05:00 | 74948403 | Push The Limit | 2.72 | LOST
+2025-10-03 16:13:31 | INFO | watch - Market closed: 1m6f Listed, result: LOST
+2025-10-03 16:18:30 | INFO | Bet placed: Arctic Flame x 3.8 @ Gowran 2m4f Hcap Hrd
+2025-10-03 16:23:01 | INFO | Logged bet: 2025-10-03 16:23:01 | Fontwell | 2m3f Hcap Chs | 2025-10-03 16:13:00 | 42056100 | Hecouldbetheone | 3.35 | LOST
+2025-10-03 16:23:01 | INFO | watch - Market closed: 2m3f Hcap Chs, result: LOST
+2025-10-03 16:25:30 | INFO | Bet placed: Getaway With You x 3.55 @ Hexham 2m7f Hcap Hrd
+2025-10-03 16:33:01 | INFO | Logged bet: 2025-10-03 16:33:01 | Gowran Park | 2m4f Hcap Hrd | 2025-10-03 16:20:00 | 37590 | Arctic Flame | 3.8 | LOST
+2025-10-03 16:33:01 | INFO | watch - Market closed: 2m4f Hcap Hrd, result: LOST
+2025-10-03 16:33:30 | INFO | Bet placed: Previous x 3.55 @ Southwell 1m Nursery
+2025-10-03 16:38:30 | INFO | Bet placed: Sondad x 6.2 @ Ascot 6f Hcap
+2025-10-03 16:39:30 | INFO | Logged bet: 2025-10-03 16:39:30 | Southwell | 1m Nursery | 2025-10-03 16:35:00 | 85225517 | Previous | 3.55 | WON
+2025-10-03 16:39:30 | INFO | watch - Market closed: 1m Nursery, result: WON
+2025-10-03 16:42:31 | INFO | Logged bet: 2025-10-03 16:42:31 | Hexham | 2m7f Hcap Hrd | 2025-10-03 16:27:00 | 43868907 | Getaway With You | 3.55 | LOST
+2025-10-03 16:42:31 | INFO | watch - Market closed: 2m7f Hcap Hrd, result: LOST
+2025-10-03 16:46:00 | INFO | Logged bet: 2025-10-03 16:46:00 | Ascot | 6f Hcap | 2025-10-03 16:40:00 | 61039759 | Sondad | 6.2 | LOST
+2025-10-03 16:46:00 | INFO | watch - Market closed: 6f Hcap, result: LOST
+2025-10-03 16:46:30 | INFO | Bet placed: Summer In Milan x 2.48 @ Fontwell 2m6f Hcap Hrd
+2025-10-03 16:53:30 | INFO | Bet placed: Darcys Friend x 2.6 @ Gowran 2m4f Hcap Hrd
+2025-10-03 16:59:01 | INFO | Logged bet: 2025-10-03 16:59:01 | Fontwell | 2m6f Hcap Hrd | 2025-10-03 16:48:00 | 67671639 | Summer In Milan | 2.48 | LOST
+2025-10-03 16:59:01 | INFO | watch - Market closed: 2m6f Hcap Hrd, result: LOST
+2025-10-03 17:00:30 | INFO | Bet placed: Am Still Here x 4.5 @ Hexham 2m4f Hcap Chs
+2025-10-03 17:05:01 | INFO | Logged bet: 2025-10-03 17:05:01 | Gowran Park | 2m4f Hcap Hrd | 2025-10-03 16:55:00 | 65217650 | Darcys Friend | 2.6 | LOST
+2025-10-03 17:05:01 | INFO | watch - Market closed: 2m4f Hcap Hrd, result: LOST
+2025-10-03 17:08:30 | INFO | Bet placed: Magical Merlot x 3.5 @ Southwell 7f Nov Stks
+2025-10-03 17:13:30 | INFO | Bet placed: Grizedale x 4.1 @ Ascot 1m Stks
+2025-10-03 17:16:00 | INFO | Logged bet: 2025-10-03 17:16:00 | Southwell | 7f Nov Stks | 2025-10-03 17:10:00 | 87222236 | Magical Merlot | 3.5 | LOST
+2025-10-03 17:16:00 | INFO | watch - Market closed: 7f Nov Stks, result: LOST
+2025-10-03 17:18:30 | INFO | Bet placed: Lismacbryan Hill x 3.1 @ Dundalk 5f Hcap
+2025-10-03 17:18:31 | INFO | Logged bet: 2025-10-03 17:18:31 | Hexham | 2m4f Hcap Chs | 2025-10-03 17:02:00 | 61833072 | Am Still Here | 4.5 | LOST
+2025-10-03 17:18:31 | INFO | watch - Market closed: 2m4f Hcap Chs, result: LOST
+2025-10-03 17:22:30 | INFO | Logged bet: 2025-10-03 17:22:30 | Ascot | 1m Stks | 2025-10-03 17:15:00 | 41176 | Grizedale | 4.1 | LOST
+2025-10-03 17:22:30 | INFO | watch - Market closed: 1m Stks, result: LOST
+2025-10-03 17:28:30 | INFO | Bet placed: Liadawn x 1.78 @ Gowran 2m INHF
+2025-10-03 17:35:30 | INFO | Bet placed: Upfordebate x 4.5 @ Hexham 3m Hcap Chs
+2025-10-03 17:37:00 | INFO | Logged bet: 2025-10-03 17:37:00 | Gowran Park | 2m INHF | 2025-10-03 17:30:00 | 84238896 | Liadawn | 1.78 | WON
+2025-10-03 17:37:00 | INFO | watch - Market closed: 2m INHF, result: WON
+2025-10-03 17:43:30 | INFO | Bet placed: Winding Stream x 2.12 @ Southwell 7f Nov Stks
+2025-10-03 17:50:01 | INFO | Logged bet: 2025-10-03 17:50:01 | Hexham | 3m Hcap Chs | 2025-10-03 17:37:00 | 63374167 | Upfordebate | 4.5 | LOST
+2025-10-03 17:50:01 | INFO | watch - Market closed: 3m Hcap Chs, result: LOST
+2025-10-03 17:52:00 | INFO | Logged bet: 2025-10-03 17:52:00 | Southwell | 7f Nov Stks | 2025-10-03 17:45:00 | 89365085 | Winding Stream | 2.12 | WON
+2025-10-03 17:52:00 | INFO | watch - Market closed: 7f Nov Stks, result: WON
+2025-10-03 17:53:30 | INFO | Bet placed: Valiant Force x 1.89 @ Dundalk 5f Stks
+2025-10-03 17:59:00 | INFO | Logged bet: 2025-10-03 17:59:00 | Dundalk | 5f Stks | 2025-10-03 17:55:00 | 12841619 | Valiant Force | 1.89 | LOST
+2025-10-03 17:59:00 | INFO | watch - Market closed: 5f Stks, result: LOST
+2025-10-03 17:59:03 | INFO | Logged bet: 2025-10-03 17:59:03 | Dundalk | 5f Hcap | 2025-10-03 17:20:00 | 65274526 | Lismacbryan Hill | 3.1 | LOST
+2025-10-03 17:59:03 | INFO | watch - Market closed: 5f Hcap, result: LOST
+2025-10-03 18:13:30 | INFO | Bet placed: Zabeel Alkabeir x 1.55 @ Southwell 7f Nov Stks
+2025-10-03 18:22:31 | INFO | Logged bet: 2025-10-03 18:22:31 | Southwell | 7f Nov Stks | 2025-10-03 18:15:00 | 86669811 | Zabeel Alkabeir | 1.55 | WON
+2025-10-03 18:22:31 | INFO | watch - Market closed: 7f Nov Stks, result: WON
+2025-10-03 18:28:30 | WARNING | No available odds for market 5f Listed
+2025-10-03 18:28:30 | WARNING | No odds for Dundalk 5f Listed, skipping
+2025-10-03 18:43:30 | INFO | Bet placed: Bin Ajwad x 4.7 @ Southwell 1m Hcap
+2025-10-03 18:53:31 | INFO | Logged bet: 2025-10-03 18:53:31 | Southwell | 1m Hcap | 2025-10-03 18:45:00 | 82319518 | Bin Ajwad | 4.7 | WON
+2025-10-03 18:53:31 | INFO | watch - Market closed: 1m Hcap, result: WON
+2025-10-03 18:58:30 | WARNING | No available odds for market 7f Nursery
+2025-10-03 18:58:30 | WARNING | No odds for Dundalk 7f Nursery, skipping
+2025-10-03 19:13:30 | INFO | Bet placed: Backspin x 4.6 @ Southwell 6f Hcap
+2025-10-03 19:21:00 | INFO | Logged bet: 2025-10-03 19:21:00 | Southwell | 6f Hcap | 2025-10-03 19:15:00 | 4670139 | Backspin | 4.6 | LOST
+2025-10-03 19:21:00 | INFO | watch - Market closed: 6f Hcap, result: LOST
+2025-10-03 19:28:30 | WARNING | No available odds for market 7f Listed
+2025-10-03 19:28:30 | WARNING | No odds for Dundalk 7f Listed, skipping
+2025-10-03 19:43:30 | INFO | Bet placed: Piperstown x 4.3 @ Southwell 5f Hcap
+2025-10-03 19:50:30 | INFO | Logged bet: 2025-10-03 19:50:30 | Southwell | 5f Hcap | 2025-10-03 19:45:00 | 70938670 | Piperstown | 4.3 | LOST
+2025-10-03 19:50:30 | INFO | watch - Market closed: 5f Hcap, result: LOST
+2025-10-03 19:58:30 | WARNING | No available odds for market 7f Mdn
+2025-10-03 19:58:30 | WARNING | No odds for Dundalk 7f Mdn, skipping
+2025-10-03 20:13:30 | INFO | Bet placed: Night Tara x 3.05 @ Southwell 1m6f Hcap
+2025-10-03 20:21:30 | INFO | Logged bet: 2025-10-03 20:21:30 | Southwell | 1m6f Hcap | 2025-10-03 20:15:00 | 85263566 | Night Tara | 3.05 | LOST
+2025-10-03 20:21:30 | INFO | watch - Market closed: 1m6f Hcap, result: LOST
+2025-10-03 20:28:30 | WARNING | No available odds for market 7f Hcap
+2025-10-03 20:28:30 | WARNING | No odds for Dundalk 7f Hcap, skipping

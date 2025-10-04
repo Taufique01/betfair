@@ -1,0 +1,366 @@
+
+    <h2>🐎 Ghost Bet Report — Tuesday, September 30, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
+        <thead style="background-color:#f2f2f2;">
+            <tr>
+                <th>Time</th>
+                <th>Venue</th>
+                <th>Race</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#28a745">
+            <td>Sep 30, 2025 01:49 PM</td>
+            <td>Cork</td>
+            <td>5f Mdn</td>
+            <td>Tornado Kiss</td>
+            <td>1.88</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 30, 2025 02:06 PM</td>
+            <td>Ayr</td>
+            <td>1m App Hcap</td>
+            <td>Dwindling Funds</td>
+            <td>3.80</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 02:15 PM</td>
+            <td>Sedgefield</td>
+            <td>2m1f Hcap Hrd</td>
+            <td>Fairly Fulling</td>
+            <td>4.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 02:23 PM</td>
+            <td>Cork</td>
+            <td>6f Nursery</td>
+            <td>Soy El Fuego</td>
+            <td>5.90</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 02:30 PM</td>
+            <td>Bath</td>
+            <td>1m2f Hcap</td>
+            <td>Stipulation</td>
+            <td>4.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 02:37 PM</td>
+            <td>Ayr</td>
+            <td>6f Mdn Stks</td>
+            <td>Jeddaal</td>
+            <td>1.93</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 30, 2025 02:43 PM</td>
+            <td>Sedgefield</td>
+            <td>2m1f Mdn Hrd</td>
+            <td>Ammes</td>
+            <td>1.41</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 02:52 PM</td>
+            <td>Cork</td>
+            <td>6f Hcap</td>
+            <td>Amicitia</td>
+            <td>3.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 03:00 PM</td>
+            <td>Bath</td>
+            <td>1m5f Hcap</td>
+            <td>Harlington</td>
+            <td>5.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 03:07 PM</td>
+            <td>Ayr</td>
+            <td>1m2f Hcap</td>
+            <td>Obito</td>
+            <td>3.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 03:16 PM</td>
+            <td>Sedgefield</td>
+            <td>2m5f Hcap Chs</td>
+            <td>Moonshine Man</td>
+            <td>2.66</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 30, 2025 03:22 PM</td>
+            <td>Cork</td>
+            <td>6f Hcap</td>
+            <td>Ukiyo</td>
+            <td>4.50</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 30, 2025 03:30 PM</td>
+            <td>Bath</td>
+            <td>1m Hcap</td>
+            <td>Thapa Vc</td>
+            <td>5.10</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 03:37 PM</td>
+            <td>Ayr</td>
+            <td>7f Hcap</td>
+            <td>Quest For Fun</td>
+            <td>3.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 30, 2025 03:45 PM</td>
+            <td>Sedgefield</td>
+            <td>2m4f Hcap Hrd</td>
+            <td>Zamond</td>
+            <td>3.10</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 03:54 PM</td>
+            <td>Cork</td>
+            <td>1m Mdn</td>
+            <td>River Ara</td>
+            <td>2.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 03:59 PM</td>
+            <td>Bath</td>
+            <td>1m Hcap</td>
+            <td>Havana Mojito</td>
+            <td>6.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 30, 2025 04:06 PM</td>
+            <td>Ayr</td>
+            <td>7f Hcap</td>
+            <td>Jkr Cobbler</td>
+            <td>4.90</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 04:21 PM</td>
+            <td>Sedgefield</td>
+            <td>2m Hcap Chs</td>
+            <td>Delpotro</td>
+            <td>2.52</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 30, 2025 04:22 PM</td>
+            <td>Cork</td>
+            <td>1m2f Listed</td>
+            <td>Purview</td>
+            <td>4.10</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 30, 2025 04:28 PM</td>
+            <td>Bath</td>
+            <td>1m Nov Stks</td>
+            <td>Item</td>
+            <td>1.82</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 04:40 PM</td>
+            <td>Ayr</td>
+            <td>6f Hcap</td>
+            <td>Montezuma</td>
+            <td>4.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 30, 2025 04:50 PM</td>
+            <td>Sedgefield</td>
+            <td>2m1f NHF</td>
+            <td>Siouxfonic</td>
+            <td>2.72</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 04:53 PM</td>
+            <td>Cork</td>
+            <td>1m Hcap</td>
+            <td>Sujet</td>
+            <td>4.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 30, 2025 04:58 PM</td>
+            <td>Bath</td>
+            <td>5f Hcap</td>
+            <td>Hk Fourteen</td>
+            <td>4.50</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 05:05 PM</td>
+            <td>Newcastle</td>
+            <td>1m2f Hcap</td>
+            <td>Hashtagnotions</td>
+            <td>4.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 05:13 PM</td>
+            <td>Ayr</td>
+            <td>1m7f Hcap</td>
+            <td>Just Dottie</td>
+            <td>2.28</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 05:28 PM</td>
+            <td>Cork</td>
+            <td>1m Hcap</td>
+            <td>Famous Enough</td>
+            <td>5.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 05:34 PM</td>
+            <td>Bath</td>
+            <td>6f Nursery</td>
+            <td>Walk On Walk On</td>
+            <td>4.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 05:38 PM</td>
+            <td>Newcastle</td>
+            <td>2m Hcap</td>
+            <td>Navid</td>
+            <td>1.40</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 30, 2025 06:03 PM</td>
+            <td>Bath</td>
+            <td>6f Hcap</td>
+            <td>On Edge</td>
+            <td>6.40</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 30, 2025 06:05 PM</td>
+            <td>Newcastle</td>
+            <td>6f Nov Stks</td>
+            <td>Hello Goodbye</td>
+            <td>1.91</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 30, 2025 06:34 PM</td>
+            <td>Newcastle</td>
+            <td>7f Mdn Stks</td>
+            <td>Golden Conqueror</td>
+            <td>2.02</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 06:37 PM</td>
+            <td>Bath</td>
+            <td>1m2f Arab Hcap</td>
+            <td>Mobaasher A</td>
+            <td>4.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 07:07 PM</td>
+            <td>Newcastle</td>
+            <td>7f Nursery</td>
+            <td>Thanos</td>
+            <td>2.94</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 07:37 PM</td>
+            <td>Newcastle</td>
+            <td>1m Hcap</td>
+            <td>Barleybrown</td>
+            <td>4.10</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 30, 2025 08:04 PM</td>
+            <td>Newcastle</td>
+            <td>7f Hcap</td>
+            <td>Penelope Valentine</td>
+            <td>2.32</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 30, 2025 08:34 PM</td>
+            <td>Newcastle</td>
+            <td>6f Hcap</td>
+            <td>The Green Man</td>
+            <td>5.30</td>
+            <td>WON</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 38 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 15 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 23 <br>
+        <strong>Net Profit/Loss:</strong> <span style="color:#28a745;">$15.46</span>
+    </p>
+    

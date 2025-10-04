@@ -1,0 +1,43 @@
+2025-08-21 19:27:14 | INFO | Logged in to Betfair API
+2025-08-21 19:27:14 | INFO | ⏱ Already past 5:00 AM, fetching today's races immediately...
+2025-08-21 19:27:14 | INFO | Fetched 10 markets for today
+2025-08-21 19:27:14 | INFO | Scheduled bet for 7f Hcap at 7:28:30PM
+2025-08-21 19:27:14 | INFO | Scheduled bet for 2m1f Hcap Chs at 7:35:30PM
+2025-08-21 19:27:14 | INFO | Scheduled bet for 5f Hcap at 7:43:30PM
+2025-08-21 19:27:14 | INFO | Scheduled bet for 1m Hcap at 7:53:30PM
+2025-08-21 19:27:14 | INFO | Scheduled bet for 7f Hcap at 7:58:30PM
+2025-08-21 19:27:14 | INFO | Scheduled bet for 2m1f INHF at 8:05:30PM
+2025-08-21 19:27:14 | INFO | Scheduled bet for 1m Hcap at 8:13:30PM
+2025-08-21 19:27:14 | INFO | Scheduled bet for 6f Stks at 8:28:30PM
+2025-08-21 19:27:14 | INFO | Scheduled bet for 6f Hcap at 8:43:30PM
+2025-08-21 19:27:14 | INFO | Scheduled bet for 1m2f Hcap at 8:58:30PM
+2025-08-21 19:28:30 | INFO | Bet placed: Arlecchinos Rex x 2.94 @ Chelmsford 7f Hcap
+2025-08-21 19:35:30 | INFO | Bet placed: Wonleg x 3.0 @ Killarney 2m1f Hcap Chs
+2025-08-21 19:35:30 | INFO | Logged bet: 2025-08-21 19:35:30 | Chelmsford City | 7f Hcap | 2025-08-21 19:30:00 | 69684860 | Arlecchinos Rex | 2.94 | LOST
+2025-08-21 19:35:30 | INFO | watch - Market closed: 7f Hcap, result: LOST
+2025-08-21 19:43:30 | INFO | Bet placed: Northern Spirit x 7.2 @ Newcastle 5f Hcap
+2025-08-21 19:47:01 | INFO | Logged bet: 2025-08-21 19:47:01 | Killarney | 2m1f Hcap Chs | 2025-08-21 19:37:00 | 74399324 | Wonleg | 3.0 | LOST
+2025-08-21 19:47:01 | INFO | watch - Market closed: 2m1f Hcap Chs, result: LOST
+2025-08-21 19:51:00 | INFO | Logged bet: 2025-08-21 19:51:00 | Newcastle | 5f Hcap | 2025-08-21 19:45:00 | 227336 | Northern Spirit | 7.2 | WON
+2025-08-21 19:51:00 | INFO | watch - Market closed: 5f Hcap, result: WON
+2025-08-21 19:53:30 | INFO | Bet placed: Serialise x 4.3 @ Leopardstown 1m Hcap
+2025-08-21 19:58:30 | INFO | Bet placed: Vitalline x 5.5 @ Chelmsford 7f Hcap
+2025-08-21 20:00:00 | INFO | Logged bet: 2025-08-21 20:00:00 | Leopardstown | 1m Hcap | 2025-08-21 19:55:00 | 61566327 | Serialise | 4.3 | LOST
+2025-08-21 20:00:00 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-08-21 20:05:30 | INFO | Bet placed: Parnell Street x 1.6 @ Killarney 2m1f INHF
+2025-08-21 20:08:01 | INFO | Logged bet: 2025-08-21 20:08:01 | Chelmsford City | 7f Hcap | 2025-08-21 20:00:00 | 35467164 | Vitalline | 5.5 | LOST
+2025-08-21 20:08:01 | INFO | watch - Market closed: 7f Hcap, result: LOST
+2025-08-21 20:13:30 | INFO | Bet placed: Talis Evolvere x 5.1 @ Newcastle 1m Hcap
+2025-08-21 20:14:01 | INFO | Logged bet: 2025-08-21 20:14:01 | Killarney | 2m1f INHF | 2025-08-21 20:07:00 | 4280727 | Parnell Street | 1.6 | WON
+2025-08-21 20:14:01 | INFO | watch - Market closed: 2m1f INHF, result: WON
+2025-08-21 20:21:00 | INFO | Logged bet: 2025-08-21 20:21:00 | Newcastle | 1m Hcap | 2025-08-21 20:15:00 | 46868770 | Talis Evolvere | 5.1 | LOST
+2025-08-21 20:21:00 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-08-21 20:28:30 | INFO | Bet placed: Poetic Jack x 2.38 @ Chelmsford 6f Stks
+2025-08-21 20:40:31 | INFO | Logged bet: 2025-08-21 20:40:31 | Chelmsford City | 6f Stks | 2025-08-21 20:30:00 | 49924762 | Poetic Jack | 2.38 | LOST
+2025-08-21 20:40:31 | INFO | watch - Market closed: 6f Stks, result: LOST
+2025-08-21 20:43:30 | INFO | Bet placed: Tuco Salamanca x 4.6 @ Newcastle 6f Hcap
+2025-08-21 20:50:31 | INFO | Logged bet: 2025-08-21 20:50:31 | Newcastle | 6f Hcap | 2025-08-21 20:45:00 | 28108452 | Tuco Salamanca | 4.6 | WON
+2025-08-21 20:50:31 | INFO | watch - Market closed: 6f Hcap, result: WON
+2025-08-21 20:58:30 | INFO | Bet placed: Caspian King x 3.4 @ Chelmsford 1m2f Hcap
+2025-08-21 21:07:31 | INFO | Logged bet: 2025-08-21 21:07:31 | Chelmsford City | 1m2f Hcap | 2025-08-21 21:00:00 | 70397067 | Caspian King | 3.4 | LOST
+2025-08-21 21:07:31 | INFO | watch - Market closed: 1m2f Hcap, result: LOST

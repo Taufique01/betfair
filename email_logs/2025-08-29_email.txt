@@ -1,0 +1,59 @@
+🐎 Ghost Bet Report — 2025-08-29
+--------------------------------------------------
+[2025-08-29 13:34:31] Ffos Las — 5f Hcap — Call Time @ 3.50 — LOST
+[2025-08-29 14:00:30] Ffos Las — 7f Hcap — Cypriot Diaspora @ 2.02 — WON
+[2025-08-29 14:11:01] Thirsk — 1m Hcap — Jewel Maker @ 4.60 — LOST
+[2025-08-29 14:21:00] Sandown — 5f Nursery — Novelette @ 3.50 — LOST
+[2025-08-29 14:36:01] Ffos Las — 1m Mdn Stks — Participle @ 1.53 — LOST
+[2025-08-29 14:41:30] Thirsk — 1m Nov Stks — Nada Two @ 1.63 — LOST
+[2025-08-29 14:57:31] Sandown — 5f Hcap — Charlie Mason @ 4.80 — LOST
+[2025-08-29 15:02:01] Ffos Las — 1m Stks — Bobby Dassler @ 2.10 — LOST
+[2025-08-29 15:14:31] Thirsk — 1m Nov Stks — Be The Standard @ 3.20 — WON
+[2025-08-29 15:28:01] Sandown — 7f Mdn Stks — Accredit @ 4.00 — LOST
+[2025-08-29 15:35:31] Ffos Las — 1m2f Hcap — Penn Avenue @ 2.92 — LOST
+[2025-08-29 16:01:01] Sandown — 1m Hcap — Man of La Mancha @ 3.20 — WON
+[2025-08-29 16:07:03] Thirsk — 6f Hcap — Dark Cloud Rising @ 5.70 — LOST
+[2025-08-29 16:13:31] Ffos Las — 1m4f Hcap — Cloudside Rock @ 2.68 — WON
+[2025-08-29 16:22:31] Fontwell — 2m6f Hcap Hrd — Gold Link @ 5.00 — WON
+[2025-08-29 16:31:32] Thirsk — 7f Hcap — Rhythm Master @ 5.40 — LOST
+[2025-08-29 16:33:01] Sandown — 1m Hcap — Rogue Dynasty @ 4.40 — LOST
+[2025-08-29 16:38:01] Wexford — 2m1f Mdn Hrd — Kool One @ 1.81 — WON
+[2025-08-29 16:54:31] Fontwell — 2m2f Mdn Hrd — Lord @ 1.50 — WON
+[2025-08-29 16:58:31] Down Royal — 2m1f Hrd — Cinammon Coco @ 2.56 — WON
+[2025-08-29 17:08:31] Sandown — 1m2f Hcap — Nepal @ 4.30 — LOST
+[2025-08-29 17:10:31] Wexford — 2m1f Hcap Hrd — Pauls Dream @ 6.20 — WON
+[2025-08-29 17:12:00] Thirsk — 6f Stks — Crocus Time @ 2.38 — WON
+[2025-08-29 17:20:30] Salisbury — 1m Hcap — Uncle Dick @ 4.80 — LOST
+[2025-08-29 17:29:01] Fontwell — 3m2f Hcap Chs — Leading Force @ 2.86 — LOST
+[2025-08-29 17:31:01] Down Royal — 2m1f Mdn Hrd — Arctic Flame @ 3.50 — WON
+[2025-08-29 17:43:01] Wexford — 2m4f Hcap Hrd — Corbally Cross @ 4.00 — LOST
+[2025-08-29 17:50:31] Salisbury — 6f Nov Stks — Pilu @ 2.74 — WON
+[2025-08-29 17:57:01] Fontwell — 2m3f Nov Hcap Hrd — Grasshopper Time @ 4.70 — LOST
+[2025-08-29 18:02:31] Down Royal — 2m1f Hcap Hrd — Avalo @ 6.00 — LOST
+[2025-08-29 18:09:31] Newcastle — 1m2f Hcap — Shamardal Star @ 2.82 — WON
+[2025-08-29 18:14:31] Wexford — 3m Mdn Hrd — Jetaway Nana @ 3.25 — WON
+[2025-08-29 18:21:01] Salisbury — 1m Nursery — Gunalt Wavelength @ 3.20 — LOST
+[2025-08-29 18:30:01] Fontwell — 2m5f Hcap Chs — Pescatorius @ 3.10 — LOST
+[2025-08-29 18:33:01] Down Royal — 2m4f Mdn Hrd — Coutach @ 2.86 — WON
+[2025-08-29 18:40:31] Newcastle — 1m2f Hcap — Ravenswell @ 3.05 — LOST
+[2025-08-29 18:44:01] Wexford — 2m3f Nov Chs — You Oughta Know @ 2.38 — WON
+[2025-08-29 18:56:01] Fontwell — 2m2f Hcap Hrd — No More Bolero @ 3.15 — LOST
+[2025-08-29 19:03:31] Down Royal — 3m Hrd — Reverend Hubert @ 3.05 — LOST
+[2025-08-29 19:09:31] Newcastle — 6f Nursery — Veiled Truth @ 2.74 — WON
+[2025-08-29 19:11:33] Salisbury — 1m Hcap — Mamma Maria @ 3.00 — LOST
+[2025-08-29 19:15:31] Wexford — 2m3f Hcap Chs — Newtown Rambler @ 4.20 — LOST
+[2025-08-29 19:23:01] Salisbury — 1m2f Nov Stks — Explode @ 1.70 — WON
+[2025-08-29 19:29:31] Fontwell — 2m2f Hcap Chs — Hold Onto The Line @ 2.54 — LOST
+[2025-08-29 19:34:01] Down Royal — 3m Hcap Hrd — Fire Coral @ 5.00 — WON
+[2025-08-29 19:39:01] Newcastle — 5f Stks — Latin Five @ 5.00 — LOST
+[2025-08-29 19:48:01] Wexford — 3m1f Hcap Chs — Onefortheditch @ 5.80 — LOST
+[2025-08-29 19:58:02] Salisbury — 1m6f Hcap — Sawgrass @ 4.10 — LOST
+[2025-08-29 20:01:00] Down Royal — 2m1f INHF — Good Girl Kathleen @ 2.58 — LOST
+[2025-08-29 20:15:32] Newcastle — 7f Hcap — Flying Fletcher @ 3.15 — LOST
+[2025-08-29 20:39:31] Newcastle — 6f Nov Stks — Shamacid @ 1.78 — LOST
+[2025-08-29 21:08:31] Newcastle — 1m Hcap — Park Street @ 4.60 — LOST
+
+Total Bets: 52
+Wins: 19
+Losses: 33
+Net Profit/Loss: $5.54

@@ -1,0 +1,36 @@
+🐎 Ghost Bet Report — 2025-09-01
+--------------------------------------------------
+[2025-09-01 14:07:32] Carlisle — 1m Nov Hcap — Jewel Maker @ 3.75 — WON
+[2025-09-01 14:25:31] Brighton — 5f Hcap — Another Baar @ 1.51 — WON
+[2025-09-01 14:43:31] Carlisle — 6f Nov Stks — Hardys Hero @ 2.44 — WON
+[2025-09-01 14:50:00] Brighton — 5f Nursery — London Is Blue @ 2.00 — WON
+[2025-09-01 15:09:01] Carlisle — 6f Hcap — Lord Roxby @ 4.90 — LOST
+[2025-09-01 15:21:00] Brighton — 6f Mdn Stks — Jazl @ 1.90 — LOST
+[2025-09-01 15:38:31] Carlisle — 5f Hcap — Brian The Snail @ 5.10 — LOST
+[2025-09-01 15:56:00] Brighton — 6f Hcap — Starsong @ 3.65 — LOST
+[2025-09-01 16:12:00] Carlisle — 7f Nursery — Awraad @ 2.92 — LOST
+[2025-09-01 16:17:30] Roscommon — 7f Stks — Summer Is Tomorrow @ 3.00 — WON
+[2025-09-01 16:28:31] Brighton — 1m2f Hcap — Voix De Bocelli @ 3.90 — LOST
+[2025-09-01 16:38:01] Windsor — 6f Nursery — Flying Comet @ 2.26 — WON
+[2025-09-01 16:46:01] Carlisle — 7f Hcap — One Night Thunder @ 5.40 — WON
+[2025-09-01 16:49:30] Roscommon — 7f Hcap — Purring Along @ 5.00 — LOST
+[2025-09-01 17:00:01] Brighton — 1m Hcap — Celebrating Ethel @ 5.50 — LOST
+[2025-09-01 17:07:31] Windsor — 6f Nov Stks — Neyvas Angel @ 2.04 — LOST
+[2025-09-01 17:17:01] Carlisle — 1m1f Hcap — Milteye @ 3.40 — WON
+[2025-09-01 17:24:01] Roscommon — 7f Hcap — Rhythm King @ 5.60 — LOST
+[2025-09-01 17:28:00] Brighton — 7f Hcap — Toussarok @ 5.60 — LOST
+[2025-09-01 17:36:00] Windsor — 1m Nov Stks — Lavender Gold @ 4.10 — LOST
+[2025-09-01 17:45:01] Carlisle — 1m1f Hcap — Moonjid @ 4.00 — LOST
+[2025-09-01 18:08:02] Roscommon — 1m2f Stks — In My Teens @ 2.46 — LOST
+[2025-09-01 18:09:01] Windsor — 1m3f Hcap — Likealot @ 3.75 — LOST
+[2025-09-01 18:24:01] Roscommon — 1m4f Mdn — Indian River @ 3.60 — LOST
+[2025-09-01 18:39:01] Windsor — 6f Hcap — Zarathos @ 4.70 — LOST
+[2025-09-01 18:54:31] Roscommon — 1m4f Hcap — Zariygann @ 6.40 — LOST
+[2025-09-01 19:08:31] Windsor — 1m Hcap — Charming Fellow @ 4.70 — LOST
+[2025-09-01 19:23:31] Roscommon — 1m4f Hcap — Tickling @ 3.70 — LOST
+[2025-09-01 19:42:01] Windsor — 1m3f Hcap — Silver Chamber @ 2.80 — LOST
+
+Total Bets: 29
+Wins: 8
+Losses: 21
+Net Profit/Loss: $-5.24

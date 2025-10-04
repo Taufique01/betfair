@@ -1,0 +1,303 @@
+
+    <h2>🐎 Ghost Bet Report — Monday, September 15, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
+        <thead style="background-color:#f2f2f2;">
+            <tr>
+                <th>Time</th>
+                <th>Venue</th>
+                <th>Race</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 01:39 PM</td>
+            <td>Worcester</td>
+            <td>2m Nov Hcap Chs</td>
+            <td>Seeyouinmydreams</td>
+            <td>2.22</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 02:10 PM</td>
+            <td>Worcester</td>
+            <td>2m4f Hcap Chs</td>
+            <td>Courtland</td>
+            <td>2.54</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 02:22 PM</td>
+            <td>Brighton</td>
+            <td>1m App Hcap</td>
+            <td>Johnjay</td>
+            <td>4.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 15, 2025 02:26 PM</td>
+            <td>Thirsk</td>
+            <td>1m4f App Hcap</td>
+            <td>Max Of Stars</td>
+            <td>4.40</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 02:39 PM</td>
+            <td>Worcester</td>
+            <td>2m NHF</td>
+            <td>Rodeo</td>
+            <td>3.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 02:49 PM</td>
+            <td>Brighton</td>
+            <td>7f Mdn Stks</td>
+            <td>Airside</td>
+            <td>1.93</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 02:57 PM</td>
+            <td>Thirsk</td>
+            <td>6f Nursery</td>
+            <td>Walk On Walk On</td>
+            <td>5.30</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 03:09 PM</td>
+            <td>Worcester</td>
+            <td>2m Mdn Hrd</td>
+            <td>The Expensive One</td>
+            <td>2.04</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 03:19 PM</td>
+            <td>Brighton</td>
+            <td>6f Nursery</td>
+            <td>Madman</td>
+            <td>3.55</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 03:28 PM</td>
+            <td>Thirsk</td>
+            <td>7f Nov Stks</td>
+            <td>North Force</td>
+            <td>2.14</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 15, 2025 03:38 PM</td>
+            <td>Worcester</td>
+            <td>2m Mdn Hrd</td>
+            <td>Mr Mcloughlan</td>
+            <td>3.00</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 03:53 PM</td>
+            <td>Brighton</td>
+            <td>1m4f Hcap</td>
+            <td>Ricardo Phillips</td>
+            <td>5.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 15, 2025 04:01 PM</td>
+            <td>Thirsk</td>
+            <td>6f Hcap</td>
+            <td>Hockney</td>
+            <td>3.95</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 04:09 PM</td>
+            <td>Worcester</td>
+            <td>2m7f Nov Hcap Hrd</td>
+            <td>Getaway With You</td>
+            <td>2.98</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 04:19 PM</td>
+            <td>Brighton</td>
+            <td>7f Hcap</td>
+            <td>Tenbob Tommy</td>
+            <td>3.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 04:25 PM</td>
+            <td>Thirsk</td>
+            <td>7f Hcap</td>
+            <td>Mamma Maria</td>
+            <td>4.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 15, 2025 04:34 PM</td>
+            <td>Kempton</td>
+            <td>1m4f Nov Stks</td>
+            <td>Port Of London</td>
+            <td>2.28</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 04:41 PM</td>
+            <td>Worcester</td>
+            <td>2m4f Hcap Hrd</td>
+            <td>Ghasham</td>
+            <td>2.94</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 04:50 PM</td>
+            <td>Brighton</td>
+            <td>6f Hcap</td>
+            <td>Havana Gila</td>
+            <td>3.15</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 04:59 PM</td>
+            <td>Thirsk</td>
+            <td>1m Hcap</td>
+            <td>Ravishing Beauty</td>
+            <td>4.30</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 15, 2025 05:01 PM</td>
+            <td>Kempton</td>
+            <td>7f Nov Stks</td>
+            <td>Dancing Flower</td>
+            <td>2.84</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 15, 2025 05:12 PM</td>
+            <td>Worcester</td>
+            <td>2m4f Hcap Hrd</td>
+            <td>Shantou Lucky</td>
+            <td>1.21</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 05:21 PM</td>
+            <td>Brighton</td>
+            <td>5f Hcap</td>
+            <td>Call Time</td>
+            <td>2.56</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 05:27 PM</td>
+            <td>Thirsk</td>
+            <td>7f Hcap</td>
+            <td>Al Muqdad</td>
+            <td>6.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 15, 2025 05:36 PM</td>
+            <td>Kempton</td>
+            <td>1m Nursery</td>
+            <td>Midnight Rodeo</td>
+            <td>3.35</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 15, 2025 06:07 PM</td>
+            <td>Kempton</td>
+            <td>1m Hcap</td>
+            <td>Falmouth Lad</td>
+            <td>4.30</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 06:37 PM</td>
+            <td>Kempton</td>
+            <td>1m Hcap</td>
+            <td>Dragonflame</td>
+            <td>4.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 07:06 PM</td>
+            <td>Kempton</td>
+            <td>6f Nov Stks</td>
+            <td>Rock Iguana</td>
+            <td>2.74</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 15, 2025 07:38 PM</td>
+            <td>Kempton</td>
+            <td>7f Hcap</td>
+            <td>Champion Again Ole</td>
+            <td>4.60</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 15, 2025 08:08 PM</td>
+            <td>Kempton</td>
+            <td>2m Hcap</td>
+            <td>Sax Appeal</td>
+            <td>2.36</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 08:38 PM</td>
+            <td>Kempton</td>
+            <td>1m3f Hcap</td>
+            <td>Cardinal Point</td>
+            <td>3.40</td>
+            <td>LOST</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 31 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 10 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 21 <br>
+        <strong>Net Profit/Loss:</strong> <span style="color:#28a745;">$1.29</span>
+    </p>
+    

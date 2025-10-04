@@ -1,0 +1,174 @@
+2025-10-01 05:00:00 | INFO | Logged in to Betfair API
+2025-10-01 05:00:00 | INFO | Fetched 43 markets for today
+2025-10-01 05:00:00 | INFO | Scheduled bet for 1m Mdn at 1:36:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 5f Nov Stks at 1:43:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 2m1f Beg Chs at 1:48:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 5f Hcap at 1:56:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 2m4f Hcap Chs at 2:03:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 1m Hcap at 2:11:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 7f Hcap at 2:18:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 2m1f Beg Chs at 2:23:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 5f Nursery at 2:31:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 2m4f Nov Hcap Chs at 2:38:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 1m Hcap at 2:46:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 7f Nursery at 2:53:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 2m1f Nov Hcap Chs at 2:58:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 7f Nov Stks at 3:06:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 2m Nov Hrd at 3:13:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 5f Mdn at 3:21:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 1m1f Stks at 3:28:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 2m5f Beg Chs at 3:33:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 2m Hcap at 3:41:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 2m5f Mdn Hrd at 3:48:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 5f Hcap at 3:56:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 5f Hcap at 4:03:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 2m5f Hcap Chs at 4:08:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 6f Hcap at 4:16:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 1m3f Mdn Stks at 4:21:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 2m5f Hcap Hrd at 4:26:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 1m4f Hcap at 4:31:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 1m6f Hcap at 4:36:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 2m5f Chs at 4:41:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 7f Hcap at 4:48:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 6f Nov Stks at 4:53:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 2m NHF at 4:58:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 1m4f Mdn at 5:06:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 5f Hcap at 5:11:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 3m2f Hcap Chs at 5:16:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 1m4f Hcap at 5:23:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 7f Hcap at 5:28:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 6f Cond Stks at 5:58:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 1m3f Hcap at 6:28:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 1m Hcap at 6:58:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 1m Hcap at 7:28:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 1m Hcap at 7:58:30PM
+2025-10-01 05:00:00 | INFO | Scheduled bet for 6f Hcap at 8:28:30PM
+2025-10-01 13:36:30 | INFO | Bet placed: All Told x 3.25 @ Bellewstown 1m Mdn
+2025-10-01 13:43:01 | INFO | Logged bet: 2025-10-01 13:43:01 | Bellewstown | 1m Mdn | 2025-10-01 13:38:00 | 18202811 | All Told | 3.25 | LOST
+2025-10-01 13:43:01 | INFO | watch - Market closed: 1m Mdn, result: LOST
+2025-10-01 13:43:30 | INFO | Bet placed: Tea Queen x 2.46 @ Musselburgh 5f Nov Stks
+2025-10-01 13:48:30 | INFO | Bet placed: Jalila Moriviere x 1.5 @ Sligo 2m1f Beg Chs
+2025-10-01 13:50:30 | INFO | Logged bet: 2025-10-01 13:50:30 | Musselburgh | 5f Nov Stks | 2025-10-01 13:45:00 | 88623937 | Tea Queen | 2.46 | LOST
+2025-10-01 13:50:30 | INFO | watch - Market closed: 5f Nov Stks, result: LOST
+2025-10-01 13:56:30 | INFO | Bet placed: Happier x 3.2 @ Catterick 5f Hcap
+2025-10-01 13:57:01 | INFO | Logged bet: 2025-10-01 13:57:01 | Sligo | 2m1f Beg Chs | 2025-10-01 13:50:00 | 62700119 | Jalila Moriviere | 1.5 | WON
+2025-10-01 13:57:01 | INFO | watch - Market closed: 2m1f Beg Chs, result: WON
+2025-10-01 14:03:30 | INFO | Bet placed: Got Grey x 1.96 @ Warwick 2m4f Hcap Chs
+2025-10-01 14:05:01 | INFO | Logged bet: 2025-10-01 14:05:01 | Catterick | 5f Hcap | 2025-10-01 13:58:00 | 1119491 | Happier | 3.2 | LOST
+2025-10-01 14:05:01 | INFO | watch - Market closed: 5f Hcap, result: LOST
+2025-10-01 14:11:30 | INFO | Bet placed: Fleetfootsoldier x 5.2 @ Bellewstown 1m Hcap
+2025-10-01 14:12:31 | INFO | Logged bet: 2025-10-01 14:12:31 | Warwick | 2m4f Hcap Chs | 2025-10-01 14:05:00 | 39880852 | Got Grey | 1.96 | LOST
+2025-10-01 14:12:31 | INFO | watch - Market closed: 2m4f Hcap Chs, result: LOST
+2025-10-01 14:18:30 | INFO | Bet placed: Jesmond Dawn x 3.9 @ Musselburgh 7f Hcap
+2025-10-01 14:21:31 | INFO | Logged bet: 2025-10-01 14:21:31 | Bellewstown | 1m Hcap | 2025-10-01 14:13:00 | 50307047 | Fleetfootsoldier | 5.2 | LOST
+2025-10-01 14:21:31 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-10-01 14:23:30 | INFO | Bet placed: Addragoole x 2.86 @ Sligo 2m1f Beg Chs
+2025-10-01 14:26:30 | INFO | Logged bet: 2025-10-01 14:26:30 | Musselburgh | 7f Hcap | 2025-10-01 14:20:00 | 56134348 | Jesmond Dawn | 3.9 | LOST
+2025-10-01 14:26:30 | INFO | watch - Market closed: 7f Hcap, result: LOST
+2025-10-01 14:31:30 | INFO | Bet placed: Campenaerts x 2.34 @ Catterick 5f Nursery
+2025-10-01 14:32:30 | INFO | Logged bet: 2025-10-01 14:32:30 | Sligo | 2m1f Beg Chs | 2025-10-01 14:25:00 | 67126389 | Addragoole | 2.86 | WON
+2025-10-01 14:32:30 | INFO | watch - Market closed: 2m1f Beg Chs, result: WON
+2025-10-01 14:36:30 | INFO | Logged bet: 2025-10-01 14:36:30 | Catterick | 5f Nursery | 2025-10-01 14:33:00 | 84198081 | Campenaerts | 2.34 | WON
+2025-10-01 14:36:30 | INFO | watch - Market closed: 5f Nursery, result: WON
+2025-10-01 14:38:30 | INFO | Bet placed: Beau Quali x 1.53 @ Warwick 2m4f Nov Hcap Chs
+2025-10-01 14:46:30 | INFO | Bet placed: Port Louis x 6.2 @ Bellewstown 1m Hcap
+2025-10-01 14:47:31 | INFO | Logged bet: 2025-10-01 14:47:31 | Warwick | 2m4f Nov Hcap Chs | 2025-10-01 14:40:00 | 67132095 | Beau Quali | 1.53 | WON
+2025-10-01 14:47:31 | INFO | watch - Market closed: 2m4f Nov Hcap Chs, result: WON
+2025-10-01 14:53:30 | INFO | Bet placed: Lyrical Song x 3.2 @ Musselburgh 7f Nursery
+2025-10-01 14:54:30 | INFO | Logged bet: 2025-10-01 14:54:30 | Bellewstown | 1m Hcap | 2025-10-01 14:48:00 | 66567 | Port Louis | 6.2 | LOST
+2025-10-01 14:54:30 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-10-01 14:58:30 | INFO | Bet placed: Clonshire River x 3.6 @ Sligo 2m1f Nov Hcap Chs
+2025-10-01 15:01:30 | INFO | Logged bet: 2025-10-01 15:01:30 | Musselburgh | 7f Nursery | 2025-10-01 14:55:00 | 83917108 | Lyrical Song | 3.2 | LOST
+2025-10-01 15:01:30 | INFO | watch - Market closed: 7f Nursery, result: LOST
+2025-10-01 15:06:30 | INFO | Bet placed: Real American x 2.58 @ Catterick 7f Nov Stks
+2025-10-01 15:09:01 | INFO | Logged bet: 2025-10-01 15:09:01 | Sligo | 2m1f Nov Hcap Chs | 2025-10-01 15:00:00 | 50639251 | Clonshire River | 3.6 | LOST
+2025-10-01 15:09:01 | INFO | watch - Market closed: 2m1f Nov Hcap Chs, result: LOST
+2025-10-01 15:13:30 | INFO | Bet placed: Jackstell x 2.14 @ Warwick 2m Nov Hrd
+2025-10-01 15:17:31 | INFO | Logged bet: 2025-10-01 15:17:31 | Catterick | 7f Nov Stks | 2025-10-01 15:08:00 | 62912610 | Real American | 2.58 | WON
+2025-10-01 15:17:31 | INFO | watch - Market closed: 7f Nov Stks, result: WON
+2025-10-01 15:21:30 | INFO | Bet placed: Glory To Be x 1.42 @ Bellewstown 5f Mdn
+2025-10-01 15:25:01 | INFO | Logged bet: 2025-10-01 15:25:01 | Warwick | 2m Nov Hrd | 2025-10-01 15:15:00 | 69110141 | Jackstell | 2.14 | WON
+2025-10-01 15:25:01 | INFO | watch - Market closed: 2m Nov Hrd, result: WON
+2025-10-01 15:28:30 | INFO | Bet placed: Empirestateofmind x 1.5 @ Musselburgh 1m1f Stks
+2025-10-01 15:28:30 | INFO | Logged bet: 2025-10-01 15:28:30 | Bellewstown | 5f Mdn | 2025-10-01 15:23:00 | 83916859 | Glory To Be | 1.42 | LOST
+2025-10-01 15:28:30 | INFO | watch - Market closed: 5f Mdn, result: LOST
+2025-10-01 15:33:30 | INFO | Bet placed: Quarry Tiepy x 3.65 @ Sligo 2m5f Beg Chs
+2025-10-01 15:37:30 | INFO | Logged bet: 2025-10-01 15:37:30 | Musselburgh | 1m1f Stks | 2025-10-01 15:30:00 | 11341682 | Empirestateofmind | 1.5 | WON
+2025-10-01 15:37:30 | INFO | watch - Market closed: 1m1f Stks, result: WON
+2025-10-01 15:41:30 | INFO | Bet placed: Bollin Neil x 3.25 @ Catterick 2m Hcap
+2025-10-01 15:44:01 | INFO | Logged bet: 2025-10-01 15:44:01 | Sligo | 2m5f Beg Chs | 2025-10-01 15:35:00 | 84197538 | Quarry Tiepy | 3.65 | LOST
+2025-10-01 15:44:01 | INFO | watch - Market closed: 2m5f Beg Chs, result: LOST
+2025-10-01 15:48:30 | INFO | Bet placed: Keppel Queen x 1.15 @ Warwick 2m5f Mdn Hrd
+2025-10-01 15:53:01 | INFO | Logged bet: 2025-10-01 15:53:01 | Catterick | 2m Hcap | 2025-10-01 15:43:00 | 28618415 | Bollin Neil | 3.25 | WON
+2025-10-01 15:53:01 | INFO | watch - Market closed: 2m Hcap, result: WON
+2025-10-01 15:56:30 | INFO | Bet placed: Escaping Thejungle x 4.8 @ Bellewstown 5f Hcap
+2025-10-01 15:57:00 | INFO | Logged bet: 2025-10-01 15:57:00 | Warwick | 2m5f Mdn Hrd | 2025-10-01 15:50:00 | 71915879 | Keppel Queen | 1.15 | WON
+2025-10-01 15:57:00 | INFO | watch - Market closed: 2m5f Mdn Hrd, result: WON
+2025-10-01 16:03:30 | INFO | Bet placed: Arnhem x 4.0 @ Musselburgh 5f Hcap
+2025-10-01 16:03:30 | INFO | Logged bet: 2025-10-01 16:03:30 | Bellewstown | 5f Hcap | 2025-10-01 15:58:00 | 46274021 | Escaping Thejungle | 4.8 | LOST
+2025-10-01 16:03:30 | INFO | watch - Market closed: 5f Hcap, result: LOST
+2025-10-01 16:08:30 | INFO | Bet placed: The Striker Dylan x 4.3 @ Sligo 2m5f Hcap Chs
+2025-10-01 16:13:31 | INFO | Logged bet: 2025-10-01 16:13:31 | Musselburgh | 5f Hcap | 2025-10-01 16:05:00 | 10998916 | Arnhem | 4.0 | LOST
+2025-10-01 16:13:31 | INFO | watch - Market closed: 5f Hcap, result: LOST
+2025-10-01 16:16:30 | INFO | Bet placed: Langholm x 4.0 @ Catterick 6f Hcap
+2025-10-01 16:18:31 | INFO | Logged bet: 2025-10-01 16:18:31 | Sligo | 2m5f Hcap Chs | 2025-10-01 16:10:00 | 64616750 | The Striker Dylan | 4.3 | WON
+2025-10-01 16:18:31 | INFO | watch - Market closed: 2m5f Hcap Chs, result: WON
+2025-10-01 16:21:30 | INFO | Bet placed: Nasebah x 2.28 @ Kempton 1m3f Mdn Stks
+2025-10-01 16:23:00 | INFO | Logged bet: 2025-10-01 16:23:00 | Catterick | 6f Hcap | 2025-10-01 16:18:00 | 17784372 | Langholm | 4.0 | LOST
+2025-10-01 16:23:00 | INFO | watch - Market closed: 6f Hcap, result: LOST
+2025-10-01 16:26:30 | INFO | Bet placed: Crystal Glance x 3.75 @ Warwick 2m5f Hcap Hrd
+2025-10-01 16:31:30 | INFO | Bet placed: Sir Callisto x 4.7 @ Bellewstown 1m4f Hcap
+2025-10-01 16:32:01 | INFO | Logged bet: 2025-10-01 16:32:01 | Kempton | 1m3f Mdn Stks | 2025-10-01 16:23:00 | 88351371 | Nasebah | 2.28 | WON
+2025-10-01 16:32:01 | INFO | watch - Market closed: 1m3f Mdn Stks, result: WON
+2025-10-01 16:36:30 | INFO | Bet placed: Sea Master x 4.2 @ Musselburgh 1m6f Hcap
+2025-10-01 16:37:31 | INFO | Logged bet: 2025-10-01 16:37:31 | Warwick | 2m5f Hcap Hrd | 2025-10-01 16:28:00 | 67755525 | Crystal Glance | 3.75 | LOST
+2025-10-01 16:37:31 | INFO | watch - Market closed: 2m5f Hcap Hrd, result: LOST
+2025-10-01 16:41:30 | INFO | Bet placed: Jesse Evans x 2.06 @ Sligo 2m5f Chs
+2025-10-01 16:41:31 | INFO | Logged bet: 2025-10-01 16:41:31 | Bellewstown | 1m4f Hcap | 2025-10-01 16:33:00 | 54671886 | Sir Callisto | 4.7 | LOST
+2025-10-01 16:41:31 | INFO | watch - Market closed: 1m4f Hcap, result: LOST
+2025-10-01 16:45:01 | INFO | Logged bet: 2025-10-01 16:45:01 | Musselburgh | 1m6f Hcap | 2025-10-01 16:38:00 | 231749 | Sea Master | 4.2 | LOST
+2025-10-01 16:45:01 | INFO | watch - Market closed: 1m6f Hcap, result: LOST
+2025-10-01 16:48:30 | INFO | Bet placed: Vince Le Prince x 3.4 @ Catterick 7f Hcap
+2025-10-01 16:51:31 | INFO | Logged bet: 2025-10-01 16:51:31 | Sligo | 2m5f Chs | 2025-10-01 16:43:00 | 35482170 | Jesse Evans | 2.06 | LOST
+2025-10-01 16:51:31 | INFO | watch - Market closed: 2m5f Chs, result: LOST
+2025-10-01 16:53:30 | INFO | Bet placed: Generous Rascal x 4.3 @ Kempton 6f Nov Stks
+2025-10-01 16:58:30 | INFO | Bet placed: Hopeless Dancer x 2.58 @ Warwick 2m NHF
+2025-10-01 16:59:31 | INFO | Logged bet: 2025-10-01 16:59:31 | Catterick | 7f Hcap | 2025-10-01 16:50:00 | 46712037 | Vince Le Prince | 3.4 | LOST
+2025-10-01 16:59:31 | INFO | watch - Market closed: 7f Hcap, result: LOST
+2025-10-01 17:02:00 | INFO | Logged bet: 2025-10-01 17:02:00 | Kempton | 6f Nov Stks | 2025-10-01 16:55:00 | 88209814 | Generous Rascal | 4.3 | WON
+2025-10-01 17:02:00 | INFO | watch - Market closed: 6f Nov Stks, result: WON
+2025-10-01 17:06:30 | INFO | Bet placed: Lifting Sails x 2.1 @ Bellewstown 1m4f Mdn
+2025-10-01 17:06:30 | INFO | Logged bet: 2025-10-01 17:06:30 | Warwick | 2m NHF | 2025-10-01 17:00:00 | 88525845 | Hopeless Dancer | 2.58 | LOST
+2025-10-01 17:06:30 | INFO | watch - Market closed: 2m NHF, result: LOST
+2025-10-01 17:11:30 | INFO | Bet placed: Ski Angel x 3.3 @ Musselburgh 5f Hcap
+2025-10-01 17:14:01 | INFO | Logged bet: 2025-10-01 17:14:01 | Bellewstown | 1m4f Mdn | 2025-10-01 17:08:00 | 85828283 | Lifting Sails | 2.1 | WON
+2025-10-01 17:14:01 | INFO | watch - Market closed: 1m4f Mdn, result: WON
+2025-10-01 17:16:30 | INFO | Bet placed: Ballagh Star x 4.0 @ Sligo 3m2f Hcap Chs
+2025-10-01 17:17:00 | INFO | Logged bet: 2025-10-01 17:17:00 | Musselburgh | 5f Hcap | 2025-10-01 17:13:00 | 55467762 | Ski Angel | 3.3 | WON
+2025-10-01 17:17:00 | INFO | watch - Market closed: 5f Hcap, result: WON
+2025-10-01 17:23:30 | INFO | Bet placed: Lightning Tiger x 3.3 @ Catterick 1m4f Hcap
+2025-10-01 17:28:30 | INFO | Bet placed: Palmarian x 4.7 @ Kempton 7f Hcap
+2025-10-01 17:30:01 | INFO | Logged bet: 2025-10-01 17:30:01 | Sligo | 3m2f Hcap Chs | 2025-10-01 17:18:00 | 51257667 | Ballagh Star | 4.0 | WON
+2025-10-01 17:30:01 | INFO | watch - Market closed: 3m2f Hcap Chs, result: WON
+2025-10-01 17:30:30 | INFO | Logged bet: 2025-10-01 17:30:30 | Catterick | 1m4f Hcap | 2025-10-01 17:25:00 | 81788698 | Lightning Tiger | 3.3 | WON
+2025-10-01 17:30:30 | INFO | watch - Market closed: 1m4f Hcap, result: WON
+2025-10-01 17:37:01 | INFO | Logged bet: 2025-10-01 17:37:01 | Kempton | 7f Hcap | 2025-10-01 17:30:00 | 74127237 | Palmarian | 4.7 | LOST
+2025-10-01 17:37:01 | INFO | watch - Market closed: 7f Hcap, result: LOST
+2025-10-01 17:58:30 | INFO | Bet placed: Ten Pounds x 2.38 @ Kempton 6f Cond Stks
+2025-10-01 18:07:31 | INFO | Logged bet: 2025-10-01 18:07:31 | Kempton | 6f Cond Stks | 2025-10-01 18:00:00 | 69400791 | Ten Pounds | 2.38 | WON
+2025-10-01 18:07:31 | INFO | watch - Market closed: 6f Cond Stks, result: WON
+2025-10-01 18:28:30 | INFO | Bet placed: Port Of London x 3.75 @ Kempton 1m3f Hcap
+2025-10-01 18:36:30 | INFO | Logged bet: 2025-10-01 18:36:30 | Kempton | 1m3f Hcap | 2025-10-01 18:30:00 | 449378 | Port Of London | 3.75 | LOST
+2025-10-01 18:36:30 | INFO | watch - Market closed: 1m3f Hcap, result: LOST
+2025-10-01 18:58:30 | INFO | Bet placed: Olympic Candle x 4.4 @ Kempton 1m Hcap
+2025-10-01 19:07:31 | INFO | Logged bet: 2025-10-01 19:07:31 | Kempton | 1m Hcap | 2025-10-01 19:00:00 | 59462981 | Olympic Candle | 4.4 | WON
+2025-10-01 19:07:31 | INFO | watch - Market closed: 1m Hcap, result: WON
+2025-10-01 19:28:30 | INFO | Bet placed: Love Your Work x 3.6 @ Kempton 1m Hcap
+2025-10-01 19:40:01 | INFO | Logged bet: 2025-10-01 19:40:01 | Kempton | 1m Hcap | 2025-10-01 19:30:00 | 19450857 | Love Your Work | 3.6 | WON
+2025-10-01 19:40:01 | INFO | watch - Market closed: 1m Hcap, result: WON
+2025-10-01 19:58:30 | INFO | Bet placed: Island Ocean x 3.05 @ Kempton 1m Hcap
+2025-10-01 20:06:30 | INFO | Logged bet: 2025-10-01 20:06:30 | Kempton | 1m Hcap | 2025-10-01 20:00:00 | 77944170 | Island Ocean | 3.05 | LOST
+2025-10-01 20:06:30 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-10-01 20:28:30 | INFO | Bet placed: Chasing Gold x 5.3 @ Kempton 6f Hcap
+2025-10-01 20:41:01 | INFO | Logged bet: 2025-10-01 20:41:01 | Kempton | 6f Hcap | 2025-10-01 20:30:00 | 17488823 | Chasing Gold | 5.3 | LOST
+2025-10-01 20:41:01 | INFO | watch - Market closed: 6f Hcap, result: LOST

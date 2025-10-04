@@ -1,0 +1,168 @@
+2025-08-20 12:48:50 | INFO | Logged in to Betfair API
+2025-08-20 12:48:50 | INFO | Fetched 35 markets for today
+2025-08-20 12:48:50 | INFO | Current time past 5 AM — running reset immediately
+2025-08-20 12:48:50 | INFO | Running daily 5 AM reset
+2025-08-20 12:48:50 | INFO | Skipping 5f Hcap/York 20th Aug
+2025-08-20 12:48:50 | INFO | Scheduled bet for 6f Nov Stks at 2025-08-20 13:04:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 7f Grp 3 at 2025-08-20 13:24:00+00:00
+2025-08-20 12:48:50 | INFO | Skipping 6f Hcap/Carlisle 20th Aug
+2025-08-20 12:48:50 | INFO | Scheduled bet for 1m4f Grp 2 at 2025-08-20 13:59:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 1m3f Hcap at 2025-08-20 14:14:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 1m2f Grp 1 at 2025-08-20 14:34:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 7f Hcap at 2025-08-20 14:49:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 2m Hcap at 2025-08-20 15:09:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 7f Nov Stks at 2025-08-20 15:24:00+00:00
+2025-08-20 12:48:50 | INFO | Skipping 5f Hcap/York 20th Aug
+2025-08-20 12:48:50 | INFO | Scheduled bet for 2m Hcap Chs at 2025-08-20 15:49:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 7f Mdn Hcap at 2025-08-20 15:54:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 2m1f Mdn Hrd at 2025-08-20 16:04:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 7f Nursery at 2025-08-20 16:14:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 6f Nursery at 2025-08-20 16:19:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 2m7f Hcap Chs at 2025-08-20 16:24:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 2m1f Hcap Hrd at 2025-08-20 16:37:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 7f Nov Stks at 2025-08-20 16:49:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 2m7f Hcap Hrd at 2025-08-20 16:54:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 2m4f Mdn Hrd at 2025-08-20 17:07:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 7f Nov Stks at 2025-08-20 17:19:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 2m4f Nov Hrd at 2025-08-20 17:29:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 2m4f Hcap Hrd at 2025-08-20 17:37:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 1m Nursery at 2025-08-20 17:49:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 2m Mdn Hrd at 2025-08-20 17:59:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 2m4f Hcap Hrd at 2025-08-20 18:07:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 1m Hcap at 2025-08-20 18:19:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 2m4f Hcap Hrd at 2025-08-20 18:29:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 3m1f Hcap Hrd at 2025-08-20 18:37:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 1m4f Nov Stks at 2025-08-20 18:49:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 2m4f Hcap Hrd at 2025-08-20 18:59:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 2m2f INHF at 2025-08-20 19:07:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 7f Hcap at 2025-08-20 19:19:00+00:00
+2025-08-20 12:48:50 | INFO | Scheduled bet for 7f Hcap at 2025-08-20 19:49:00+00:00
+2025-08-20 12:48:50 | INFO | All races scheduled. Scheduler running...
+2025-08-20 13:04:00 | INFO | State: {'balance': 220.0, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-20 13:04:00 | INFO | Bid placed: {'selection_id': 541444, 'runner_name': 'Gwen John', 'odds': 1.48, 'placed_odds': 1.48, 'stake': 8.8, 'market_id': '1.246837976', 'race_name': '6f Nov Stks', 'result': 'PENDING'}
+2025-08-20 13:15:01 | INFO | chase - Market closed: 6f Nov Stks, result: LOST
+2025-08-20 13:15:01 | INFO | Bet placed for 6f Nov Stks: Gwen John | stake 8.8 | result L | balance 211.2
+2025-08-20 13:24:00 | INFO | State: {'balance': 211.2, 'leg': 1, 'accumulated_losses': 8.8, 'prev_stake': 8.8, 'chase_active': False}
+2025-08-20 13:24:00 | INFO | Bid placed: {'selection_id': 54812, 'runner_name': 'Distant Storm', 'odds': 2.16, 'placed_odds': 2.16, 'stake': 8.45, 'market_id': '1.246837571', 'race_name': '7f Grp 3', 'result': 'PENDING'}
+2025-08-20 13:34:31 | INFO | chase - Market closed: 7f Grp 3, result: LOST
+2025-08-20 13:34:31 | INFO | Bet placed for 7f Grp 3: Distant Storm | stake 8.45 | result L | balance 202.75
+2025-08-20 13:59:00 | INFO | State: {'balance': 202.75, 'leg': 2, 'accumulated_losses': 17.25, 'prev_stake': 8.45, 'chase_active': False}
+2025-08-20 13:59:00 | INFO | Bid placed: {'selection_id': 12163870, 'runner_name': 'Lambourn', 'odds': 1.88, 'placed_odds': 1.88, 'stake': 23.53, 'market_id': '1.246837579', 'race_name': '1m4f Grp 2', 'result': 'PENDING'}
+2025-08-20 14:08:00 | INFO | chase - Market closed: 1m4f Grp 2, result: LOST
+2025-08-20 14:08:00 | INFO | Bet placed for 1m4f Grp 2: Lambourn | stake 23.53 | result L | balance 179.22
+2025-08-20 14:14:00 | INFO | State: {'balance': 179.22, 'leg': 3, 'accumulated_losses': 40.78, 'prev_stake': 23.53, 'chase_active': False}
+2025-08-20 14:14:00 | INFO | Bid placed: {'selection_id': 71731012, 'runner_name': 'Sidney Stratton', 'odds': 2.98, 'placed_odds': 2.98, 'stake': 38.83, 'market_id': '1.246837986', 'race_name': '1m3f Hcap', 'result': 'PENDING'}
+2025-08-20 14:22:30 | INFO | chase - Market closed: 1m3f Hcap, result: LOST
+2025-08-20 14:22:30 | INFO | Bet placed for 1m3f Hcap: Sidney Stratton | stake 38.83 | result L | balance 140.39
+2025-08-20 14:34:00 | INFO | State: {'balance': 140.39, 'leg': 4, 'accumulated_losses': 79.61, 'prev_stake': 38.83, 'chase_active': False}
+2025-08-20 14:34:00 | INFO | Bid placed: {'selection_id': 188385, 'runner_name': 'Ombudsman', 'odds': 2.88, 'placed_odds': 2.88, 'stake': 64.07, 'market_id': '1.246837587', 'race_name': '1m2f Grp 1', 'result': 'PENDING'}
+2025-08-20 14:45:01 | INFO | chase - Market closed: 1m2f Grp 1, result: WON
+2025-08-20 14:45:01 | INFO | Bet placed for 1m2f Grp 1: Ombudsman | stake 64.07 | result W | balance 260.84159999999997
+2025-08-20 14:49:00 | INFO | State: {'balance': 260.84159999999997, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-20 14:49:00 | INFO | Bid placed: {'selection_id': 46712037, 'runner_name': 'Vince Le Prince', 'odds': 4.1, 'placed_odds': 4.1, 'stake': 10.44, 'market_id': '1.246837991', 'race_name': '7f Hcap', 'result': 'PENDING'}
+2025-08-20 14:55:30 | INFO | chase - Market closed: 7f Hcap, result: LOST
+2025-08-20 14:55:30 | INFO | Bet placed for 7f Hcap: Vince Le Prince | stake 10.44 | result L | balance 250.40159999999997
+2025-08-20 15:09:00 | INFO | State: {'balance': 250.40159999999997, 'leg': 1, 'accumulated_losses': 10.44, 'prev_stake': 10.44, 'chase_active': False}
+2025-08-20 15:09:00 | INFO | Bid placed: {'selection_id': 75061397, 'runner_name': 'Santorini Star', 'odds': 4.9, 'placed_odds': 4.9, 'stake': 10.02, 'market_id': '1.246837594', 'race_name': '2m Hcap', 'result': 'PENDING'}
+2025-08-20 15:20:31 | INFO | chase - Market closed: 2m Hcap, result: WON
+2025-08-20 15:20:31 | INFO | Bet placed for 2m Hcap: Santorini Star | stake 10.02 | result W | balance 289.4796
+2025-08-20 15:24:00 | INFO | State: {'balance': 289.4796, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-20 15:24:00 | INFO | Bid placed: {'selection_id': 84444881, 'runner_name': 'Patricia R', 'odds': 1.87, 'placed_odds': 1.87, 'stake': 11.58, 'market_id': '1.246837996', 'race_name': '7f Nov Stks', 'result': 'PENDING'}
+2025-08-20 15:29:00 | INFO | chase - Market closed: 7f Nov Stks, result: WON
+2025-08-20 15:29:00 | INFO | Bet placed for 7f Nov Stks: Patricia R | stake 11.58 | result W | balance 299.5542
+2025-08-20 15:49:00 | INFO | State: {'balance': 299.5542, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-20 15:49:00 | INFO | Bid placed: {'selection_id': 76887983, 'runner_name': 'Rocks Up Late', 'odds': 3.75, 'placed_odds': 3.75, 'stake': 11.99, 'market_id': '1.246837901', 'race_name': '2m Hcap Chs', 'result': 'PENDING'}
+2025-08-20 15:54:00 | INFO | State: {'balance': 299.5542, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-20 15:54:00 | INFO | Bid placed: {'selection_id': 57661804, 'runner_name': 'Operation Gimcrack', 'odds': 3.45, 'placed_odds': 3.45, 'stake': 11.99, 'market_id': '1.246838001', 'race_name': '7f Mdn Hcap', 'result': 'PENDING'}
+2025-08-20 15:58:31 | INFO | chase - Market closed: 2m Hcap Chs, result: WON
+2025-08-20 15:58:31 | INFO | Bet placed for 2m Hcap Chs: Rocks Up Late | stake 11.99 | result W | balance 332.5267
+2025-08-20 16:03:00 | INFO | chase - Market closed: 7f Mdn Hcap, result: LOST
+2025-08-20 16:03:00 | INFO | Bet placed for 7f Mdn Hcap: Operation Gimcrack | stake 11.99 | result L | balance 287.56419999999997
+2025-08-20 16:04:00 | INFO | State: {'balance': 287.56419999999997, 'leg': 1, 'accumulated_losses': 11.99, 'prev_stake': 11.99, 'chase_active': False}
+2025-08-20 16:04:00 | INFO | Bid placed: {'selection_id': 56218427, 'runner_name': 'Whispering Hopes', 'odds': 2.12, 'placed_odds': 2.12, 'stake': 11.51, 'market_id': '1.246818635', 'race_name': '2m1f Mdn Hrd', 'result': 'PENDING'}
+2025-08-20 16:13:31 | INFO | chase - Market closed: 2m1f Mdn Hrd, result: LOST
+2025-08-20 16:13:31 | INFO | Bet placed for 2m1f Mdn Hrd: Whispering Hopes | stake 11.51 | result L | balance 276.0542
+2025-08-20 16:14:00 | INFO | State: {'balance': 276.0542, 'leg': 2, 'accumulated_losses': 23.5, 'prev_stake': 11.51, 'chase_active': False}
+2025-08-20 16:14:00 | INFO | Bid placed: {'selection_id': 83755092, 'runner_name': 'Project Incheon', 'odds': 3.35, 'placed_odds': 3.35, 'stake': 17.27, 'market_id': '1.246837936', 'race_name': '7f Nursery', 'result': 'PENDING'}
+2025-08-20 16:19:00 | INFO | State: {'balance': 276.0542, 'leg': 2, 'accumulated_losses': 23.5, 'prev_stake': 11.51, 'chase_active': False}
+2025-08-20 16:19:00 | INFO | Bid placed: {'selection_id': 2046679, 'runner_name': 'Utmost Respect', 'odds': 5.7, 'placed_odds': 5.7, 'stake': 17.27, 'market_id': '1.246837609', 'race_name': '6f Nursery', 'result': 'PENDING'}
+2025-08-20 16:22:00 | INFO | chase - Market closed: 7f Nursery, result: LOST
+2025-08-20 16:22:00 | INFO | Bet placed for 7f Nursery: Project Incheon | stake 17.27 | result L | balance 258.7842
+2025-08-20 16:24:00 | INFO | State: {'balance': 258.7842, 'leg': 3, 'accumulated_losses': 40.769999999999996, 'prev_stake': 17.27, 'chase_active': False}
+2025-08-20 16:24:00 | INFO | Bid placed: {'selection_id': 42738484, 'runner_name': 'My Gift To You', 'odds': 4.1, 'placed_odds': 4.1, 'stake': 25.91, 'market_id': '1.246837906', 'race_name': '2m7f Hcap Chs', 'result': 'PENDING'}
+2025-08-20 16:30:31 | INFO | chase - Market closed: 6f Nursery, result: LOST
+2025-08-20 16:30:31 | INFO | Bet placed for 6f Nursery: Utmost Respect | stake 17.27 | result L | balance 258.7842
+2025-08-20 16:35:01 | INFO | chase - Market closed: 2m7f Hcap Chs, result: LOST
+2025-08-20 16:35:01 | INFO | Bet placed for 2m7f Hcap Chs: My Gift To You | stake 25.91 | result L | balance 232.8742
+2025-08-20 16:37:00 | INFO | State: {'balance': 232.8742, 'leg': 4, 'accumulated_losses': 66.67999999999999, 'prev_stake': 25.91, 'chase_active': False}
+2025-08-20 16:37:00 | INFO | Bid placed: {'selection_id': 45326765, 'runner_name': 'Tea It Is', 'odds': 4.3, 'placed_odds': 4.3, 'stake': 38.87, 'market_id': '1.246818640', 'race_name': '2m1f Hcap Hrd', 'result': 'PENDING'}
+2025-08-20 16:46:01 | INFO | chase - Market closed: 2m1f Hcap Hrd, result: LOST
+2025-08-20 16:46:01 | INFO | Bet placed for 2m1f Hcap Hrd: Tea It Is | stake 38.87 | result L | balance 194.0042
+2025-08-20 16:49:00 | INFO | State: {'balance': 194.0042, 'leg': 5, 'accumulated_losses': 105.54999999999998, 'prev_stake': 38.87, 'chase_active': False}
+2025-08-20 16:49:00 | INFO | Bid placed: {'selection_id': 86490812, 'runner_name': 'Tierra Del Toro', 'odds': 1.36, 'placed_odds': 1.36, 'stake': 351.84, 'market_id': '1.246837941', 'race_name': '7f Nov Stks', 'result': 'PENDING'}
+2025-08-20 16:54:00 | INFO | State: {'balance': 194.0042, 'leg': 5, 'accumulated_losses': 105.54999999999998, 'prev_stake': 38.87, 'chase_active': False}
+2025-08-20 16:54:00 | INFO | Bid placed: {'selection_id': 50562253, 'runner_name': 'Mr Le Philosophe', 'odds': 2.82, 'placed_odds': 2.82, 'stake': 64.14, 'market_id': '1.246837911', 'race_name': '2m7f Hcap Hrd', 'result': 'PENDING'}
+2025-08-20 16:57:00 | INFO | chase - Market closed: 7f Nov Stks, result: WON
+2025-08-20 16:57:00 | INFO | Bet placed for 7f Nov Stks: Tierra Del Toro | stake 351.84 | result W | balance 320.6666
+2025-08-20 17:07:00 | INFO | State: {'balance': 320.6666, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-20 17:07:00 | INFO | Bid placed: {'selection_id': 78220673, 'runner_name': 'Cocovic', 'odds': 1.64, 'placed_odds': 1.64, 'stake': 12.83, 'market_id': '1.246818645', 'race_name': '2m4f Mdn Hrd', 'result': 'PENDING'}
+2025-08-20 17:12:02 | INFO | chase - Market closed: 2m7f Hcap Hrd, result: LOST
+2025-08-20 17:12:02 | INFO | Bet placed for 2m7f Hcap Hrd: Mr Le Philosophe | stake 64.14 | result L | balance 129.86419999999998
+2025-08-20 17:17:01 | INFO | chase - Market closed: 2m4f Mdn Hrd, result: LOST
+2025-08-20 17:17:01 | INFO | Bet placed for 2m4f Mdn Hrd: Cocovic | stake 12.83 | result L | balance 307.83660000000003
+2025-08-20 17:19:00 | INFO | State: {'balance': 307.83660000000003, 'leg': 1, 'accumulated_losses': 12.83, 'prev_stake': 12.83, 'chase_active': False}
+2025-08-20 17:19:00 | INFO | Bid placed: {'selection_id': 87390473, 'runner_name': 'Hell Yeah He Did', 'odds': 2.66, 'placed_odds': 2.66, 'stake': 12.32, 'market_id': '1.246837946', 'race_name': '7f Nov Stks', 'result': 'PENDING'}
+2025-08-20 17:26:30 | INFO | chase - Market closed: 7f Nov Stks, result: LOST
+2025-08-20 17:26:30 | INFO | Bet placed for 7f Nov Stks: Hell Yeah He Did | stake 12.32 | result L | balance 295.51660000000004
+2025-08-20 17:29:00 | INFO | State: {'balance': 295.51660000000004, 'leg': 2, 'accumulated_losses': 25.15, 'prev_stake': 12.32, 'chase_active': False}
+2025-08-20 17:29:00 | INFO | Bid placed: {'selection_id': 65014739, 'runner_name': 'Tamarind Bay', 'odds': 2.24, 'placed_odds': 2.24, 'stake': 24.34, 'market_id': '1.246837916', 'race_name': '2m4f Nov Hrd', 'result': 'PENDING'}
+2025-08-20 17:37:00 | INFO | State: {'balance': 295.51660000000004, 'leg': 2, 'accumulated_losses': 25.15, 'prev_stake': 12.32, 'chase_active': False}
+2025-08-20 17:37:00 | INFO | Bid placed: {'selection_id': 65436380, 'runner_name': 'Loughrask Rainbow', 'odds': 6.4, 'placed_odds': 6.4, 'stake': 18.48, 'market_id': '1.246818650', 'race_name': '2m4f Hcap Hrd', 'result': 'PENDING'}
+2025-08-20 17:41:01 | INFO | chase - Market closed: 2m4f Nov Hrd, result: LOST
+2025-08-20 17:41:01 | INFO | Bet placed for 2m4f Nov Hrd: Tamarind Bay | stake 24.34 | result L | balance 271.17660000000006
+2025-08-20 17:47:31 | INFO | chase - Market closed: 2m4f Hcap Hrd, result: LOST
+2025-08-20 17:47:31 | INFO | Bet placed for 2m4f Hcap Hrd: Loughrask Rainbow | stake 18.48 | result L | balance 277.0366
+2025-08-20 17:49:00 | INFO | State: {'balance': 277.0366, 'leg': 3, 'accumulated_losses': 43.629999999999995, 'prev_stake': 18.48, 'chase_active': False}
+2025-08-20 17:49:00 | INFO | Bid placed: {'selection_id': 9353083, 'runner_name': 'Royal Bodyguard', 'odds': 2.78, 'placed_odds': 2.78, 'stake': 30.5, 'market_id': '1.246837951', 'race_name': '1m Nursery', 'result': 'PENDING'}
+2025-08-20 17:56:30 | INFO | chase - Market closed: 1m Nursery, result: WON
+2025-08-20 17:56:30 | INFO | Bet placed for 1m Nursery: Royal Bodyguard | stake 30.5 | result W | balance 331.3266
+2025-08-20 17:59:00 | INFO | State: {'balance': 331.3266, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-20 17:59:00 | INFO | Bid placed: {'selection_id': 75497788, 'runner_name': 'Just A Heartbeat', 'odds': 3.3, 'placed_odds': 3.3, 'stake': 13.26, 'market_id': '1.246837921', 'race_name': '2m Mdn Hrd', 'result': 'PENDING'}
+2025-08-20 18:07:00 | INFO | State: {'balance': 331.3266, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-20 18:07:00 | INFO | Bid placed: {'selection_id': 78278194, 'runner_name': 'Ballykinlar', 'odds': 4.3, 'placed_odds': 4.3, 'stake': 13.26, 'market_id': '1.246818655', 'race_name': '2m4f Hcap Hrd', 'result': 'PENDING'}
+2025-08-20 18:16:31 | INFO | chase - Market closed: 2m4f Hcap Hrd, result: WON
+2025-08-20 18:16:31 | INFO | Bet placed for 2m4f Hcap Hrd: Ballykinlar | stake 13.26 | result W | balance 375.08459999999997
+2025-08-20 18:17:01 | INFO | chase - Market closed: 2m Mdn Hrd, result: LOST
+2025-08-20 18:17:01 | INFO | Bet placed for 2m Mdn Hrd: Just A Heartbeat | stake 13.26 | result L | balance 318.0666
+2025-08-20 18:19:00 | INFO | State: {'balance': 318.0666, 'leg': 1, 'accumulated_losses': 13.26, 'prev_stake': 13.26, 'chase_active': False}
+2025-08-20 18:19:00 | INFO | Bid placed: {'selection_id': 50612968, 'runner_name': 'Dragon Icon', 'odds': 3.7, 'placed_odds': 3.7, 'stake': 12.73, 'market_id': '1.246837956', 'race_name': '1m Hcap', 'result': 'PENDING'}
+2025-08-20 18:27:31 | INFO | chase - Market closed: 1m Hcap, result: LOST
+2025-08-20 18:27:31 | INFO | Bet placed for 1m Hcap: Dragon Icon | stake 12.73 | result L | balance 305.3366
+2025-08-20 18:29:00 | INFO | State: {'balance': 305.3366, 'leg': 2, 'accumulated_losses': 25.990000000000002, 'prev_stake': 12.73, 'chase_active': False}
+2025-08-20 18:29:00 | INFO | Bid placed: {'selection_id': 42274253, 'runner_name': 'Rogue Mission', 'odds': 2.32, 'placed_odds': 2.32, 'stake': 21.01, 'market_id': '1.246837926', 'race_name': '2m4f Hcap Hrd', 'result': 'PENDING'}
+2025-08-20 18:37:00 | INFO | State: {'balance': 305.3366, 'leg': 2, 'accumulated_losses': 25.990000000000002, 'prev_stake': 12.73, 'chase_active': False}
+2025-08-20 18:37:00 | INFO | Bid placed: {'selection_id': 42184228, 'runner_name': 'Ballyglass Beauty', 'odds': 6.8, 'placed_odds': 6.8, 'stake': 19.1, 'market_id': '1.246818660', 'race_name': '3m1f Hcap Hrd', 'result': 'PENDING'}
+2025-08-20 18:40:31 | INFO | chase - Market closed: 2m4f Hcap Hrd, result: LOST
+2025-08-20 18:40:31 | INFO | Bet placed for 2m4f Hcap Hrd: Rogue Mission | stake 21.01 | result L | balance 284.3266
+2025-08-20 18:49:00 | INFO | State: {'balance': 284.3266, 'leg': 3, 'accumulated_losses': 47.0, 'prev_stake': 21.01, 'chase_active': False}
+2025-08-20 18:49:00 | INFO | Bid placed: {'selection_id': 72520001, 'runner_name': 'Shrimp Shady', 'odds': 2.3, 'placed_odds': 2.3, 'stake': 34.67, 'market_id': '1.246837961', 'race_name': '1m4f Nov Stks', 'result': 'PENDING'}
+2025-08-20 18:54:32 | INFO | chase - Market closed: 3m1f Hcap Hrd, result: LOST
+2025-08-20 18:54:32 | INFO | Bet placed for 3m1f Hcap Hrd: Ballyglass Beauty | stake 19.1 | result L | balance 286.23659999999995
+2025-08-20 18:59:00 | INFO | State: {'balance': 286.23659999999995, 'leg': 3, 'accumulated_losses': 45.09, 'prev_stake': 19.1, 'chase_active': False}
+2025-08-20 18:59:00 | INFO | Bid placed: {'selection_id': 40546555, 'runner_name': 'Orange Diamond', 'odds': 3.05, 'placed_odds': 3.05, 'stake': 28.65, 'market_id': '1.246837931', 'race_name': '2m4f Hcap Hrd', 'result': 'PENDING'}
+2025-08-20 19:02:01 | INFO | chase - Market closed: 1m4f Nov Stks, result: LOST
+2025-08-20 19:02:01 | INFO | Bet placed for 1m4f Nov Stks: Shrimp Shady | stake 34.67 | result L | balance 249.65659999999997
+2025-08-20 19:07:00 | INFO | State: {'balance': 249.65659999999997, 'leg': 4, 'accumulated_losses': 81.67, 'prev_stake': 34.67, 'chase_active': False}
+2025-08-20 19:07:00 | INFO | Bid placed: {'selection_id': 86490795, 'runner_name': 'Lupin Du Chenet', 'odds': 3.15, 'placed_odds': 3.15, 'stake': 52.01, 'market_id': '1.246818665', 'race_name': '2m2f INHF', 'result': 'PENDING'}
+2025-08-20 19:14:01 | INFO | chase - Market closed: 2m4f Hcap Hrd, result: WON
+2025-08-20 19:14:01 | INFO | Bet placed for 2m4f Hcap Hrd: Orange Diamond | stake 28.65 | result W | balance 344.96909999999997
+2025-08-20 19:17:31 | INFO | chase - Market closed: 2m2f INHF, result: LOST
+2025-08-20 19:17:31 | INFO | Bet placed for 2m2f INHF: Lupin Du Chenet | stake 52.01 | result L | balance 197.64659999999998
+2025-08-20 19:19:00 | INFO | State: {'balance': 197.64659999999998, 'leg': 5, 'accumulated_losses': 133.68, 'prev_stake': 52.01, 'chase_active': False}
+2025-08-20 19:19:00 | INFO | Bid placed: {'selection_id': 435865, 'runner_name': 'Me Tarzan', 'odds': 5.1, 'placed_odds': 5.1, 'stake': 78.02, 'market_id': '1.246837966', 'race_name': '7f Hcap', 'result': 'PENDING'}
+2025-08-20 19:26:00 | INFO | chase - Market closed: 7f Hcap, result: LOST
+2025-08-20 19:26:00 | INFO | Bet placed for 7f Hcap: Me Tarzan | stake 78.02 | result L | balance 119.62659999999998
+2025-08-20 19:49:00 | INFO | State: {'balance': 119.62659999999998, 'leg': 6, 'accumulated_losses': 211.7, 'prev_stake': 78.02, 'chase_active': False}
+2025-08-20 19:49:00 | INFO | Bid placed: {'selection_id': 75556632, 'runner_name': 'Moby Quick', 'odds': 5.1, 'placed_odds': 5.1, 'stake': 119.62659999999998, 'market_id': '1.246837971', 'race_name': '7f Hcap', 'result': 'PENDING'}
+2025-08-20 19:59:01 | INFO | chase - Market closed: 7f Hcap, result: LOST
+2025-08-20 19:59:01 | INFO | Bet placed for 7f Hcap: Moby Quick | stake 119.62659999999998 | result L | balance 0.0

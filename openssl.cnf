@@ -1,0 +1,28 @@
+[ req ]
+default_bits       = 2048
+default_md         = sha256
+prompt             = yes
+distinguished_name = req_distinguished_name
+req_extensions     = ssl_client
+
+[ req_distinguished_name ]
+countryName                 = Country Name (2 letter code)
+countryName_default         = GB
+stateOrProvinceName         = State or Province Name (full name)
+stateOrProvinceName_default = London
+localityName                = Locality Name (eg, city)
+localityName_default        = London
+organizationName            = Organization Name (eg, company)
+organizationName_default    = YourCompany
+organizationalUnitName      = Organizational Unit Name (eg, section)
+organizationalUnitName_default = Tech
+commonName                  = Common Name (e.g. your name or domain)
+commonName_default          = Betfair API Certificate
+emailAddress                = Email Address
+emailAddress_default        = you@example.com
+
+[ ssl_client ]
+basicConstraints     = CA:FALSE
+nsCertType           = client
+keyUsage             = digitalSignature, keyEncipherment
+extendedKeyUsage     = clientAuth

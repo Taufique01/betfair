@@ -1,0 +1,137 @@
+
+    <h2>🐎 CHASE Report — Saturday, September 13, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 01:24 PM</td>
+            <td>Doncaster 13th Sep</td>
+            <td>Treble Tee</td>
+            <td>3.60</td>
+            <td>£8.80</td>
+            <td>WON</td>
+            <td>£22.88</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 01:42 PM</td>
+            <td>Chester 13th Sep</td>
+            <td>Ghost Mode</td>
+            <td>2.68</td>
+            <td>£9.72</td>
+            <td>WON</td>
+            <td>£16.33</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 01:59 PM</td>
+            <td>Doncaster 13th Sep</td>
+            <td>Gewan</td>
+            <td>2.28</td>
+            <td>£10.37</td>
+            <td>LOST</td>
+            <td>£-10.37</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 02:14 PM</td>
+            <td>Chester 13th Sep</td>
+            <td>Hamish</td>
+            <td>2.48</td>
+            <td>£17.12</td>
+            <td>WON</td>
+            <td>£25.34</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 02:40 PM</td>
+            <td>Lingfield 13th Sep</td>
+            <td>Tronido</td>
+            <td>2.22</td>
+            <td>£10.97</td>
+            <td>LOST</td>
+            <td>£-10.97</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 02:55 PM</td>
+            <td>Leopardstown 13th Sep</td>
+            <td>Gleneagle Bay</td>
+            <td>2.84</td>
+            <td>£18.11</td>
+            <td>LOST</td>
+            <td>£-18.11</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 03:07 PM</td>
+            <td>Doncaster 13th Sep</td>
+            <td>Shadow Of Light</td>
+            <td>2.44</td>
+            <td>£29.89</td>
+            <td>LOST</td>
+            <td>£-29.89</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 03:22 PM</td>
+            <td>Lingfield 13th Sep</td>
+            <td>Elvetham</td>
+            <td>4.70</td>
+            <td>£44.84</td>
+            <td>LOST</td>
+            <td>£-44.84</td>
+            <td>Leg 4</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 03:39 PM</td>
+            <td>Bath 13th Sep</td>
+            <td>Rupert The Prince</td>
+            <td>2.26</td>
+            <td>£73.99</td>
+            <td>LOST</td>
+            <td>£-73.99</td>
+            <td>Leg 5</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 03:56 PM</td>
+            <td>Leopardstown 13th Sep</td>
+            <td>Al Aasy</td>
+            <td>2.46</td>
+            <td>£96.38</td>
+            <td>LOST</td>
+            <td>£-96.38</td>
+            <td>Leg 6</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 10 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 3 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 7 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £-220.00
+    </p>
+    

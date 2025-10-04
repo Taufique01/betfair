@@ -1,0 +1,114 @@
+2025-09-17 05:00:00 | INFO | Logged in to Betfair API
+2025-09-17 05:00:00 | INFO | Fetched 28 markets for today
+2025-09-17 05:00:00 | INFO | Scheduled bet for 5f Hcap at 2:03:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 5f Mdn Stks at 2:13:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 6f Hcap at 2:23:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 7f Nov Stks at 2:33:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 5f Nov Stks at 2:43:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 6f Nov Stks at 2:53:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 1m Mdn Stks at 3:03:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 7f Nov Stks at 3:13:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 7f Mdn Stks at 3:23:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 1m Listed at 3:33:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 1m Nursery at 3:46:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 2m5f Nov Hrd at 3:51:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 1m2f Listed at 3:58:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 1m Hcap at 4:08:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 1m Hcap at 4:16:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 2m5f Hcap Hrd at 4:23:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 1m1f Hcap at 4:33:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 1m2f Hcap at 4:43:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 5f Hcap at 4:51:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 2m5f Hcap Chs at 4:58:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 1m3f Hcap at 5:08:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 1m2f Hcap at 5:15:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 1m2f Hcap at 5:22:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 2m2f Hcap Hrd at 5:28:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 6f Hcap at 5:38:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 2m2f Hcap Hrd at 5:58:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 2m1f Hcap Chs at 6:28:30PM
+2025-09-17 05:00:00 | INFO | Scheduled bet for 2m NHF at 6:58:30PM
+2025-09-17 14:03:30 | INFO | Bet placed: Danger Alert x 3.25 @ Sandown 5f Hcap
+2025-09-17 14:12:01 | INFO | Logged bet: 2025-09-17 14:12:01 | Sandown | 5f Hcap | 2025-09-17 14:05:00 | 45325621 | Danger Alert | 3.25 | LOST
+2025-09-17 14:12:01 | INFO | watch - Market closed: 5f Hcap, result: LOST
+2025-09-17 14:13:30 | INFO | Bet placed: Bravo Hotel x 4.4 @ Beverley 5f Mdn Stks
+2025-09-17 14:23:30 | INFO | Bet placed: Kosometsuke x 3.7 @ Yarmouth 6f Hcap
+2025-09-17 14:27:01 | INFO | Logged bet: 2025-09-17 14:27:01 | Beverley | 5f Mdn Stks | 2025-09-17 14:15:00 | 82473643 | Bravo Hotel | 4.4 | LOST
+2025-09-17 14:27:01 | INFO | watch - Market closed: 5f Mdn Stks, result: LOST
+2025-09-17 14:30:31 | INFO | Logged bet: 2025-09-17 14:30:31 | Yarmouth | 6f Hcap | 2025-09-17 14:25:00 | 73455019 | Kosometsuke | 3.7 | WON
+2025-09-17 14:30:31 | INFO | watch - Market closed: 6f Hcap, result: WON
+2025-09-17 14:33:30 | INFO | Bet placed: Morshdi x 2.0 @ Sandown 7f Nov Stks
+2025-09-17 14:43:01 | INFO | Logged bet: 2025-09-17 14:43:01 | Sandown | 7f Nov Stks | 2025-09-17 14:35:00 | 11583 | Morshdi | 2.0 | LOST
+2025-09-17 14:43:01 | INFO | watch - Market closed: 7f Nov Stks, result: LOST
+2025-09-17 14:43:30 | INFO | Bet placed: Tea Queen x 2.16 @ Beverley 5f Nov Stks
+2025-09-17 14:53:30 | INFO | Bet placed: Albaydaa x 2.18 @ Yarmouth 6f Nov Stks
+2025-09-17 14:56:01 | INFO | Logged bet: 2025-09-17 14:56:01 | Beverley | 5f Nov Stks | 2025-09-17 14:45:00 | 88623937 | Tea Queen | 2.16 | LOST
+2025-09-17 14:56:01 | INFO | watch - Market closed: 5f Nov Stks, result: LOST
+2025-09-17 15:00:30 | INFO | Logged bet: 2025-09-17 15:00:30 | Yarmouth | 6f Nov Stks | 2025-09-17 14:55:00 | 88623923 | Albaydaa | 2.18 | LOST
+2025-09-17 15:00:30 | INFO | watch - Market closed: 6f Nov Stks, result: LOST
+2025-09-17 15:03:30 | INFO | Bet placed: Accredit x 1.39 @ Sandown 1m Mdn Stks
+2025-09-17 15:09:30 | INFO | Logged bet: 2025-09-17 15:09:30 | Sandown | 1m Mdn Stks | 2025-09-17 15:05:00 | 19568953 | Accredit | 1.39 | WON
+2025-09-17 15:09:30 | INFO | watch - Market closed: 1m Mdn Stks, result: WON
+2025-09-17 15:13:30 | INFO | Bet placed: Elizabetty x 3.35 @ Beverley 7f Nov Stks
+2025-09-17 15:23:30 | INFO | Bet placed: King Of Berkshire x 2.76 @ Yarmouth 7f Mdn Stks
+2025-09-17 15:27:31 | INFO | Logged bet: 2025-09-17 15:27:31 | Beverley | 7f Nov Stks | 2025-09-17 15:15:00 | 85225513 | Elizabetty | 3.35 | LOST
+2025-09-17 15:27:31 | INFO | watch - Market closed: 7f Nov Stks, result: LOST
+2025-09-17 15:33:30 | INFO | Bet placed: Ciceros Gift x 3.3 @ Sandown 1m Listed
+2025-09-17 15:33:31 | INFO | Logged bet: 2025-09-17 15:33:31 | Yarmouth | 7f Mdn Stks | 2025-09-17 15:25:00 | 88043589 | King Of Berkshire | 2.76 | LOST
+2025-09-17 15:33:31 | INFO | watch - Market closed: 7f Mdn Stks, result: LOST
+2025-09-17 15:41:01 | INFO | Logged bet: 2025-09-17 15:41:01 | Sandown | 1m Listed | 2025-09-17 15:35:00 | 49525932 | Ciceros Gift | 3.3 | WON
+2025-09-17 15:41:01 | INFO | watch - Market closed: 1m Listed, result: WON
+2025-09-17 15:46:30 | INFO | Bet placed: Dunkeld Dreamer x 2.42 @ Beverley 1m Nursery
+2025-09-17 15:51:30 | INFO | Bet placed: Jackson Lamb x 1.68 @ Kelso 2m5f Nov Hrd
+2025-09-17 15:57:00 | INFO | Logged bet: 2025-09-17 15:57:00 | Beverley | 1m Nursery | 2025-09-17 15:48:00 | 84958701 | Dunkeld Dreamer | 2.42 | WON
+2025-09-17 15:57:00 | INFO | watch - Market closed: 1m Nursery, result: WON
+2025-09-17 15:58:30 | INFO | Bet placed: Life Is Beautiful x 4.7 @ Yarmouth 1m2f Listed
+2025-09-17 16:04:01 | INFO | Logged bet: 2025-09-17 16:04:01 | Kelso | 2m5f Nov Hrd | 2025-09-17 15:53:00 | 59054747 | Jackson Lamb | 1.68 | WON
+2025-09-17 16:04:01 | INFO | watch - Market closed: 2m5f Nov Hrd, result: WON
+2025-09-17 16:08:30 | INFO | Bet placed: Lady Mariko x 3.1 @ Sandown 1m Hcap
+2025-09-17 16:08:31 | INFO | Logged bet: 2025-09-17 16:08:31 | Yarmouth | 1m2f Listed | 2025-09-17 16:00:00 | 37957 | Life Is Beautiful | 4.7 | LOST
+2025-09-17 16:08:31 | INFO | watch - Market closed: 1m2f Listed, result: LOST
+2025-09-17 16:16:00 | INFO | Logged bet: 2025-09-17 16:16:00 | Sandown | 1m Hcap | 2025-09-17 16:10:00 | 76502647 | Lady Mariko | 3.1 | LOST
+2025-09-17 16:16:00 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-09-17 16:16:30 | INFO | Bet placed: Oilisa x 5.6 @ Beverley 1m Hcap
+2025-09-17 16:23:30 | INFO | Bet placed: Here Comes Georgie x 4.6 @ Kelso 2m5f Hcap Hrd
+2025-09-17 16:26:31 | INFO | Logged bet: 2025-09-17 16:26:31 | Beverley | 1m Hcap | 2025-09-17 16:18:00 | 77407450 | Oilisa | 5.6 | LOST
+2025-09-17 16:26:31 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-09-17 16:33:30 | INFO | Bet placed: Sea Force x 3.05 @ Yarmouth 1m1f Hcap
+2025-09-17 16:33:31 | INFO | Logged bet: 2025-09-17 16:33:31 | Kelso | 2m5f Hcap Hrd | 2025-09-17 16:25:00 | 54795452 | Here Comes Georgie | 4.6 | LOST
+2025-09-17 16:33:31 | INFO | watch - Market closed: 2m5f Hcap Hrd, result: LOST
+2025-09-17 16:41:01 | INFO | Logged bet: 2025-09-17 16:41:01 | Yarmouth | 1m1f Hcap | 2025-09-17 16:35:00 | 18306 | Sea Force | 3.05 | WON
+2025-09-17 16:41:01 | INFO | watch - Market closed: 1m1f Hcap, result: WON
+2025-09-17 16:43:30 | INFO | Bet placed: Sir William x 3.25 @ Sandown 1m2f Hcap
+2025-09-17 16:51:30 | INFO | Bet placed: Elegant Erin x 3.65 @ Beverley 5f Hcap
+2025-09-17 16:54:01 | INFO | Logged bet: 2025-09-17 16:54:01 | Sandown | 1m2f Hcap | 2025-09-17 16:45:00 | 39271 | Sir William | 3.25 | LOST
+2025-09-17 16:54:01 | INFO | watch - Market closed: 1m2f Hcap, result: LOST
+2025-09-17 16:58:00 | INFO | Logged bet: 2025-09-17 16:58:00 | Beverley | 5f Hcap | 2025-09-17 16:53:00 | 24989012 | Elegant Erin | 3.65 | WON
+2025-09-17 16:58:00 | INFO | watch - Market closed: 5f Hcap, result: WON
+2025-09-17 16:58:30 | INFO | Bet placed: Lets Sail Away x 2.76 @ Kelso 2m5f Hcap Chs
+2025-09-17 17:08:30 | INFO | Bet placed: Miss Wong x 4.1 @ Yarmouth 1m3f Hcap
+2025-09-17 17:09:31 | INFO | Logged bet: 2025-09-17 17:09:31 | Kelso | 2m5f Hcap Chs | 2025-09-17 17:00:00 | 15341891 | Lets Sail Away | 2.76 | LOST
+2025-09-17 17:09:31 | INFO | watch - Market closed: 2m5f Hcap Chs, result: LOST
+2025-09-17 17:15:30 | INFO | Bet placed: Itraaq x 3.0 @ Sandown 1m2f Hcap
+2025-09-17 17:17:31 | INFO | Logged bet: 2025-09-17 17:17:31 | Yarmouth | 1m3f Hcap | 2025-09-17 17:10:00 | 74312383 | Miss Wong | 4.1 | WON
+2025-09-17 17:17:31 | INFO | watch - Market closed: 1m3f Hcap, result: WON
+2025-09-17 17:22:30 | INFO | Bet placed: Whatacracker x 6.2 @ Beverley 1m2f Hcap
+2025-09-17 17:26:31 | INFO | Logged bet: 2025-09-17 17:26:31 | Sandown | 1m2f Hcap | 2025-09-17 17:17:00 | 84080045 | Itraaq | 3.0 | LOST
+2025-09-17 17:26:31 | INFO | watch - Market closed: 1m2f Hcap, result: LOST
+2025-09-17 17:28:30 | INFO | Bet placed: Heart Above x 3.75 @ Kelso 2m2f Hcap Hrd
+2025-09-17 17:32:01 | INFO | Logged bet: 2025-09-17 17:32:01 | Beverley | 1m2f Hcap | 2025-09-17 17:24:00 | 20220342 | Whatacracker | 6.2 | LOST
+2025-09-17 17:32:01 | INFO | watch - Market closed: 1m2f Hcap, result: LOST
+2025-09-17 17:37:31 | INFO | Logged bet: 2025-09-17 17:37:31 | Kelso | 2m2f Hcap Hrd | 2025-09-17 17:30:00 | 49782429 | Heart Above | 3.75 | WON
+2025-09-17 17:37:31 | INFO | watch - Market closed: 2m2f Hcap Hrd, result: WON
+2025-09-17 17:38:30 | INFO | Bet placed: Vinatera x 3.7 @ Yarmouth 6f Hcap
+2025-09-17 17:47:31 | INFO | Logged bet: 2025-09-17 17:47:31 | Yarmouth | 6f Hcap | 2025-09-17 17:40:00 | 79211475 | Vinatera | 3.7 | LOST
+2025-09-17 17:47:31 | INFO | watch - Market closed: 6f Hcap, result: LOST
+2025-09-17 17:58:30 | INFO | Bet placed: Shes Notjoeking x 4.3 @ Kelso 2m2f Hcap Hrd
+2025-09-17 18:08:31 | INFO | Logged bet: 2025-09-17 18:08:31 | Kelso | 2m2f Hcap Hrd | 2025-09-17 18:00:00 | 63057857 | Shes Notjoeking | 4.3 | LOST
+2025-09-17 18:08:31 | INFO | watch - Market closed: 2m2f Hcap Hrd, result: LOST
+2025-09-17 18:28:30 | INFO | Bet placed: Primoz x 2.5 @ Kelso 2m1f Hcap Chs
+2025-09-17 18:48:32 | INFO | Logged bet: 2025-09-17 18:48:32 | Kelso | 2m1f Hcap Chs | 2025-09-17 18:30:00 | 62403444 | Primoz | 2.5 | LOST
+2025-09-17 18:48:32 | INFO | watch - Market closed: 2m1f Hcap Chs, result: LOST
+2025-09-17 18:58:30 | INFO | Bet placed: Nobotheratall x 3.0 @ Kelso 2m NHF
+2025-09-17 19:10:01 | INFO | Logged bet: 2025-09-17 19:10:01 | Kelso | 2m NHF | 2025-09-17 19:00:00 | 84746709 | Nobotheratall | 3.0 | LOST
+2025-09-17 19:10:01 | INFO | watch - Market closed: 2m NHF, result: LOST

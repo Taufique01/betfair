@@ -1,0 +1,26 @@
+🐎 Ghost Bet Report — 2025-08-17
+--------------------------------------------------
+[2025-08-17 13:31:31] Southwell — 6f Hcap — Glendown @ 5.20 — LOST
+[2025-08-17 14:02:01] Southwell — 6f Nursery — Dandys Rocket @ 4.20 — WON
+[2025-08-17 14:20:01] Pontefract — 1m2f Hcap — Raulin @ 2.28 — WON
+[2025-08-17 14:30:01] Southwell — 6f Mdn Stks — Grey Jaguar @ 2.78 — LOST
+[2025-08-17 14:49:00] Pontefract — 6f Mdn Stks — Delinquent @ 1.93 — LOST
+[2025-08-17 14:58:00] Southwell — 6f Mdn Stks — Warm Summer @ 2.42 — LOST
+[2025-08-17 15:09:31] Tramore — 2m Hcap Hrd — May Call You Back @ 2.64 — LOST
+[2025-08-17 15:19:01] Pontefract — 1m Hcap — Zarathos @ 3.30 — LOST
+[2025-08-17 15:32:31] Southwell — 1m Nov Stks — Ultrasoul @ 2.04 — LOST
+[2025-08-17 15:48:30] Pontefract — 6f Listed — Stormy Impact @ 4.40 — LOST
+[2025-08-17 15:58:30] Southwell — 1m Nov Stks — Vincent Rocks @ 2.60 — WON
+[2025-08-17 16:09:32] Tramore — 2m6f Beg Chs — World Of Fortunes @ 2.94 — LOST
+[2025-08-17 16:16:30] Pontefract — 5f Hcap — Dan Tucker @ 3.30 — LOST
+[2025-08-17 16:27:00] Southwell — 7f Hcap — Philanthropist @ 3.05 — LOST
+[2025-08-17 16:39:31] Tramore — 2m6f Hcap Chs — Hand Over Fist @ 5.80 — LOST
+[2025-08-17 16:54:31] Pontefract — 2m1f Hcap — Kentucky River @ 2.60 — WON
+[2025-08-17 17:08:00] Tramore — 1m7f Hcap Chs — Lady Rose Hackett @ 4.10 — LOST
+[2025-08-17 17:21:01] Pontefract — 6f Hcap — Lady Wingalong @ 4.70 — LOST
+[2025-08-17 17:34:32] Southwell — 1m3f Arab Hcap Stks — Zizania Du Mazet A @ 2.48 — LOST
+
+Total Bets: 19
+Wins: 4
+Losses: 15
+Net Profit/Loss: $-7.32

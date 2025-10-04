@@ -1,0 +1,285 @@
+
+    <h2>🐎 Ghost Bet Report — Sunday, September 21, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
+        <thead style="background-color:#f2f2f2;">
+            <tr>
+                <th>Time</th>
+                <th>Venue</th>
+                <th>Race</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 02:30 PM</td>
+            <td>Plumpton</td>
+            <td>3m1f Hcap Hrd</td>
+            <td>Cinderello</td>
+            <td>5.30</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 02:37 PM</td>
+            <td>Listowel</td>
+            <td>2m Hrd</td>
+            <td>Whats New</td>
+            <td>2.86</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 02:43 PM</td>
+            <td>Southwell</td>
+            <td>1m Mdn Stks</td>
+            <td>Devils Peak</td>
+            <td>2.14</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 02:44 PM</td>
+            <td>Hamilton</td>
+            <td>1m Mdn Stks</td>
+            <td>Mehsun</td>
+            <td>2.66</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 02:50 PM</td>
+            <td>Hamilton</td>
+            <td>5f Hcap</td>
+            <td>Thunderstorm Katie</td>
+            <td>2.88</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 21, 2025 02:58 PM</td>
+            <td>Plumpton</td>
+            <td>2m Hcap Hrd</td>
+            <td>Jet Patrol</td>
+            <td>4.50</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 03:07 PM</td>
+            <td>Listowel</td>
+            <td>2m4f Hrd</td>
+            <td>Jalila Moriviere</td>
+            <td>1.81</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 03:16 PM</td>
+            <td>Southwell</td>
+            <td>1m Hcap</td>
+            <td>Best Rate</td>
+            <td>4.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 03:18 PM</td>
+            <td>Hamilton</td>
+            <td>1m3f Stks</td>
+            <td>Cayman Dancer</td>
+            <td>2.84</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 21, 2025 03:30 PM</td>
+            <td>Plumpton</td>
+            <td>2m4f Mdn Hrd</td>
+            <td>Kajikia</td>
+            <td>1.25</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 21, 2025 03:42 PM</td>
+            <td>Southwell</td>
+            <td>5f Mdn Stks</td>
+            <td>Hypnotised</td>
+            <td>1.81</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 03:44 PM</td>
+            <td>Listowel</td>
+            <td>2m2f Hcap Hrd</td>
+            <td>Hay Baby</td>
+            <td>6.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 03:47 PM</td>
+            <td>Hamilton</td>
+            <td>6f Hcap</td>
+            <td>Annie Edson Taylor</td>
+            <td>3.90</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 03:58 PM</td>
+            <td>Plumpton</td>
+            <td>2m Hcap Hrd</td>
+            <td>Nap Hand</td>
+            <td>2.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 21, 2025 04:09 PM</td>
+            <td>Listowel</td>
+            <td>2m6f Mdn Hrd</td>
+            <td>Good Girl Kathleen</td>
+            <td>2.54</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 04:15 PM</td>
+            <td>Southwell</td>
+            <td>5f Hcap</td>
+            <td>THE MAN</td>
+            <td>4.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 04:23 PM</td>
+            <td>Hamilton</td>
+            <td>1m1f Hcap</td>
+            <td>Naturalia</td>
+            <td>3.45</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 04:28 PM</td>
+            <td>Plumpton</td>
+            <td>2m4f Hcap Hrd</td>
+            <td>No Guarantee</td>
+            <td>5.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 04:39 PM</td>
+            <td>Listowel</td>
+            <td>2m1f Nov Chs</td>
+            <td>Waterford Whispers</td>
+            <td>5.10</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 04:46 PM</td>
+            <td>Southwell</td>
+            <td>5f Hcap</td>
+            <td>Thankuappreciate</td>
+            <td>6.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 21, 2025 04:52 PM</td>
+            <td>Hamilton</td>
+            <td>6f Hcap</td>
+            <td>Belsito</td>
+            <td>3.50</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 21, 2025 05:01 PM</td>
+            <td>Plumpton</td>
+            <td>2m2f NHF</td>
+            <td>Masked Mistress</td>
+            <td>1.81</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 21, 2025 05:15 PM</td>
+            <td>Southwell</td>
+            <td>5f Hcap</td>
+            <td>Spirit Of Applause</td>
+            <td>5.60</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 05:16 PM</td>
+            <td>Listowel</td>
+            <td>2m1f Hcap Chs</td>
+            <td>Battle Of Ridgeway</td>
+            <td>3.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 21, 2025 05:20 PM</td>
+            <td>Hamilton</td>
+            <td>1m4f Hcap</td>
+            <td>Cougar</td>
+            <td>3.10</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 05:43 PM</td>
+            <td>Listowel</td>
+            <td>2m INHF</td>
+            <td>Lady Lena</td>
+            <td>3.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 05:48 PM</td>
+            <td>Southwell</td>
+            <td>1m4f Hcap</td>
+            <td>Byblos</td>
+            <td>3.45</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 06:21 PM</td>
+            <td>Southwell</td>
+            <td>7f Hcap</td>
+            <td>Forty Years On</td>
+            <td>3.55</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 21, 2025 06:54 PM</td>
+            <td>Southwell</td>
+            <td>2m Hcap</td>
+            <td>Sax Appeal</td>
+            <td>2.14</td>
+            <td>LOST</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 29 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 8 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 21 <br>
+        <strong>Net Profit/Loss:</strong> <span style="color:#dc3545;">$-4.89</span>
+    </p>
+    

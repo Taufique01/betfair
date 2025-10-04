@@ -1,0 +1,158 @@
+2025-09-23 05:00:00 | INFO | Logged in to Betfair API
+2025-09-23 05:00:00 | INFO | Fetched 39 markets for today
+2025-09-23 05:00:00 | INFO | Scheduled bet for 1m4f Nov Stks at 1:43:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 1m Nov Stks at 2:06:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 1m2f Hcap at 2:13:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 7f Mdn at 2:18:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 2m4f Hcap Chs at 2:26:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 5f Nov Stks at 2:36:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 6f Nursery at 2:43:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 7f Hcap at 2:48:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 2m Nov Hrd at 2:56:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 5f Hcap at 3:06:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 1m Mdn Stks at 3:13:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 7f Hcap at 3:18:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 2m Nov Hrd at 3:26:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 5f Cond Stks at 3:36:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 1m Mdn Stks at 3:43:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 1m Listed Stks at 3:48:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 2m3f Hcap Hrd at 3:56:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 7f Hcap at 4:06:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 1m Hcap at 4:13:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 1m Stks at 4:18:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 2m Hcap at 4:23:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 3m1f Hcap Chs at 4:28:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 1m Hcap at 4:36:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 5f Hcap at 4:43:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 1m Hcap at 4:48:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 6f Nursery at 4:53:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 3m Nov Hcap Chs at 4:58:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 1m2f App Hcap at 5:08:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 7f Hcap at 5:13:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 1m6f Hcap at 5:20:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 1m Nursery at 5:28:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 3m2f Hcap Hrd at 5:33:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 1m Hcap at 5:43:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 1m Nov Stks at 5:58:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 5f Hcap at 6:28:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 5f Hcap at 6:58:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 5f Mdn Stks at 7:28:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 1m6f Hcap at 7:58:30PM
+2025-09-23 05:00:00 | INFO | Scheduled bet for 1m4f Hcap at 8:28:30PM
+2025-09-23 13:43:30 | INFO | Bet placed: Master Vintner x 1.4 @ Lingfield 1m4f Nov Stks
+2025-09-23 13:56:01 | INFO | Logged bet: 2025-09-23 13:56:01 | Lingfield | 1m4f Nov Stks | 2025-09-23 13:45:00 | 83686494 | Master Vintner | 1.4 | WON
+2025-09-23 13:56:01 | INFO | watch - Market closed: 1m4f Nov Stks, result: WON
+2025-09-23 14:06:30 | INFO | Bet placed: Circle Of Magic x 2.14 @ Beverley 1m Nov Stks
+2025-09-23 14:13:30 | INFO | Bet placed: Chico Dulce x 5.5 @ Lingfield 1m2f Hcap
+2025-09-23 14:14:00 | INFO | Logged bet: 2025-09-23 14:14:00 | Beverley | 1m Nov Stks | 2025-09-23 14:08:00 | 35833764 | Circle Of Magic | 2.14 | LOST
+2025-09-23 14:14:00 | INFO | watch - Market closed: 1m Nov Stks, result: LOST
+2025-09-23 14:18:30 | INFO | Bet placed: Straight Up x 3.35 @ Listowel 7f Mdn
+2025-09-23 14:24:01 | INFO | Logged bet: 2025-09-23 14:24:01 | Lingfield | 1m2f Hcap | 2025-09-23 14:15:00 | 57026763 | Chico Dulce | 5.5 | LOST
+2025-09-23 14:24:01 | INFO | watch - Market closed: 1m2f Hcap, result: LOST
+2025-09-23 14:26:30 | INFO | Bet placed: Gone In Sixty x 3.7 @ Warwick 2m4f Hcap Chs
+2025-09-23 14:28:30 | INFO | Logged bet: 2025-09-23 14:28:30 | Listowel | 7f Mdn | 2025-09-23 14:20:00 | 164966 | Straight Up | 3.35 | WON
+2025-09-23 14:28:30 | INFO | watch - Market closed: 7f Mdn, result: WON
+2025-09-23 14:36:30 | INFO | Bet placed: Ironwill x 2.52 @ Beverley 5f Nov Stks
+2025-09-23 14:37:31 | INFO | Logged bet: 2025-09-23 14:37:31 | Warwick | 2m4f Hcap Chs | 2025-09-23 14:28:00 | 45128857 | Gone In Sixty | 3.7 | LOST
+2025-09-23 14:37:31 | INFO | watch - Market closed: 2m4f Hcap Chs, result: LOST
+2025-09-23 14:43:00 | INFO | Logged bet: 2025-09-23 14:43:00 | Beverley | 5f Nov Stks | 2025-09-23 14:38:00 | 86405256 | Ironwill | 2.52 | WON
+2025-09-23 14:43:00 | INFO | watch - Market closed: 5f Nov Stks, result: WON
+2025-09-23 14:43:30 | INFO | Bet placed: Star Of Albion x 4.9 @ Lingfield 6f Nursery
+2025-09-23 14:48:30 | INFO | Bet placed: Nibras Rainbow x 5.6 @ Listowel 7f Hcap
+2025-09-23 14:50:00 | INFO | Logged bet: 2025-09-23 14:50:00 | Lingfield | 6f Nursery | 2025-09-23 14:45:00 | 85907643 | Star Of Albion | 4.9 | LOST
+2025-09-23 14:50:00 | INFO | watch - Market closed: 6f Nursery, result: LOST
+2025-09-23 14:56:30 | INFO | Bet placed: Soleil Darizona x 1.58 @ Warwick 2m Nov Hrd
+2025-09-23 14:57:31 | INFO | Logged bet: 2025-09-23 14:57:31 | Listowel | 7f Hcap | 2025-09-23 14:50:00 | 45281781 | Nibras Rainbow | 5.6 | LOST
+2025-09-23 14:57:31 | INFO | watch - Market closed: 7f Hcap, result: LOST
+2025-09-23 15:05:01 | INFO | Logged bet: 2025-09-23 15:05:01 | Warwick | 2m Nov Hrd | 2025-09-23 14:58:00 | 53381881 | Soleil Darizona | 1.58 | WON
+2025-09-23 15:05:01 | INFO | watch - Market closed: 2m Nov Hrd, result: WON
+2025-09-23 15:06:30 | INFO | Bet placed: Bust A Moon x 4.9 @ Beverley 5f Hcap
+2025-09-23 15:13:30 | INFO | Bet placed: Indian Spirit x 2.24 @ Lingfield 1m Mdn Stks
+2025-09-23 15:13:30 | INFO | Logged bet: 2025-09-23 15:13:30 | Beverley | 5f Hcap | 2025-09-23 15:08:00 | 74050782 | Bust A Moon | 4.9 | LOST
+2025-09-23 15:13:30 | INFO | watch - Market closed: 5f Hcap, result: LOST
+2025-09-23 15:18:30 | INFO | Bet placed: Dragon Of Malta x 4.2 @ Listowel 7f Hcap
+2025-09-23 15:19:30 | INFO | Logged bet: 2025-09-23 15:19:30 | Lingfield | 1m Mdn Stks | 2025-09-23 15:15:00 | 1157768 | Indian Spirit | 2.24 | WON
+2025-09-23 15:19:30 | INFO | watch - Market closed: 1m Mdn Stks, result: WON
+2025-09-23 15:26:30 | INFO | Bet placed: Beau Quali x 2.44 @ Warwick 2m Nov Hrd
+2025-09-23 15:30:01 | INFO | Logged bet: 2025-09-23 15:30:01 | Listowel | 7f Hcap | 2025-09-23 15:20:00 | 23742623 | Dragon Of Malta | 4.2 | WON
+2025-09-23 15:30:01 | INFO | watch - Market closed: 7f Hcap, result: WON
+2025-09-23 15:35:00 | INFO | Logged bet: 2025-09-23 15:35:00 | Warwick | 2m Nov Hrd | 2025-09-23 15:28:00 | 67132095 | Beau Quali | 2.44 | LOST
+2025-09-23 15:35:00 | INFO | watch - Market closed: 2m Nov Hrd, result: LOST
+2025-09-23 15:36:30 | INFO | Bet placed: Coto De Caza x 3.9 @ Beverley 5f Cond Stks
+2025-09-23 15:43:00 | INFO | Logged bet: 2025-09-23 15:43:00 | Beverley | 5f Cond Stks | 2025-09-23 15:38:00 | 59887116 | Coto De Caza | 3.9 | LOST
+2025-09-23 15:43:00 | INFO | watch - Market closed: 5f Cond Stks, result: LOST
+2025-09-23 15:43:30 | INFO | Bet placed: Return To Unit x 1.87 @ Lingfield 1m Mdn Stks
+2025-09-23 15:48:30 | INFO | Bet placed: Evening Blossom x 4.0 @ Listowel 1m Listed Stks
+2025-09-23 15:51:00 | INFO | Logged bet: 2025-09-23 15:51:00 | Lingfield | 1m Mdn Stks | 2025-09-23 15:45:00 | 88209816 | Return To Unit | 1.87 | LOST
+2025-09-23 15:51:00 | INFO | watch - Market closed: 1m Mdn Stks, result: LOST
+2025-09-23 15:56:30 | INFO | Bet placed: Belle Montrose x 2.78 @ Warwick 2m3f Hcap Hrd
+2025-09-23 15:56:30 | INFO | Logged bet: 2025-09-23 15:56:30 | Listowel | 1m Listed Stks | 2025-09-23 15:50:00 | 61566325 | Evening Blossom | 4.0 | LOST
+2025-09-23 15:56:30 | INFO | watch - Market closed: 1m Listed Stks, result: LOST
+2025-09-23 16:06:30 | INFO | Bet placed: One Night Thunder x 3.8 @ Beverley 7f Hcap
+2025-09-23 16:07:31 | INFO | Logged bet: 2025-09-23 16:07:31 | Warwick | 2m3f Hcap Hrd | 2025-09-23 15:58:00 | 63973713 | Belle Montrose | 2.78 | LOST
+2025-09-23 16:07:31 | INFO | watch - Market closed: 2m3f Hcap Hrd, result: LOST
+2025-09-23 16:13:30 | INFO | Bet placed: City Of Poets x 3.0 @ Lingfield 1m Hcap
+2025-09-23 16:13:30 | INFO | Logged bet: 2025-09-23 16:13:30 | Beverley | 7f Hcap | 2025-09-23 16:08:00 | 53102242 | One Night Thunder | 3.8 | LOST
+2025-09-23 16:13:30 | INFO | watch - Market closed: 7f Hcap, result: LOST
+2025-09-23 16:18:30 | INFO | Bet placed: Limestone x 2.72 @ Listowel 1m Stks
+2025-09-23 16:22:30 | INFO | Logged bet: 2025-09-23 16:22:30 | Lingfield | 1m Hcap | 2025-09-23 16:15:00 | 82388711 | City Of Poets | 3.0 | LOST
+2025-09-23 16:22:30 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-09-23 16:23:30 | INFO | Bet placed: Night Tara x 1.36 @ Southwell 2m Hcap
+2025-09-23 16:28:30 | INFO | Bet placed: Ile De Jersey x 3.1 @ Warwick 3m1f Hcap Chs
+2025-09-23 16:29:31 | INFO | Logged bet: 2025-09-23 16:29:31 | Listowel | 1m Stks | 2025-09-23 16:20:00 | 2368856 | Limestone | 2.72 | WON
+2025-09-23 16:29:31 | INFO | watch - Market closed: 1m Stks, result: WON
+2025-09-23 16:31:30 | INFO | Logged bet: 2025-09-23 16:31:30 | Southwell | 2m Hcap | 2025-09-23 16:25:00 | 85263566 | Night Tara | 1.36 | LOST
+2025-09-23 16:31:30 | INFO | watch - Market closed: 2m Hcap, result: LOST
+2025-09-23 16:36:30 | INFO | Bet placed: Echo Of Glory x 3.85 @ Beverley 1m Hcap
+2025-09-23 16:40:01 | INFO | Logged bet: 2025-09-23 16:40:01 | Warwick | 3m1f Hcap Chs | 2025-09-23 16:30:00 | 42680675 | Ile De Jersey | 3.1 | WON
+2025-09-23 16:40:01 | INFO | watch - Market closed: 3m1f Hcap Chs, result: WON
+2025-09-23 16:43:30 | INFO | Bet placed: Recon Mission x 6.6 @ Lingfield 5f Hcap
+2025-09-23 16:44:01 | INFO | Logged bet: 2025-09-23 16:44:01 | Beverley | 1m Hcap | 2025-09-23 16:38:00 | 74783998 | Echo Of Glory | 3.85 | LOST
+2025-09-23 16:44:01 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-09-23 16:48:30 | INFO | Bet placed: Chazzesmee x 3.55 @ Listowel 1m Hcap
+2025-09-23 16:53:30 | INFO | Bet placed: Kilkenny Warrior x 4.9 @ Southwell 6f Nursery
+2025-09-23 16:54:31 | INFO | Logged bet: 2025-09-23 16:54:31 | Lingfield | 5f Hcap | 2025-09-23 16:45:00 | 18749440 | Recon Mission | 6.6 | LOST
+2025-09-23 16:54:31 | INFO | watch - Market closed: 5f Hcap, result: LOST
+2025-09-23 16:58:30 | INFO | Bet placed: Bumpy Evans x 3.95 @ Warwick 3m Nov Hcap Chs
+2025-09-23 16:59:30 | INFO | Logged bet: 2025-09-23 16:59:30 | Southwell | 6f Nursery | 2025-09-23 16:55:00 | 86602001 | Kilkenny Warrior | 4.9 | WON
+2025-09-23 16:59:30 | INFO | watch - Market closed: 6f Nursery, result: WON
+2025-09-23 16:59:31 | INFO | Logged bet: 2025-09-23 16:59:31 | Listowel | 1m Hcap | 2025-09-23 16:50:00 | 38402137 | Chazzesmee | 3.55 | LOST
+2025-09-23 16:59:31 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-09-23 17:08:30 | INFO | Bet placed: Mystical Maria x 3.5 @ Beverley 1m2f App Hcap
+2025-09-23 17:09:31 | INFO | Logged bet: 2025-09-23 17:09:31 | Warwick | 3m Nov Hcap Chs | 2025-09-23 17:00:00 | 48002641 | Bumpy Evans | 3.95 | WON
+2025-09-23 17:09:31 | INFO | watch - Market closed: 3m Nov Hcap Chs, result: WON
+2025-09-23 17:13:30 | INFO | Bet placed: Kondratiev Wave x 4.8 @ Lingfield 7f Hcap
+2025-09-23 17:17:31 | INFO | Logged bet: 2025-09-23 17:17:31 | Beverley | 1m2f App Hcap | 2025-09-23 17:10:00 | 64935724 | Mystical Maria | 3.5 | LOST
+2025-09-23 17:17:31 | INFO | watch - Market closed: 1m2f App Hcap, result: LOST
+2025-09-23 17:20:30 | INFO | Bet placed: Saratoga x 2.48 @ Listowel 1m6f Hcap
+2025-09-23 17:25:31 | INFO | Logged bet: 2025-09-23 17:25:31 | Lingfield | 7f Hcap | 2025-09-23 17:15:00 | 25995427 | Kondratiev Wave | 4.8 | LOST
+2025-09-23 17:25:31 | INFO | watch - Market closed: 7f Hcap, result: LOST
+2025-09-23 17:28:30 | INFO | Bet placed: Luzon Heights x 3.55 @ Southwell 1m Nursery
+2025-09-23 17:29:31 | INFO | Logged bet: 2025-09-23 17:29:31 | Listowel | 1m6f Hcap | 2025-09-23 17:22:00 | 334835 | Saratoga | 2.48 | WON
+2025-09-23 17:29:31 | INFO | watch - Market closed: 1m6f Hcap, result: WON
+2025-09-23 17:33:30 | INFO | Bet placed: Jacks Jury x 4.2 @ Warwick 3m2f Hcap Hrd
+2025-09-23 17:35:00 | INFO | Logged bet: 2025-09-23 17:35:00 | Southwell | 1m Nursery | 2025-09-23 17:30:00 | 85381080 | Luzon Heights | 3.55 | WON
+2025-09-23 17:35:00 | INFO | watch - Market closed: 1m Nursery, result: WON
+2025-09-23 17:43:30 | INFO | Bet placed: Borderline Madness x 5.8 @ Lingfield 1m Hcap
+2025-09-23 17:45:01 | INFO | Logged bet: 2025-09-23 17:45:01 | Warwick | 3m2f Hcap Hrd | 2025-09-23 17:35:00 | 78729003 | Jacks Jury | 4.2 | LOST
+2025-09-23 17:45:01 | INFO | watch - Market closed: 3m2f Hcap Hrd, result: LOST
+2025-09-23 17:57:01 | INFO | Logged bet: 2025-09-23 17:57:01 | Lingfield | 1m Hcap | 2025-09-23 17:45:00 | 72923504 | Borderline Madness | 5.8 | WON
+2025-09-23 17:57:01 | INFO | watch - Market closed: 1m Hcap, result: WON
+2025-09-23 17:58:30 | INFO | Bet placed: Celestias Comet x 1.45 @ Southwell 1m Nov Stks
+2025-09-23 18:04:30 | INFO | Logged bet: 2025-09-23 18:04:30 | Southwell | 1m Nov Stks | 2025-09-23 18:00:00 | 74824163 | Celestias Comet | 1.45 | WON
+2025-09-23 18:04:30 | INFO | watch - Market closed: 1m Nov Stks, result: WON
+2025-09-23 18:28:30 | INFO | Bet placed: Miraculous x 4.3 @ Southwell 5f Hcap
+2025-09-23 18:35:31 | INFO | Logged bet: 2025-09-23 18:35:31 | Southwell | 5f Hcap | 2025-09-23 18:30:00 | 213503 | Miraculous | 4.3 | LOST
+2025-09-23 18:35:31 | INFO | watch - Market closed: 5f Hcap, result: LOST
+2025-09-23 18:58:30 | INFO | Bet placed: Mon Na Slieve x 4.9 @ Southwell 5f Hcap
+2025-09-23 19:10:31 | INFO | Logged bet: 2025-09-23 19:10:31 | Southwell | 5f Hcap | 2025-09-23 19:00:00 | 55987504 | Mon Na Slieve | 4.9 | LOST
+2025-09-23 19:10:31 | INFO | watch - Market closed: 5f Hcap, result: LOST
+2025-09-23 19:28:30 | INFO | Bet placed: Leading Times x 2.14 @ Southwell 5f Mdn Stks
+2025-09-23 19:34:30 | INFO | Logged bet: 2025-09-23 19:34:30 | Southwell | 5f Mdn Stks | 2025-09-23 19:30:00 | 88896752 | Leading Times | 2.14 | WON
+2025-09-23 19:34:30 | INFO | watch - Market closed: 5f Mdn Stks, result: WON
+2025-09-23 19:58:30 | INFO | Bet placed: Tryfan x 5.1 @ Southwell 1m6f Hcap
+2025-09-23 20:06:31 | INFO | Logged bet: 2025-09-23 20:06:31 | Southwell | 1m6f Hcap | 2025-09-23 20:00:00 | 52954 | Tryfan | 5.1 | WON
+2025-09-23 20:06:31 | INFO | watch - Market closed: 1m6f Hcap, result: WON
+2025-09-23 20:28:30 | INFO | Bet placed: Both Of Us x 2.32 @ Southwell 1m4f Hcap
+2025-09-23 20:37:31 | INFO | Logged bet: 2025-09-23 20:37:31 | Southwell | 1m4f Hcap | 2025-09-23 20:30:00 | 84116041 | Both Of Us | 2.32 | WON
+2025-09-23 20:37:31 | INFO | watch - Market closed: 1m4f Hcap, result: WON

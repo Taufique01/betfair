@@ -1,0 +1,71 @@
+
+    <h2>🐎 CHASE Report — Sunday, September 07, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#28a745">
+            <td>Sep 07, 2025 02:26 PM</td>
+            <td>Fontwell 7th Sep</td>
+            <td>Shantou Lucky</td>
+            <td>2.04</td>
+            <td>£8.80</td>
+            <td>WON</td>
+            <td>£9.15</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 07, 2025 02:36 PM</td>
+            <td>York 7th Sep</td>
+            <td>Crown Office</td>
+            <td>3.10</td>
+            <td>£9.17</td>
+            <td>LOST</td>
+            <td>£-9.17</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 07, 2025 03:29 PM</td>
+            <td>Fontwell 7th Sep</td>
+            <td>Kings Reign</td>
+            <td>2.70</td>
+            <td>£15.14</td>
+            <td>WON</td>
+            <td>£25.74</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 07, 2025 04:35 PM</td>
+            <td>Fontwell 7th Sep</td>
+            <td>Goodwin</td>
+            <td>2.24</td>
+            <td>£9.83</td>
+            <td>WON</td>
+            <td>£12.19</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 4 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 3 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 1 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £37.91
+    </p>
+    

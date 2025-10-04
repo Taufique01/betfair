@@ -1,0 +1,118 @@
+2025-09-21 05:00:00 | INFO | Logged in to Betfair API
+2025-09-21 05:00:00 | INFO | Fetched 29 markets for today
+2025-09-21 05:00:00 | INFO | Scheduled bet for 1m Mdn Stks at 2:11:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 3m1f Hcap Hrd at 2:18:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 2m Hrd at 2:26:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 1m Mdn Stks at 2:35:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 5f Hcap at 2:41:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 2m Hcap Hrd at 2:48:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 2m4f Hrd at 2:56:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 1m Hcap at 3:05:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 1m3f Stks at 3:11:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 2m4f Mdn Hrd at 3:18:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 2m2f Hcap Hrd at 3:26:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 5f Mdn Stks at 3:35:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 6f Hcap at 3:41:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 2m Hcap Hrd at 3:48:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 2m6f Mdn Hrd at 3:56:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 5f Hcap at 4:05:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 1m1f Hcap at 4:11:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 2m4f Hcap Hrd at 4:18:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 2m1f Nov Chs at 4:26:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 5f Hcap at 4:35:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 6f Hcap at 4:41:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 2m2f NHF at 4:48:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 2m1f Hcap Chs at 4:56:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 5f Hcap at 5:05:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 1m4f Hcap at 5:11:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 2m INHF at 5:26:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 1m4f Hcap at 5:38:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 7f Hcap at 6:13:30PM
+2025-09-21 05:00:00 | INFO | Scheduled bet for 2m Hcap at 6:43:30PM
+2025-09-21 14:11:30 | INFO | Bet placed: Mehsun x 2.66 @ Hamilton 1m Mdn Stks
+2025-09-21 14:18:30 | INFO | Bet placed: Cinderello x 5.3 @ Plumpton 3m1f Hcap Hrd
+2025-09-21 14:26:30 | INFO | Bet placed: Whats New x 2.86 @ Listowel 2m Hrd
+2025-09-21 14:30:31 | INFO | Logged bet: 2025-09-21 14:30:31 | Plumpton | 3m1f Hcap Hrd | 2025-09-21 14:20:00 | 75323199 | Cinderello | 5.3 | LOST
+2025-09-21 14:30:31 | INFO | watch - Market closed: 3m1f Hcap Hrd, result: LOST
+2025-09-21 14:35:30 | INFO | Bet placed: Devils Peak x 2.14 @ Southwell 1m Mdn Stks
+2025-09-21 14:37:01 | INFO | Logged bet: 2025-09-21 14:37:01 | Listowel | 2m Hrd | 2025-09-21 14:28:00 | 2497048 | Whats New | 2.86 | LOST
+2025-09-21 14:37:01 | INFO | watch - Market closed: 2m Hrd, result: LOST
+2025-09-21 14:41:30 | INFO | Bet placed: Thunderstorm Katie x 2.88 @ Hamilton 5f Hcap
+2025-09-21 14:43:00 | INFO | Logged bet: 2025-09-21 14:43:00 | Southwell | 1m Mdn Stks | 2025-09-21 14:37:00 | 10097625 | Devils Peak | 2.14 | LOST
+2025-09-21 14:43:00 | INFO | watch - Market closed: 1m Mdn Stks, result: LOST
+2025-09-21 14:44:33 | INFO | Logged bet: 2025-09-21 14:44:33 | Hamilton | 1m Mdn Stks | 2025-09-21 14:13:00 | 87468835 | Mehsun | 2.66 | LOST
+2025-09-21 14:44:33 | INFO | watch - Market closed: 1m Mdn Stks, result: LOST
+2025-09-21 14:48:30 | INFO | Bet placed: Jet Patrol x 4.5 @ Plumpton 2m Hcap Hrd
+2025-09-21 14:50:01 | INFO | Logged bet: 2025-09-21 14:50:01 | Hamilton | 5f Hcap | 2025-09-21 14:43:00 | 70013929 | Thunderstorm Katie | 2.88 | LOST
+2025-09-21 14:50:01 | INFO | watch - Market closed: 5f Hcap, result: LOST
+2025-09-21 14:56:30 | INFO | Bet placed: Jalila Moriviere x 1.81 @ Listowel 2m4f Hrd
+2025-09-21 14:58:31 | INFO | Logged bet: 2025-09-21 14:58:31 | Plumpton | 2m Hcap Hrd | 2025-09-21 14:50:00 | 63374128 | Jet Patrol | 4.5 | WON
+2025-09-21 14:58:31 | INFO | watch - Market closed: 2m Hcap Hrd, result: WON
+2025-09-21 15:05:30 | INFO | Bet placed: Best Rate x 4.5 @ Southwell 1m Hcap
+2025-09-21 15:07:01 | INFO | Logged bet: 2025-09-21 15:07:01 | Listowel | 2m4f Hrd | 2025-09-21 14:58:00 | 62700119 | Jalila Moriviere | 1.81 | LOST
+2025-09-21 15:07:01 | INFO | watch - Market closed: 2m4f Hrd, result: LOST
+2025-09-21 15:11:30 | INFO | Bet placed: Cayman Dancer x 2.84 @ Hamilton 1m3f Stks
+2025-09-21 15:16:01 | INFO | Logged bet: 2025-09-21 15:16:01 | Southwell | 1m Hcap | 2025-09-21 15:07:00 | 74754399 | Best Rate | 4.5 | LOST
+2025-09-21 15:16:01 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-09-21 15:18:00 | INFO | Logged bet: 2025-09-21 15:18:00 | Hamilton | 1m3f Stks | 2025-09-21 15:13:00 | 82799545 | Cayman Dancer | 2.84 | LOST
+2025-09-21 15:18:00 | INFO | watch - Market closed: 1m3f Stks, result: LOST
+2025-09-21 15:18:30 | INFO | Bet placed: Kajikia x 1.25 @ Plumpton 2m4f Mdn Hrd
+2025-09-21 15:26:30 | INFO | Bet placed: Hay Baby x 6.8 @ Listowel 2m2f Hcap Hrd
+2025-09-21 15:30:31 | INFO | Logged bet: 2025-09-21 15:30:31 | Plumpton | 2m4f Mdn Hrd | 2025-09-21 15:20:00 | 75769128 | Kajikia | 1.25 | WON
+2025-09-21 15:30:31 | INFO | watch - Market closed: 2m4f Mdn Hrd, result: WON
+2025-09-21 15:35:30 | INFO | Bet placed: Hypnotised x 1.81 @ Southwell 5f Mdn Stks
+2025-09-21 15:41:30 | INFO | Bet placed: Annie Edson Taylor x 3.9 @ Hamilton 6f Hcap
+2025-09-21 15:42:00 | INFO | Logged bet: 2025-09-21 15:42:00 | Southwell | 5f Mdn Stks | 2025-09-21 15:37:00 | 86566645 | Hypnotised | 1.81 | WON
+2025-09-21 15:42:00 | INFO | watch - Market closed: 5f Mdn Stks, result: WON
+2025-09-21 15:44:31 | INFO | Logged bet: 2025-09-21 15:44:31 | Listowel | 2m2f Hcap Hrd | 2025-09-21 15:28:00 | 79863067 | Hay Baby | 6.8 | LOST
+2025-09-21 15:44:31 | INFO | watch - Market closed: 2m2f Hcap Hrd, result: LOST
+2025-09-21 15:47:30 | INFO | Logged bet: 2025-09-21 15:47:30 | Hamilton | 6f Hcap | 2025-09-21 15:43:00 | 60004224 | Annie Edson Taylor | 3.9 | LOST
+2025-09-21 15:47:30 | INFO | watch - Market closed: 6f Hcap, result: LOST
+2025-09-21 15:48:30 | INFO | Bet placed: Nap Hand x 2.7 @ Plumpton 2m Hcap Hrd
+2025-09-21 15:56:30 | INFO | Bet placed: Good Girl Kathleen x 2.54 @ Listowel 2m6f Mdn Hrd
+2025-09-21 15:58:01 | INFO | Logged bet: 2025-09-21 15:58:01 | Plumpton | 2m Hcap Hrd | 2025-09-21 15:50:00 | 46064958 | Nap Hand | 2.7 | LOST
+2025-09-21 15:58:01 | INFO | watch - Market closed: 2m Hcap Hrd, result: LOST
+2025-09-21 16:05:30 | INFO | Bet placed: THE MAN x 4.8 @ Southwell 5f Hcap
+2025-09-21 16:09:31 | INFO | Logged bet: 2025-09-21 16:09:31 | Listowel | 2m6f Mdn Hrd | 2025-09-21 15:58:00 | 82319383 | Good Girl Kathleen | 2.54 | WON
+2025-09-21 16:09:31 | INFO | watch - Market closed: 2m6f Mdn Hrd, result: WON
+2025-09-21 16:11:30 | INFO | Bet placed: Naturalia x 3.45 @ Hamilton 1m1f Hcap
+2025-09-21 16:15:30 | INFO | Logged bet: 2025-09-21 16:15:30 | Southwell | 5f Hcap | 2025-09-21 16:07:00 | 12529647 | THE MAN | 4.8 | LOST
+2025-09-21 16:15:30 | INFO | watch - Market closed: 5f Hcap, result: LOST
+2025-09-21 16:18:30 | INFO | Bet placed: No Guarantee x 5.2 @ Plumpton 2m4f Hcap Hrd
+2025-09-21 16:23:31 | INFO | Logged bet: 2025-09-21 16:23:31 | Hamilton | 1m1f Hcap | 2025-09-21 16:13:00 | 57502571 | Naturalia | 3.45 | LOST
+2025-09-21 16:23:31 | INFO | watch - Market closed: 1m1f Hcap, result: LOST
+2025-09-21 16:26:30 | INFO | Bet placed: Waterford Whispers x 5.1 @ Listowel 2m1f Nov Chs
+2025-09-21 16:28:31 | INFO | Logged bet: 2025-09-21 16:28:31 | Plumpton | 2m4f Hcap Hrd | 2025-09-21 16:20:00 | 61496695 | No Guarantee | 5.2 | LOST
+2025-09-21 16:28:31 | INFO | watch - Market closed: 2m4f Hcap Hrd, result: LOST
+2025-09-21 16:35:30 | INFO | Bet placed: Thankuappreciate x 6.2 @ Southwell 5f Hcap
+2025-09-21 16:39:01 | INFO | Logged bet: 2025-09-21 16:39:01 | Listowel | 2m1f Nov Chs | 2025-09-21 16:28:00 | 54481851 | Waterford Whispers | 5.1 | LOST
+2025-09-21 16:39:01 | INFO | watch - Market closed: 2m1f Nov Chs, result: LOST
+2025-09-21 16:41:30 | INFO | Bet placed: Belsito x 3.5 @ Hamilton 6f Hcap
+2025-09-21 16:46:01 | INFO | Logged bet: 2025-09-21 16:46:01 | Southwell | 5f Hcap | 2025-09-21 16:37:00 | 46250274 | Thankuappreciate | 6.2 | LOST
+2025-09-21 16:46:01 | INFO | watch - Market closed: 5f Hcap, result: LOST
+2025-09-21 16:48:30 | INFO | Bet placed: Masked Mistress x 1.81 @ Plumpton 2m2f NHF
+2025-09-21 16:52:31 | INFO | Logged bet: 2025-09-21 16:52:31 | Hamilton | 6f Hcap | 2025-09-21 16:43:00 | 47280487 | Belsito | 3.5 | WON
+2025-09-21 16:52:31 | INFO | watch - Market closed: 6f Hcap, result: WON
+2025-09-21 16:56:30 | INFO | Bet placed: Battle Of Ridgeway x 3.8 @ Listowel 2m1f Hcap Chs
+2025-09-21 17:01:31 | INFO | Logged bet: 2025-09-21 17:01:31 | Plumpton | 2m2f NHF | 2025-09-21 16:50:00 | 78060234 | Masked Mistress | 1.81 | WON
+2025-09-21 17:01:31 | INFO | watch - Market closed: 2m2f NHF, result: WON
+2025-09-21 17:05:30 | INFO | Bet placed: Spirit Of Applause x 5.6 @ Southwell 5f Hcap
+2025-09-21 17:11:30 | INFO | Bet placed: Cougar x 3.1 @ Hamilton 1m4f Hcap
+2025-09-21 17:15:01 | INFO | Logged bet: 2025-09-21 17:15:01 | Southwell | 5f Hcap | 2025-09-21 17:07:00 | 46846827 | Spirit Of Applause | 5.6 | WON
+2025-09-21 17:15:01 | INFO | watch - Market closed: 5f Hcap, result: WON
+2025-09-21 17:16:01 | INFO | Logged bet: 2025-09-21 17:16:01 | Listowel | 2m1f Hcap Chs | 2025-09-21 16:58:00 | 53727774 | Battle Of Ridgeway | 3.8 | LOST
+2025-09-21 17:16:01 | INFO | watch - Market closed: 2m1f Hcap Chs, result: LOST
+2025-09-21 17:20:31 | INFO | Logged bet: 2025-09-21 17:20:31 | Hamilton | 1m4f Hcap | 2025-09-21 17:13:00 | 200421 | Cougar | 3.1 | WON
+2025-09-21 17:20:31 | INFO | watch - Market closed: 1m4f Hcap, result: WON
+2025-09-21 17:26:30 | INFO | Bet placed: Lady Lena x 3.8 @ Listowel 2m INHF
+2025-09-21 17:38:30 | INFO | Bet placed: Byblos x 3.45 @ Southwell 1m4f Hcap
+2025-09-21 17:43:01 | INFO | Logged bet: 2025-09-21 17:43:01 | Listowel | 2m INHF | 2025-09-21 17:28:00 | 80451582 | Lady Lena | 3.8 | LOST
+2025-09-21 17:43:01 | INFO | watch - Market closed: 2m INHF, result: LOST
+2025-09-21 17:48:31 | INFO | Logged bet: 2025-09-21 17:48:31 | Southwell | 1m4f Hcap | 2025-09-21 17:40:00 | 880530 | Byblos | 3.45 | LOST
+2025-09-21 17:48:31 | INFO | watch - Market closed: 1m4f Hcap, result: LOST
+2025-09-21 18:13:30 | INFO | Bet placed: Forty Years On x 3.55 @ Southwell 7f Hcap
+2025-09-21 18:21:31 | INFO | Logged bet: 2025-09-21 18:21:31 | Southwell | 7f Hcap | 2025-09-21 18:15:00 | 81200268 | Forty Years On | 3.55 | LOST
+2025-09-21 18:21:31 | INFO | watch - Market closed: 7f Hcap, result: LOST
+2025-09-21 18:43:30 | INFO | Bet placed: Sax Appeal x 2.14 @ Southwell 2m Hcap
+2025-09-21 18:54:01 | INFO | Logged bet: 2025-09-21 18:54:01 | Southwell | 2m Hcap | 2025-09-21 18:45:00 | 51320271 | Sax Appeal | 2.14 | LOST
+2025-09-21 18:54:01 | INFO | watch - Market closed: 2m Hcap, result: LOST

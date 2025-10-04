@@ -1,0 +1,137 @@
+
+    <h2>🐎 CHASE Report — Saturday, September 27, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Sep 27, 2025 01:30 PM</td>
+            <td>Curragh 27th Sep</td>
+            <td>Armada De Lope</td>
+            <td>3.60</td>
+            <td>£8.80</td>
+            <td>LOST</td>
+            <td>£-8.80</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 27, 2025 01:47 PM</td>
+            <td>Ripon 27th Sep</td>
+            <td>Here Forever</td>
+            <td>1.34</td>
+            <td>£31.06</td>
+            <td>WON</td>
+            <td>£10.56</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 27, 2025 01:58 PM</td>
+            <td>Newmarket 27th Sep</td>
+            <td>Bow Echo</td>
+            <td>3.70</td>
+            <td>£8.88</td>
+            <td>WON</td>
+            <td>£23.98</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 27, 2025 02:18 PM</td>
+            <td>Listowel 27th Sep</td>
+            <td>Louiescall</td>
+            <td>4.40</td>
+            <td>£9.83</td>
+            <td>LOST</td>
+            <td>£-9.83</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 27, 2025 02:33 PM</td>
+            <td>Newmarket 27th Sep</td>
+            <td>True Love</td>
+            <td>3.20</td>
+            <td>£14.75</td>
+            <td>WON</td>
+            <td>£32.45</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 27, 2025 02:39 PM</td>
+            <td>Curragh 27th Sep</td>
+            <td>Hawk Mountain</td>
+            <td>2.10</td>
+            <td>£10.74</td>
+            <td>WON</td>
+            <td>£11.81</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 27, 2025 02:54 PM</td>
+            <td>Listowel 27th Sep</td>
+            <td>Cameletta Vega</td>
+            <td>3.15</td>
+            <td>£11.21</td>
+            <td>LOST</td>
+            <td>£-11.21</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 27, 2025 03:29 PM</td>
+            <td>Newmarket 27th Sep</td>
+            <td>Wise Approach</td>
+            <td>2.68</td>
+            <td>£18.50</td>
+            <td>WON</td>
+            <td>£31.08</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 27, 2025 03:51 PM</td>
+            <td>Newmarket 27th Sep</td>
+            <td>Real Gain</td>
+            <td>7.60</td>
+            <td>£12.01</td>
+            <td>LOST</td>
+            <td>£-12.01</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 27, 2025 04:07 PM</td>
+            <td>Listowel 27th Sep</td>
+            <td>Rising Dust</td>
+            <td>2.48</td>
+            <td>£19.82</td>
+            <td>WON</td>
+            <td>£29.33</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 10 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 6 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 4 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £97.36
+    </p>
+    

@@ -1,0 +1,134 @@
+2025-09-02 04:00:00 | INFO | Logged in to Betfair API
+2025-09-02 04:00:00 | INFO | Fetched 38 markets for today
+2025-09-02 04:00:00 | INFO | Running daily 5 AM reset
+2025-09-02 04:00:00 | INFO | Scheduled bet for 7f Mdn at 2025-09-02 12:34:00+00:00
+2025-09-02 04:00:00 | INFO | Scheduled bet for 1m Mdn Stks at 2025-09-02 12:47:00+00:00
+2025-09-02 04:00:00 | INFO | Skipping 7f Hcap/Chepstow 2nd Sep - reason: track_grades dict
+2025-09-02 04:00:00 | INFO | Skipping 7f Hcap/Chepstow 2nd Sep
+2025-09-02 04:00:00 | INFO | Scheduled bet for 7f Mdn at 2025-09-02 13:09:00+00:00
+2025-09-02 04:00:00 | INFO | Scheduled bet for 6f Nursery at 2025-09-02 13:22:00+00:00
+2025-09-02 04:00:00 | INFO | Skipping 7f Nov Stks/Chepstow 2nd Sep - reason: track_grades dict
+2025-09-02 04:00:00 | INFO | Skipping 7f Nov Stks/Chepstow 2nd Sep
+2025-09-02 04:00:00 | INFO | Scheduled bet for 7f Mdn at 2025-09-02 13:44:00+00:00
+2025-09-02 04:00:00 | INFO | Skipping 5f Hcap/Goodwood 2nd Sep - reason: low win list
+2025-09-02 04:00:00 | INFO | Skipping 5f Hcap/Goodwood 2nd Sep
+2025-09-02 04:00:00 | INFO | Skipping 1m Nursery/Chepstow 2nd Sep - reason: track_grades dict
+2025-09-02 04:00:00 | INFO | Skipping 1m Nursery/Chepstow 2nd Sep
+2025-09-02 04:00:00 | INFO | Scheduled bet for 7f Hcap at 2025-09-02 14:19:00+00:00
+2025-09-02 04:00:00 | INFO | Scheduled bet for 1m2f Nov Stks at 2025-09-02 14:32:00+00:00
+2025-09-02 04:00:00 | INFO | Skipping 6f Mdn Stks/Chepstow 2nd Sep - reason: track_grades dict
+2025-09-02 04:00:00 | INFO | Skipping 6f Mdn Stks/Chepstow 2nd Sep
+2025-09-02 04:00:00 | INFO | Scheduled bet for 1m Claim Stks at 2025-09-02 14:54:00+00:00
+2025-09-02 04:00:00 | INFO | Scheduled bet for 2m Hcap at 2025-09-02 15:07:00+00:00
+2025-09-02 04:00:00 | INFO | Skipping 6f Hcap/Chepstow 2nd Sep - reason: low win list
+2025-09-02 04:00:00 | INFO | Skipping 6f Hcap/Chepstow 2nd Sep
+2025-09-02 04:00:00 | INFO | Scheduled bet for 1m Hcap at 2025-09-02 15:29:00+00:00
+2025-09-02 04:00:00 | INFO | Scheduled bet for 1m2f Hcap at 2025-09-02 15:42:00+00:00
+2025-09-02 04:00:00 | INFO | Skipping 7f Hcap/Chepstow 2nd Sep - reason: track_grades dict
+2025-09-02 04:00:00 | INFO | Skipping 7f Hcap/Chepstow 2nd Sep
+2025-09-02 04:00:00 | INFO | Scheduled bet for 1m Hcap at 2025-09-02 16:01:00+00:00
+2025-09-02 04:00:00 | INFO | Scheduled bet for 7f Hcap at 2025-09-02 16:09:00+00:00
+2025-09-02 04:00:00 | INFO | Skipping 6f Hcap/Goodwood 2nd Sep - reason: low win list
+2025-09-02 04:00:00 | INFO | Skipping 6f Hcap/Goodwood 2nd Sep
+2025-09-02 04:00:00 | INFO | Skipping 5f Hcap/Chepstow 2nd Sep - reason: low win list
+2025-09-02 04:00:00 | INFO | Skipping 5f Hcap/Chepstow 2nd Sep
+2025-09-02 04:00:00 | INFO | Scheduled bet for 5f Nov Stks at 2025-09-02 16:29:00+00:00
+2025-09-02 04:00:00 | INFO | Scheduled bet for 1m6f Mdn at 2025-09-02 16:36:00+00:00
+2025-09-02 04:00:00 | INFO | Scheduled bet for 7f Mdn Stks at 2025-09-02 16:44:00+00:00
+2025-09-02 04:00:00 | INFO | Scheduled bet for 1m3f Nov Stks at 2025-09-02 16:59:00+00:00
+2025-09-02 04:00:00 | INFO | Scheduled bet for 1m Nov Stks at 2025-09-02 17:14:00+00:00
+2025-09-02 04:00:00 | INFO | Skipping 5f Hcap/Southwell 2nd Sep - reason: low win list
+2025-09-02 04:00:00 | INFO | Skipping 5f Hcap/Southwell 2nd Sep
+2025-09-02 04:00:00 | INFO | Scheduled bet for 1m1f Hcap at 2025-09-02 17:44:00+00:00
+2025-09-02 04:00:00 | INFO | Scheduled bet for 1m Hcap at 2025-09-02 17:59:00+00:00
+2025-09-02 04:00:00 | INFO | Skipping 5f Hcap/Wolverhampton 2nd Sep - reason: low win list
+2025-09-02 04:00:00 | INFO | Skipping 5f Hcap/Wolverhampton 2nd Sep
+2025-09-02 04:00:00 | INFO | Scheduled bet for 1m Hcap at 2025-09-02 18:29:00+00:00
+2025-09-02 04:00:00 | INFO | Scheduled bet for 1m1f Hcap at 2025-09-02 18:44:00+00:00
+2025-09-02 04:00:00 | INFO | Skipping 6f Hcap/Southwell 2nd Sep - reason: low win list
+2025-09-02 04:00:00 | INFO | Skipping 6f Hcap/Southwell 2nd Sep
+2025-09-02 04:00:00 | INFO | Scheduled bet for 1m4f Hcap at 2025-09-02 19:14:00+00:00
+2025-09-02 04:00:00 | INFO | Scheduled bet for 1m4f Hcap at 2025-09-02 19:29:00+00:00
+2025-09-02 04:00:00 | INFO | Skipping 6f Hcap/Wolverhampton 2nd Sep - reason: low win list
+2025-09-02 04:00:00 | INFO | Skipping 6f Hcap/Wolverhampton 2nd Sep
+2025-09-02 04:00:00 | INFO | Scheduled bet for 7f Hcap at 2025-09-02 19:59:00+00:00
+2025-09-02 04:00:00 | INFO | All races scheduled. Scheduler running...
+2025-09-02 12:34:00 | INFO | State: {'balance': 220.0, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-09-02 12:34:00 | INFO | Bid placed: {'selection_id': 589592, 'runner_name': 'Minerva', 'odds': 1.84, 'placed_odds': 1.84, 'stake': 8.8, 'market_id': '1.247279563', 'race_name': '7f Mdn', 'result': 'PENDING'}
+2025-09-02 12:41:00 | INFO | chase - Market closed: 7f Mdn, result: LOST
+2025-09-02 12:41:00 | INFO | Bet placed for 7f Mdn: Minerva | stake 8.8 | result L | balance 211.2
+2025-09-02 12:47:00 | INFO | State: {'balance': 211.2, 'leg': 2, 'accumulated_losses': 8.8, 'prev_stake': 8.8, 'chase_active': False, 'is_running_race': False}
+2025-09-02 12:47:00 | INFO | Bid placed: {'selection_id': 28679281, 'runner_name': 'I Can Dance', 'odds': 2.18, 'placed_odds': 2.18, 'stake': 8.95, 'market_id': '1.247278433', 'race_name': '1m Mdn Stks', 'result': 'PENDING'}
+2025-09-02 13:03:31 | INFO | chase - Market closed: 1m Mdn Stks, result: LOST
+2025-09-02 13:03:31 | INFO | Bet placed for 1m Mdn Stks: I Can Dance | stake 8.95 | result L | balance 202.25
+2025-09-02 13:09:00 | INFO | State: {'balance': 202.25, 'leg': 3, 'accumulated_losses': 17.75, 'prev_stake': 8.95, 'chase_active': False, 'is_running_race': False}
+2025-09-02 13:09:00 | INFO | Bid placed: {'selection_id': 85725319, 'runner_name': 'Charles Fort', 'odds': 3.25, 'placed_odds': 3.25, 'stake': 13.43, 'market_id': '1.247279568', 'race_name': '7f Mdn', 'result': 'PENDING'}
+2025-09-02 13:17:00 | INFO | chase - Market closed: 7f Mdn, result: LOST
+2025-09-02 13:17:00 | INFO | Bet placed for 7f Mdn: Charles Fort | stake 13.43 | result L | balance 188.82
+2025-09-02 13:22:00 | INFO | State: {'balance': 188.82, 'leg': 4, 'accumulated_losses': 31.18, 'prev_stake': 13.43, 'chase_active': False, 'is_running_race': False}
+2025-09-02 13:22:00 | INFO | Bid placed: {'selection_id': 74893306, 'runner_name': 'Anaisa', 'odds': 2.42, 'placed_odds': 2.42, 'stake': 22.16, 'market_id': '1.247278476', 'race_name': '6f Nursery', 'result': 'PENDING'}
+2025-09-02 13:32:01 | INFO | chase - Market closed: 6f Nursery, result: LOST
+2025-09-02 13:32:01 | INFO | Bet placed for 6f Nursery: Anaisa | stake 22.16 | result L | balance 166.66
+2025-09-02 13:44:00 | INFO | State: {'balance': 166.66, 'leg': 5, 'accumulated_losses': 53.34, 'prev_stake': 22.16, 'chase_active': False, 'is_running_race': False}
+2025-09-02 13:44:00 | INFO | Bid placed: {'selection_id': 81615071, 'runner_name': 'Diego El Queso', 'odds': 2.98, 'placed_odds': 2.98, 'stake': 36.57, 'market_id': '1.247279573', 'race_name': '7f Mdn', 'result': 'PENDING'}
+2025-09-02 13:57:01 | INFO | chase - Market closed: 7f Mdn, result: LOST
+2025-09-02 13:57:01 | INFO | Bet placed for 7f Mdn: Diego El Queso | stake 36.57 | result L | balance 130.09
+2025-09-02 14:19:00 | INFO | State: {'balance': 130.09, 'leg': 6, 'accumulated_losses': 89.91, 'prev_stake': 36.57, 'chase_active': False, 'is_running_race': False}
+2025-09-02 14:19:01 | INFO | Bid placed: {'selection_id': 13831498, 'runner_name': 'Washington Street', 'odds': 3.5, 'placed_odds': 3.5, 'stake': 130.09, 'market_id': '1.247279578', 'race_name': '7f Hcap', 'result': 'PENDING'}
+2025-09-02 14:29:32 | INFO | chase - Market closed: 7f Hcap, result: LOST
+2025-09-02 14:29:32 | INFO | Bet placed for 7f Hcap: Washington Street | stake 130.09 | result L | balance 0.0
+2025-09-02 14:32:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 14:32:00 | WARNING | Skipping bet for 1m2f Nov Stks - balance too low (0.0 < 0.01)
+2025-09-02 14:54:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 14:54:00 | WARNING | Skipping bet for 1m Claim Stks - balance too low (0.0 < 0.01)
+2025-09-02 15:07:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 15:07:00 | INFO | Skipping 2m Hcap - after cutoff 2025-09-02 16:00:00+01:00, leg 7
+2025-09-02 15:07:00 | WARNING | Skipping bet for 2m Hcap - balance too low (0.0 < 0.01)
+2025-09-02 15:29:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 15:29:00 | INFO | Skipping 1m Hcap - after cutoff 2025-09-02 16:00:00+01:00, leg 7
+2025-09-02 15:29:00 | WARNING | Skipping bet for 1m Hcap - balance too low (0.0 < 0.01)
+2025-09-02 15:42:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 15:42:00 | INFO | Skipping 1m2f Hcap - after cutoff 2025-09-02 16:00:00+01:00, leg 7
+2025-09-02 15:42:00 | WARNING | Skipping bet for 1m2f Hcap - balance too low (0.0 < 0.01)
+2025-09-02 16:01:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 16:01:00 | INFO | Skipping 1m Hcap - after cutoff 2025-09-02 16:00:00+01:00, leg 7
+2025-09-02 16:01:00 | WARNING | Skipping bet for 1m Hcap - balance too low (0.0 < 0.01)
+2025-09-02 16:09:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 16:09:00 | INFO | Skipping 7f Hcap - after cutoff 2025-09-02 16:00:00+01:00, leg 7
+2025-09-02 16:09:00 | WARNING | Skipping bet for 7f Hcap - balance too low (0.0 < 0.01)
+2025-09-02 16:29:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 16:29:00 | INFO | Skipping 5f Nov Stks - after cutoff 2025-09-02 16:00:00+01:00, leg 7
+2025-09-02 16:29:00 | WARNING | Skipping bet for 5f Nov Stks - balance too low (0.0 < 0.01)
+2025-09-02 16:36:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 16:36:00 | INFO | Skipping 1m6f Mdn - after cutoff 2025-09-02 16:00:00+01:00, leg 7
+2025-09-02 16:36:00 | WARNING | Skipping bet for 1m6f Mdn - balance too low (0.0 < 0.01)
+2025-09-02 16:44:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 16:44:00 | INFO | Skipping 7f Mdn Stks - after cutoff 2025-09-02 16:00:00+01:00, leg 7
+2025-09-02 16:44:00 | WARNING | Skipping bet for 7f Mdn Stks - balance too low (0.0 < 0.01)
+2025-09-02 16:59:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 16:59:00 | INFO | Skipping 1m3f Nov Stks - after cutoff 2025-09-02 16:00:00+01:00, leg 7
+2025-09-02 16:59:00 | WARNING | Skipping bet for 1m3f Nov Stks - balance too low (0.0 < 0.01)
+2025-09-02 17:14:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 17:14:00 | INFO | Skipping 1m Nov Stks - after cutoff 2025-09-02 16:00:00+01:00, leg 7
+2025-09-02 17:14:00 | WARNING | Skipping bet for 1m Nov Stks - balance too low (0.0 < 0.01)
+2025-09-02 17:44:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 17:44:00 | INFO | Skipping 1m1f Hcap - after cutoff 2025-09-02 16:00:00+01:00, leg 7
+2025-09-02 17:44:00 | WARNING | Skipping bet for 1m1f Hcap - balance too low (0.0 < 0.01)
+2025-09-02 17:59:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 17:59:00 | INFO | Skipping 1m Hcap - after cutoff 2025-09-02 16:00:00+01:00, leg 7
+2025-09-02 17:59:00 | WARNING | Skipping bet for 1m Hcap - balance too low (0.0 < 0.01)
+2025-09-02 18:29:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 18:29:00 | INFO | Skipping 1m Hcap - after cutoff 2025-09-02 16:00:00+01:00, leg 7
+2025-09-02 18:29:00 | WARNING | Skipping bet for 1m Hcap - balance too low (0.0 < 0.01)
+2025-09-02 18:44:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 18:44:00 | INFO | Skipping 1m1f Hcap - after cutoff 2025-09-02 16:00:00+01:00, leg 7
+2025-09-02 18:44:00 | WARNING | Skipping bet for 1m1f Hcap - balance too low (0.0 < 0.01)
+2025-09-02 19:14:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 19:14:00 | INFO | Skipping 1m4f Hcap - after cutoff 2025-09-02 16:00:00+01:00, leg 7
+2025-09-02 19:14:00 | WARNING | Skipping bet for 1m4f Hcap - balance too low (0.0 < 0.01)
+2025-09-02 19:29:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 19:29:00 | INFO | Skipping 1m4f Hcap - after cutoff 2025-09-02 16:00:00+01:00, leg 7
+2025-09-02 19:29:00 | WARNING | Skipping bet for 1m4f Hcap - balance too low (0.0 < 0.01)
+2025-09-02 19:59:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 220.0, 'prev_stake': 130.09, 'chase_active': False, 'is_running_race': False}
+2025-09-02 19:59:00 | INFO | Skipping 7f Hcap - after cutoff 2025-09-02 16:00:00+01:00, leg 7
+2025-09-02 19:59:00 | WARNING | Skipping bet for 7f Hcap - balance too low (0.0 < 0.01)

@@ -1,0 +1,366 @@
+
+    <h2>🐎 Ghost Bet Report — Tuesday, September 02, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
+        <thead style="background-color:#f2f2f2;">
+            <tr>
+                <th>Time</th>
+                <th>Venue</th>
+                <th>Race</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 01:40 PM</td>
+            <td>Gowran Park</td>
+            <td>7f Mdn</td>
+            <td>Minerva</td>
+            <td>1.84</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 02:04 PM</td>
+            <td>Goodwood</td>
+            <td>1m Mdn Stks</td>
+            <td>I Can Dance</td>
+            <td>2.18</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 02:07 PM</td>
+            <td>Chepstow</td>
+            <td>7f Hcap</td>
+            <td>Marlay Park</td>
+            <td>4.60</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 02:18 PM</td>
+            <td>Gowran Park</td>
+            <td>7f Mdn</td>
+            <td>Charles Fort</td>
+            <td>3.40</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 02:31 PM</td>
+            <td>Goodwood</td>
+            <td>6f Nursery</td>
+            <td>Anaisa</td>
+            <td>2.38</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 02:43 PM</td>
+            <td>Chepstow</td>
+            <td>7f Nov Stks</td>
+            <td>Zabeel Flower</td>
+            <td>1.82</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 02:57 PM</td>
+            <td>Gowran Park</td>
+            <td>7f Mdn</td>
+            <td>Diego El Queso</td>
+            <td>3.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 02, 2025 03:05 PM</td>
+            <td>Goodwood</td>
+            <td>5f Hcap</td>
+            <td>Another Baar</td>
+            <td>3.10</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 03:15 PM</td>
+            <td>Chepstow</td>
+            <td>1m Nursery</td>
+            <td>Demetris Mouflon</td>
+            <td>2.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 03:29 PM</td>
+            <td>Gowran Park</td>
+            <td>7f Hcap</td>
+            <td>Washington Street</td>
+            <td>3.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 02, 2025 03:42 PM</td>
+            <td>Goodwood</td>
+            <td>1m2f Nov Stks</td>
+            <td>Master Vintner</td>
+            <td>2.06</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 02, 2025 03:51 PM</td>
+            <td>Chepstow</td>
+            <td>6f Mdn Stks</td>
+            <td>Peter The Wolf</td>
+            <td>1.63</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 04:00 PM</td>
+            <td>Gowran Park</td>
+            <td>1m Claim Stks</td>
+            <td>Star Mind</td>
+            <td>4.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 02, 2025 04:18 PM</td>
+            <td>Goodwood</td>
+            <td>2m Hcap</td>
+            <td>Novelista</td>
+            <td>2.78</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 02, 2025 04:27 PM</td>
+            <td>Chepstow</td>
+            <td>6f Hcap</td>
+            <td>Connies Rose</td>
+            <td>4.00</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 04:46 PM</td>
+            <td>Gowran Park</td>
+            <td>1m Hcap</td>
+            <td>Goldmoyne</td>
+            <td>4.30</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 02, 2025 04:53 PM</td>
+            <td>Goodwood</td>
+            <td>1m2f Hcap</td>
+            <td>Dancing Tiger</td>
+            <td>5.30</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 05:00 PM</td>
+            <td>Chepstow</td>
+            <td>7f Hcap</td>
+            <td>Step Along</td>
+            <td>3.45</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 02, 2025 05:09 PM</td>
+            <td>Gowran Park</td>
+            <td>1m Hcap</td>
+            <td>Thrifty Of Digby</td>
+            <td>7.20</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 05:19 PM</td>
+            <td>Wolverhampton</td>
+            <td>7f Hcap</td>
+            <td>Eden Storm</td>
+            <td>4.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 05:24 PM</td>
+            <td>Goodwood</td>
+            <td>6f Hcap</td>
+            <td>Eye Of Dubai</td>
+            <td>3.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 02, 2025 05:31 PM</td>
+            <td>Chepstow</td>
+            <td>5f Hcap</td>
+            <td>Call Time</td>
+            <td>2.38</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 02, 2025 05:35 PM</td>
+            <td>Southwell</td>
+            <td>5f Nov Stks</td>
+            <td>Rappers Delight</td>
+            <td>1.76</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 05:50 PM</td>
+            <td>Gowran Park</td>
+            <td>1m6f Mdn</td>
+            <td>Seo Linn</td>
+            <td>3.10</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 05:52 PM</td>
+            <td>Wolverhampton</td>
+            <td>7f Mdn Stks</td>
+            <td>Likeness</td>
+            <td>2.94</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 06:11 PM</td>
+            <td>Southwell</td>
+            <td>1m3f Nov Stks</td>
+            <td>Port Of London</td>
+            <td>3.35</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 02, 2025 06:23 PM</td>
+            <td>Wolverhampton</td>
+            <td>1m Nov Stks</td>
+            <td>Almekarem</td>
+            <td>2.16</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 06:37 PM</td>
+            <td>Southwell</td>
+            <td>5f Hcap</td>
+            <td>Queensmaite</td>
+            <td>4.10</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 06:55 PM</td>
+            <td>Wolverhampton</td>
+            <td>1m1f Hcap</td>
+            <td>Romantic Spirit</td>
+            <td>6.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 02, 2025 07:07 PM</td>
+            <td>Southwell</td>
+            <td>1m Hcap</td>
+            <td>Mahras Love</td>
+            <td>3.40</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 02, 2025 07:29 PM</td>
+            <td>Wolverhampton</td>
+            <td>5f Hcap</td>
+            <td>Maris Angel</td>
+            <td>3.30</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 02, 2025 07:39 PM</td>
+            <td>Southwell</td>
+            <td>1m Hcap</td>
+            <td>Run With It</td>
+            <td>4.10</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 07:52 PM</td>
+            <td>Wolverhampton</td>
+            <td>1m1f Hcap</td>
+            <td>Bintalina</td>
+            <td>3.95</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 08:08 PM</td>
+            <td>Southwell</td>
+            <td>6f Hcap</td>
+            <td>Grant Wood</td>
+            <td>5.30</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 08:29 PM</td>
+            <td>Wolverhampton</td>
+            <td>1m4f Hcap</td>
+            <td>Berkshire Phantom</td>
+            <td>4.30</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 02, 2025 08:40 PM</td>
+            <td>Southwell</td>
+            <td>1m4f Hcap</td>
+            <td>Coedana</td>
+            <td>3.50</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 02, 2025 08:51 PM</td>
+            <td>Wolverhampton</td>
+            <td>6f Hcap</td>
+            <td>Macarone</td>
+            <td>3.60</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 02, 2025 09:06 PM</td>
+            <td>Southwell</td>
+            <td>7f Hcap</td>
+            <td>RETRACTION</td>
+            <td>4.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 38 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 15 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 23 <br>
+        <strong>Net Profit/Loss:</strong> <span style="color:#28a745;">$12.27</span>
+    </p>
+    

@@ -1,0 +1,159 @@
+
+    <h2>🐎 CHASE Report — Thursday, September 25, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Sep 25, 2025 01:58 PM</td>
+            <td>Newmarket 25th Sep</td>
+            <td>Del Maro</td>
+            <td>1.96</td>
+            <td>£8.80</td>
+            <td>LOST</td>
+            <td>£-8.80</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 25, 2025 02:12 PM</td>
+            <td>Pontefract 25th Sep</td>
+            <td>Canaria Queen</td>
+            <td>2.32</td>
+            <td>£14.52</td>
+            <td>LOST</td>
+            <td>£-14.52</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 25, 2025 02:23 PM</td>
+            <td>Listowel 25th Sep</td>
+            <td>Carrigmoornaspruce</td>
+            <td>1.63</td>
+            <td>£44.42</td>
+            <td>WON</td>
+            <td>£27.98</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 25, 2025 02:32 PM</td>
+            <td>Newmarket 25th Sep</td>
+            <td>Monoceros</td>
+            <td>3.10</td>
+            <td>£8.99</td>
+            <td>LOST</td>
+            <td>£-8.99</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 25, 2025 02:48 PM</td>
+            <td>Pontefract 25th Sep</td>
+            <td>Spanish Waltz</td>
+            <td>1.49</td>
+            <td>£22.02</td>
+            <td>WON</td>
+            <td>£10.79</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 25, 2025 03:00 PM</td>
+            <td>Listowel 25th Sep</td>
+            <td>Heads Up</td>
+            <td>1.71</td>
+            <td>£9.06</td>
+            <td>WON</td>
+            <td>£6.43</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 25, 2025 03:17 PM</td>
+            <td>Perth 25th Sep</td>
+            <td>Top Flight Century</td>
+            <td>3.50</td>
+            <td>£9.32</td>
+            <td>LOST</td>
+            <td>£-9.32</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 25, 2025 03:35 PM</td>
+            <td>Listowel 25th Sep</td>
+            <td>Messerschmitt</td>
+            <td>5.30</td>
+            <td>£13.98</td>
+            <td>LOST</td>
+            <td>£-13.98</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 25, 2025 03:54 PM</td>
+            <td>Perth 25th Sep</td>
+            <td>Upfordebate</td>
+            <td>3.10</td>
+            <td>£20.97</td>
+            <td>WON</td>
+            <td>£44.04</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 25, 2025 04:07 PM</td>
+            <td>Listowel 25th Sep</td>
+            <td>Targa Flavio</td>
+            <td>6.20</td>
+            <td>£10.15</td>
+            <td>LOST</td>
+            <td>£-10.15</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 25, 2025 04:21 PM</td>
+            <td>Newmarket 25th Sep</td>
+            <td>Live Your Dream</td>
+            <td>3.10</td>
+            <td>£15.23</td>
+            <td>LOST</td>
+            <td>£-15.23</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 25, 2025 04:35 PM</td>
+            <td>Pontefract 25th Sep</td>
+            <td>Wave Rider</td>
+            <td>1.99</td>
+            <td>£30.77</td>
+            <td>WON</td>
+            <td>£30.46</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 12 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 5 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 7 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £38.71
+    </p>
+    

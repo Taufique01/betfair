@@ -1,0 +1,126 @@
+
+    <h2>🐎 CHASE Report — Sunday, September 14, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#28a745">
+            <td>Sep 14, 2025 01:26 PM</td>
+            <td>Doncaster 14th Sep</td>
+            <td>Stormy Monday</td>
+            <td>5.20</td>
+            <td>£8.80</td>
+            <td>WON</td>
+            <td>£36.96</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 14, 2025 02:01 PM</td>
+            <td>Doncaster 14th Sep</td>
+            <td>Something Splendid</td>
+            <td>3.00</td>
+            <td>£10.28</td>
+            <td>LOST</td>
+            <td>£-10.28</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 14, 2025 02:11 PM</td>
+            <td>Curragh 14th Sep</td>
+            <td>Alparslan</td>
+            <td>2.66</td>
+            <td>£16.97</td>
+            <td>WON</td>
+            <td>£28.17</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 14, 2025 02:25 PM</td>
+            <td>Musselburgh 14th Sep</td>
+            <td>Farandaway</td>
+            <td>1.39</td>
+            <td>£11.00</td>
+            <td>LOST</td>
+            <td>£-11.00</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 14, 2025 02:38 PM</td>
+            <td>Doncaster 14th Sep</td>
+            <td>Defence Minister</td>
+            <td>7.40</td>
+            <td>£16.50</td>
+            <td>LOST</td>
+            <td>£-16.50</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 14, 2025 02:46 PM</td>
+            <td>Curragh 14th Sep</td>
+            <td>Composing</td>
+            <td>2.32</td>
+            <td>£27.23</td>
+            <td>LOST</td>
+            <td>£-27.23</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 14, 2025 02:57 PM</td>
+            <td>Musselburgh 14th Sep</td>
+            <td>Supreme Dancer</td>
+            <td>3.65</td>
+            <td>£40.85</td>
+            <td>LOST</td>
+            <td>£-40.85</td>
+            <td>Leg 4</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 14, 2025 03:16 PM</td>
+            <td>Bath 14th Sep</td>
+            <td>Skimming Along</td>
+            <td>4.50</td>
+            <td>£61.28</td>
+            <td>LOST</td>
+            <td>£-61.28</td>
+            <td>Leg 5</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 14, 2025 03:33 PM</td>
+            <td>Musselburgh 14th Sep</td>
+            <td>Sea Master</td>
+            <td>2.98</td>
+            <td>£117.99</td>
+            <td>LOST</td>
+            <td>£-117.99</td>
+            <td>Leg 6</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 9 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 2 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 7 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £-220.00
+    </p>
+    

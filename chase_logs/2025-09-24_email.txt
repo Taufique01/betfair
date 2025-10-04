@@ -1,0 +1,137 @@
+
+    <h2>🐎 CHASE Report — Wednesday, September 24, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 01:47 PM</td>
+            <td>Redcar 24th Sep</td>
+            <td>Lynxman</td>
+            <td>4.50</td>
+            <td>£8.80</td>
+            <td>LOST</td>
+            <td>£-8.80</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 24, 2025 02:13 PM</td>
+            <td>Goodwood 24th Sep</td>
+            <td>Royal Playwright</td>
+            <td>1.86</td>
+            <td>£12.28</td>
+            <td>WON</td>
+            <td>£10.56</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 02:22 PM</td>
+            <td>Redcar 24th Sep</td>
+            <td>Mossvale Diva</td>
+            <td>3.15</td>
+            <td>£8.88</td>
+            <td>LOST</td>
+            <td>£-8.88</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 24, 2025 02:31 PM</td>
+            <td>Goodwood 24th Sep</td>
+            <td>Bay Of Brilliance</td>
+            <td>2.22</td>
+            <td>£8.74</td>
+            <td>WON</td>
+            <td>£10.66</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 02:42 PM</td>
+            <td>Perth 24th Sep</td>
+            <td>Wandering Ego</td>
+            <td>2.54</td>
+            <td>£8.95</td>
+            <td>LOST</td>
+            <td>£-8.95</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 02:58 PM</td>
+            <td>Redcar 24th Sep</td>
+            <td>Inishbeg</td>
+            <td>2.52</td>
+            <td>£14.77</td>
+            <td>LOST</td>
+            <td>£-14.77</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 03:08 PM</td>
+            <td>Goodwood 24th Sep</td>
+            <td>Alpha Crucis</td>
+            <td>5.60</td>
+            <td>£22.16</td>
+            <td>LOST</td>
+            <td>£-22.16</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 03:31 PM</td>
+            <td>Listowel 24th Sep</td>
+            <td>Bearami Creek</td>
+            <td>4.20</td>
+            <td>£33.24</td>
+            <td>LOST</td>
+            <td>£-33.24</td>
+            <td>Leg 4</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 03:45 PM</td>
+            <td>Goodwood 24th Sep</td>
+            <td>Saddadd</td>
+            <td>2.66</td>
+            <td>£54.85</td>
+            <td>LOST</td>
+            <td>£-54.85</td>
+            <td>Leg 5</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 04:06 PM</td>
+            <td>Listowel 24th Sep</td>
+            <td>Bitofajokelike</td>
+            <td>4.90</td>
+            <td>£89.57</td>
+            <td>LOST</td>
+            <td>£-89.57</td>
+            <td>Leg 6</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 10 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 2 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 8 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £-220.00
+    </p>
+    

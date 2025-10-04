@@ -1,0 +1,15 @@
+🐎 Ghost Bet Report — 2025-08-20
+--------------------------------------------------
+[2025-08-20 14:02:31] York — 5f Hcap — Vantheman @ 8.80 — LOST
+[2025-08-20 14:15:31] Carlisle — 6f Nov Stks — Gwen John @ 1.47 — LOST
+[2025-08-20 14:34:01] York — 7f Grp 3 — Distant Storm @ 2.26 — LOST
+[2025-08-20 14:48:01] Carlisle — 6f Hcap — Sole Spirit @ 3.70 — LOST
+[2025-08-20 15:07:31] York — 1m4f Grp 2 — Lambourn @ 1.87 — LOST
+[2025-08-20 15:22:01] Carlisle — 1m3f Hcap — Sidney Stratton @ 3.30 — LOST
+[2025-08-20 15:44:31] York — 1m2f Grp 1 — Ombudsman @ 2.88 — WON
+[2025-08-20 15:56:00] Carlisle — 7f Hcap — Vince Le Prince @ 4.30 — LOST
+
+Total Bets: 8
+Wins: 1
+Losses: 7
+Net Profit/Loss: $-5.12

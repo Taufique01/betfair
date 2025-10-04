@@ -1,0 +1,159 @@
+
+    <h2>🐎 CHASE Report — Monday, September 22, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Sep 22, 2025 01:37 PM</td>
+            <td>Listowel  22nd Sep</td>
+            <td>World Tour</td>
+            <td>5.10</td>
+            <td>£8.80</td>
+            <td>LOST</td>
+            <td>£-8.80</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 22, 2025 01:47 PM</td>
+            <td>Leicester 22nd Sep</td>
+            <td>Homer Stokes</td>
+            <td>5.00</td>
+            <td>£13.20</td>
+            <td>LOST</td>
+            <td>£-13.20</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 22, 2025 02:12 PM</td>
+            <td>Listowel  22nd Sep</td>
+            <td>Racing Royalty</td>
+            <td>7.00</td>
+            <td>£19.80</td>
+            <td>LOST</td>
+            <td>£-19.80</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 22, 2025 02:28 PM</td>
+            <td>Hamilton 22nd Sep</td>
+            <td>Passing Thought</td>
+            <td>1.73</td>
+            <td>£68.72</td>
+            <td>WON</td>
+            <td>£50.17</td>
+            <td>Leg 4</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 22, 2025 02:43 PM</td>
+            <td>Fontwell 22nd Sep</td>
+            <td>Graham</td>
+            <td>3.60</td>
+            <td>£9.14</td>
+            <td>LOST</td>
+            <td>£-9.14</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 22, 2025 03:04 PM</td>
+            <td>Hamilton 22nd Sep</td>
+            <td>Dandy Style</td>
+            <td>2.70</td>
+            <td>£15.09</td>
+            <td>WON</td>
+            <td>£25.65</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 22, 2025 03:17 PM</td>
+            <td>Listowel  22nd Sep</td>
+            <td>Grey Leader</td>
+            <td>4.80</td>
+            <td>£9.80</td>
+            <td>LOST</td>
+            <td>£-9.80</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 22, 2025 03:29 PM</td>
+            <td>Fairyhouse 22nd Sep</td>
+            <td>Idiocracy</td>
+            <td>2.94</td>
+            <td>£16.17</td>
+            <td>LOST</td>
+            <td>£-16.17</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 22, 2025 03:43 PM</td>
+            <td>Hamilton 22nd Sep</td>
+            <td>Mafting</td>
+            <td>2.96</td>
+            <td>£26.69</td>
+            <td>LOST</td>
+            <td>£-26.69</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 22, 2025 03:57 PM</td>
+            <td>Listowel  22nd Sep</td>
+            <td>Chica Guerrera</td>
+            <td>4.50</td>
+            <td>£40.04</td>
+            <td>LOST</td>
+            <td>£-40.04</td>
+            <td>Leg 4</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 22, 2025 04:13 PM</td>
+            <td>Fairyhouse 22nd Sep</td>
+            <td>Win Me Over</td>
+            <td>2.26</td>
+            <td>£66.07</td>
+            <td>LOST</td>
+            <td>£-66.07</td>
+            <td>Leg 5</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 22, 2025 04:27 PM</td>
+            <td>Fontwell 22nd Sep</td>
+            <td>Cawthorne Banker</td>
+            <td>1.80</td>
+            <td>£86.11</td>
+            <td>LOST</td>
+            <td>£-86.11</td>
+            <td>Leg 6</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 12 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 2 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 10 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £-220.00
+    </p>
+    

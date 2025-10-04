@@ -1,0 +1,339 @@
+
+    <h2>🐎 Ghost Bet Report — Thursday, September 04, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
+        <thead style="background-color:#f2f2f2;">
+            <tr>
+                <th>Time</th>
+                <th>Venue</th>
+                <th>Race</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 01:58 PM</td>
+            <td>Southwell</td>
+            <td>1m3f Hcap</td>
+            <td>Night Tara</td>
+            <td>1.89</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 02:19 PM</td>
+            <td>Haydock</td>
+            <td>1m3f Hcap</td>
+            <td>Spartan Times</td>
+            <td>3.35</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 04, 2025 02:28 PM</td>
+            <td>Southwell</td>
+            <td>6f Mdn Stks</td>
+            <td>Inside Story</td>
+            <td>1.82</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 02:50 PM</td>
+            <td>Haydock</td>
+            <td>1m Nov Stks</td>
+            <td>Faeberon</td>
+            <td>2.92</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 03:02 PM</td>
+            <td>Southwell</td>
+            <td>6f Nursery</td>
+            <td>Davorge Nation</td>
+            <td>4.30</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 03:12 PM</td>
+            <td>Haydock</td>
+            <td>7f Mdn Stks</td>
+            <td>Gaspacho</td>
+            <td>2.46</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 03:29 PM</td>
+            <td>Southwell</td>
+            <td>6f Hcap</td>
+            <td>Asadjumeirah</td>
+            <td>7.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 04, 2025 03:46 PM</td>
+            <td>Haydock</td>
+            <td>7f Nursery</td>
+            <td>Blue To Blue</td>
+            <td>2.36</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 03:50 PM</td>
+            <td>Lingfield</td>
+            <td>1m4f Hcap</td>
+            <td>Sourdough</td>
+            <td>2.22</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 04:01 PM</td>
+            <td>Southwell</td>
+            <td>7f Mdn Stks</td>
+            <td>Sapphire Princess</td>
+            <td>2.86</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 04, 2025 04:15 PM</td>
+            <td>Haydock</td>
+            <td>6f Nov Stks</td>
+            <td>Division</td>
+            <td>1.77</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 04, 2025 04:26 PM</td>
+            <td>Lingfield</td>
+            <td>2m Hcap</td>
+            <td>Double Meaning</td>
+            <td>1.40</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 04, 2025 04:32 PM</td>
+            <td>Southwell</td>
+            <td>7f Hcap</td>
+            <td>Thorntonledale Max</td>
+            <td>4.50</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 04:36 PM</td>
+            <td>Laytown</td>
+            <td>6f Claim Stks</td>
+            <td>Devils Angel</td>
+            <td>3.95</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 04:44 PM</td>
+            <td>Haydock</td>
+            <td>1m2f Hcap</td>
+            <td>Albany</td>
+            <td>4.30</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 04:54 PM</td>
+            <td>Lingfield</td>
+            <td>1m2f Hcap</td>
+            <td>Birthday Angel</td>
+            <td>4.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 04, 2025 05:02 PM</td>
+            <td>Sedgefield</td>
+            <td>2m4f Mdn Hrd</td>
+            <td>Herja</td>
+            <td>2.76</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 05:07 PM</td>
+            <td>Southwell</td>
+            <td>1m Hcap</td>
+            <td>Bear Island</td>
+            <td>5.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 05:13 PM</td>
+            <td>Laytown</td>
+            <td>6f Hcap</td>
+            <td>Ace In The Pack</td>
+            <td>6.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 04, 2025 05:22 PM</td>
+            <td>Haydock</td>
+            <td>1m2f Hcap</td>
+            <td>King Of The Sea</td>
+            <td>2.46</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 05:26 PM</td>
+            <td>Lingfield</td>
+            <td>7f Nov Stks</td>
+            <td>Akho Mezzna</td>
+            <td>3.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 04, 2025 05:37 PM</td>
+            <td>Sedgefield</td>
+            <td>2m5f Nov Hcap Chs</td>
+            <td>Ivane</td>
+            <td>2.46</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 05:40 PM</td>
+            <td>Southwell</td>
+            <td>1m Hcap</td>
+            <td>Elvetham</td>
+            <td>5.10</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 05:46 PM</td>
+            <td>Laytown</td>
+            <td>6f Hcap</td>
+            <td>Jered Maddox</td>
+            <td>4.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 04, 2025 05:56 PM</td>
+            <td>Lingfield</td>
+            <td>1m Nov Stks</td>
+            <td>Dreamasar</td>
+            <td>1.17</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 06:09 PM</td>
+            <td>Sedgefield</td>
+            <td>3m3f Hcap Hrd</td>
+            <td>Hostile Hotelier</td>
+            <td>5.10</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 06:19 PM</td>
+            <td>Laytown</td>
+            <td>7f Mdn</td>
+            <td>Captain Hanley</td>
+            <td>3.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 06:32 PM</td>
+            <td>Lingfield</td>
+            <td>5f Hcap</td>
+            <td>Almaty Star</td>
+            <td>3.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 04, 2025 06:42 PM</td>
+            <td>Sedgefield</td>
+            <td>2m3f Hcap Chs</td>
+            <td>Delpotro</td>
+            <td>4.00</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 06:45 PM</td>
+            <td>Laytown</td>
+            <td>7f Hcap</td>
+            <td>Punk Poet</td>
+            <td>4.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 06:58 PM</td>
+            <td>Lingfield</td>
+            <td>7f Hcap</td>
+            <td>Darn Hot Mystery</td>
+            <td>4.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 07:11 PM</td>
+            <td>Sedgefield</td>
+            <td>2m4f Hcap Hrd</td>
+            <td>Annie Agnew</td>
+            <td>4.60</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 07:20 PM</td>
+            <td>Laytown</td>
+            <td>7f Hcap</td>
+            <td>Shoot To Kill</td>
+            <td>4.60</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 04, 2025 07:34 PM</td>
+            <td>Lingfield</td>
+            <td>6f Hcap</td>
+            <td>Dancing With Drums</td>
+            <td>2.76</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 04, 2025 07:36 PM</td>
+            <td>Sedgefield</td>
+            <td>2m1f NHF</td>
+            <td>Frammy</td>
+            <td>1.61</td>
+            <td>WON</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 35 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 12 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 23 <br>
+        <strong>Net Profit/Loss:</strong> <span style="color:#dc3545;">$-5.93</span>
+    </p>
+    

@@ -1,0 +1,357 @@
+
+    <h2>🐎 Ghost Bet Report — Wednesday, September 24, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
+        <thead style="background-color:#f2f2f2;">
+            <tr>
+                <th>Time</th>
+                <th>Venue</th>
+                <th>Race</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 01:47 PM</td>
+            <td>Redcar</td>
+            <td>1m Nursery</td>
+            <td>Lynxman</td>
+            <td>4.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 24, 2025 02:12 PM</td>
+            <td>Goodwood</td>
+            <td>1m2f Cond Stks</td>
+            <td>Royal Playwright</td>
+            <td>1.85</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 24, 2025 02:15 PM</td>
+            <td>Listowel</td>
+            <td>2m Mdn Hrd</td>
+            <td>Ill Sort That</td>
+            <td>2.14</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 02:21 PM</td>
+            <td>Redcar</td>
+            <td>6f Nursery</td>
+            <td>Mossvale Diva</td>
+            <td>3.15</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 24, 2025 02:31 PM</td>
+            <td>Goodwood</td>
+            <td>1m2f Mdn Stks</td>
+            <td>Bay Of Brilliance</td>
+            <td>2.20</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 02:42 PM</td>
+            <td>Perth</td>
+            <td>2m Nov Hrd</td>
+            <td>Wandering Ego</td>
+            <td>2.84</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 24, 2025 02:47 PM</td>
+            <td>Listowel</td>
+            <td>2m Nov Hrd</td>
+            <td>Davy Crockett</td>
+            <td>1.78</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 02:57 PM</td>
+            <td>Redcar</td>
+            <td>7f Nov Stks</td>
+            <td>Inishbeg</td>
+            <td>2.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 03:08 PM</td>
+            <td>Goodwood</td>
+            <td>1m Hcap</td>
+            <td>Alpha Crucis</td>
+            <td>5.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 24, 2025 03:17 PM</td>
+            <td>Perth</td>
+            <td>2m4f Hcap Hrd</td>
+            <td>Moonbow</td>
+            <td>5.60</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 03:31 PM</td>
+            <td>Listowel</td>
+            <td>2m2f Hcap Hrd</td>
+            <td>Bearami Creek</td>
+            <td>4.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 03:32 PM</td>
+            <td>Redcar</td>
+            <td>7f Nov Stks</td>
+            <td>Hostility</td>
+            <td>1.77</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 03:44 PM</td>
+            <td>Goodwood</td>
+            <td>1m2f Listed Stks</td>
+            <td>Saddadd</td>
+            <td>2.46</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 24, 2025 03:49 PM</td>
+            <td>Perth</td>
+            <td>2m Hcap Hrd</td>
+            <td>Pure Gold</td>
+            <td>4.70</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 04:06 PM</td>
+            <td>Listowel</td>
+            <td>3m Hcap Hrd</td>
+            <td>Bitofajokelike</td>
+            <td>4.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 04:10 PM</td>
+            <td>Kempton</td>
+            <td>1m3f Hcap</td>
+            <td>Golden Dove</td>
+            <td>4.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 04:10 PM</td>
+            <td>Redcar</td>
+            <td>1m2f Hcap</td>
+            <td>Magellan Cloud</td>
+            <td>5.10</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 24, 2025 04:26 PM</td>
+            <td>Perth</td>
+            <td>3m Hcap Chs</td>
+            <td>Statuario</td>
+            <td>3.45</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 24, 2025 04:26 PM</td>
+            <td>Goodwood</td>
+            <td>7f Stks</td>
+            <td>Timeforshowcasing</td>
+            <td>5.80</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 04:40 PM</td>
+            <td>Listowel</td>
+            <td>3m Hcap Chs</td>
+            <td>You Oughta Know</td>
+            <td>5.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 04:41 PM</td>
+            <td>Kempton</td>
+            <td>1m Nov Stks</td>
+            <td>I Can Dance</td>
+            <td>2.42</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 04:44 PM</td>
+            <td>Redcar</td>
+            <td>5f Hcap</td>
+            <td>Monks Dream</td>
+            <td>4.30</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 04:53 PM</td>
+            <td>Goodwood</td>
+            <td>1m6f Hcap</td>
+            <td>Finalise</td>
+            <td>2.94</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 05:00 PM</td>
+            <td>Perth</td>
+            <td>2m4f Hcap Chs</td>
+            <td>Pescatorius</td>
+            <td>2.42</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 05:09 PM</td>
+            <td>Listowel</td>
+            <td>2m3f Nov Chs</td>
+            <td>Zenta</td>
+            <td>4.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 05:13 PM</td>
+            <td>Kempton</td>
+            <td>1m Hcap</td>
+            <td>Hilltop</td>
+            <td>2.84</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 05:21 PM</td>
+            <td>Redcar</td>
+            <td>7f Hcap</td>
+            <td>Lumenbourg</td>
+            <td>4.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 05:25 PM</td>
+            <td>Goodwood</td>
+            <td>6f Hcap</td>
+            <td>Rory Rocket</td>
+            <td>5.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 24, 2025 05:35 PM</td>
+            <td>Perth</td>
+            <td>3m Nov Hcap Hrd</td>
+            <td>Stiletto</td>
+            <td>4.80</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 24, 2025 05:43 PM</td>
+            <td>Listowel</td>
+            <td>2m4f INHF</td>
+            <td>Apache Tribe</td>
+            <td>2.90</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 05:50 PM</td>
+            <td>Kempton</td>
+            <td>6f Nov Stks</td>
+            <td>Angel Love</td>
+            <td>1.77</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 05:55 PM</td>
+            <td>Redcar</td>
+            <td>7f Hcap</td>
+            <td>Pearly Squirrel</td>
+            <td>4.40</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 06:18 PM</td>
+            <td>Kempton</td>
+            <td>1m3f Hcap</td>
+            <td>Wine Dark Sea</td>
+            <td>4.30</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 24, 2025 06:49 PM</td>
+            <td>Kempton</td>
+            <td>7f Hcap</td>
+            <td>Dixieland Blues</td>
+            <td>3.90</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 07:15 PM</td>
+            <td>Kempton</td>
+            <td>7f Hcap</td>
+            <td>One More</td>
+            <td>4.40</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 24, 2025 07:46 PM</td>
+            <td>Kempton</td>
+            <td>7f Hcap</td>
+            <td>Spirit Lead Me</td>
+            <td>4.60</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 24, 2025 08:16 PM</td>
+            <td>Kempton</td>
+            <td>6f Hcap</td>
+            <td>Initial Blue</td>
+            <td>4.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 37 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 12 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 25 <br>
+        <strong>Net Profit/Loss:</strong> <span style="color:#28a745;">$6.72</span>
+    </p>
+    

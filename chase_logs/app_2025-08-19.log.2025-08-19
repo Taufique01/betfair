@@ -1,0 +1,180 @@
+2025-08-19 15:07:19 | INFO | Logged in to Betfair API
+2025-08-19 15:07:19 | INFO | Fetched 23 markets for today
+2025-08-19 15:07:19 | INFO | Current time past 5 AM — running reset immediately
+2025-08-19 15:07:19 | INFO | Running daily 5 AM reset
+2025-08-19 15:07:19 | INFO | Scheduled bet for 1m Hcap at 2025-08-19 15:14:00+00:00
+2025-08-19 15:07:19 | INFO | Scheduled bet for 1m3f Hcap at 2025-08-19 15:29:00+00:00
+2025-08-19 15:07:19 | INFO | Scheduled bet for 7f Hcap at 2025-08-19 15:44:00+00:00
+2025-08-19 15:07:19 | INFO | Skipping 6f Hcap/Kempton 19th Aug
+2025-08-19 15:07:19 | INFO | Scheduled bet for 1m2f Stks at 2025-08-19 16:19:00+00:00
+2025-08-19 15:07:19 | INFO | Scheduled bet for 5f Mdn Stks at 2025-08-19 16:29:00+00:00
+2025-08-19 15:07:19 | INFO | Scheduled bet for 7f Mdn at 2025-08-19 16:49:00+00:00
+2025-08-19 15:07:19 | INFO | Scheduled bet for 7f Mdn Stks at 2025-08-19 16:59:00+00:00
+2025-08-19 15:07:19 | INFO | Scheduled bet for 7f Mdn Stks at 2025-08-19 17:09:00+00:00
+2025-08-19 15:07:19 | INFO | Scheduled bet for 7f Stks at 2025-08-19 17:19:00+00:00
+2025-08-19 15:07:19 | INFO | Skipping 5f Hcap/Chepstow 19th Aug
+2025-08-19 15:07:19 | INFO | Scheduled bet for 7f Nursery at 2025-08-19 17:39:00+00:00
+2025-08-19 15:07:19 | INFO | Scheduled bet for 7f Mdn at 2025-08-19 17:49:00+00:00
+2025-08-19 15:07:19 | INFO | Skipping 6f Hcap/Chepstow 19th Aug
+2025-08-19 15:07:19 | INFO | Scheduled bet for 7f Hcap at 2025-08-19 18:09:00+00:00
+2025-08-19 15:07:19 | INFO | Scheduled bet for 7f Hcap at 2025-08-19 18:19:00+00:00
+2025-08-19 15:07:19 | INFO | Scheduled bet for 7f Hcap at 2025-08-19 18:29:00+00:00
+2025-08-19 15:07:19 | INFO | Scheduled bet for 5f Stks at 2025-08-19 18:39:00+00:00
+2025-08-19 15:07:19 | INFO | Scheduled bet for 1m4f Mdn at 2025-08-19 18:49:00+00:00
+2025-08-19 15:07:19 | INFO | Scheduled bet for 1m Hcap at 2025-08-19 18:59:00+00:00
+2025-08-19 15:07:19 | INFO | Skipping 6f Hcap/Wolverhampton 19th Aug
+2025-08-19 15:07:19 | INFO | Scheduled bet for 1m4f Hcap at 2025-08-19 19:19:00+00:00
+2025-08-19 15:07:19 | INFO | Scheduled bet for 1m4f Hcap at 2025-08-19 19:39:00+00:00
+2025-08-19 15:07:19 | INFO | All races scheduled. Scheduler running...
+2025-08-19 15:14:00 | INFO | State: {'balance': 220.0, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-19 15:14:00 | WARNING | prev_stake is None, recalculating at leg 0
+2025-08-19 15:22:00 | INFO | chase - Market closed: 1m Hcap, result: LOST
+2025-08-19 15:22:00 | ERROR | Exception in place_bet_job for 1m Hcap: Object of type datetime is not JSON serializable
+2025-08-19 15:22:00 | ERROR | Traceback (most recent call last):
+  File "/root/betfairbot/chase_watch.py", line 295, in place_bet_job
+    append_result(rec)
+  File "/root/betfairbot/chase_watch.py", line 193, in append_result
+    f.write(json.dumps(record) + "\n")
+            ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type datetime is not JSON serializable
+
+2025-08-19 15:29:00 | INFO | State: {'balance': 219.98, 'leg': 1, 'accumulated_losses': 0.02, 'prev_stake': 0.02, 'chase_active': False}
+2025-08-19 15:36:47 | INFO | Logged in to Betfair API
+2025-08-19 15:36:47 | INFO | Fetched 21 markets for today
+2025-08-19 15:36:47 | INFO | Current time past 5 AM — running reset immediately
+2025-08-19 15:36:47 | INFO | Running daily 5 AM reset
+2025-08-19 15:36:47 | INFO | Scheduled bet for 7f Hcap at 2025-08-19 15:44:00+00:00
+2025-08-19 15:36:47 | INFO | Skipping 6f Hcap/Kempton 19th Aug
+2025-08-19 15:36:47 | INFO | Scheduled bet for 1m2f Stks at 2025-08-19 16:19:00+00:00
+2025-08-19 15:36:47 | INFO | Scheduled bet for 5f Mdn Stks at 2025-08-19 16:29:00+00:00
+2025-08-19 15:36:47 | INFO | Scheduled bet for 7f Mdn at 2025-08-19 16:49:00+00:00
+2025-08-19 15:36:47 | INFO | Scheduled bet for 7f Mdn Stks at 2025-08-19 16:59:00+00:00
+2025-08-19 15:36:47 | INFO | Scheduled bet for 7f Mdn Stks at 2025-08-19 17:09:00+00:00
+2025-08-19 15:36:47 | INFO | Scheduled bet for 7f Stks at 2025-08-19 17:19:00+00:00
+2025-08-19 15:36:47 | INFO | Skipping 5f Hcap/Chepstow 19th Aug
+2025-08-19 15:36:47 | INFO | Scheduled bet for 7f Nursery at 2025-08-19 17:39:00+00:00
+2025-08-19 15:36:47 | INFO | Scheduled bet for 7f Mdn at 2025-08-19 17:49:00+00:00
+2025-08-19 15:36:47 | INFO | Skipping 6f Hcap/Chepstow 19th Aug
+2025-08-19 15:36:47 | INFO | Scheduled bet for 7f Hcap at 2025-08-19 18:09:00+00:00
+2025-08-19 15:36:47 | INFO | Scheduled bet for 7f Hcap at 2025-08-19 18:19:00+00:00
+2025-08-19 15:36:47 | INFO | Scheduled bet for 7f Hcap at 2025-08-19 18:29:00+00:00
+2025-08-19 15:36:47 | INFO | Scheduled bet for 5f Stks at 2025-08-19 18:39:00+00:00
+2025-08-19 15:36:47 | INFO | Scheduled bet for 1m4f Mdn at 2025-08-19 18:49:00+00:00
+2025-08-19 15:36:47 | INFO | Scheduled bet for 1m Hcap at 2025-08-19 18:59:00+00:00
+2025-08-19 15:36:47 | INFO | Skipping 6f Hcap/Wolverhampton 19th Aug
+2025-08-19 15:36:47 | INFO | Scheduled bet for 1m4f Hcap at 2025-08-19 19:19:00+00:00
+2025-08-19 15:36:47 | INFO | Scheduled bet for 1m4f Hcap at 2025-08-19 19:39:00+00:00
+2025-08-19 15:36:47 | INFO | All races scheduled. Scheduler running...
+2025-08-19 15:36:49 | INFO | Stopping scheduler...
+2025-08-19 15:36:49 | INFO | Scheduler stopped.
+2025-08-19 15:37:02 | INFO | Logged in to Betfair API
+2025-08-19 15:37:02 | INFO | Fetched 21 markets for today
+2025-08-19 15:37:02 | INFO | Current time past 5 AM — running reset immediately
+2025-08-19 15:37:02 | INFO | Running daily 5 AM reset
+2025-08-19 15:37:02 | INFO | Scheduled bet for 7f Hcap at 2025-08-19 15:44:00+00:00
+2025-08-19 15:37:02 | INFO | Skipping 6f Hcap/Kempton 19th Aug
+2025-08-19 15:37:02 | INFO | Scheduled bet for 1m2f Stks at 2025-08-19 16:19:00+00:00
+2025-08-19 15:37:02 | INFO | Scheduled bet for 5f Mdn Stks at 2025-08-19 16:29:00+00:00
+2025-08-19 15:37:02 | INFO | Scheduled bet for 7f Mdn at 2025-08-19 16:49:00+00:00
+2025-08-19 15:37:02 | INFO | Scheduled bet for 7f Mdn Stks at 2025-08-19 16:59:00+00:00
+2025-08-19 15:37:02 | INFO | Scheduled bet for 7f Mdn Stks at 2025-08-19 17:09:00+00:00
+2025-08-19 15:37:02 | INFO | Scheduled bet for 7f Stks at 2025-08-19 17:19:00+00:00
+2025-08-19 15:37:02 | INFO | Skipping 5f Hcap/Chepstow 19th Aug
+2025-08-19 15:37:02 | INFO | Scheduled bet for 7f Nursery at 2025-08-19 17:39:00+00:00
+2025-08-19 15:37:02 | INFO | Scheduled bet for 7f Mdn at 2025-08-19 17:49:00+00:00
+2025-08-19 15:37:02 | INFO | Skipping 6f Hcap/Chepstow 19th Aug
+2025-08-19 15:37:02 | INFO | Scheduled bet for 7f Hcap at 2025-08-19 18:09:00+00:00
+2025-08-19 15:37:02 | INFO | Scheduled bet for 7f Hcap at 2025-08-19 18:19:00+00:00
+2025-08-19 15:37:02 | INFO | Scheduled bet for 7f Hcap at 2025-08-19 18:29:00+00:00
+2025-08-19 15:37:02 | INFO | Scheduled bet for 5f Stks at 2025-08-19 18:39:00+00:00
+2025-08-19 15:37:02 | INFO | Scheduled bet for 1m4f Mdn at 2025-08-19 18:49:00+00:00
+2025-08-19 15:37:02 | INFO | Scheduled bet for 1m Hcap at 2025-08-19 18:59:00+00:00
+2025-08-19 15:37:02 | INFO | Skipping 6f Hcap/Wolverhampton 19th Aug
+2025-08-19 15:37:02 | INFO | Scheduled bet for 1m4f Hcap at 2025-08-19 19:19:00+00:00
+2025-08-19 15:37:02 | INFO | Scheduled bet for 1m4f Hcap at 2025-08-19 19:39:00+00:00
+2025-08-19 15:37:02 | INFO | All races scheduled. Scheduler running...
+2025-08-19 15:44:00 | INFO | State: {'balance': 220.0, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-19 15:44:00 | WARNING | prev_stake is None, recalculating at leg 0
+2025-08-19 15:44:00 | INFO | Bid placed: {'selection_id': 49049516, 'runner_name': 'Tea Sea', 'odds': 2.64, 'placed_odds': 2.64, 'stake': 0.02, 'market_id': '1.246760981', 'race_name': '7f Hcap', 'result': 'PENDING'}
+2025-08-19 15:48:30 | INFO | chase - Market closed: 7f Hcap, result: WON
+2025-08-19 15:48:30 | INFO | Bet placed for 7f Hcap: Tea Sea | stake 0.02 | result W | balance 220.0328
+2025-08-19 16:19:00 | INFO | State: {'balance': 220.0328, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-19 16:19:00 | WARNING | prev_stake is None, recalculating at leg 0
+2025-08-19 16:19:00 | INFO | Bid placed: {'selection_id': 865545, 'runner_name': 'Dun An Oir', 'odds': 3.7, 'placed_odds': 3.7, 'stake': 0.02, 'market_id': '1.246764980', 'race_name': '1m2f Stks', 'result': 'PENDING'}
+2025-08-19 16:29:00 | INFO | State: {'balance': 220.0328, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-19 16:29:00 | WARNING | prev_stake is None, recalculating at leg 0
+2025-08-19 16:29:00 | INFO | Bid placed: {'selection_id': 6307235, 'runner_name': 'Berlinetta', 'odds': 2.4, 'placed_odds': 2.4, 'stake': 0.02, 'market_id': '1.246760994', 'race_name': '5f Mdn Stks', 'result': 'PENDING'}
+2025-08-19 16:29:01 | INFO | chase - Market closed: 1m2f Stks, result: LOST
+2025-08-19 16:29:01 | INFO | Bet placed for 1m2f Stks: Dun An Oir | stake 0.02 | result L | balance 220.0128
+2025-08-19 16:39:31 | INFO | chase - Market closed: 5f Mdn Stks, result: LOST
+2025-08-19 16:39:31 | INFO | Bet placed for 5f Mdn Stks: Berlinetta | stake 0.02 | result L | balance 220.0128
+2025-08-19 16:49:00 | INFO | State: {'balance': 220.0128, 'leg': 1, 'accumulated_losses': 0.02, 'prev_stake': 0.02, 'chase_active': False}
+2025-08-19 16:49:00 | INFO | Bid placed: {'selection_id': 83754627, 'runner_name': 'Spinning Around', 'odds': 4.6, 'placed_odds': 4.6, 'stake': 0.02, 'market_id': '1.246764985', 'race_name': '7f Mdn', 'result': 'PENDING'}
+2025-08-19 16:59:00 | INFO | State: {'balance': 220.0128, 'leg': 1, 'accumulated_losses': 0.02, 'prev_stake': 0.02, 'chase_active': False}
+2025-08-19 16:59:00 | INFO | Bid placed: {'selection_id': 85294064, 'runner_name': 'Jeddaal', 'odds': 1.71, 'placed_odds': 1.71, 'stake': 0.02, 'market_id': '1.246761012', 'race_name': '7f Mdn Stks', 'result': 'PENDING'}
+2025-08-19 16:59:01 | INFO | chase - Market closed: 7f Mdn, result: LOST
+2025-08-19 16:59:01 | INFO | Bet placed for 7f Mdn: Spinning Around | stake 0.02 | result L | balance 219.9928
+2025-08-19 17:05:30 | INFO | chase - Market closed: 7f Mdn Stks, result: LOST
+2025-08-19 17:05:30 | INFO | Bet placed for 7f Mdn Stks: Jeddaal | stake 0.02 | result L | balance 219.9928
+2025-08-19 17:09:00 | INFO | State: {'balance': 219.9928, 'leg': 2, 'accumulated_losses': 0.04, 'prev_stake': 0.02, 'chase_active': False}
+2025-08-19 17:09:00 | INFO | Bid placed: {'selection_id': 85110851, 'runner_name': 'Hayynah', 'odds': 1.59, 'placed_odds': 1.59, 'stake': 0.09, 'market_id': '1.246761285', 'race_name': '7f Mdn Stks', 'result': 'PENDING'}
+2025-08-19 17:16:00 | INFO | chase - Market closed: 7f Mdn Stks, result: LOST
+2025-08-19 17:16:00 | INFO | Bet placed for 7f Mdn Stks: Hayynah | stake 0.09 | result L | balance 219.90279999999998
+2025-08-19 17:19:00 | INFO | State: {'balance': 219.90279999999998, 'leg': 3, 'accumulated_losses': 0.13, 'prev_stake': 0.09, 'chase_active': False}
+2025-08-19 17:19:00 | INFO | Bid placed: {'selection_id': 86116348, 'runner_name': 'Giovanni Giorgio', 'odds': 1.98, 'placed_odds': 1.98, 'stake': 0.16, 'market_id': '1.246764990', 'race_name': '7f Stks', 'result': 'PENDING'}
+2025-08-19 17:27:31 | INFO | chase - Market closed: 7f Stks, result: LOST
+2025-08-19 17:27:31 | INFO | Bet placed for 7f Stks: Giovanni Giorgio | stake 0.16 | result L | balance 219.7428
+2025-08-19 17:39:00 | INFO | State: {'balance': 219.7428, 'leg': 4, 'accumulated_losses': 0.29000000000000004, 'prev_stake': 0.16, 'chase_active': False}
+2025-08-19 17:39:00 | INFO | Bid placed: {'selection_id': 85482629, 'runner_name': 'Phantom Watch', 'odds': 2.78, 'placed_odds': 2.78, 'stake': 0.27, 'market_id': '1.246761291', 'race_name': '7f Nursery', 'result': 'PENDING'}
+2025-08-19 17:47:00 | INFO | chase - Market closed: 7f Nursery, result: LOST
+2025-08-19 17:47:00 | INFO | Bet placed for 7f Nursery: Phantom Watch | stake 0.27 | result L | balance 219.47279999999998
+2025-08-19 17:49:00 | INFO | State: {'balance': 219.47279999999998, 'leg': 5, 'accumulated_losses': 0.56, 'prev_stake': 0.27, 'chase_active': False}
+2025-08-19 17:49:00 | INFO | Bid placed: {'selection_id': 70361989, 'runner_name': 'Proxima Centauri', 'odds': 3.2, 'placed_odds': 3.2, 'stake': 0.41, 'market_id': '1.246764995', 'race_name': '7f Mdn', 'result': 'PENDING'}
+2025-08-19 18:00:31 | INFO | chase - Market closed: 7f Mdn, result: WON
+2025-08-19 18:00:31 | INFO | Bet placed for 7f Mdn: Proxima Centauri | stake 0.41 | result W | balance 220.37479999999996
+2025-08-19 18:09:00 | INFO | State: {'balance': 220.37479999999996, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-19 18:09:00 | WARNING | prev_stake is None, recalculating at leg 0
+2025-08-19 18:09:00 | INFO | Bid placed: {'selection_id': 62669567, 'runner_name': 'Noisy Music', 'odds': 6.6, 'placed_odds': 6.6, 'stake': 0.02, 'market_id': '1.246761298', 'race_name': '7f Hcap', 'result': 'PENDING'}
+2025-08-19 18:16:00 | INFO | chase - Market closed: 7f Hcap, result: WON
+2025-08-19 18:16:00 | INFO | Bet placed for 7f Hcap: Noisy Music | stake 0.02 | result W | balance 220.48679999999996
+2025-08-19 18:19:00 | INFO | State: {'balance': 220.48679999999996, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-19 18:19:00 | WARNING | prev_stake is None, recalculating at leg 0
+2025-08-19 18:19:00 | INFO | Bid placed: {'selection_id': 50307046, 'runner_name': 'Engines On', 'odds': 4.1, 'placed_odds': 4.1, 'stake': 0.02, 'market_id': '1.246765000', 'race_name': '7f Hcap', 'result': 'PENDING'}
+2025-08-19 18:26:31 | INFO | chase - Market closed: 7f Hcap, result: LOST
+2025-08-19 18:26:31 | INFO | Bet placed for 7f Hcap: Engines On | stake 0.02 | result L | balance 220.46679999999995
+2025-08-19 18:29:00 | INFO | State: {'balance': 220.46679999999995, 'leg': 1, 'accumulated_losses': 0.02, 'prev_stake': 0.02, 'chase_active': False}
+2025-08-19 18:29:00 | INFO | Bid placed: {'selection_id': 159493, 'runner_name': 'Believe You Me', 'odds': 2.7, 'placed_odds': 2.7, 'stake': 0.02, 'market_id': '1.246761023', 'race_name': '7f Hcap', 'result': 'PENDING'}
+2025-08-19 18:36:01 | INFO | chase - Market closed: 7f Hcap, result: LOST
+2025-08-19 18:36:01 | INFO | Bet placed for 7f Hcap: Believe You Me | stake 0.02 | result L | balance 220.44679999999994
+2025-08-19 18:39:00 | INFO | State: {'balance': 220.44679999999994, 'leg': 2, 'accumulated_losses': 0.04, 'prev_stake': 0.02, 'chase_active': False}
+2025-08-19 18:39:00 | INFO | Bid placed: {'selection_id': 50307180, 'runner_name': 'Sams Hope', 'odds': 2.6, 'placed_odds': 2.6, 'stake': 0.04, 'market_id': '1.246761420', 'race_name': '5f Stks', 'result': 'PENDING'}
+2025-08-19 18:45:30 | INFO | chase - Market closed: 5f Stks, result: LOST
+2025-08-19 18:45:30 | INFO | Bet placed for 5f Stks: Sams Hope | stake 0.04 | result L | balance 220.40679999999995
+2025-08-19 18:49:00 | INFO | State: {'balance': 220.40679999999995, 'leg': 3, 'accumulated_losses': 0.08, 'prev_stake': 0.04, 'chase_active': False}
+2025-08-19 18:49:00 | INFO | Bid placed: {'selection_id': 10078568, 'runner_name': 'Bryant', 'odds': 3.5, 'placed_odds': 3.5, 'stake': 0.06, 'market_id': '1.246765005', 'race_name': '1m4f Mdn', 'result': 'PENDING'}
+2025-08-19 18:59:00 | INFO | State: {'balance': 220.40679999999995, 'leg': 3, 'accumulated_losses': 0.08, 'prev_stake': 0.04, 'chase_active': False}
+2025-08-19 18:59:00 | INFO | Bid placed: {'selection_id': 50095484, 'runner_name': 'Midsummer Music', 'odds': 4.0, 'placed_odds': 4.0, 'stake': 0.06, 'market_id': '1.246761018', 'race_name': '1m Hcap', 'result': 'PENDING'}
+2025-08-19 19:00:31 | INFO | chase - Market closed: 1m4f Mdn, result: WON
+2025-08-19 19:00:31 | INFO | Bet placed for 1m4f Mdn: Bryant | stake 0.06 | result W | balance 220.55679999999995
+2025-08-19 19:07:01 | INFO | chase - Market closed: 1m Hcap, result: WON
+2025-08-19 19:07:01 | INFO | Bet placed for 1m Hcap: Midsummer Music | stake 0.06 | result W | balance 220.58679999999995
+2025-08-19 19:19:00 | INFO | State: {'balance': 220.58679999999995, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-19 19:19:00 | WARNING | prev_stake is None, recalculating at leg 0
+2025-08-19 19:19:00 | INFO | Bid placed: {'selection_id': 71770073, 'runner_name': 'Gotta Catchem All', 'odds': 4.5, 'placed_odds': 4.5, 'stake': 0.02, 'market_id': '1.246765010', 'race_name': '1m4f Hcap', 'result': 'PENDING'}
+2025-08-19 19:26:30 | INFO | chase - Market closed: 1m4f Hcap, result: LOST
+2025-08-19 19:26:30 | INFO | Bet placed for 1m4f Hcap: Gotta Catchem All | stake 0.02 | result L | balance 220.56679999999994
+2025-08-19 19:39:00 | INFO | State: {'balance': 220.56679999999994, 'leg': 1, 'accumulated_losses': 0.02, 'prev_stake': 0.02, 'chase_active': False}
+2025-08-19 19:39:00 | INFO | Bid placed: {'selection_id': 10106440, 'runner_name': 'Lightning Touch', 'odds': 4.6, 'placed_odds': 4.6, 'stake': 0.02, 'market_id': '1.246761426', 'race_name': '1m4f Hcap', 'result': 'PENDING'}
+2025-08-19 19:47:31 | INFO | chase - Market closed: 1m4f Hcap, result: LOST
+2025-08-19 19:47:31 | INFO | Bet placed for 1m4f Hcap: Lightning Touch | stake 0.02 | result L | balance 220.54679999999993

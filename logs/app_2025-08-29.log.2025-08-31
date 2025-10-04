@@ -1,0 +1,33 @@
+2025-08-31 05:00:00 | ERROR | API call failed (attempt 1/3): SportsAPING/v1.0/listMarketCatalogue 
+Params: {'filter': {'eventTypeIds': ['7'], 'marketCountries': ['GB', 'IE'], 'marketTypeCodes': ['WIN'], 'marketStartTime': {'from': '2025-08-31T03:58:00.000727+00:00', 'to': '2025-08-31T23:00:00+00:00'}}, 'marketProjection': ['EVENT', 'MARKET_START_TIME', 'RUNNER_METADATA'], 'sort': 'FIRST_TO_START', 'maxResults': 1000, 'locale': 'en'} 
+Exception: None 
+Error: {'code': -32099, 'message': 'ANGX-0003', 'data': {'APINGException': {'requestUUID': 'ie1-ang04a-prd-07020939-0070eb17a7', 'errorCode': 'INVALID_SESSION_INFORMATION', 'errorDetails': ''}, 'exceptionname': 'APINGException'}} 
+Full Response: {'jsonrpc': '2.0', 'error': {'code': -32099, 'message': 'ANGX-0003', 'data': {'APINGException': {'requestUUID': 'ie1-ang04a-prd-07020939-0070eb17a7', 'errorCode': 'INVALID_SESSION_INFORMATION', 'errorDetails': ''}, 'exceptionname': 'APINGException'}}, 'id': 1}
+2025-08-31 05:00:02 | ERROR | API call failed (attempt 2/3): SportsAPING/v1.0/listMarketCatalogue 
+Params: {'filter': {'eventTypeIds': ['7'], 'marketCountries': ['GB', 'IE'], 'marketTypeCodes': ['WIN'], 'marketStartTime': {'from': '2025-08-31T03:58:00.000727+00:00', 'to': '2025-08-31T23:00:00+00:00'}}, 'marketProjection': ['EVENT', 'MARKET_START_TIME', 'RUNNER_METADATA'], 'sort': 'FIRST_TO_START', 'maxResults': 1000, 'locale': 'en'} 
+Exception: None 
+Error: {'code': -32099, 'message': 'ANGX-0003', 'data': {'APINGException': {'requestUUID': 'ie1-ang20a-prd-07020939-0070e6e615', 'errorCode': 'INVALID_SESSION_INFORMATION', 'errorDetails': ''}, 'exceptionname': 'APINGException'}} 
+Full Response: {'jsonrpc': '2.0', 'error': {'code': -32099, 'message': 'ANGX-0003', 'data': {'APINGException': {'requestUUID': 'ie1-ang20a-prd-07020939-0070e6e615', 'errorCode': 'INVALID_SESSION_INFORMATION', 'errorDetails': ''}, 'exceptionname': 'APINGException'}}, 'id': 1}
+2025-08-31 05:00:06 | ERROR | API call failed (attempt 3/3): SportsAPING/v1.0/listMarketCatalogue 
+Params: {'filter': {'eventTypeIds': ['7'], 'marketCountries': ['GB', 'IE'], 'marketTypeCodes': ['WIN'], 'marketStartTime': {'from': '2025-08-31T03:58:00.000727+00:00', 'to': '2025-08-31T23:00:00+00:00'}}, 'marketProjection': ['EVENT', 'MARKET_START_TIME', 'RUNNER_METADATA'], 'sort': 'FIRST_TO_START', 'maxResults': 1000, 'locale': 'en'} 
+Exception: None 
+Error: {'code': -32099, 'message': 'ANGX-0003', 'data': {'APINGException': {'requestUUID': 'ie2-ang11a-prd-07070737-00680fa0e7', 'errorCode': 'INVALID_SESSION_INFORMATION', 'errorDetails': ''}, 'exceptionname': 'APINGException'}} 
+Full Response: {'jsonrpc': '2.0', 'error': {'code': -32099, 'message': 'ANGX-0003', 'data': {'APINGException': {'requestUUID': 'ie2-ang11a-prd-07070737-00680fa0e7', 'errorCode': 'INVALID_SESSION_INFORMATION', 'errorDetails': ''}, 'exceptionname': 'APINGException'}}, 'id': 1}
+2025-08-31 05:00:06 | ERROR | Max retries reached — giving up
+Traceback (most recent call last):
+  File "/root/betfairbot/safe_api.py", line 21, in safe_api_call
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/betfairbot/venv/lib/python3.12/site-packages/betfairlightweight/endpoints/betting.py", line 233, in list_market_catalogue
+    (response, response_json, elapsed_time) = self.request(method, params, session)
+                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/betfairbot/venv/lib/python3.12/site-packages/betfairlightweight/endpoints/baseendpoint.py", line 54, in request
+    self._error_handler(response_json, method, params)
+  File "/root/betfairbot/venv/lib/python3.12/site-packages/betfairlightweight/endpoints/baseendpoint.py", line 80, in _error_handler
+    raise self._error(response, method, params)
+betfairlightweight.exceptions.APIError: SportsAPING/v1.0/listMarketCatalogue 
+Params: {'filter': {'eventTypeIds': ['7'], 'marketCountries': ['GB', 'IE'], 'marketTypeCodes': ['WIN'], 'marketStartTime': {'from': '2025-08-31T03:58:00.000727+00:00', 'to': '2025-08-31T23:00:00+00:00'}}, 'marketProjection': ['EVENT', 'MARKET_START_TIME', 'RUNNER_METADATA'], 'sort': 'FIRST_TO_START', 'maxResults': 1000, 'locale': 'en'} 
+Exception: None 
+Error: {'code': -32099, 'message': 'ANGX-0003', 'data': {'APINGException': {'requestUUID': 'ie2-ang11a-prd-07070737-00680fa0e7', 'errorCode': 'INVALID_SESSION_INFORMATION', 'errorDetails': ''}, 'exceptionname': 'APINGException'}} 
+Full Response: {'jsonrpc': '2.0', 'error': {'code': -32099, 'message': 'ANGX-0003', 'data': {'APINGException': {'requestUUID': 'ie2-ang11a-prd-07070737-00680fa0e7', 'errorCode': 'INVALID_SESSION_INFORMATION', 'errorDetails': ''}, 'exceptionname': 'APINGException'}}, 'id': 1}
+2025-08-31 05:00:06 | WARNING | No markets returned

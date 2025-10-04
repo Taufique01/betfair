@@ -1,0 +1,827 @@
+{
+  "1": {
+    "sport_name": "Soccer",
+    "competitions": [
+      {
+        "id": "129",
+        "name": "Swedish Allsvenskan"
+      },
+      {
+        "id": "11804597",
+        "name": "Faroe Premier League"
+      },
+      {
+        "id": "2608550",
+        "name": "Specials"
+      },
+      {
+        "id": "89219",
+        "name": "Brazilian Cup"
+      },
+      {
+        "id": "857992",
+        "name": "Chilean Primera B"
+      },
+      {
+        "id": "12232895",
+        "name": "US Lamar Hunt U.S Open Cup"
+      },
+      {
+        "id": "12216637",
+        "name": "US United Soccer League"
+      },
+      {
+        "id": "11506084",
+        "name": "Mongolian Premier League"
+      },
+      {
+        "id": "13",
+        "name": "Brazilian Serie A"
+      },
+      {
+        "id": "141",
+        "name": "US MLS"
+      },
+      {
+        "id": "12718540",
+        "name": "UEFA Women's Euro 2025"
+      },
+      {
+        "id": "12242357",
+        "name": "UEFA Champions League Qualifiers"
+      },
+      {
+        "id": "15",
+        "name": "Bulgarian A League"
+      },
+      {
+        "id": "12351533",
+        "name": "UEFA Europa Conference Qualifiers"
+      },
+      {
+        "id": "12216489",
+        "name": "Kazakhstan Premier League"
+      },
+      {
+        "id": "1062024",
+        "name": "Japanese J League 2"
+      },
+      {
+        "id": "7511144",
+        "name": "Argentinian Primera C"
+      },
+      {
+        "id": "3085749",
+        "name": "Chilean Segunda Division"
+      },
+      {
+        "id": "839575",
+        "name": "Paraguayan Primera Division"
+      },
+      {
+        "id": "321319",
+        "name": "Brazilian Serie B"
+      },
+      {
+        "id": "35",
+        "name": "English League 1"
+      },
+      {
+        "id": "12241182",
+        "name": "Vietnamese U21"
+      },
+      {
+        "id": "4802285",
+        "name": "Japanese J League 3"
+      },
+      {
+        "id": "12243231",
+        "name": "UEFA Europa League Qualifiers"
+      },
+      {
+        "id": "37",
+        "name": "English League 2"
+      },
+      {
+        "id": "340643",
+        "name": "English Community Shield"
+      },
+      {
+        "id": "8594603",
+        "name": "Peruvian Primera Division"
+      },
+      {
+        "id": "12276755",
+        "name": "FIFA Club World Cup"
+      },
+      {
+        "id": "803237",
+        "name": "Argentinian Primera B Nacional"
+      },
+      {
+        "id": "744098",
+        "name": "Chilean Primera Division"
+      },
+      {
+        "id": "4905",
+        "name": "Romanian Liga I"
+      },
+      {
+        "id": "12216976",
+        "name": "Latvian Virsliga"
+      },
+      {
+        "id": "1065530",
+        "name": "Venezuelan Primera Division"
+      },
+      {
+        "id": "319919",
+        "name": "CONCACAF Gold Cup"
+      },
+      {
+        "id": "45",
+        "name": "Finnish Veikkausliiga"
+      },
+      {
+        "id": "12209556",
+        "name": "Icelandic Urvalsdeild"
+      },
+      {
+        "id": "3785366",
+        "name": "Japanese Football League"
+      },
+      {
+        "id": "12224917",
+        "name": "Norwegian 2nd Division"
+      },
+      {
+        "id": "11068551",
+        "name": "Norwegian Eliteserien"
+      },
+      {
+        "id": "47",
+        "name": "Finnish Ykkonen"
+      },
+      {
+        "id": "843454",
+        "name": "Uruguayan Primera Division"
+      },
+      {
+        "id": "55",
+        "name": "French Ligue 1"
+      },
+      {
+        "id": "10932509",
+        "name": "English Premier League"
+      },
+      {
+        "id": "59",
+        "name": "German Bundesliga"
+      },
+      {
+        "id": "11201",
+        "name": "UEFA Super Cup"
+      },
+      {
+        "id": "11887991",
+        "name": "Finnish Kakkonen"
+      },
+      {
+        "id": "12010356",
+        "name": "Japanese Women's Matches"
+      },
+      {
+        "id": "542539",
+        "name": "Belgian Super Cup"
+      },
+      {
+        "id": "12395641",
+        "name": "South Korean K League 2"
+      },
+      {
+        "id": "12496122",
+        "name": "CAF Ladies Africa Nations Cup"
+      },
+      {
+        "id": "12734090",
+        "name": "US MLS Next Pro League"
+      },
+      {
+        "id": "6104087",
+        "name": "Uruguayan Segunda Division"
+      },
+      {
+        "id": "12009467",
+        "name": "Moldovan Divizia Nationala"
+      },
+      {
+        "id": "9356766",
+        "name": "Peruvian Segunda Division"
+      },
+      {
+        "id": "81",
+        "name": "Italian Serie A"
+      },
+      {
+        "id": "12005859",
+        "name": "Friendly Matches"
+      },
+      {
+        "id": "12008162",
+        "name": "Chinese League 2"
+      },
+      {
+        "id": "12216175",
+        "name": "Estonian Premier League"
+      },
+      {
+        "id": "12324198",
+        "name": "US USL League One"
+      },
+      {
+        "id": "12103652",
+        "name": "Argentinian Torneo A"
+      },
+      {
+        "id": "12662940",
+        "name": "Finnish Ykkosliiga"
+      },
+      {
+        "id": "228",
+        "name": "UEFA Champions League"
+      },
+      {
+        "id": "11380680",
+        "name": "Chinese League 1"
+      },
+      {
+        "id": "9669750",
+        "name": "Chilean Tercera Division"
+      },
+      {
+        "id": "803690",
+        "name": "Ecuadorian Serie A"
+      },
+      {
+        "id": "12224979",
+        "name": "Norwegian 3rd Division"
+      },
+      {
+        "id": "12704680",
+        "name": "Uzbekistan Super League"
+      },
+      {
+        "id": "105",
+        "name": "Scottish Premiership"
+      },
+      {
+        "id": "12248145",
+        "name": "Bhutan Premier League"
+      },
+      {
+        "id": "12469077",
+        "name": "FIFA World Cup"
+      },
+      {
+        "id": "12730030",
+        "name": "Argentinian Primera Division Reserves"
+      },
+      {
+        "id": "12007003",
+        "name": "Bolivian Liga de Futbol Profesional"
+      },
+      {
+        "id": "12147796",
+        "name": "CONMEBOL Copa Libertadores"
+      },
+      {
+        "id": "7129730",
+        "name": "English Championship"
+      },
+      {
+        "id": "2901699",
+        "name": "Estonian Esiliiga B"
+      },
+      {
+        "id": "117",
+        "name": "Spanish La Liga"
+      },
+      {
+        "id": "879221",
+        "name": "Lithuanian A Lyga"
+      },
+      {
+        "id": "12203971",
+        "name": "Irish Premier Division"
+      },
+      {
+        "id": "12290625",
+        "name": "South Korean K3 League"
+      },
+      {
+        "id": "9500010",
+        "name": "Paraguayan Division Intermedia"
+      },
+      {
+        "id": "89979",
+        "name": "Belgian First Division A"
+      },
+      {
+        "id": "3172302",
+        "name": "Brazilian Serie C"
+      },
+      {
+        "id": "2517464",
+        "name": "Brazilian Copa do Nordeste"
+      }
+    ]
+  },
+  "7522": {
+    "sport_name": "Basketball",
+    "competitions": [
+      {
+        "id": "11343790",
+        "name": "Eurobasket Men"
+      },
+      {
+        "id": "10547864",
+        "name": "NBA"
+      },
+      {
+        "id": "11306033",
+        "name": "New Zealand NBL"
+      },
+      {
+        "id": "11295025",
+        "name": "WNBA"
+      }
+    ]
+  },
+  "2": {
+    "sport_name": "Tennis",
+    "competitions": [
+      {
+        "id": "12744640",
+        "name": "Iasi Challenger 2025"
+      },
+      {
+        "id": "12710146",
+        "name": "Nottingham Challenger 2025"
+      },
+      {
+        "id": "9653463",
+        "name": "ITF Stuttgart-Vaihingen"
+      },
+      {
+        "id": "12597512",
+        "name": "Men's Wimbledon 2025"
+      },
+      {
+        "id": "12687179",
+        "name": "Men's US Open 2025"
+      },
+      {
+        "id": "12687181",
+        "name": "Women's US Open 2025"
+      },
+      {
+        "id": "12740239",
+        "name": "Women's French Open 2026"
+      },
+      {
+        "id": "12597518",
+        "name": "Women's Wimbledon 2025"
+      },
+      {
+        "id": "12744908",
+        "name": "Winnipeg Challenger 2025"
+      },
+      {
+        "id": "12740236",
+        "name": "Men's French Open 2026"
+      },
+      {
+        "id": "12648593",
+        "name": "Women's Australian Open 2026"
+      },
+      {
+        "id": "12743635",
+        "name": "Brasov Challenger 2025"
+      },
+      {
+        "id": "12744278",
+        "name": "Mixed Wimbledon 2025"
+      },
+      {
+        "id": "12743832",
+        "name": "Cary NC Challenger 2025"
+      },
+      {
+        "id": "12744862",
+        "name": "WTA Newport 2025"
+      },
+      {
+        "id": "12744674",
+        "name": "Trieste Challenger 2025"
+      },
+      {
+        "id": "12743718",
+        "name": "Troyes Challenger 2025"
+      },
+      {
+        "id": "9577078",
+        "name": "ITF Rome"
+      },
+      {
+        "id": "12743653",
+        "name": "Modena Challenger 2025"
+      },
+      {
+        "id": "9990896",
+        "name": "ITF Bucharest"
+      },
+      {
+        "id": "12744618",
+        "name": "WTA Contrexeville 2025"
+      },
+      {
+        "id": "12714347",
+        "name": "Men's Australian Open 2026"
+      },
+      {
+        "id": "12744808",
+        "name": "Braunschweig Challenger 2025"
+      },
+      {
+        "id": "12744882",
+        "name": "Newport Rhode Island Challenger 2025"
+      },
+      {
+        "id": "9699553",
+        "name": "ITF Amstelveen"
+      }
+    ]
+  },
+  "3": {
+    "sport_name": "Golf",
+    "competitions": [
+      {
+        "id": "12622386",
+        "name": "The Ryder Cup 2025"
+      },
+      {
+        "id": "12728576",
+        "name": "The Masters 2026"
+      },
+      {
+        "id": "12743942",
+        "name": "PGA John Deere Classic 2025"
+      },
+      {
+        "id": "12744170",
+        "name": "KPMG Women Irish Open 2025"
+      },
+      {
+        "id": "12741258",
+        "name": "US Open 2026"
+      },
+      {
+        "id": "12679628",
+        "name": "The Open Championship 2025"
+      },
+      {
+        "id": "12714383",
+        "name": "Major Specials 2025"
+      },
+      {
+        "id": "12743980",
+        "name": "DPW Tour BMW International Open 2025"
+      },
+      {
+        "id": "12744252",
+        "name": "International Series Morocco 2025"
+      },
+      {
+        "id": "12735340",
+        "name": "USPGA Championship 2026"
+      }
+    ]
+  },
+  "4": {
+    "sport_name": "Cricket",
+    "competitions": [
+      {
+        "id": "11365612",
+        "name": "Test Matches"
+      },
+      {
+        "id": "9998907",
+        "name": "Tamil Nadu Premier League"
+      },
+      {
+        "id": "12735687",
+        "name": "Women's T20 Blast Div 2"
+      },
+      {
+        "id": "12596293",
+        "name": "Major League Cricket"
+      },
+      {
+        "id": "12735685",
+        "name": "Women's T20 Blast"
+      },
+      {
+        "id": "11893330",
+        "name": "T20 Blast"
+      },
+      {
+        "id": "12598889",
+        "name": "ICC Men's T20 WC Europe Qualifier"
+      },
+      {
+        "id": "11976634",
+        "name": "Irish Inter Provincial T20 Trophy"
+      },
+      {
+        "id": "11586749",
+        "name": "Test Series Markets"
+      },
+      {
+        "id": "9962116",
+        "name": "One Day Internationals"
+      },
+      {
+        "id": "12291269",
+        "name": "St Lucia T10 Blast"
+      },
+      {
+        "id": "12072774",
+        "name": "Womens International Twenty20 Matches"
+      },
+      {
+        "id": "12678911",
+        "name": "The Ashes 2025/26"
+      },
+      {
+        "id": "12674623",
+        "name": "ICC Men's T20 World Cup"
+      }
+    ]
+  },
+  "1477": {
+    "sport_name": "Rugby League",
+    "competitions": [
+      {
+        "id": "11300061",
+        "name": "Super League"
+      },
+      {
+        "id": "10564377",
+        "name": "NRL"
+      },
+      {
+        "id": "11905548",
+        "name": "State Of Origin"
+      }
+    ]
+  },
+  "5": {
+    "sport_name": "Rugby Union",
+    "competitions": [
+      {
+        "id": "11407966",
+        "name": "Womens Rugby World Cup"
+      },
+      {
+        "id": "12630480",
+        "name": "World Cup 2027"
+      },
+      {
+        "id": "12711637",
+        "name": "Lions Tour 2025"
+      },
+      {
+        "id": "11336073",
+        "name": "International Matches"
+      },
+      {
+        "id": "10542763",
+        "name": "The Six Nations 2026"
+      }
+    ]
+  },
+  "6": {
+    "sport_name": "Boxing",
+    "competitions": [
+      {
+        "id": "10817625",
+        "name": "Boxing Matches"
+      }
+    ]
+  },
+  "7": {
+    "sport_name": "Horse Racing",
+    "competitions": []
+  },
+  "8": {
+    "sport_name": "Motor Sport",
+    "competitions": [
+      {
+        "id": "12433415",
+        "name": "Formula 1"
+      },
+      {
+        "id": "12220789",
+        "name": "Moto GP World Championship"
+      }
+    ]
+  },
+  "27454571": {
+    "sport_name": "Esports",
+    "competitions": [
+      {
+        "id": "12476863",
+        "name": "LoL - Mid-Season Invitational"
+      },
+      {
+        "id": "12511479",
+        "name": "CS2 - European Pro League"
+      },
+      {
+        "id": "12499879",
+        "name": "Dota 2 - Riyadh Masters"
+      }
+    ]
+  },
+  "10": {
+    "sport_name": "Special Bets",
+    "competitions": [
+      {
+        "id": "12708118",
+        "name": "BBC Sports Personality of the Year 2025"
+      },
+      {
+        "id": "12734906",
+        "name": "Eurovision 2026"
+      },
+      {
+        "id": "12737980",
+        "name": "Love Island 2025"
+      },
+      {
+        "id": "11410497",
+        "name": "James Bond"
+      }
+    ]
+  },
+  "998917": {
+    "sport_name": "Volleyball",
+    "competitions": [
+      {
+        "id": "12334041",
+        "name": "CEV Silver European League"
+      },
+      {
+        "id": "11941964",
+        "name": "Nations League Women"
+      }
+    ]
+  },
+  "11": {
+    "sport_name": "Cycling",
+    "competitions": [
+      {
+        "id": "10536712",
+        "name": "Tour de France"
+      }
+    ]
+  },
+  "61420": {
+    "sport_name": "Australian Rules",
+    "competitions": [
+      {
+        "id": "10765024",
+        "name": "Women's AFL"
+      },
+      {
+        "id": "12690616",
+        "name": "Brownlow Medal 2025"
+      },
+      {
+        "id": "11897406",
+        "name": "AFL"
+      }
+    ]
+  },
+  "3503": {
+    "sport_name": "Darts",
+    "competitions": [
+      {
+        "id": "12371344",
+        "name": "MODUS Super Series"
+      },
+      {
+        "id": "12249878",
+        "name": "PDC World Matchplay"
+      },
+      {
+        "id": "10474272",
+        "name": "PDC World Championship"
+      }
+    ]
+  },
+  "2152880": {
+    "sport_name": "Gaelic Games",
+    "competitions": [
+      {
+        "id": "11971696",
+        "name": "All Ireland Hurling"
+      },
+      {
+        "id": "11964186",
+        "name": "All Ireland Football"
+      }
+    ]
+  },
+  "26420387": {
+    "sport_name": "Mixed Martial Arts",
+    "competitions": [
+      {
+        "id": "10581356",
+        "name": "UFC Matches"
+      }
+    ]
+  },
+  "4339": {
+    "sport_name": "Greyhound Racing",
+    "competitions": []
+  },
+  "2378961": {
+    "sport_name": "Politics",
+    "competitions": [
+      {
+        "id": "12672144",
+        "name": "UK General Election"
+      },
+      {
+        "id": "10538818",
+        "name": "UK - Party Leaders"
+      },
+      {
+        "id": "6761189",
+        "name": "French Politics"
+      },
+      {
+        "id": "12701894",
+        "name": "USA Presiential Election 2028"
+      },
+      {
+        "id": "11992955",
+        "name": "Australian Federal Politics"
+      },
+      {
+        "id": "12723484",
+        "name": "USA - Donald Trump Impeachment"
+      },
+      {
+        "id": "12268308",
+        "name": "UK - Next Prime Minister"
+      }
+    ]
+  },
+  "6422": {
+    "sport_name": "Snooker",
+    "competitions": [
+      {
+        "id": "11370744",
+        "name": "UK Championship"
+      },
+      {
+        "id": "4226359",
+        "name": "World Championship"
+      },
+      {
+        "id": "11709436",
+        "name": "The  Masters"
+      }
+    ]
+  },
+  "7511": {
+    "sport_name": "Baseball",
+    "competitions": [
+      {
+        "id": "11196870",
+        "name": "Major League Baseball"
+      }
+    ]
+  },
+  "6423": {
+    "sport_name": "American Football",
+    "competitions": [
+      {
+        "id": "12282733",
+        "name": "NFL"
+      }
+    ]
+  }
+}

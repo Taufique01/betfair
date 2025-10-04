@@ -1,0 +1,126 @@
+2025-09-28 05:00:00 | INFO | Logged in to Betfair API
+2025-09-28 05:00:00 | INFO | Fetched 31 markets for today
+2025-09-28 05:00:00 | INFO | Scheduled bet for 1m1f Mdn at 1:28:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 7f Nursery at 1:43:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 1m2f Nov Hcap at 1:53:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 7f Mdn at 2:03:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 7f App Hcap at 2:11:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 1m Cond Stks at 2:18:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 7f Mdn Stks at 2:28:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 7f Grp 3 at 2:35:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 7f App Hcap at 2:43:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 1m2f Nov Stks at 2:53:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 5f Nursery at 3:03:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 6f Grp 3 at 3:10:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 1m4f Hcap at 3:18:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 1m4f Hcap at 3:28:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 1m Hcap at 3:38:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 7f Nursery Hcap at 3:45:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 1m2f Hcap at 3:53:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 1m2f Hcap at 4:03:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 5f Hcap at 4:13:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 2m1f Hcap at 4:20:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 1m4f Hcap at 4:28:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 1m Hcap at 4:38:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 2m Hcap at 4:48:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 6f Mdn at 4:55:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 7f Nov Stks at 5:03:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 7f Hcap at 5:13:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 7f Hcap at 5:23:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 1m2f Hcap at 5:28:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 6f Nov Stks at 5:38:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 1m Hcap at 6:13:30PM
+2025-09-28 05:00:00 | INFO | Scheduled bet for 7f Hcap at 6:43:30PM
+2025-09-28 13:28:30 | INFO | Bet placed: Cape Cod x 1.78 @ Curragh 1m1f Mdn
+2025-09-28 13:38:01 | INFO | Logged bet: 2025-09-28 13:38:01 | Curragh | 1m1f Mdn | 2025-09-28 13:30:00 | 11734258 | Cape Cod | 1.78 | LOST
+2025-09-28 13:38:01 | INFO | watch - Market closed: 1m1f Mdn, result: LOST
+2025-09-28 13:43:30 | INFO | Bet placed: Galileo Island x 4.2 @ Epsom 7f Nursery
+2025-09-28 13:53:01 | INFO | Logged bet: 2025-09-28 13:53:01 | Epsom | 7f Nursery | 2025-09-28 13:45:00 | 83654022 | Galileo Island | 4.2 | WON
+2025-09-28 13:53:01 | INFO | watch - Market closed: 7f Nursery, result: WON
+2025-09-28 13:53:30 | INFO | Bet placed: Zambezi Magic x 3.2 @ Ffos 1m2f Nov Hcap
+2025-09-28 14:03:30 | INFO | Bet placed: White Sand Beach x 2.34 @ Curragh 7f Mdn
+2025-09-28 14:05:01 | INFO | Logged bet: 2025-09-28 14:05:01 | Ffos Las | 1m2f Nov Hcap | 2025-09-28 13:55:00 | 26162498 | Zambezi Magic | 3.2 | WON
+2025-09-28 14:05:01 | INFO | watch - Market closed: 1m2f Nov Hcap, result: WON
+2025-09-28 14:10:00 | INFO | Logged bet: 2025-09-28 14:10:00 | Curragh | 7f Mdn | 2025-09-28 14:05:00 | 88579428 | White Sand Beach | 2.34 | LOST
+2025-09-28 14:10:00 | INFO | watch - Market closed: 7f Mdn, result: LOST
+2025-09-28 14:11:30 | INFO | Bet placed: Flying Fletcher x 6.0 @ Newcastle 7f App Hcap
+2025-09-28 14:18:00 | INFO | Logged bet: 2025-09-28 14:18:00 | Newcastle | 7f App Hcap | 2025-09-28 14:13:00 | 57926081 | Flying Fletcher | 6.0 | LOST
+2025-09-28 14:18:00 | INFO | watch - Market closed: 7f App Hcap, result: LOST
+2025-09-28 14:18:30 | INFO | Bet placed: Alfaraz x 2.1 @ Epsom 1m Cond Stks
+2025-09-28 14:25:30 | INFO | Logged bet: 2025-09-28 14:25:30 | Epsom | 1m Cond Stks | 2025-09-28 14:20:00 | 87559517 | Alfaraz | 2.1 | LOST
+2025-09-28 14:25:30 | INFO | watch - Market closed: 1m Cond Stks, result: LOST
+2025-09-28 14:28:30 | INFO | Bet placed: Lavender Gold x 2.1 @ Ffos 7f Mdn Stks
+2025-09-28 14:35:30 | INFO | Bet placed: Amelia Earhart x 4.3 @ Curragh 7f Grp 3
+2025-09-28 14:36:00 | INFO | Logged bet: 2025-09-28 14:36:00 | Ffos Las | 7f Mdn Stks | 2025-09-28 14:30:00 | 86360113 | Lavender Gold | 2.1 | LOST
+2025-09-28 14:36:00 | INFO | watch - Market closed: 7f Mdn Stks, result: LOST
+2025-09-28 14:43:30 | INFO | Bet placed: Lir Speciale x 2.6 @ Newcastle 7f App Hcap
+2025-09-28 14:45:00 | INFO | Logged bet: 2025-09-28 14:45:00 | Curragh | 7f Grp 3 | 2025-09-28 14:37:00 | 15996 | Amelia Earhart | 4.3 | LOST
+2025-09-28 14:45:00 | INFO | watch - Market closed: 7f Grp 3, result: LOST
+2025-09-28 14:50:00 | INFO | Logged bet: 2025-09-28 14:50:00 | Newcastle | 7f App Hcap | 2025-09-28 14:45:00 | 40390222 | Lir Speciale | 2.6 | LOST
+2025-09-28 14:50:00 | INFO | watch - Market closed: 7f App Hcap, result: LOST
+2025-09-28 14:53:30 | INFO | Bet placed: Gamrai x 1.28 @ Epsom 1m2f Nov Stks
+2025-09-28 15:03:30 | INFO | Bet placed: Forever Glamorous x 2.16 @ Ffos 5f Nursery
+2025-09-28 15:03:30 | INFO | Logged bet: 2025-09-28 15:03:30 | Epsom | 1m2f Nov Stks | 2025-09-28 14:55:00 | 76636315 | Gamrai | 1.28 | LOST
+2025-09-28 15:03:30 | INFO | watch - Market closed: 1m2f Nov Stks, result: LOST
+2025-09-28 15:10:30 | INFO | Bet placed: My Mate Alfie x 4.4 @ Curragh 6f Grp 3
+2025-09-28 15:10:30 | INFO | Logged bet: 2025-09-28 15:10:30 | Ffos Las | 5f Nursery | 2025-09-28 15:05:00 | 85994533 | Forever Glamorous | 2.16 | LOST
+2025-09-28 15:10:30 | INFO | watch - Market closed: 5f Nursery, result: LOST
+2025-09-28 15:18:30 | INFO | Bet placed: Both Of Us x 2.26 @ Newcastle 1m4f Hcap
+2025-09-28 15:19:30 | INFO | Logged bet: 2025-09-28 15:19:30 | Curragh | 6f Grp 3 | 2025-09-28 15:12:00 | 56817141 | My Mate Alfie | 4.4 | LOST
+2025-09-28 15:19:30 | INFO | watch - Market closed: 6f Grp 3, result: LOST
+2025-09-28 15:26:31 | INFO | Logged bet: 2025-09-28 15:26:31 | Newcastle | 1m4f Hcap | 2025-09-28 15:20:00 | 84116041 | Both Of Us | 2.26 | LOST
+2025-09-28 15:26:31 | INFO | watch - Market closed: 1m4f Hcap, result: LOST
+2025-09-28 15:28:30 | INFO | Bet placed: Give It To Me Oj x 1.74 @ Epsom 1m4f Hcap
+2025-09-28 15:38:01 | INFO | Logged bet: 2025-09-28 15:38:01 | Epsom | 1m4f Hcap | 2025-09-28 15:30:00 | 69400801 | Give It To Me Oj | 1.74 | WON
+2025-09-28 15:38:01 | INFO | watch - Market closed: 1m4f Hcap, result: WON
+2025-09-28 15:38:30 | INFO | Bet placed: Change Of Fortune x 4.1 @ Ffos 1m Hcap
+2025-09-28 15:45:30 | INFO | Bet placed: Which Wolf Wins x 5.1 @ Curragh 7f Nursery Hcap
+2025-09-28 15:48:00 | INFO | Logged bet: 2025-09-28 15:48:00 | Ffos Las | 1m Hcap | 2025-09-28 15:40:00 | 45720172 | Change Of Fortune | 4.1 | LOST
+2025-09-28 15:48:00 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-09-28 15:51:30 | INFO | Logged bet: 2025-09-28 15:51:30 | Curragh | 7f Nursery Hcap | 2025-09-28 15:47:00 | 84993357 | Which Wolf Wins | 5.1 | LOST
+2025-09-28 15:51:30 | INFO | watch - Market closed: 7f Nursery Hcap, result: LOST
+2025-09-28 15:53:30 | INFO | Bet placed: Bragbor x 3.5 @ Newcastle 1m2f Hcap
+2025-09-28 16:00:30 | INFO | Logged bet: 2025-09-28 16:00:30 | Newcastle | 1m2f Hcap | 2025-09-28 15:55:00 | 78760607 | Bragbor | 3.5 | LOST
+2025-09-28 16:00:30 | INFO | watch - Market closed: 1m2f Hcap, result: LOST
+2025-09-28 16:03:30 | INFO | Bet placed: Fantasy Believer x 4.8 @ Epsom 1m2f Hcap
+2025-09-28 16:13:30 | INFO | Bet placed: Roach Power x 3.65 @ Ffos 5f Hcap
+2025-09-28 16:14:01 | INFO | Logged bet: 2025-09-28 16:14:01 | Epsom | 1m2f Hcap | 2025-09-28 16:05:00 | 57080 | Fantasy Believer | 4.8 | LOST
+2025-09-28 16:14:01 | INFO | watch - Market closed: 1m2f Hcap, result: LOST
+2025-09-28 16:20:30 | INFO | Bet placed: Puturhandstogether x 11.0 @ Curragh 2m1f Hcap
+2025-09-28 16:21:30 | INFO | Logged bet: 2025-09-28 16:21:30 | Ffos Las | 5f Hcap | 2025-09-28 16:15:00 | 40678426 | Roach Power | 3.65 | WON
+2025-09-28 16:21:30 | INFO | watch - Market closed: 5f Hcap, result: WON
+2025-09-28 16:28:30 | INFO | Bet placed: Gran Descans x 2.68 @ Newcastle 1m4f Hcap
+2025-09-28 16:35:01 | INFO | Logged bet: 2025-09-28 16:35:01 | Curragh | 2m1f Hcap | 2025-09-28 16:22:00 | 62442468 | Puturhandstogether | 11.0 | WON
+2025-09-28 16:35:01 | INFO | watch - Market closed: 2m1f Hcap, result: WON
+2025-09-28 16:37:01 | INFO | Logged bet: 2025-09-28 16:37:01 | Newcastle | 1m4f Hcap | 2025-09-28 16:30:00 | 84746679 | Gran Descans | 2.68 | WON
+2025-09-28 16:37:01 | INFO | watch - Market closed: 1m4f Hcap, result: WON
+2025-09-28 16:38:30 | INFO | Bet placed: Hot Cash x 3.25 @ Epsom 1m Hcap
+2025-09-28 16:46:31 | INFO | Logged bet: 2025-09-28 16:46:31 | Epsom | 1m Hcap | 2025-09-28 16:40:00 | 9356344 | Hot Cash | 3.25 | LOST
+2025-09-28 16:46:31 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-09-28 16:48:30 | INFO | Bet placed: Jedhi Knight x 3.15 @ Ffos 2m Hcap
+2025-09-28 16:55:30 | INFO | Bet placed: Glory To Be x 3.65 @ Curragh 6f Mdn
+2025-09-28 16:58:01 | INFO | Logged bet: 2025-09-28 16:58:01 | Ffos Las | 2m Hcap | 2025-09-28 16:50:00 | 80656773 | Jedhi Knight | 3.15 | LOST
+2025-09-28 16:58:01 | INFO | watch - Market closed: 2m Hcap, result: LOST
+2025-09-28 17:03:30 | INFO | Bet placed: Leading Dancer x 1.52 @ Newcastle 7f Nov Stks
+2025-09-28 17:08:30 | INFO | Logged bet: 2025-09-28 17:08:30 | Newcastle | 7f Nov Stks | 2025-09-28 17:05:00 | 88390352 | Leading Dancer | 1.52 | WON
+2025-09-28 17:08:30 | INFO | watch - Market closed: 7f Nov Stks, result: WON
+2025-09-28 17:08:31 | INFO | Logged bet: 2025-09-28 17:08:31 | Curragh | 6f Mdn | 2025-09-28 16:57:00 | 83916859 | Glory To Be | 3.65 | LOST
+2025-09-28 17:08:31 | INFO | watch - Market closed: 6f Mdn, result: LOST
+2025-09-28 17:13:30 | INFO | Bet placed: Musical Angel x 4.1 @ Epsom 7f Hcap
+2025-09-28 17:19:30 | INFO | Logged bet: 2025-09-28 17:19:30 | Epsom | 7f Hcap | 2025-09-28 17:15:00 | 71915811 | Musical Angel | 4.1 | WON
+2025-09-28 17:19:30 | INFO | watch - Market closed: 7f Hcap, result: WON
+2025-09-28 17:23:30 | INFO | Bet placed: Rosemarys Rose x 4.8 @ Ffos 7f Hcap
+2025-09-28 17:28:30 | INFO | Bet placed: Wertpol x 7.4 @ Curragh 1m2f Hcap
+2025-09-28 17:34:01 | INFO | Logged bet: 2025-09-28 17:34:01 | Ffos Las | 7f Hcap | 2025-09-28 17:25:00 | 73768912 | Rosemarys Rose | 4.8 | LOST
+2025-09-28 17:34:01 | INFO | watch - Market closed: 7f Hcap, result: LOST
+2025-09-28 17:38:30 | INFO | Bet placed: Major Neigh Sayer x 2.58 @ Newcastle 6f Nov Stks
+2025-09-28 17:39:01 | INFO | Logged bet: 2025-09-28 17:39:01 | Curragh | 1m2f Hcap | 2025-09-28 17:30:00 | 81615073 | Wertpol | 7.4 | LOST
+2025-09-28 17:39:01 | INFO | watch - Market closed: 1m2f Hcap, result: LOST
+2025-09-28 17:44:30 | INFO | Logged bet: 2025-09-28 17:44:30 | Newcastle | 6f Nov Stks | 2025-09-28 17:40:00 | 84382028 | Major Neigh Sayer | 2.58 | LOST
+2025-09-28 17:44:30 | INFO | watch - Market closed: 6f Nov Stks, result: LOST
+2025-09-28 18:13:30 | INFO | Bet placed: War Howl x 7.2 @ Newcastle 1m Hcap
+2025-09-28 18:21:31 | INFO | Logged bet: 2025-09-28 18:21:31 | Newcastle | 1m Hcap | 2025-09-28 18:15:00 | 71120850 | War Howl | 7.2 | LOST
+2025-09-28 18:21:31 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-09-28 18:43:30 | INFO | Bet placed: Superposition x 6.0 @ Newcastle 7f Hcap
+2025-09-28 18:49:30 | INFO | Logged bet: 2025-09-28 18:49:30 | Newcastle | 7f Hcap | 2025-09-28 18:45:00 | 38234317 | Superposition | 6.0 | LOST
+2025-09-28 18:49:30 | INFO | watch - Market closed: 7f Hcap, result: LOST

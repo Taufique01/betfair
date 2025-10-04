@@ -1,0 +1,17 @@
+🐎 Ghost Bet Report — 2025-08-21
+--------------------------------------------------
+[2025-08-21 19:35:30] Chelmsford City — 7f Hcap — Arlecchinos Rex @ 2.94 — LOST
+[2025-08-21 19:47:01] Killarney — 2m1f Hcap Chs — Wonleg @ 3.00 — LOST
+[2025-08-21 19:51:00] Newcastle — 5f Hcap — Northern Spirit @ 7.20 — WON
+[2025-08-21 20:00:00] Leopardstown — 1m Hcap — Serialise @ 4.30 — LOST
+[2025-08-21 20:08:01] Chelmsford City — 7f Hcap — Vitalline @ 5.50 — LOST
+[2025-08-21 20:14:01] Killarney — 2m1f INHF — Parnell Street @ 1.60 — WON
+[2025-08-21 20:21:00] Newcastle — 1m Hcap — Talis Evolvere @ 5.10 — LOST
+[2025-08-21 20:40:31] Chelmsford City — 6f Stks — Poetic Jack @ 2.38 — LOST
+[2025-08-21 20:50:31] Newcastle — 6f Hcap — Tuco Salamanca @ 4.60 — WON
+[2025-08-21 21:07:31] Chelmsford City — 1m2f Hcap — Caspian King @ 3.40 — LOST
+
+Total Bets: 10
+Wins: 3
+Losses: 7
+Net Profit/Loss: $3.40

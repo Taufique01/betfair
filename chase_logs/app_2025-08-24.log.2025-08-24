@@ -1,0 +1,106 @@
+2025-08-24 08:39:41 | INFO | ⏱ Already past 5:00 AM, fetching today's races immediately...
+2025-08-24 08:39:41 | INFO | Logged in to Betfair API
+2025-08-24 08:39:41 | INFO | Fetched 26 markets for today
+2025-08-24 08:39:41 | INFO | Running daily 5 AM reset
+2025-08-24 08:39:41 | INFO | Scheduled bet for 7f Mdn at 2025-08-24 12:39:00+00:00
+2025-08-24 08:39:41 | INFO | Scheduled bet for 1m Hcap at 2025-08-24 12:49:00+00:00
+2025-08-24 08:39:41 | INFO | Scheduled bet for 1m2f Hcap at 2025-08-24 13:04:00+00:00
+2025-08-24 08:39:41 | INFO | Scheduled bet for 1m2f Hcap at 2025-08-24 13:09:00+00:00
+2025-08-24 08:39:41 | INFO | Scheduled bet for 6f Mdn at 2025-08-24 13:14:00+00:00
+2025-08-24 08:39:41 | INFO | Scheduled bet for 7f Grp 3 at 2025-08-24 13:24:00+00:00
+2025-08-24 08:39:41 | INFO | Skipping 5f Hcap/Beverley 24th Aug - reason: low win list
+2025-08-24 08:39:41 | INFO | Skipping 5f Hcap/Beverley 24th Aug
+2025-08-24 08:39:41 | INFO | Scheduled bet for 7f Nov Stks at 2025-08-24 13:44:00+00:00
+2025-08-24 08:39:41 | INFO | Scheduled bet for 6f Mdn at 2025-08-24 13:49:00+00:00
+2025-08-24 08:39:41 | INFO | Skipping 6f Hcap/Goodwood 24th Aug - reason: low win list
+2025-08-24 08:39:41 | INFO | Skipping 6f Hcap/Goodwood 24th Aug
+2025-08-24 08:39:41 | INFO | Scheduled bet for 5f Nursery at 2025-08-24 14:09:00+00:00
+2025-08-24 08:39:41 | INFO | Skipping 5f Hcap/Yarmouth 24th Aug - reason: low win list
+2025-08-24 08:39:41 | INFO | Skipping 5f Hcap/Yarmouth 24th Aug
+2025-08-24 08:39:41 | INFO | Scheduled bet for 6f Grp 3 at 2025-08-24 14:24:00+00:00
+2025-08-24 08:39:41 | INFO | Scheduled bet for 1m Grp 2 at 2025-08-24 14:34:00+00:00
+2025-08-24 08:39:41 | INFO | Scheduled bet for 7f Mdn Stks at 2025-08-24 14:44:00+00:00
+2025-08-24 08:39:41 | INFO | Scheduled bet for 1m Hcap at 2025-08-24 14:54:00+00:00
+2025-08-24 08:39:41 | INFO | Skipping 5f Hcap/Naas 24th Aug - reason: low win list
+2025-08-24 08:39:41 | INFO | Skipping 5f Hcap/Naas 24th Aug
+2025-08-24 08:39:41 | INFO | Scheduled bet for 1m Nov Stks at 2025-08-24 15:09:00+00:00
+2025-08-24 08:39:41 | INFO | Scheduled bet for 1m Hcap at 2025-08-24 15:19:00+00:00
+2025-08-24 08:39:41 | INFO | Skipping 6f Hcap/Yarmouth 24th Aug - reason: low win list
+2025-08-24 08:39:41 | INFO | Skipping 6f Hcap/Yarmouth 24th Aug
+2025-08-24 08:39:41 | INFO | Scheduled bet for 1m2f Hcap at 2025-08-24 15:34:00+00:00
+2025-08-24 08:39:41 | INFO | Scheduled bet for 1m3f Stks at 2025-08-24 15:44:00+00:00
+2025-08-24 08:39:41 | INFO | Scheduled bet for 1m4f Hcap at 2025-08-24 15:54:00+00:00
+2025-08-24 08:39:41 | INFO | Scheduled bet for 7f Hcap at 2025-08-24 16:04:00+00:00
+2025-08-24 08:39:41 | INFO | Scheduled bet for 1m2f Hcap at 2025-08-24 16:09:00+00:00
+2025-08-24 08:39:41 | INFO | Scheduled bet for 2m Hcap at 2025-08-24 16:19:00+00:00
+2025-08-24 08:39:41 | INFO | All races scheduled. Scheduler running...
+2025-08-24 08:39:41 | INFO | Logout scheduled at 2025-08-24 23:01:00+01:00
+2025-08-24 12:39:00 | INFO | State: {'balance': 220.0, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-24 12:39:00 | INFO | Bid placed: {'selection_id': 84671267, 'runner_name': 'Elly Bay', 'odds': 4.1, 'placed_odds': 4.1, 'stake': 8.8, 'market_id': '1.246958040', 'race_name': '7f Mdn', 'result': 'PENDING'}
+2025-08-24 12:49:00 | INFO | State: {'balance': 220.0, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': True}
+2025-08-24 12:49:00 | WARNING | Skipping bet for 1m Hcap - race already running (via state flag)
+2025-08-24 13:01:33 | INFO | chase - Market closed: 7f Mdn, result: LOST
+2025-08-24 13:01:33 | INFO | Bet placed for 7f Mdn: Elly Bay | stake 8.8 | result L | balance 211.2
+2025-08-24 13:04:00 | INFO | State: {'balance': 211.2, 'leg': 2, 'accumulated_losses': 8.8, 'prev_stake': 8.8, 'chase_active': False, 'is_running_race': False}
+2025-08-24 13:04:00 | INFO | Bid placed: {'selection_id': 82831833, 'runner_name': 'Mafting', 'odds': 3.2, 'placed_odds': 3.2, 'stake': 13.2, 'market_id': '1.246953502', 'race_name': '1m2f Hcap', 'result': 'PENDING'}
+2025-08-24 13:09:00 | INFO | State: {'balance': 211.2, 'leg': 2, 'accumulated_losses': 8.8, 'prev_stake': 8.8, 'chase_active': False, 'is_running_race': True}
+2025-08-24 13:09:00 | WARNING | Skipping bet for 1m2f Hcap - race already running (via state flag)
+2025-08-24 13:11:01 | INFO | chase - Market closed: 1m2f Hcap, result: LOST
+2025-08-24 13:11:01 | INFO | Bet placed for 1m2f Hcap: Mafting | stake 13.2 | result L | balance 198.0
+2025-08-24 13:14:00 | INFO | State: {'balance': 198.0, 'leg': 3, 'accumulated_losses': 22.0, 'prev_stake': 13.2, 'chase_active': False, 'is_running_race': False}
+2025-08-24 13:14:00 | INFO | Bid placed: {'selection_id': 77098, 'runner_name': 'Dawn Romance', 'odds': 2.28, 'placed_odds': 2.28, 'stake': 21.78, 'market_id': '1.246958045', 'race_name': '6f Mdn', 'result': 'PENDING'}
+2025-08-24 13:23:01 | INFO | chase - Market closed: 6f Mdn, result: WON
+2025-08-24 13:23:01 | INFO | Bet placed for 6f Mdn: Dawn Romance | stake 21.78 | result W | balance 225.8784
+2025-08-24 13:24:00 | INFO | State: {'balance': 225.8784, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-08-24 13:24:00 | INFO | Bid placed: {'selection_id': 85685387, 'runner_name': 'Moon Target', 'odds': 2.86, 'placed_odds': 2.86, 'stake': 9.04, 'market_id': '1.246953549', 'race_name': '7f Grp 3', 'result': 'PENDING'}
+2025-08-24 13:31:30 | INFO | chase - Market closed: 7f Grp 3, result: LOST
+2025-08-24 13:31:30 | INFO | Bet placed for 7f Grp 3: Moon Target | stake 9.04 | result L | balance 216.8384
+2025-08-24 13:44:00 | INFO | State: {'balance': 216.8384, 'leg': 2, 'accumulated_losses': 9.04, 'prev_stake': 9.04, 'chase_active': False, 'is_running_race': False}
+2025-08-24 13:44:00 | INFO | Bid placed: {'selection_id': 20689588, 'runner_name': 'Explosion', 'odds': 2.76, 'placed_odds': 2.76, 'stake': 14.92, 'market_id': '1.246953470', 'race_name': '7f Nov Stks', 'result': 'PENDING'}
+2025-08-24 13:49:00 | INFO | State: {'balance': 216.8384, 'leg': 2, 'accumulated_losses': 9.04, 'prev_stake': 9.04, 'chase_active': False, 'is_running_race': True}
+2025-08-24 13:49:00 | WARNING | Skipping bet for 6f Mdn - race already running (via state flag)
+2025-08-24 13:50:00 | INFO | chase - Market closed: 7f Nov Stks, result: LOST
+2025-08-24 13:50:00 | INFO | Bet placed for 7f Nov Stks: Explosion | stake 14.92 | result L | balance 201.91840000000002
+2025-08-24 14:09:00 | INFO | State: {'balance': 201.91840000000002, 'leg': 3, 'accumulated_losses': 23.96, 'prev_stake': 14.92, 'chase_active': False, 'is_running_race': False}
+2025-08-24 14:09:00 | INFO | Bid placed: {'selection_id': 84198405, 'runner_name': 'Gaga Mate', 'odds': 2.94, 'placed_odds': 2.94, 'stake': 24.62, 'market_id': '1.246953515', 'race_name': '5f Nursery', 'result': 'PENDING'}
+2025-08-24 14:16:01 | INFO | chase - Market closed: 5f Nursery, result: LOST
+2025-08-24 14:16:01 | INFO | Bet placed for 5f Nursery: Gaga Mate | stake 24.62 | result L | balance 177.29840000000002
+2025-08-24 14:24:00 | INFO | State: {'balance': 177.29840000000002, 'leg': 4, 'accumulated_losses': 48.58, 'prev_stake': 24.62, 'chase_active': False, 'is_running_race': False}
+2025-08-24 14:24:00 | INFO | Bid placed: {'selection_id': 73153311, 'runner_name': 'Sky Majesty', 'odds': 2.14, 'placed_odds': 2.14, 'stake': 51.14, 'market_id': '1.246958055', 'race_name': '6f Grp 3', 'result': 'PENDING'}
+2025-08-24 14:32:01 | INFO | chase - Market closed: 6f Grp 3, result: WON
+2025-08-24 14:32:01 | INFO | Bet placed for 6f Grp 3: Sky Majesty | stake 51.14 | result W | balance 235.598
+2025-08-24 14:34:00 | INFO | State: {'balance': 235.598, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-08-24 14:34:00 | INFO | Bid placed: {'selection_id': 47296233, 'runner_name': 'Make Me King', 'odds': 3.95, 'placed_odds': 3.95, 'stake': 9.43, 'market_id': '1.246953561', 'race_name': '1m Grp 2', 'result': 'PENDING'}
+2025-08-24 14:42:01 | INFO | chase - Market closed: 1m Grp 2, result: LOST
+2025-08-24 14:42:01 | INFO | Bet placed for 1m Grp 2: Make Me King | stake 9.43 | result L | balance 226.168
+2025-08-24 14:44:00 | INFO | State: {'balance': 226.168, 'leg': 2, 'accumulated_losses': 9.43, 'prev_stake': 9.43, 'chase_active': False, 'is_running_race': False}
+2025-08-24 14:44:00 | INFO | Bid placed: {'selection_id': 86632338, 'runner_name': 'Ten Sixty Six', 'odds': 3.25, 'placed_odds': 3.25, 'stake': 14.15, 'market_id': '1.246953522', 'race_name': '7f Mdn Stks', 'result': 'PENDING'}
+2025-08-24 14:53:31 | INFO | chase - Market closed: 7f Mdn Stks, result: LOST
+2025-08-24 14:53:31 | INFO | Bet placed for 7f Mdn Stks: Ten Sixty Six | stake 14.15 | result L | balance 212.018
+2025-08-24 14:54:00 | INFO | State: {'balance': 212.018, 'leg': 3, 'accumulated_losses': 23.58, 'prev_stake': 14.15, 'chase_active': False, 'is_running_race': False}
+2025-08-24 14:54:00 | INFO | Bid placed: {'selection_id': 49130598, 'runner_name': 'City Of York', 'odds': 3.15, 'placed_odds': 3.15, 'stake': 21.23, 'market_id': '1.246953483', 'race_name': '1m Hcap', 'result': 'PENDING'}
+2025-08-24 15:02:31 | INFO | chase - Market closed: 1m Hcap, result: LOST
+2025-08-24 15:02:31 | INFO | Bet placed for 1m Hcap: City Of York | stake 21.23 | result L | balance 190.788
+2025-08-24 15:09:00 | INFO | State: {'balance': 190.788, 'leg': 4, 'accumulated_losses': 44.81, 'prev_stake': 21.23, 'chase_active': False, 'is_running_race': False}
+2025-08-24 15:09:00 | INFO | Bid placed: {'selection_id': 86905825, 'runner_name': 'Kings Trust', 'odds': 3.25, 'placed_odds': 3.25, 'stake': 31.85, 'market_id': '1.246953567', 'race_name': '1m Nov Stks', 'result': 'PENDING'}
+2025-08-24 15:17:01 | INFO | chase - Market closed: 1m Nov Stks, result: LOST
+2025-08-24 15:17:01 | INFO | Bet placed for 1m Nov Stks: Kings Trust | stake 31.85 | result L | balance 158.93800000000002
+2025-08-24 15:19:00 | INFO | State: {'balance': 158.93800000000002, 'leg': 5, 'accumulated_losses': 76.66, 'prev_stake': 31.85, 'chase_active': False, 'is_running_race': False}
+2025-08-24 15:19:00 | INFO | Bid placed: {'selection_id': 5193254, 'runner_name': 'Mudamer', 'odds': 4.5, 'placed_odds': 4.5, 'stake': 47.78, 'market_id': '1.246953529', 'race_name': '1m Hcap', 'result': 'PENDING'}
+2025-08-24 15:25:30 | INFO | chase - Market closed: 1m Hcap, result: LOST
+2025-08-24 15:25:30 | INFO | Bet placed for 1m Hcap: Mudamer | stake 47.78 | result L | balance 111.15800000000002
+2025-08-24 15:34:00 | INFO | State: {'balance': 111.15800000000002, 'leg': 6, 'accumulated_losses': 124.44, 'prev_stake': 47.78, 'chase_active': False, 'is_running_race': False}
+2025-08-24 15:34:00 | INFO | Bid placed: {'selection_id': 73656100, 'runner_name': 'Elusive Duke', 'odds': 5.8, 'placed_odds': 5.8, 'stake': 111.15800000000002, 'market_id': '1.246958065', 'race_name': '1m2f Hcap', 'result': 'PENDING'}
+2025-08-24 15:42:31 | INFO | chase - Market closed: 1m2f Hcap, result: LOST
+2025-08-24 15:42:31 | INFO | Bet placed for 1m2f Hcap: Elusive Duke | stake 111.15800000000002 | result L | balance 0.0
+2025-08-24 15:44:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 235.598, 'prev_stake': 111.15800000000002, 'chase_active': False, 'is_running_race': False}
+2025-08-24 15:44:00 | WARNING | Skipping bet for 1m3f Stks - balance too low (0.0 < 0.01)
+2025-08-24 15:54:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 235.598, 'prev_stake': 111.15800000000002, 'chase_active': False, 'is_running_race': False}
+2025-08-24 15:54:00 | WARNING | Skipping bet for 1m4f Hcap - balance too low (0.0 < 0.01)
+2025-08-24 16:04:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 235.598, 'prev_stake': 111.15800000000002, 'chase_active': False, 'is_running_race': False}
+2025-08-24 16:04:00 | WARNING | Skipping bet for 7f Hcap - balance too low (0.0 < 0.01)
+2025-08-24 16:09:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 235.598, 'prev_stake': 111.15800000000002, 'chase_active': False, 'is_running_race': False}
+2025-08-24 16:09:00 | WARNING | Skipping bet for 1m2f Hcap - balance too low (0.0 < 0.01)
+2025-08-24 16:19:00 | INFO | State: {'balance': 0.0, 'leg': 7, 'accumulated_losses': 235.598, 'prev_stake': 111.15800000000002, 'chase_active': False, 'is_running_race': False}
+2025-08-24 16:19:00 | WARNING | Skipping bet for 2m Hcap - balance too low (0.0 < 0.01)
+2025-08-24 22:01:00 | INFO | Logged out from Betfair API after cutoff

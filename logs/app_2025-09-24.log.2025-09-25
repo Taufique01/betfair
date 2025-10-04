@@ -1,0 +1,146 @@
+2025-09-25 05:00:00 | INFO | Logged in to Betfair API
+2025-09-25 05:00:00 | INFO | Fetched 36 markets for today
+2025-09-25 05:00:00 | INFO | Scheduled bet for 1m Mdn Stks at 1:48:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 2m4f Nov Hrd at 1:56:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 5f App Hcap at 2:06:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 2m Mdn Hrd at 2:13:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 1m Nursery at 2:23:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 2m4f Nov Hcap Chs at 2:31:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 6f Mdn Stks at 2:41:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 2m Mdn Hrd at 2:48:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 6f Hcap at 2:58:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 2m Nov Hcap Hrd at 3:06:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 6f Nursery at 3:16:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 2m Listed Hcap Hrd at 3:23:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 7f Grp 3 at 3:33:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 3m Hcap Chs at 3:41:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 1m Nov Stks at 3:51:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 2m Hcap Hrd at 3:58:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 2m Listed at 4:08:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 3m Hcap Hrd at 4:16:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 1m2f Hcap at 4:26:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 2m4f Hcap Hrd at 4:33:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 1m4f Hcap at 4:43:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 3m Hcap Hrd at 4:51:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 1m2f Mdn Stks at 4:58:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 1m4f Hcap at 5:03:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 2m6f Beg Chs at 5:08:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 1m Hcap at 5:16:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 2m4f Hcap Hrd at 5:21:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 1m4f Hcap at 5:28:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 6f Hcap at 5:36:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 2m INHF at 5:43:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 2m Hcap at 5:58:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 7f Nov Stks at 6:28:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 7f Hcap at 6:58:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 7f Hcap at 7:28:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 1m Hcap at 7:58:30PM
+2025-09-25 05:00:00 | INFO | Scheduled bet for 6f Hcap at 8:28:30PM
+2025-09-25 13:48:30 | INFO | Bet placed: Del Maro x 1.92 @ Newmarket 1m Mdn Stks
+2025-09-25 13:56:30 | INFO | Bet placed: Kenisa Sport x 1.76 @ Perth 2m4f Nov Hrd
+2025-09-25 13:57:31 | INFO | Logged bet: 2025-09-25 13:57:31 | Newmarket | 1m Mdn Stks | 2025-09-25 13:50:00 | 87144654 | Del Maro | 1.92 | LOST
+2025-09-25 13:57:31 | INFO | watch - Market closed: 1m Mdn Stks, result: LOST
+2025-09-25 14:06:30 | INFO | Bet placed: Canaria Queen x 2.26 @ Pontefract 5f App Hcap
+2025-09-25 14:07:31 | INFO | Logged bet: 2025-09-25 14:07:31 | Perth | 2m4f Nov Hrd | 2025-09-25 13:58:00 | 80004345 | Kenisa Sport | 1.76 | LOST
+2025-09-25 14:07:31 | INFO | watch - Market closed: 2m4f Nov Hrd, result: LOST
+2025-09-25 14:13:00 | INFO | Logged bet: 2025-09-25 14:13:00 | Pontefract | 5f App Hcap | 2025-09-25 14:08:00 | 56615736 | Canaria Queen | 2.26 | LOST
+2025-09-25 14:13:00 | INFO | watch - Market closed: 5f App Hcap, result: LOST
+2025-09-25 14:13:30 | INFO | Bet placed: Carrigmoornaspruce x 1.64 @ Listowel 2m Mdn Hrd
+2025-09-25 14:22:31 | INFO | Logged bet: 2025-09-25 14:22:31 | Listowel | 2m Mdn Hrd | 2025-09-25 14:15:00 | 74275624 | Carrigmoornaspruce | 1.64 | WON
+2025-09-25 14:22:31 | INFO | watch - Market closed: 2m Mdn Hrd, result: WON
+2025-09-25 14:23:30 | INFO | Bet placed: Monoceros x 3.05 @ Newmarket 1m Nursery
+2025-09-25 14:31:30 | INFO | Bet placed: King Roly x 2.14 @ Perth 2m4f Nov Hcap Chs
+2025-09-25 14:32:31 | INFO | Logged bet: 2025-09-25 14:32:31 | Newmarket | 1m Nursery | 2025-09-25 14:25:00 | 1033226 | Monoceros | 3.05 | LOST
+2025-09-25 14:32:31 | INFO | watch - Market closed: 1m Nursery, result: LOST
+2025-09-25 14:41:30 | INFO | Bet placed: Spanish Waltz x 1.46 @ Pontefract 6f Mdn Stks
+2025-09-25 14:41:31 | INFO | Logged bet: 2025-09-25 14:41:31 | Perth | 2m4f Nov Hcap Chs | 2025-09-25 14:33:00 | 62565008 | King Roly | 2.14 | WON
+2025-09-25 14:41:31 | INFO | watch - Market closed: 2m4f Nov Hcap Chs, result: WON
+2025-09-25 14:48:00 | INFO | Logged bet: 2025-09-25 14:48:00 | Pontefract | 6f Mdn Stks | 2025-09-25 14:43:00 | 88258714 | Spanish Waltz | 1.46 | WON
+2025-09-25 14:48:00 | INFO | watch - Market closed: 6f Mdn Stks, result: WON
+2025-09-25 14:48:30 | INFO | Bet placed: Heads Up x 1.71 @ Listowel 2m Mdn Hrd
+2025-09-25 14:58:30 | INFO | Bet placed: Lady Roxby x 5.5 @ Newmarket 6f Hcap
+2025-09-25 14:59:01 | INFO | Logged bet: 2025-09-25 14:59:01 | Listowel | 2m Mdn Hrd | 2025-09-25 14:50:00 | 5538015 | Heads Up | 1.71 | WON
+2025-09-25 14:59:01 | INFO | watch - Market closed: 2m Mdn Hrd, result: WON
+2025-09-25 15:06:30 | INFO | Bet placed: Top Flight Century x 3.55 @ Perth 2m Nov Hcap Hrd
+2025-09-25 15:07:01 | INFO | Logged bet: 2025-09-25 15:07:01 | Newmarket | 6f Hcap | 2025-09-25 15:00:00 | 70580859 | Lady Roxby | 5.5 | LOST
+2025-09-25 15:07:01 | INFO | watch - Market closed: 6f Hcap, result: LOST
+2025-09-25 15:16:01 | INFO | Logged bet: 2025-09-25 15:16:01 | Perth | 2m Nov Hcap Hrd | 2025-09-25 15:08:00 | 62362503 | Top Flight Century | 3.55 | LOST
+2025-09-25 15:16:01 | INFO | watch - Market closed: 2m Nov Hcap Hrd, result: LOST
+2025-09-25 15:16:30 | INFO | Bet placed: Lucky Hero x 4.5 @ Pontefract 6f Nursery
+2025-09-25 15:23:30 | INFO | Bet placed: Shaboozee x 5.9 @ Listowel 2m Listed Hcap Hrd
+2025-09-25 15:24:31 | INFO | Logged bet: 2025-09-25 15:24:31 | Pontefract | 6f Nursery | 2025-09-25 15:18:00 | 24125 | Lucky Hero | 4.5 | LOST
+2025-09-25 15:24:31 | INFO | watch - Market closed: 6f Nursery, result: LOST
+2025-09-25 15:33:30 | INFO | Bet placed: Distant Storm x 2.36 @ Newmarket 7f Grp 3
+2025-09-25 15:34:31 | INFO | Logged bet: 2025-09-25 15:34:31 | Listowel | 2m Listed Hcap Hrd | 2025-09-25 15:25:00 | 81492872 | Shaboozee | 5.9 | LOST
+2025-09-25 15:34:31 | INFO | watch - Market closed: 2m Listed Hcap Hrd, result: LOST
+2025-09-25 15:41:30 | INFO | Bet placed: Upfordebate x 3.65 @ Perth 3m Hcap Chs
+2025-09-25 15:42:01 | INFO | Logged bet: 2025-09-25 15:42:01 | Newmarket | 7f Grp 3 | 2025-09-25 15:35:00 | 54812 | Distant Storm | 2.36 | WON
+2025-09-25 15:42:01 | INFO | watch - Market closed: 7f Grp 3, result: WON
+2025-09-25 15:51:30 | INFO | Bet placed: Gaspacho x 1.63 @ Pontefract 1m Nov Stks
+2025-09-25 15:55:01 | INFO | Logged bet: 2025-09-25 15:55:01 | Perth | 3m Hcap Chs | 2025-09-25 15:43:00 | 63374167 | Upfordebate | 3.65 | WON
+2025-09-25 15:55:01 | INFO | watch - Market closed: 3m Hcap Chs, result: WON
+2025-09-25 15:58:30 | INFO | Bet placed: Targa Flavio x 6.2 @ Listowel 2m Hcap Hrd
+2025-09-25 15:58:30 | INFO | Logged bet: 2025-09-25 15:58:30 | Pontefract | 1m Nov Stks | 2025-09-25 15:53:00 | 88043572 | Gaspacho | 1.63 | WON
+2025-09-25 15:58:30 | INFO | watch - Market closed: 1m Nov Stks, result: WON
+2025-09-25 16:07:31 | INFO | Logged bet: 2025-09-25 16:07:31 | Listowel | 2m Hcap Hrd | 2025-09-25 16:00:00 | 66627072 | Targa Flavio | 6.2 | LOST
+2025-09-25 16:07:31 | INFO | watch - Market closed: 2m Hcap Hrd, result: LOST
+2025-09-25 16:08:30 | INFO | Bet placed: Palladium x 3.15 @ Newmarket 2m Listed
+2025-09-25 16:16:30 | INFO | Bet placed: Idem x 3.35 @ Perth 3m Hcap Hrd
+2025-09-25 16:21:01 | INFO | Logged bet: 2025-09-25 16:21:01 | Newmarket | 2m Listed | 2025-09-25 16:10:00 | 52106 | Palladium | 3.15 | LOST
+2025-09-25 16:21:01 | INFO | watch - Market closed: 2m Listed, result: LOST
+2025-09-25 16:26:30 | INFO | Bet placed: Wave Rider x 1.99 @ Pontefract 1m2f Hcap
+2025-09-25 16:29:01 | INFO | Logged bet: 2025-09-25 16:29:01 | Perth | 3m Hcap Hrd | 2025-09-25 16:18:00 | 41593775 | Idem | 3.35 | LOST
+2025-09-25 16:29:01 | INFO | watch - Market closed: 3m Hcap Hrd, result: LOST
+2025-09-25 16:33:30 | INFO | Bet placed: Shadow Paddy x 5.5 @ Listowel 2m4f Hcap Hrd
+2025-09-25 16:35:01 | INFO | Logged bet: 2025-09-25 16:35:01 | Pontefract | 1m2f Hcap | 2025-09-25 16:28:00 | 7556788 | Wave Rider | 1.99 | WON
+2025-09-25 16:35:01 | INFO | watch - Market closed: 1m2f Hcap, result: WON
+2025-09-25 16:43:30 | INFO | Bet placed: Shrimp Shady x 3.8 @ Newmarket 1m4f Hcap
+2025-09-25 16:44:01 | INFO | Logged bet: 2025-09-25 16:44:01 | Listowel | 2m4f Hcap Hrd | 2025-09-25 16:35:00 | 69213044 | Shadow Paddy | 5.5 | WON
+2025-09-25 16:44:01 | INFO | watch - Market closed: 2m4f Hcap Hrd, result: WON
+2025-09-25 16:51:30 | INFO | Bet placed: The Flying Poet x 2.8 @ Perth 3m Hcap Hrd
+2025-09-25 16:55:01 | INFO | Logged bet: 2025-09-25 16:55:01 | Newmarket | 1m4f Hcap | 2025-09-25 16:45:00 | 72520001 | Shrimp Shady | 3.8 | LOST
+2025-09-25 16:55:01 | INFO | watch - Market closed: 1m4f Hcap, result: LOST
+2025-09-25 16:58:30 | INFO | Bet placed: Mukhtalif x 1.12 @ Newcastle 1m2f Mdn Stks
+2025-09-25 17:03:30 | INFO | Bet placed: Vulcan Way x 2.52 @ Pontefract 1m4f Hcap
+2025-09-25 17:03:31 | INFO | Logged bet: 2025-09-25 17:03:31 | Perth | 3m Hcap Hrd | 2025-09-25 16:53:00 | 69077165 | The Flying Poet | 2.8 | WON
+2025-09-25 17:03:31 | INFO | watch - Market closed: 3m Hcap Hrd, result: WON
+2025-09-25 17:08:30 | INFO | Bet placed: Oscars Brother x 3.0 @ Listowel 2m6f Beg Chs
+2025-09-25 17:10:30 | INFO | Logged bet: 2025-09-25 17:10:30 | Pontefract | 1m4f Hcap | 2025-09-25 17:05:00 | 78024408 | Vulcan Way | 2.52 | LOST
+2025-09-25 17:10:30 | INFO | watch - Market closed: 1m4f Hcap, result: LOST
+2025-09-25 17:12:01 | INFO | Logged bet: 2025-09-25 17:12:01 | Newcastle | 1m2f Mdn Stks | 2025-09-25 17:00:00 | 84382013 | Mukhtalif | 1.12 | WON
+2025-09-25 17:12:01 | INFO | watch - Market closed: 1m2f Mdn Stks, result: WON
+2025-09-25 17:16:30 | INFO | Bet placed: Moutai x 5.2 @ Newmarket 1m Hcap
+2025-09-25 17:19:31 | INFO | Logged bet: 2025-09-25 17:19:31 | Listowel | 2m6f Beg Chs | 2025-09-25 17:10:00 | 64589162 | Oscars Brother | 3.0 | LOST
+2025-09-25 17:19:31 | INFO | watch - Market closed: 2m6f Beg Chs, result: LOST
+2025-09-25 17:21:30 | INFO | Bet placed: Kopa Kilana x 2.98 @ Perth 2m4f Hcap Hrd
+2025-09-25 17:27:01 | INFO | Logged bet: 2025-09-25 17:27:01 | Newmarket | 1m Hcap | 2025-09-25 17:18:00 | 74585969 | Moutai | 5.2 | LOST
+2025-09-25 17:27:01 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-09-25 17:28:30 | INFO | Bet placed: Rubellite x 2.84 @ Newcastle 1m4f Hcap
+2025-09-25 17:36:30 | INFO | Bet placed: City Captain x 3.4 @ Pontefract 6f Hcap
+2025-09-25 17:38:01 | INFO | Logged bet: 2025-09-25 17:38:01 | Newcastle | 1m4f Hcap | 2025-09-25 17:30:00 | 6345459 | Rubellite | 2.84 | LOST
+2025-09-25 17:38:01 | INFO | watch - Market closed: 1m4f Hcap, result: LOST
+2025-09-25 17:43:30 | INFO | Bet placed: Mister Pessimistic x 4.8 @ Listowel 2m INHF
+2025-09-25 17:46:32 | INFO | Logged bet: 2025-09-25 17:46:32 | Perth | 2m4f Hcap Hrd | 2025-09-25 17:23:00 | 41503344 | Kopa Kilana | 2.98 | LOST
+2025-09-25 17:46:32 | INFO | watch - Market closed: 2m4f Hcap Hrd, result: LOST
+2025-09-25 17:47:31 | INFO | Logged bet: 2025-09-25 17:47:31 | Pontefract | 6f Hcap | 2025-09-25 17:38:00 | 72322337 | City Captain | 3.4 | LOST
+2025-09-25 17:47:31 | INFO | watch - Market closed: 6f Hcap, result: LOST
+2025-09-25 17:53:31 | INFO | Logged bet: 2025-09-25 17:53:31 | Listowel | 2m INHF | 2025-09-25 17:45:00 | 88991313 | Mister Pessimistic | 4.8 | WON
+2025-09-25 17:53:31 | INFO | watch - Market closed: 2m INHF, result: WON
+2025-09-25 17:58:30 | INFO | Bet placed: Stand Strong x 2.82 @ Newcastle 2m Hcap
+2025-09-25 18:08:01 | INFO | Logged bet: 2025-09-25 18:08:01 | Newcastle | 2m Hcap | 2025-09-25 18:00:00 | 46505668 | Stand Strong | 2.82 | LOST
+2025-09-25 18:08:01 | INFO | watch - Market closed: 2m Hcap, result: LOST
+2025-09-25 18:28:30 | INFO | Bet placed: Tiger Power x 2.52 @ Newcastle 7f Nov Stks
+2025-09-25 18:36:00 | INFO | Logged bet: 2025-09-25 18:36:00 | Newcastle | 7f Nov Stks | 2025-09-25 18:30:00 | 88043577 | Tiger Power | 2.52 | LOST
+2025-09-25 18:36:00 | INFO | watch - Market closed: 7f Nov Stks, result: LOST
+2025-09-25 18:58:30 | INFO | Bet placed: Andalprofit x 4.8 @ Newcastle 7f Hcap
+2025-09-25 19:05:31 | INFO | Logged bet: 2025-09-25 19:05:31 | Newcastle | 7f Hcap | 2025-09-25 19:00:00 | 70430594 | Andalprofit | 4.8 | LOST
+2025-09-25 19:05:31 | INFO | watch - Market closed: 7f Hcap, result: LOST
+2025-09-25 19:28:30 | INFO | Bet placed: Oselton x 3.8 @ Newcastle 7f Hcap
+2025-09-25 19:38:31 | INFO | Logged bet: 2025-09-25 19:38:31 | Newcastle | 7f Hcap | 2025-09-25 19:30:00 | 73420609 | Oselton | 3.8 | LOST
+2025-09-25 19:38:31 | INFO | watch - Market closed: 7f Hcap, result: LOST
+2025-09-25 19:58:30 | INFO | Bet placed: Parish Councillor x 2.42 @ Newcastle 1m Hcap
+2025-09-25 20:05:31 | INFO | Logged bet: 2025-09-25 20:05:31 | Newcastle | 1m Hcap | 2025-09-25 20:00:00 | 50819711 | Parish Councillor | 2.42 | WON
+2025-09-25 20:05:31 | INFO | watch - Market closed: 1m Hcap, result: WON
+2025-09-25 20:28:30 | INFO | Bet placed: Carolus Magnus x 5.0 @ Newcastle 6f Hcap
+2025-09-25 20:34:00 | INFO | Logged bet: 2025-09-25 20:34:00 | Newcastle | 6f Hcap | 2025-09-25 20:30:00 | 2068018 | Carolus Magnus | 5.0 | LOST
+2025-09-25 20:34:00 | INFO | watch - Market closed: 6f Hcap, result: LOST

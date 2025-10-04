@@ -1,0 +1,7 @@
+timestamp,market_id,race_name,track,date,leg,selection,odds,stake,result,profit,balance
+2025-08-21T19:35:30.805055+01:00,1.246848678,7f Hcap,Chelmsford City 21st Aug,2025-08-21 18:30:00+00:00,0,Arlecchinos Rex,3.25,8.8,L,-8.8,211.2
+2025-08-21T19:46:31.267831+01:00,1.246854242,2m1f Hcap Chs,Killarney 21st Aug,2025-08-21 18:37:00+00:00,1,Wonleg,3.0,8.45,L,-8.45,202.75
+2025-08-21T20:00:30.871178+01:00,1.246851825,1m Hcap,Leopardstown 21st Aug,2025-08-21 18:55:00+00:00,2,Serialise,4.5,12.68,L,-12.68,190.07
+2025-08-21T20:21:30.992832+01:00,1.246849146,1m Hcap,Newcastle 21st Aug,2025-08-21 19:15:00+00:00,0,Talis Evolvere,5.1,8.8,L,-8.8,211.2
+2025-08-21T20:38:31.537029+01:00,1.246848692,6f Stks,Chelmsford City 21st Aug,2025-08-21 19:30:00+00:00,1,Poetic Jack,2.4,8.45,L,-8.45,202.75
+2025-08-21T21:07:30.975946+01:00,1.246848699,1m2f Hcap,Chelmsford City 21st Aug,2025-08-21 20:00:00+00:00,2,Caspian King,3.2,12.68,L,-12.68,190.07

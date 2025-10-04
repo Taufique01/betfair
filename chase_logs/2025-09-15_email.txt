@@ -1,0 +1,181 @@
+
+    <h2>🐎 CHASE Report — Monday, September 15, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 01:39 PM</td>
+            <td>Worcester 15th Sep</td>
+            <td>Seeyouinmydreams</td>
+            <td>2.44</td>
+            <td>£8.80</td>
+            <td>LOST</td>
+            <td>£-8.80</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 02:09 PM</td>
+            <td>Worcester 15th Sep</td>
+            <td>Courtland</td>
+            <td>2.40</td>
+            <td>£14.52</td>
+            <td>LOST</td>
+            <td>£-14.52</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 15, 2025 02:26 PM</td>
+            <td>Thirsk 15th Sep</td>
+            <td>Max Of Stars</td>
+            <td>4.60</td>
+            <td>£21.78</td>
+            <td>WON</td>
+            <td>£78.41</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 02:39 PM</td>
+            <td>Worcester 15th Sep</td>
+            <td>Rodeo</td>
+            <td>3.50</td>
+            <td>£11.01</td>
+            <td>LOST</td>
+            <td>£-11.01</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 02:57 PM</td>
+            <td>Thirsk 15th Sep</td>
+            <td>King Victorious</td>
+            <td>4.80</td>
+            <td>£16.52</td>
+            <td>LOST</td>
+            <td>£-16.52</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 03:09 PM</td>
+            <td>Worcester 15th Sep</td>
+            <td>The Expensive One</td>
+            <td>2.10</td>
+            <td>£30.04</td>
+            <td>LOST</td>
+            <td>£-30.04</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 03:27 PM</td>
+            <td>Thirsk 15th Sep</td>
+            <td>North Force</td>
+            <td>2.20</td>
+            <td>£57.57</td>
+            <td>LOST</td>
+            <td>£-57.57</td>
+            <td>Leg 4</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 15, 2025 03:38 PM</td>
+            <td>Worcester 15th Sep</td>
+            <td>Mr Mcloughlan</td>
+            <td>3.15</td>
+            <td>£86.36</td>
+            <td>WON</td>
+            <td>£185.67</td>
+            <td>Leg 5</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 04:10 PM</td>
+            <td>Worcester 15th Sep</td>
+            <td>Getaway With You</td>
+            <td>2.98</td>
+            <td>£13.83</td>
+            <td>LOST</td>
+            <td>£-13.83</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 04:26 PM</td>
+            <td>Thirsk 15th Sep</td>
+            <td>Mamma Maria</td>
+            <td>4.70</td>
+            <td>£20.75</td>
+            <td>LOST</td>
+            <td>£-20.75</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 04:40 PM</td>
+            <td>Worcester 15th Sep</td>
+            <td>Ghasham</td>
+            <td>3.25</td>
+            <td>£31.13</td>
+            <td>LOST</td>
+            <td>£-31.13</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 04:59 PM</td>
+            <td>Thirsk 15th Sep</td>
+            <td>Ravishing Beauty</td>
+            <td>4.30</td>
+            <td>£46.70</td>
+            <td>LOST</td>
+            <td>£-46.70</td>
+            <td>Leg 4</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 15, 2025 05:28 PM</td>
+            <td>Thirsk 15th Sep</td>
+            <td>Al Muqdad</td>
+            <td>5.70</td>
+            <td>£70.05</td>
+            <td>LOST</td>
+            <td>£-70.05</td>
+            <td>Leg 5</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 15, 2025 05:36 PM</td>
+            <td>Kempton 15th Sep</td>
+            <td>Midnight Rodeo</td>
+            <td>3.45</td>
+            <td>£163.16</td>
+            <td>WON</td>
+            <td>£399.75</td>
+            <td>Leg 6</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 14 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 3 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 11 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £342.91
+    </p>
+    

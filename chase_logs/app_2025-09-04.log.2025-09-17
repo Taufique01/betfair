@@ -1,0 +1,106 @@
+2025-09-17 04:00:00 | INFO | Logged in to Betfair API
+2025-09-17 04:00:00 | INFO | Fetched 28 markets for today
+2025-09-17 04:00:00 | INFO | Running daily 5 AM reset
+2025-09-17 04:00:00 | INFO | Skipping 5f Hcap/Sandown 17th Sep - reason: low win list
+2025-09-17 04:00:00 | INFO | Skipping 5f Hcap/Sandown 17th Sep
+2025-09-17 04:00:00 | INFO | Scheduled bet for 5f Mdn Stks at 2025-09-17 13:14:00+00:00
+2025-09-17 04:00:00 | INFO | Skipping 6f Hcap/Yarmouth 17th Sep - reason: low win list
+2025-09-17 04:00:00 | INFO | Skipping 6f Hcap/Yarmouth 17th Sep
+2025-09-17 04:00:00 | INFO | Scheduled bet for 7f Nov Stks at 2025-09-17 13:34:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 5f Nov Stks at 2025-09-17 13:44:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 6f Nov Stks at 2025-09-17 13:54:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 1m Mdn Stks at 2025-09-17 14:04:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 7f Nov Stks at 2025-09-17 14:14:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 7f Mdn Stks at 2025-09-17 14:24:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 1m Listed at 2025-09-17 14:34:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 1m Nursery at 2025-09-17 14:47:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 2m5f Nov Hrd at 2025-09-17 14:52:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 1m2f Listed at 2025-09-17 14:59:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 1m Hcap at 2025-09-17 15:09:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 1m Hcap at 2025-09-17 15:17:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 2m5f Hcap Hrd at 2025-09-17 15:24:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 1m1f Hcap at 2025-09-17 15:34:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 1m2f Hcap at 2025-09-17 15:44:00+00:00
+2025-09-17 04:00:00 | INFO | Skipping 5f Hcap/Beverley 17th Sep - reason: low win list
+2025-09-17 04:00:00 | INFO | Skipping 5f Hcap/Beverley 17th Sep
+2025-09-17 04:00:00 | INFO | Scheduled bet for 2m5f Hcap Chs at 2025-09-17 15:59:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 1m3f Hcap at 2025-09-17 16:09:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 1m2f Hcap at 2025-09-17 16:16:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 1m2f Hcap at 2025-09-17 16:23:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 2m2f Hcap Hrd at 2025-09-17 16:29:00+00:00
+2025-09-17 04:00:00 | INFO | Skipping 6f Hcap/Yarmouth 17th Sep - reason: low win list
+2025-09-17 04:00:00 | INFO | Skipping 6f Hcap/Yarmouth 17th Sep
+2025-09-17 04:00:00 | INFO | Scheduled bet for 2m2f Hcap Hrd at 2025-09-17 16:59:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 2m1f Hcap Chs at 2025-09-17 17:29:00+00:00
+2025-09-17 04:00:00 | INFO | Scheduled bet for 2m NHF at 2025-09-17 17:59:00+00:00
+2025-09-17 04:00:00 | INFO | All races scheduled. Scheduler running...
+2025-09-17 13:14:00 | INFO | State: {'balance': 220.0, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-09-17 13:14:00 | INFO | Bid placed: {'selection_id': 86490805, 'runner_name': 'Quantum Power', 'odds': 4.5, 'placed_odds': 4.5, 'stake': 8.8, 'market_id': '1.247822203', 'race_name': '5f Mdn Stks', 'result': 'PENDING'}
+2025-09-17 13:26:31 | INFO | chase - Market closed: 5f Mdn Stks, result: WON
+2025-09-17 13:26:31 | INFO | Bet placed for 5f Mdn Stks: Quantum Power | stake 8.8 | result W | balance 250.8
+2025-09-17 13:34:00 | INFO | State: {'balance': 250.8, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-09-17 13:34:00 | INFO | Bid placed: {'selection_id': 11583, 'runner_name': 'Morshdi', 'odds': 1.94, 'placed_odds': 1.94, 'stake': 10.04, 'market_id': '1.247821923', 'race_name': '7f Nov Stks', 'result': 'PENDING'}
+2025-09-17 13:41:00 | INFO | chase - Market closed: 7f Nov Stks, result: LOST
+2025-09-17 13:41:00 | INFO | Bet placed for 7f Nov Stks: Morshdi | stake 10.04 | result L | balance 240.76000000000002
+2025-09-17 13:44:00 | INFO | State: {'balance': 240.76000000000002, 'leg': 2, 'accumulated_losses': 10.04, 'prev_stake': 10.04, 'chase_active': False, 'is_running_race': False}
+2025-09-17 13:44:00 | INFO | Bid placed: {'selection_id': 88623937, 'runner_name': 'Tea Queen', 'odds': 2.26, 'placed_odds': 2.26, 'stake': 16.57, 'market_id': '1.247822226', 'race_name': '5f Nov Stks', 'result': 'PENDING'}
+2025-09-17 13:54:00 | INFO | State: {'balance': 240.76000000000002, 'leg': 2, 'accumulated_losses': 10.04, 'prev_stake': 10.04, 'chase_active': False, 'is_running_race': True}
+2025-09-17 13:54:00 | WARNING | Skipping bet for 6f Nov Stks - race already running (via state flag)
+2025-09-17 13:55:31 | INFO | chase - Market closed: 5f Nov Stks, result: LOST
+2025-09-17 13:55:31 | INFO | Bet placed for 5f Nov Stks: Tea Queen | stake 16.57 | result L | balance 224.19000000000003
+2025-09-17 14:04:00 | INFO | State: {'balance': 224.19000000000003, 'leg': 3, 'accumulated_losses': 26.61, 'prev_stake': 16.57, 'chase_active': False, 'is_running_race': False}
+2025-09-17 14:04:00 | INFO | Bid placed: {'selection_id': 19568953, 'runner_name': 'Accredit', 'odds': 1.39, 'placed_odds': 1.39, 'stake': 81.88, 'market_id': '1.247821928', 'race_name': '1m Mdn Stks', 'result': 'PENDING'}
+2025-09-17 14:09:30 | INFO | chase - Market closed: 1m Mdn Stks, result: WON
+2025-09-17 14:09:30 | INFO | Bet placed for 1m Mdn Stks: Accredit | stake 81.88 | result W | balance 256.1232
+2025-09-17 14:14:00 | INFO | State: {'balance': 256.1232, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-09-17 14:14:00 | INFO | Bid placed: {'selection_id': 85225513, 'runner_name': 'Elizabetty', 'odds': 3.3, 'placed_odds': 3.3, 'stake': 10.25, 'market_id': '1.247822290', 'race_name': '7f Nov Stks', 'result': 'PENDING'}
+2025-09-17 14:24:00 | INFO | State: {'balance': 256.1232, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': True}
+2025-09-17 14:24:00 | WARNING | Skipping bet for 7f Mdn Stks - race already running (via state flag)
+2025-09-17 14:27:31 | INFO | chase - Market closed: 7f Nov Stks, result: LOST
+2025-09-17 14:27:31 | INFO | Bet placed for 7f Nov Stks: Elizabetty | stake 10.25 | result L | balance 245.8732
+2025-09-17 14:34:00 | INFO | State: {'balance': 245.8732, 'leg': 2, 'accumulated_losses': 10.25, 'prev_stake': 10.25, 'chase_active': False, 'is_running_race': False}
+2025-09-17 14:34:00 | INFO | Bid placed: {'selection_id': 49525932, 'runner_name': 'Ciceros Gift', 'odds': 2.98, 'placed_odds': 2.98, 'stake': 16.92, 'market_id': '1.247821930', 'race_name': '1m Listed', 'result': 'PENDING'}
+2025-09-17 14:40:30 | INFO | chase - Market closed: 1m Listed, result: WON
+2025-09-17 14:40:30 | INFO | Bet placed for 1m Listed: Ciceros Gift | stake 16.92 | result W | balance 279.3748
+2025-09-17 14:47:00 | INFO | State: {'balance': 279.3748, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-09-17 14:47:00 | INFO | Bid placed: {'selection_id': 84958701, 'runner_name': 'Dunkeld Dreamer', 'odds': 2.22, 'placed_odds': 2.22, 'stake': 11.18, 'market_id': '1.247822304', 'race_name': '1m Nursery', 'result': 'PENDING'}
+2025-09-17 14:52:00 | INFO | State: {'balance': 279.3748, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': True}
+2025-09-17 14:52:00 | WARNING | Skipping bet for 2m5f Nov Hrd - race already running (via state flag)
+2025-09-17 14:55:00 | INFO | chase - Market closed: 1m Nursery, result: WON
+2025-09-17 14:55:00 | INFO | Bet placed for 1m Nursery: Dunkeld Dreamer | stake 11.18 | result W | balance 293.0144
+2025-09-17 14:59:00 | INFO | State: {'balance': 293.0144, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-09-17 14:59:00 | INFO | Bid placed: {'selection_id': 37957, 'runner_name': 'Life Is Beautiful', 'odds': 4.7, 'placed_odds': 4.7, 'stake': 11.73, 'market_id': '1.247822066', 'race_name': '1m2f Listed', 'result': 'PENDING'}
+2025-09-17 15:07:01 | INFO | chase - Market closed: 1m2f Listed, result: LOST
+2025-09-17 15:07:01 | INFO | Bet placed for 1m2f Listed: Life Is Beautiful | stake 11.73 | result L | balance 281.2844
+2025-09-17 15:09:00 | INFO | State: {'balance': 281.2844, 'leg': 2, 'accumulated_losses': 11.73, 'prev_stake': 11.73, 'chase_active': False, 'is_running_race': False}
+2025-09-17 15:09:00 | INFO | Bid placed: {'selection_id': 76502647, 'runner_name': 'Lady Mariko', 'odds': 3.05, 'placed_odds': 3.05, 'stake': 17.6, 'market_id': '1.247821936', 'race_name': '1m Hcap', 'result': 'PENDING'}
+2025-09-17 15:17:00 | INFO | State: {'balance': 281.2844, 'leg': 2, 'accumulated_losses': 11.73, 'prev_stake': 11.73, 'chase_active': False, 'is_running_race': True}
+2025-09-17 15:17:00 | WARNING | Skipping bet for 1m Hcap - race already running (via state flag)
+2025-09-17 15:17:00 | INFO | chase - Market closed: 1m Hcap, result: LOST
+2025-09-17 15:17:00 | INFO | Bet placed for 1m Hcap: Lady Mariko | stake 17.6 | result L | balance 263.6844
+2025-09-17 15:24:00 | INFO | State: {'balance': 263.6844, 'leg': 3, 'accumulated_losses': 29.330000000000002, 'prev_stake': 17.6, 'chase_active': False, 'is_running_race': False}
+2025-09-17 15:24:00 | INFO | Bid placed: {'selection_id': 54795452, 'runner_name': 'Here Comes Georgie', 'odds': 4.2, 'placed_odds': 4.2, 'stake': 26.4, 'market_id': '1.247822350', 'race_name': '2m5f Hcap Hrd', 'result': 'PENDING'}
+2025-09-17 15:33:01 | INFO | chase - Market closed: 2m5f Hcap Hrd, result: LOST
+2025-09-17 15:33:01 | INFO | Bet placed for 2m5f Hcap Hrd: Here Comes Georgie | stake 26.4 | result L | balance 237.28439999999998
+2025-09-17 15:34:00 | INFO | State: {'balance': 237.28439999999998, 'leg': 4, 'accumulated_losses': 55.730000000000004, 'prev_stake': 26.4, 'chase_active': False, 'is_running_race': False}
+2025-09-17 15:34:00 | INFO | Bid placed: {'selection_id': 18306, 'runner_name': 'Sea Force', 'odds': 3.15, 'placed_odds': 3.15, 'stake': 39.6, 'market_id': '1.247822162', 'race_name': '1m1f Hcap', 'result': 'PENDING'}
+2025-09-17 15:39:00 | INFO | chase - Market closed: 1m1f Hcap, result: WON
+2025-09-17 15:39:00 | INFO | Bet placed for 1m1f Hcap: Sea Force | stake 39.6 | result W | balance 322.4244
+2025-09-17 15:44:00 | INFO | State: {'balance': 322.4244, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-09-17 15:44:00 | INFO | Skipping 1m2f Hcap - after cutoff 2025-09-17 16:00:00+01:00, leg 1
+2025-09-17 15:59:00 | INFO | State: {'balance': 322.4244, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-09-17 15:59:00 | INFO | Skipping 2m5f Hcap Chs - after cutoff 2025-09-17 16:00:00+01:00, leg 1
+2025-09-17 16:09:00 | INFO | State: {'balance': 322.4244, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-09-17 16:09:00 | INFO | Skipping 1m3f Hcap - after cutoff 2025-09-17 16:00:00+01:00, leg 1
+2025-09-17 16:16:00 | INFO | State: {'balance': 322.4244, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-09-17 16:16:00 | INFO | Skipping 1m2f Hcap - after cutoff 2025-09-17 16:00:00+01:00, leg 1
+2025-09-17 16:23:00 | INFO | State: {'balance': 322.4244, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-09-17 16:23:00 | INFO | Skipping 1m2f Hcap - after cutoff 2025-09-17 16:00:00+01:00, leg 1
+2025-09-17 16:29:00 | INFO | State: {'balance': 322.4244, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-09-17 16:29:00 | INFO | Skipping 2m2f Hcap Hrd - after cutoff 2025-09-17 16:00:00+01:00, leg 1
+2025-09-17 16:59:00 | INFO | State: {'balance': 322.4244, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-09-17 16:59:00 | INFO | Skipping 2m2f Hcap Hrd - after cutoff 2025-09-17 16:00:00+01:00, leg 1
+2025-09-17 17:29:00 | INFO | State: {'balance': 322.4244, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-09-17 17:29:00 | INFO | Skipping 2m1f Hcap Chs - after cutoff 2025-09-17 16:00:00+01:00, leg 1
+2025-09-17 17:59:00 | INFO | State: {'balance': 322.4244, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-09-17 17:59:00 | INFO | Skipping 2m NHF - after cutoff 2025-09-17 16:00:00+01:00, leg 1

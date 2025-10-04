@@ -1,0 +1,447 @@
+
+    <h2>🐎 Ghost Bet Report — Saturday, September 13, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
+        <thead style="background-color:#f2f2f2;">
+            <tr>
+                <th>Time</th>
+                <th>Venue</th>
+                <th>Race</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 01:23 PM</td>
+            <td>Doncaster</td>
+            <td>1m Hcap</td>
+            <td>Treble Tee</td>
+            <td>3.60</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 01:33 PM</td>
+            <td>Lingfield</td>
+            <td>1m4f Hcap</td>
+            <td>One Million Dreams</td>
+            <td>4.30</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 01:42 PM</td>
+            <td>Chester</td>
+            <td>7f Mdn Stks</td>
+            <td>Ghost Mode</td>
+            <td>2.46</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 01:57 PM</td>
+            <td>Doncaster</td>
+            <td>7f Grp 2</td>
+            <td>Gewan</td>
+            <td>2.30</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 02:10 PM</td>
+            <td>Lingfield</td>
+            <td>6f Mdn Stks</td>
+            <td>Romeo Montague</td>
+            <td>2.76</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 02:13 PM</td>
+            <td>Chester</td>
+            <td>1m4f Listed Stks</td>
+            <td>Hamish</td>
+            <td>2.48</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 02:23 PM</td>
+            <td>Leopardstown</td>
+            <td>7f Listed</td>
+            <td>Diamond Necklace</td>
+            <td>1.61</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 02:35 PM</td>
+            <td>Doncaster</td>
+            <td>5f Hcap</td>
+            <td>Addison Grey</td>
+            <td>5.40</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 02:41 PM</td>
+            <td>Lingfield</td>
+            <td>1m Hcap</td>
+            <td>Tronido</td>
+            <td>2.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 02:50 PM</td>
+            <td>Chester</td>
+            <td>2m Hcap</td>
+            <td>Ndaawi</td>
+            <td>2.34</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 02:56 PM</td>
+            <td>Leopardstown</td>
+            <td>7f Hcap</td>
+            <td>Gleneagle Bay</td>
+            <td>2.84</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 03:08 PM</td>
+            <td>Doncaster</td>
+            <td>7f Grp 2</td>
+            <td>Shadow Of Light</td>
+            <td>2.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 03:22 PM</td>
+            <td>Lingfield</td>
+            <td>1m Hcap</td>
+            <td>Elvetham</td>
+            <td>4.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 03:25 PM</td>
+            <td>Leopardstown</td>
+            <td>1m Grp 2</td>
+            <td>Benvenuto Cellini</td>
+            <td>1.49</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 03:28 PM</td>
+            <td>Chester</td>
+            <td>5f Nursery</td>
+            <td>Angel Numbers</td>
+            <td>3.90</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 03:37 PM</td>
+            <td>Bath</td>
+            <td>2m1f Hcap</td>
+            <td>Rupert The Prince</td>
+            <td>2.32</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 03:48 PM</td>
+            <td>Doncaster</td>
+            <td>1m6f Grp 1</td>
+            <td>Scandinavia</td>
+            <td>3.50</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 03:56 PM</td>
+            <td>Leopardstown</td>
+            <td>1m4f Grp 3</td>
+            <td>Al Aasy</td>
+            <td>2.46</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 04:06 PM</td>
+            <td>Lingfield</td>
+            <td>7f Hcap</td>
+            <td>Summertime Blues</td>
+            <td>2.42</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 04:07 PM</td>
+            <td>Chester</td>
+            <td>1m2f Hcap</td>
+            <td>Box To Box</td>
+            <td>4.10</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 04:11 PM</td>
+            <td>Bath</td>
+            <td>5f Nursery</td>
+            <td>Calafiori</td>
+            <td>3.40</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 04:14 PM</td>
+            <td>Musselburgh</td>
+            <td>1m App Hcap</td>
+            <td>On The Bubble</td>
+            <td>5.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 04:23 PM</td>
+            <td>Doncaster</td>
+            <td>1m Mdn Stks</td>
+            <td>Del Maro</td>
+            <td>2.62</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 04:32 PM</td>
+            <td>Leopardstown</td>
+            <td>1m Grp 1</td>
+            <td>Fallen Angel</td>
+            <td>3.50</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 04:39 PM</td>
+            <td>Lingfield</td>
+            <td>1m Hcap</td>
+            <td>Parish Councillor</td>
+            <td>3.65</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 04:43 PM</td>
+            <td>Chester</td>
+            <td>7f Hcap</td>
+            <td>Itsneverjustone</td>
+            <td>4.60</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 04:47 PM</td>
+            <td>Bath</td>
+            <td>6f Hcap</td>
+            <td>Diamondsinthesand</td>
+            <td>4.10</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 04:51 PM</td>
+            <td>Musselburgh</td>
+            <td>7f Mdn Stks</td>
+            <td>Welbury</td>
+            <td>3.85</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 04:57 PM</td>
+            <td>Doncaster</td>
+            <td>1m2f Hcap</td>
+            <td>Botanical</td>
+            <td>3.75</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 05:01 PM</td>
+            <td>Leopardstown</td>
+            <td>1m Grp 2</td>
+            <td>Alakazi</td>
+            <td>4.90</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 05:10 PM</td>
+            <td>Lingfield</td>
+            <td>5f Hcap</td>
+            <td>The Thames Boatman</td>
+            <td>6.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 05:17 PM</td>
+            <td>Chester</td>
+            <td>1m4f Hcap</td>
+            <td>Saligo Bay</td>
+            <td>3.40</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 05:21 PM</td>
+            <td>Bath</td>
+            <td>1m2f Nov Stks</td>
+            <td>Goodwood Mogul</td>
+            <td>1.29</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 05:24 PM</td>
+            <td>Musselburgh</td>
+            <td>5f Nursery</td>
+            <td>Arduis Invicta</td>
+            <td>3.05</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 05:31 PM</td>
+            <td>Doncaster</td>
+            <td>1m2f Arab Grp 1</td>
+            <td>Lippo De Carrere A</td>
+            <td>2.64</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 05:37 PM</td>
+            <td>Leopardstown</td>
+            <td>1m2f Grp 1</td>
+            <td>Delacroix</td>
+            <td>3.40</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 05:43 PM</td>
+            <td>Chester</td>
+            <td>1m4f Hcap</td>
+            <td>Grey Fable</td>
+            <td>3.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 05:49 PM</td>
+            <td>Bath</td>
+            <td>1m Mdn Stks</td>
+            <td>Magic Trip</td>
+            <td>2.96</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 05:55 PM</td>
+            <td>Musselburgh</td>
+            <td>1m4f Hcap</td>
+            <td>Penn Avenue</td>
+            <td>1.59</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 06:20 PM</td>
+            <td>Bath</td>
+            <td>1m Hcap</td>
+            <td>Too Much Trevor</td>
+            <td>4.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 06:31 PM</td>
+            <td>Musselburgh</td>
+            <td>2m2f Hcap</td>
+            <td>Novelista</td>
+            <td>2.36</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 06:31 PM</td>
+            <td>Leopardstown</td>
+            <td>1m5f Hcap</td>
+            <td>Aeronautic</td>
+            <td>5.10</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 06:47 PM</td>
+            <td>Leopardstown</td>
+            <td>1m Hcap</td>
+            <td>Shavasi</td>
+            <td>5.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 06:57 PM</td>
+            <td>Bath</td>
+            <td>1m Hcap</td>
+            <td>Marchetti</td>
+            <td>3.60</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 06:59 PM</td>
+            <td>Musselburgh</td>
+            <td>7f Hcap</td>
+            <td>Black Storm</td>
+            <td>4.40</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 13, 2025 07:22 PM</td>
+            <td>Bath</td>
+            <td>1m3f Hcap</td>
+            <td>Bobby Dassler</td>
+            <td>4.90</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 13, 2025 07:28 PM</td>
+            <td>Musselburgh</td>
+            <td>5f Hcap</td>
+            <td>Sanbona</td>
+            <td>4.80</td>
+            <td>WON</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 47 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 19 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 28 <br>
+        <strong>Net Profit/Loss:</strong> <span style="color:#28a745;">$11.31</span>
+    </p>
+    

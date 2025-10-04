@@ -1,0 +1,56 @@
+2025-08-21 18:27:29 | INFO | Logged in to Betfair API
+2025-08-21 18:27:29 | INFO | Fetched 10 markets for today
+2025-08-21 18:27:29 | INFO | Current time past 5 AM — running reset immediately
+2025-08-21 18:27:29 | INFO | Running daily 5 AM reset
+2025-08-21 18:27:29 | INFO | Scheduled bet for 7f Hcap at 2025-08-21 18:29:00+00:00
+2025-08-21 18:27:29 | INFO | Scheduled bet for 2m1f Hcap Chs at 2025-08-21 18:36:00+00:00
+2025-08-21 18:27:29 | INFO | Skipping 5f Hcap/Newcastle 21st Aug - reason: low win list
+2025-08-21 18:27:29 | INFO | Skipping 5f Hcap/Newcastle 21st Aug
+2025-08-21 18:27:29 | INFO | Scheduled bet for 1m Hcap at 2025-08-21 18:54:00+00:00
+2025-08-21 18:27:29 | INFO | Scheduled bet for 7f Hcap at 2025-08-21 18:59:00+00:00
+2025-08-21 18:27:29 | INFO | Scheduled bet for 2m1f INHF at 2025-08-21 19:06:00+00:00
+2025-08-21 18:27:29 | INFO | Scheduled bet for 1m Hcap at 2025-08-21 19:14:00+00:00
+2025-08-21 18:27:29 | INFO | Scheduled bet for 6f Stks at 2025-08-21 19:29:00+00:00
+2025-08-21 18:27:29 | INFO | Skipping 6f Hcap/Newcastle 21st Aug - reason: low win list
+2025-08-21 18:27:29 | INFO | Skipping 6f Hcap/Newcastle 21st Aug
+2025-08-21 18:27:29 | INFO | Scheduled bet for 1m2f Hcap at 2025-08-21 19:59:00+00:00
+2025-08-21 18:27:29 | INFO | All races scheduled. Scheduler running...
+2025-08-21 18:29:00 | INFO | State: {'balance': 220.0, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-21 18:29:00 | INFO | Bid placed: {'selection_id': 69684860, 'runner_name': 'Arlecchinos Rex', 'odds': 3.25, 'placed_odds': 3.25, 'stake': 8.8, 'market_id': '1.246848678', 'race_name': '7f Hcap', 'result': 'PENDING'}
+2025-08-21 18:35:30 | INFO | chase - Market closed: 7f Hcap, result: LOST
+2025-08-21 18:35:30 | INFO | Bet placed for 7f Hcap: Arlecchinos Rex | stake 8.8 | result L | balance 211.2
+2025-08-21 18:36:00 | INFO | State: {'balance': 211.2, 'leg': 1, 'accumulated_losses': 8.8, 'prev_stake': 8.8, 'chase_active': False, 'is_running_race': False}
+2025-08-21 18:36:00 | INFO | Bid placed: {'selection_id': 74399324, 'runner_name': 'Wonleg', 'odds': 3.0, 'placed_odds': 3.0, 'stake': 8.45, 'market_id': '1.246854242', 'race_name': '2m1f Hcap Chs', 'result': 'PENDING'}
+2025-08-21 18:46:31 | INFO | chase - Market closed: 2m1f Hcap Chs, result: LOST
+2025-08-21 18:46:31 | INFO | Bet placed for 2m1f Hcap Chs: Wonleg | stake 8.45 | result L | balance 202.75
+2025-08-21 18:54:00 | INFO | State: {'balance': 202.75, 'leg': 2, 'accumulated_losses': 17.25, 'prev_stake': 8.45, 'chase_active': False, 'is_running_race': False}
+2025-08-21 18:54:00 | INFO | Bid placed: {'selection_id': 61566327, 'runner_name': 'Serialise', 'odds': 4.5, 'placed_odds': 4.5, 'stake': 12.68, 'market_id': '1.246851825', 'race_name': '1m Hcap', 'result': 'PENDING'}
+2025-08-21 18:59:00 | INFO | State: {'balance': 202.75, 'leg': 2, 'accumulated_losses': 17.25, 'prev_stake': 8.45, 'chase_active': False, 'is_running_race': True}
+2025-08-21 18:59:00 | WARNING | Skipping bet for 7f Hcap - race already running (via state flag)
+2025-08-21 19:00:30 | INFO | chase - Market closed: 1m Hcap, result: LOST
+2025-08-21 19:00:30 | INFO | Bet placed for 1m Hcap: Serialise | stake 12.68 | result L | balance 190.07
+2025-08-21 19:06:00 | INFO | State: {'balance': 190.07, 'leg': 3, 'accumulated_losses': 29.93, 'prev_stake': 12.68, 'chase_active': False, 'is_running_race': False}
+2025-08-21 19:06:00 | INFO | Bid placed: {'selection_id': 4280727, 'runner_name': 'Parnell Street', 'odds': 1.58, 'placed_odds': 1.58, 'stake': 61.93, 'market_id': '1.246854247', 'race_name': '2m1f INHF', 'result': 'PENDING'}
+2025-08-21 19:08:23 | INFO | Logged in to Betfair API
+2025-08-21 19:08:23 | INFO | Fetched 5 markets for today
+2025-08-21 19:08:23 | INFO | Current time past 5 AM — running reset immediately
+2025-08-21 19:08:23 | INFO | Running daily 5 AM reset
+2025-08-21 19:08:23 | INFO | Race 2m1f INHF already passed or too close
+2025-08-21 19:08:23 | INFO | Scheduled bet for 1m Hcap at 2025-08-21 19:14:00+00:00
+2025-08-21 19:08:23 | INFO | Scheduled bet for 6f Stks at 2025-08-21 19:29:00+00:00
+2025-08-21 19:08:23 | INFO | Skipping 6f Hcap/Newcastle 21st Aug - reason: low win list
+2025-08-21 19:08:23 | INFO | Skipping 6f Hcap/Newcastle 21st Aug
+2025-08-21 19:08:23 | INFO | Scheduled bet for 1m2f Hcap at 2025-08-21 19:59:00+00:00
+2025-08-21 19:08:23 | INFO | All races scheduled. Scheduler running...
+2025-08-21 19:14:00 | INFO | State: {'balance': 220.0, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-21 19:14:00 | INFO | Bid placed: {'selection_id': 46868770, 'runner_name': 'Talis Evolvere', 'odds': 5.1, 'placed_odds': 5.1, 'stake': 8.8, 'market_id': '1.246849146', 'race_name': '1m Hcap', 'result': 'PENDING'}
+2025-08-21 19:21:30 | INFO | chase - Market closed: 1m Hcap, result: LOST
+2025-08-21 19:21:30 | INFO | Bet placed for 1m Hcap: Talis Evolvere | stake 8.8 | result L | balance 211.2
+2025-08-21 19:29:00 | INFO | State: {'balance': 211.2, 'leg': 1, 'accumulated_losses': 8.8, 'prev_stake': 8.8, 'chase_active': False, 'is_running_race': False}
+2025-08-21 19:29:00 | INFO | Bid placed: {'selection_id': 49924762, 'runner_name': 'Poetic Jack', 'odds': 2.4, 'placed_odds': 2.4, 'stake': 8.45, 'market_id': '1.246848692', 'race_name': '6f Stks', 'result': 'PENDING'}
+2025-08-21 19:38:31 | INFO | chase - Market closed: 6f Stks, result: LOST
+2025-08-21 19:38:31 | INFO | Bet placed for 6f Stks: Poetic Jack | stake 8.45 | result L | balance 202.75
+2025-08-21 19:59:00 | INFO | State: {'balance': 202.75, 'leg': 2, 'accumulated_losses': 17.25, 'prev_stake': 8.45, 'chase_active': False, 'is_running_race': False}
+2025-08-21 19:59:00 | INFO | Bid placed: {'selection_id': 70397067, 'runner_name': 'Caspian King', 'odds': 3.2, 'placed_odds': 3.2, 'stake': 12.68, 'market_id': '1.246848699', 'race_name': '1m2f Hcap', 'result': 'PENDING'}
+2025-08-21 20:07:30 | INFO | chase - Market closed: 1m2f Hcap, result: LOST
+2025-08-21 20:07:30 | INFO | Bet placed for 1m2f Hcap: Caspian King | stake 12.68 | result L | balance 190.07

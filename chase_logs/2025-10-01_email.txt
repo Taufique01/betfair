@@ -1,0 +1,148 @@
+
+    <h2>🐎 CHASE Report — Wednesday, October 01, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 01:44 PM</td>
+            <td>Bellewstown 1st Oct</td>
+            <td>All Told</td>
+            <td>3.25</td>
+            <td>£8.80</td>
+            <td>LOST</td>
+            <td>£-8.80</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 01:57 PM</td>
+            <td>Sligo 1st Oct</td>
+            <td>Jalila Moriviere</td>
+            <td>1.44</td>
+            <td>£24.00</td>
+            <td>WON</td>
+            <td>£10.56</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 02:14 PM</td>
+            <td>Warwick 1st Oct</td>
+            <td>Got Grey</td>
+            <td>1.98</td>
+            <td>£8.88</td>
+            <td>LOST</td>
+            <td>£-8.88</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 02:26 PM</td>
+            <td>Musselburgh 1st Oct</td>
+            <td>Jesmond Dawn</td>
+            <td>4.60</td>
+            <td>£13.32</td>
+            <td>LOST</td>
+            <td>£-13.32</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 02:38 PM</td>
+            <td>Catterick 1st Oct</td>
+            <td>Campenaerts</td>
+            <td>2.18</td>
+            <td>£22.58</td>
+            <td>WON</td>
+            <td>£26.64</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 02:47 PM</td>
+            <td>Warwick 1st Oct</td>
+            <td>Beau Quali</td>
+            <td>1.53</td>
+            <td>£9.05</td>
+            <td>WON</td>
+            <td>£4.80</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 03:00 PM</td>
+            <td>Musselburgh 1st Oct</td>
+            <td>Lyrical Song</td>
+            <td>3.20</td>
+            <td>£9.25</td>
+            <td>LOST</td>
+            <td>£-9.25</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 03:18 PM</td>
+            <td>Catterick 1st Oct</td>
+            <td>Real American</td>
+            <td>2.72</td>
+            <td>£15.27</td>
+            <td>WON</td>
+            <td>£26.26</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 01, 2025 03:28 PM</td>
+            <td>Bellewstown 1st Oct</td>
+            <td>Glory To Be</td>
+            <td>1.45</td>
+            <td>£9.93</td>
+            <td>LOST</td>
+            <td>£-9.93</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 03:37 PM</td>
+            <td>Musselburgh 1st Oct</td>
+            <td>Empirestateofmind</td>
+            <td>1.38</td>
+            <td>£31.36</td>
+            <td>WON</td>
+            <td>£11.92</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 01, 2025 03:52 PM</td>
+            <td>Catterick 1st Oct</td>
+            <td>Bollin Neil</td>
+            <td>3.30</td>
+            <td>£10.01</td>
+            <td>WON</td>
+            <td>£23.02</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 11 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 6 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 5 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £53.02
+    </p>
+    

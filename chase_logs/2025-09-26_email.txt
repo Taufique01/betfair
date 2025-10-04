@@ -1,0 +1,104 @@
+
+    <h2>🐎 CHASE Report — Friday, September 26, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#28a745">
+            <td>Sep 26, 2025 01:19 PM</td>
+            <td>Worcester 26th Sep</td>
+            <td>Coco Mademoiselle</td>
+            <td>1.28</td>
+            <td>£8.80</td>
+            <td>WON</td>
+            <td>£2.46</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 26, 2025 01:34 PM</td>
+            <td>Listowel 26th Sep</td>
+            <td>Frankie John</td>
+            <td>1.79</td>
+            <td>£8.90</td>
+            <td>LOST</td>
+            <td>£-8.90</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 26, 2025 01:44 PM</td>
+            <td>Worcester 26th Sep</td>
+            <td>Rocks Up Late</td>
+            <td>4.10</td>
+            <td>£13.35</td>
+            <td>LOST</td>
+            <td>£-13.35</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 26, 2025 02:03 PM</td>
+            <td>Newmarket 26th Sep</td>
+            <td>Spirited Style</td>
+            <td>2.62</td>
+            <td>£22.03</td>
+            <td>LOST</td>
+            <td>£-22.03</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 26, 2025 02:19 PM</td>
+            <td>Worcester 26th Sep</td>
+            <td>Traveling Soldier</td>
+            <td>3.65</td>
+            <td>£33.05</td>
+            <td>LOST</td>
+            <td>£-33.05</td>
+            <td>Leg 4</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 26, 2025 02:31 PM</td>
+            <td>Newmarket 26th Sep</td>
+            <td>Touleen</td>
+            <td>2.42</td>
+            <td>£54.54</td>
+            <td>LOST</td>
+            <td>£-54.54</td>
+            <td>Leg 5</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 26, 2025 02:43 PM</td>
+            <td>Listowel 26th Sep</td>
+            <td>Mount Ferns</td>
+            <td>3.00</td>
+            <td>£90.59</td>
+            <td>LOST</td>
+            <td>£-90.59</td>
+            <td>Leg 6</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 7 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 1 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 6 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £-220.00
+    </p>
+    

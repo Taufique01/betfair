@@ -1,0 +1,5 @@
+timestamp,market_id,race_name,track,date,leg,selection,odds,stake,result,profit,balance
+2025-08-31T14:19:31.711213+01:00,1.247213802,2m4f Hcap Chs,Worcester 31st Aug,2025-08-31 13:10:00+00:00,1,Lets Sail Away,4.8,8.8,L,-8.8,211.2
+2025-08-31T14:48:31.348677+01:00,1.247213809,2m7f Hcap Chs,Worcester 31st Aug,2025-08-31 13:40:00+00:00,2,Ivane,3.9,13.2,L,-13.2,198.0
+2025-08-31T15:18:01.390304+01:00,1.247213816,2m NHF,Worcester 31st Aug,2025-08-31 14:10:00+00:00,3,Siouxfonic,2.0,26.4,L,-26.4,171.6
+2025-08-31T15:48:01.750744+01:00,1.247213823,2m Mdn Hrd,Worcester 31st Aug,2025-08-31 14:40:00+00:00,4,Dream Diamond,1.39,148.93,W,58.08269999999999,229.68269999999998

@@ -1,0 +1,30 @@
+🐎 Ghost Bet Report — 2025-08-19
+--------------------------------------------------
+[2025-08-19 16:22:31] Brighton — 1m Hcap — Monks Mead @ 2.98 — LOST
+[2025-08-19 16:42:01] Kempton — 1m3f Hcap — Karthon @ 2.18 — LOST
+[2025-08-19 16:50:01] Brighton — 7f Hcap — Tea Sea @ 2.60 — WON
+[2025-08-19 17:10:30] Kempton — 6f Hcap — Saytarr @ 4.50 — LOST
+[2025-08-19 17:28:31] Roscommon — 1m2f Stks — Dun An Oir @ 4.30 — LOST
+[2025-08-19 17:38:31] Chepstow — 5f Mdn Stks — Berlinetta @ 2.40 — LOST
+[2025-08-19 17:58:01] Roscommon — 7f Mdn — Spinning Around @ 4.90 — LOST
+[2025-08-19 18:06:31] Chepstow — 7f Mdn Stks — Jeddaal @ 1.82 — LOST
+[2025-08-19 18:15:30] Wolverhampton — 7f Mdn Stks — Hayynah @ 1.61 — LOST
+[2025-08-19 18:28:01] Roscommon — 7f Stks — Giovanni Giorgio @ 1.93 — LOST
+[2025-08-19 18:46:00] Wolverhampton — 7f Nursery — Phantom Watch @ 2.90 — LOST
+[2025-08-19 18:54:02] Chepstow — 5f Hcap — Savannah Smiles @ 2.58 — LOST
+[2025-08-19 19:00:31] Roscommon — 7f Mdn — Proxima Centauri @ 3.05 — WON
+[2025-08-19 19:06:00] Chepstow — 6f Hcap — Wallop @ 3.30 — LOST
+[2025-08-19 19:16:31] Wolverhampton — 7f Hcap — Noisy Music @ 6.60 — WON
+[2025-08-19 19:26:01] Roscommon — 7f Hcap — Engines On @ 4.60 — LOST
+[2025-08-19 19:37:01] Chepstow — 7f Hcap — Believe You Me @ 2.52 — LOST
+[2025-08-19 19:45:30] Wolverhampton — 5f Stks — Sams Hope @ 2.56 — LOST
+[2025-08-19 20:00:01] Roscommon — 1m4f Mdn — Bryant @ 3.50 — WON
+[2025-08-19 20:07:31] Chepstow — 1m Hcap — Midsummer Music @ 4.10 — WON
+[2025-08-19 20:16:31] Wolverhampton — 6f Hcap — Havana Sky @ 3.75 — WON
+[2025-08-19 20:27:01] Roscommon — 1m4f Hcap — Gotta Catchem All @ 4.50 — LOST
+[2025-08-19 20:48:01] Wolverhampton — 1m4f Hcap — Lightning Touch @ 4.20 — LOST
+
+Total Bets: 23
+Wins: 6
+Losses: 17
+Net Profit/Loss: $0.60

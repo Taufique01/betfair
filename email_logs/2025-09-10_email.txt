@@ -1,0 +1,87 @@
+
+    <h2>🐎 Ghost Bet Report — Wednesday, September 10, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
+        <thead style="background-color:#f2f2f2;">
+            <tr>
+                <th>Time</th>
+                <th>Venue</th>
+                <th>Race</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Sep 10, 2025 04:21 PM</td>
+            <td>Cork</td>
+            <td>6f Stks</td>
+            <td>Fontaine Khaled</td>
+            <td>6.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 10, 2025 04:45 PM</td>
+            <td>Cork</td>
+            <td>6f Mdn</td>
+            <td>Strike Zone</td>
+            <td>2.66</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 10, 2025 05:20 PM</td>
+            <td>Cork</td>
+            <td>6f Hcap</td>
+            <td>Colter Bay</td>
+            <td>8.60</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 10, 2025 05:49 PM</td>
+            <td>Cork</td>
+            <td>7f Mdn</td>
+            <td>Joshs Joy</td>
+            <td>3.15</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 10, 2025 06:20 PM</td>
+            <td>Cork</td>
+            <td>7f Hcap</td>
+            <td>Lorrs Girl</td>
+            <td>6.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 10, 2025 06:51 PM</td>
+            <td>Cork</td>
+            <td>1m Mdn</td>
+            <td>Hellorhighwater</td>
+            <td>1.90</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 10, 2025 07:18 PM</td>
+            <td>Cork</td>
+            <td>1m Hcap</td>
+            <td>Pallatine Hills</td>
+            <td>5.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 7 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 1 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 6 <br>
+        <strong>Net Profit/Loss:</strong> <span style="color:#dc3545;">$-5.10</span>
+    </p>
+    

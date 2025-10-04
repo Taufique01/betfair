@@ -1,0 +1,126 @@
+
+    <h2>🐎 CHASE Report — Saturday, September 06, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#28a745">
+            <td>Sep 06, 2025 01:22 PM</td>
+            <td>Haydock 6th Sep</td>
+            <td>Zeus Olympios</td>
+            <td>4.00</td>
+            <td>£8.80</td>
+            <td>WON</td>
+            <td>£26.40</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 06, 2025 01:49 PM</td>
+            <td>Kempton 6th Sep</td>
+            <td>Kalpana</td>
+            <td>1.60</td>
+            <td>£9.86</td>
+            <td>LOST</td>
+            <td>£-9.86</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 06, 2025 02:18 PM</td>
+            <td>Kempton 6th Sep</td>
+            <td>Sky Safari</td>
+            <td>3.95</td>
+            <td>£14.79</td>
+            <td>WON</td>
+            <td>£43.63</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 06, 2025 02:25 PM</td>
+            <td>Thirsk 6th Sep</td>
+            <td>Real Man</td>
+            <td>2.18</td>
+            <td>£11.21</td>
+            <td>LOST</td>
+            <td>£-11.21</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 06, 2025 02:42 PM</td>
+            <td>Kempton 6th Sep</td>
+            <td>Mayaada</td>
+            <td>2.44</td>
+            <td>£18.50</td>
+            <td>LOST</td>
+            <td>£-18.50</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 06, 2025 02:55 PM</td>
+            <td>Thirsk 6th Sep</td>
+            <td>Dandy Style</td>
+            <td>3.65</td>
+            <td>£27.75</td>
+            <td>LOST</td>
+            <td>£-27.75</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 06, 2025 03:11 PM</td>
+            <td>Haydock 6th Sep</td>
+            <td>Dancing In Paris</td>
+            <td>5.40</td>
+            <td>£41.63</td>
+            <td>LOST</td>
+            <td>£-41.63</td>
+            <td>Leg 4</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 06, 2025 03:24 PM</td>
+            <td>Ascot 6th Sep</td>
+            <td>Push The Limit</td>
+            <td>2.50</td>
+            <td>£68.69</td>
+            <td>LOST</td>
+            <td>£-68.69</td>
+            <td>Leg 5</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 06, 2025 03:47 PM</td>
+            <td>Haydock 6th Sep</td>
+            <td>Lazzat</td>
+            <td>2.06</td>
+            <td>£112.39</td>
+            <td>LOST</td>
+            <td>£-112.39</td>
+            <td>Leg 6</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 9 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 2 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 7 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £-220.00
+    </p>
+    

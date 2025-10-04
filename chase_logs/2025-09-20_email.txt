@@ -1,0 +1,192 @@
+
+    <h2>🐎 CHASE Report — Saturday, September 20, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#28a745">
+            <td>Sep 20, 2025 01:06 PM</td>
+            <td>Newmarket 20th Sep</td>
+            <td>Romantic Symphony</td>
+            <td>2.06</td>
+            <td>£8.80</td>
+            <td>WON</td>
+            <td>£9.33</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 20, 2025 01:23 PM</td>
+            <td>Ayr 20th Sep</td>
+            <td>Apiarist</td>
+            <td>8.00</td>
+            <td>£9.18</td>
+            <td>LOST</td>
+            <td>£-9.18</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 20, 2025 01:34 PM</td>
+            <td>Navan 20th Sep</td>
+            <td>Minella Hollow</td>
+            <td>5.00</td>
+            <td>£13.77</td>
+            <td>LOST</td>
+            <td>£-13.77</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 20, 2025 01:46 PM</td>
+            <td>Gowran Park 20th Sep</td>
+            <td>Ice Dancer</td>
+            <td>2.14</td>
+            <td>£24.16</td>
+            <td>WON</td>
+            <td>£27.54</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 20, 2025 01:57 PM</td>
+            <td>Ayr 20th Sep</td>
+            <td>ALMERIC</td>
+            <td>2.86</td>
+            <td>£9.36</td>
+            <td>WON</td>
+            <td>£17.41</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 20, 2025 02:07 PM</td>
+            <td>Navan 20th Sep</td>
+            <td>St Faz</td>
+            <td>3.20</td>
+            <td>£10.06</td>
+            <td>LOST</td>
+            <td>£-10.06</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 20, 2025 02:16 PM</td>
+            <td>Newmarket 20th Sep</td>
+            <td>Daring Legend</td>
+            <td>7.20</td>
+            <td>£15.09</td>
+            <td>WON</td>
+            <td>£93.56</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 20, 2025 02:37 PM</td>
+            <td>Chester 20th Sep</td>
+            <td>Callahan</td>
+            <td>3.50</td>
+            <td>£13.40</td>
+            <td>LOST</td>
+            <td>£-13.40</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 20, 2025 02:51 PM</td>
+            <td>Newbury 20th Sep</td>
+            <td>Theory Of Tides</td>
+            <td>6.00</td>
+            <td>£20.10</td>
+            <td>LOST</td>
+            <td>£-20.10</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 20, 2025 03:07 PM</td>
+            <td>Ayr 20th Sep</td>
+            <td>Lam Yai</td>
+            <td>5.70</td>
+            <td>£30.15</td>
+            <td>LOST</td>
+            <td>£-30.15</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 20, 2025 03:21 PM</td>
+            <td>Navan 20th Sep</td>
+            <td>Rebellious Gale</td>
+            <td>6.00</td>
+            <td>£45.23</td>
+            <td>LOST</td>
+            <td>£-45.23</td>
+            <td>Leg 4</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 20, 2025 03:34 PM</td>
+            <td>Gowran Park 20th Sep</td>
+            <td>Ohmali</td>
+            <td>5.40</td>
+            <td>£67.85</td>
+            <td>WON</td>
+            <td>£298.54</td>
+            <td>Leg 5</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 20, 2025 03:56 PM</td>
+            <td>Navan 20th Sep</td>
+            <td>Juke Box Rock</td>
+            <td>5.20</td>
+            <td>£20.98</td>
+            <td>LOST</td>
+            <td>£-20.98</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 20, 2025 04:10 PM</td>
+            <td>Gowran Park 20th Sep</td>
+            <td>Camachero</td>
+            <td>5.60</td>
+            <td>£31.47</td>
+            <td>LOST</td>
+            <td>£-31.47</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 20, 2025 04:22 PM</td>
+            <td>Wolverhampton 20th Sep</td>
+            <td>Midnight Rodeo</td>
+            <td>1.91</td>
+            <td>£69.17</td>
+            <td>WON</td>
+            <td>£62.94</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 15 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 6 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 9 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £314.98
+    </p>
+    

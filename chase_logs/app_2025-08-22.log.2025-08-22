@@ -1,0 +1,443 @@
+2025-08-22 06:57:32 | INFO | Logged in to Betfair API
+2025-08-22 06:57:32 | INFO | Fetched 47 markets for today
+2025-08-22 06:57:32 | INFO | Current time past 5 AM — running reset immediately
+2025-08-22 06:57:32 | INFO | Running daily 5 AM reset
+2025-08-22 06:57:32 | INFO | Skipping 6f Hcap/Newmarket 22nd Aug - reason: low win list
+2025-08-22 06:57:32 | INFO | Skipping 6f Hcap/Newmarket 22nd Aug
+2025-08-22 06:57:32 | INFO | Scheduled bet for 6f Listed at 2025-08-22 12:19:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m4f Hcap at 2025-08-22 12:49:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 7f Nov Stks at 2025-08-22 12:59:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 2m Hcap at 2025-08-22 13:09:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 2m Grp 2 at 2025-08-22 13:24:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 7f Nov Stks at 2025-08-22 13:34:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 7f Nov Stks at 2025-08-22 13:44:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 6f Grp 2 at 2025-08-22 13:59:00+00:00
+2025-08-22 06:57:32 | INFO | Skipping 6f Hcap/Newmarket 22nd Aug - reason: low win list
+2025-08-22 06:57:32 | INFO | Skipping 6f Hcap/Newmarket 22nd Aug
+2025-08-22 06:57:32 | INFO | Scheduled bet for 7f Hcap at 2025-08-22 14:19:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 5f Grp 1 at 2025-08-22 14:34:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m2f Hcap at 2025-08-22 14:44:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 7f Hcap at 2025-08-22 14:54:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m2f Hcap at 2025-08-22 15:09:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m4f Hcap at 2025-08-22 15:19:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m2f Stks at 2025-08-22 15:29:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 7f Mdn Stks at 2025-08-22 15:44:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 2m Mdn Hrd at 2025-08-22 15:49:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m4f Hcap at 2025-08-22 15:59:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m Mdn Stks at 2025-08-22 16:04:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m Nursery at 2025-08-22 16:09:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m1f Hcap at 2025-08-22 16:14:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m Hcap at 2025-08-22 16:19:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 2m3f Nov Hrd at 2025-08-22 16:24:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m1f Hcap at 2025-08-22 16:34:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m Stks at 2025-08-22 16:40:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 6f Mdn Stks at 2025-08-22 16:47:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 2m3f Hcap Hrd at 2025-08-22 16:54:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m3f Nov Stks at 2025-08-22 17:04:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m Listed at 2025-08-22 17:10:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m Hcap at 2025-08-22 17:17:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 3m1f Mdn Hrd at 2025-08-22 17:24:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m4f Hcap at 2025-08-22 17:34:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m Hcap at 2025-08-22 17:40:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m4f Hcap at 2025-08-22 17:47:00+00:00
+2025-08-22 06:57:32 | INFO | Scheduled bet for 3m2f Hcap Chs at 2025-08-22 17:54:00+00:00
+2025-08-22 06:57:32 | INFO | Skipping 5f Hcap/Hamilton 22nd Aug - reason: low win list
+2025-08-22 06:57:32 | INFO | Skipping 5f Hcap/Hamilton 22nd Aug
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m6f Hcap at 2025-08-22 18:10:00+00:00
+2025-08-22 06:57:32 | INFO | Skipping 5f Hcap/Goodwood 22nd Aug - reason: low win list
+2025-08-22 06:57:32 | INFO | Skipping 5f Hcap/Goodwood 22nd Aug
+2025-08-22 06:57:32 | INFO | Scheduled bet for 3m2f Hcap Chs at 2025-08-22 18:24:00+00:00
+2025-08-22 06:57:32 | INFO | Skipping 6f Hcap/Hamilton 22nd Aug - reason: low win list
+2025-08-22 06:57:32 | INFO | Skipping 6f Hcap/Hamilton 22nd Aug
+2025-08-22 06:57:32 | INFO | Scheduled bet for 1m6f Hcap at 2025-08-22 18:40:00+00:00
+2025-08-22 06:57:32 | INFO | Skipping 6f Hcap/Goodwood 22nd Aug - reason: low win list
+2025-08-22 06:57:32 | INFO | Skipping 6f Hcap/Goodwood 22nd Aug
+2025-08-22 06:57:32 | INFO | Scheduled bet for 2m INHF at 2025-08-22 18:54:00+00:00
+2025-08-22 06:57:32 | INFO | Skipping 5f Hcap/Hamilton 22nd Aug - reason: low win list
+2025-08-22 06:57:32 | INFO | Skipping 5f Hcap/Hamilton 22nd Aug
+2025-08-22 06:57:32 | INFO | Scheduled bet for 2m1f Stks at 2025-08-22 19:14:00+00:00
+2025-08-22 06:57:32 | INFO | All races scheduled. Scheduler running...
+2025-08-22 12:19:00 | INFO | State: {'balance': 220.0, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-22 12:19:00 | INFO | Bid placed: {'selection_id': 39580324, 'runner_name': 'Lethal Levi', 'odds': 4.3, 'placed_odds': 4.3, 'stake': 8.8, 'market_id': '1.246885306', 'race_name': '6f Listed', 'result': 'PENDING'}
+2025-08-22 12:26:30 | INFO | chase - Market closed: 6f Listed, result: WON
+2025-08-22 12:26:30 | INFO | Bet placed for 6f Listed: Lethal Levi | stake 8.8 | result W | balance 249.04
+2025-08-22 12:49:00 | INFO | State: {'balance': 249.04, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-08-22 12:49:00 | INFO | Bid placed: {'selection_id': 68245509, 'runner_name': 'Mount Atlas', 'odds': 2.98, 'placed_odds': 2.98, 'stake': 9.97, 'market_id': '1.246885378', 'race_name': '1m4f Hcap', 'result': 'PENDING'}
+2025-08-22 12:57:31 | INFO | chase - Market closed: 1m4f Hcap, result: LOST
+2025-08-22 12:57:31 | INFO | Bet placed for 1m4f Hcap: Mount Atlas | stake 9.97 | result L | balance 239.07
+2025-08-22 12:59:00 | INFO | State: {'balance': 239.07, 'leg': 1, 'accumulated_losses': 9.97, 'prev_stake': 9.97, 'chase_active': False, 'is_running_race': False}
+2025-08-22 12:59:00 | INFO | Bid placed: {'selection_id': 87179083, 'runner_name': 'Enchanted Queen', 'odds': 2.62, 'placed_odds': 2.62, 'stake': 9.57, 'market_id': '1.246885318', 'race_name': '7f Nov Stks', 'result': 'PENDING'}
+2025-08-22 13:03:13 | INFO | ⏱ Already past 5:00 AM, fetching today's races immediately...
+2025-08-22 13:03:13 | INFO | Logged in to Betfair API
+2025-08-22 13:03:13 | INFO | Fetched 43 markets for today
+2025-08-22 13:03:13 | INFO | Running daily 5 AM reset
+2025-08-22 13:03:13 | INFO | Scheduled bet for 2m Hcap at 2025-08-22 13:09:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 2m Grp 2 at 2025-08-22 13:24:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 7f Nov Stks at 2025-08-22 13:34:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 7f Nov Stks at 2025-08-22 13:44:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 6f Grp 2 at 2025-08-22 13:59:00+00:00
+2025-08-22 13:03:13 | INFO | Skipping 6f Hcap/Newmarket 22nd Aug - reason: low win list
+2025-08-22 13:03:13 | INFO | Skipping 6f Hcap/Newmarket 22nd Aug
+2025-08-22 13:03:13 | INFO | Scheduled bet for 7f Hcap at 2025-08-22 14:19:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 5f Grp 1 at 2025-08-22 14:34:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m2f Hcap at 2025-08-22 14:44:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 7f Hcap at 2025-08-22 14:54:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m2f Hcap at 2025-08-22 15:09:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m4f Hcap at 2025-08-22 15:19:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m2f Stks at 2025-08-22 15:29:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 7f Mdn Stks at 2025-08-22 15:44:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 2m Mdn Hrd at 2025-08-22 15:49:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m4f Hcap at 2025-08-22 15:59:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m Mdn Stks at 2025-08-22 16:04:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m Nursery at 2025-08-22 16:09:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m1f Hcap at 2025-08-22 16:14:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m Hcap at 2025-08-22 16:19:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 2m3f Nov Hrd at 2025-08-22 16:24:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m1f Hcap at 2025-08-22 16:34:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m Stks at 2025-08-22 16:40:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 6f Mdn Stks at 2025-08-22 16:47:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 2m3f Hcap Hrd at 2025-08-22 16:54:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m3f Nov Stks at 2025-08-22 17:04:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m Listed at 2025-08-22 17:10:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m Hcap at 2025-08-22 17:17:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 3m1f Mdn Hrd at 2025-08-22 17:24:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m4f Hcap at 2025-08-22 17:34:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m Hcap at 2025-08-22 17:40:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m4f Hcap at 2025-08-22 17:47:00+00:00
+2025-08-22 13:03:13 | INFO | Scheduled bet for 3m2f Hcap Chs at 2025-08-22 17:54:00+00:00
+2025-08-22 13:03:13 | INFO | Skipping 5f Hcap/Hamilton 22nd Aug - reason: low win list
+2025-08-22 13:03:13 | INFO | Skipping 5f Hcap/Hamilton 22nd Aug
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m6f Hcap at 2025-08-22 18:10:00+00:00
+2025-08-22 13:03:13 | INFO | Skipping 5f Hcap/Goodwood 22nd Aug - reason: low win list
+2025-08-22 13:03:13 | INFO | Skipping 5f Hcap/Goodwood 22nd Aug
+2025-08-22 13:03:13 | INFO | Scheduled bet for 3m2f Hcap Chs at 2025-08-22 18:24:00+00:00
+2025-08-22 13:03:13 | INFO | Skipping 6f Hcap/Hamilton 22nd Aug - reason: low win list
+2025-08-22 13:03:13 | INFO | Skipping 6f Hcap/Hamilton 22nd Aug
+2025-08-22 13:03:13 | INFO | Scheduled bet for 1m6f Hcap at 2025-08-22 18:40:00+00:00
+2025-08-22 13:03:13 | INFO | Skipping 6f Hcap/Goodwood 22nd Aug - reason: low win list
+2025-08-22 13:03:13 | INFO | Skipping 6f Hcap/Goodwood 22nd Aug
+2025-08-22 13:03:13 | INFO | Scheduled bet for 2m INHF at 2025-08-22 18:54:00+00:00
+2025-08-22 13:03:13 | INFO | Skipping 5f Hcap/Hamilton 22nd Aug - reason: low win list
+2025-08-22 13:03:13 | INFO | Skipping 5f Hcap/Hamilton 22nd Aug
+2025-08-22 13:03:13 | INFO | Scheduled bet for 2m1f Stks at 2025-08-22 19:14:00+00:00
+2025-08-22 13:03:13 | INFO | All races scheduled. Scheduler running...
+2025-08-22 13:03:13 | INFO | Logout scheduled at 2025-08-22 23:01:00+01:00
+2025-08-22 13:09:00 | INFO | State: {'balance': 220.0, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-22 13:09:00 | INFO | Bid placed: {'selection_id': 71447028, 'runner_name': 'Navid', 'odds': 1.54, 'placed_odds': 1.54, 'stake': 8.8, 'market_id': '1.246885339', 'race_name': '2m Hcap', 'result': 'PENDING'}
+2025-08-22 13:19:31 | INFO | chase - Market closed: 2m Hcap, result: LOST
+2025-08-22 13:19:31 | ERROR | Exception in place_bet_job for 2m Hcap: 'str' object has no attribute 'exists'
+2025-08-22 13:19:31 | ERROR | Traceback (most recent call last):
+  File "/root/betfairbot/chase_watch.py", line 387, in place_bet_job
+    append_result(rec)
+  File "/root/betfairbot/chase_watch.py", line 275, in append_result
+    write_csv_row(csv_file_all_results)
+  File "/root/betfairbot/chase_watch.py", line 264, in write_csv_row
+    write_header = not file_path.exists()
+                       ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'exists'
+
+2025-08-22 13:24:00 | INFO | State: {'balance': 211.2, 'leg': 1, 'accumulated_losses': 8.8, 'prev_stake': 8.8, 'chase_active': False, 'is_running_race': False}
+2025-08-22 13:24:00 | INFO | Bid placed: {'selection_id': 2554281, 'runner_name': 'Trawlerman', 'odds': 1.96, 'placed_odds': 1.96, 'stake': 8.45, 'market_id': '1.246885383', 'race_name': '2m Grp 2', 'result': 'PENDING'}
+2025-08-22 13:33:30 | INFO | chase - Market closed: 2m Grp 2, result: WON
+2025-08-22 13:33:30 | ERROR | Exception in place_bet_job for 2m Grp 2: 'str' object has no attribute 'exists'
+2025-08-22 13:33:30 | ERROR | Traceback (most recent call last):
+  File "/root/betfairbot/chase_watch.py", line 387, in place_bet_job
+    append_result(rec)
+  File "/root/betfairbot/chase_watch.py", line 275, in append_result
+    write_csv_row(csv_file_all_results)
+  File "/root/betfairbot/chase_watch.py", line 264, in write_csv_row
+    write_header = not file_path.exists()
+                       ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'exists'
+
+2025-08-22 13:34:00 | INFO | State: {'balance': 219.31199999999998, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-08-22 13:34:00 | INFO | Bid placed: {'selection_id': 86834848, 'runner_name': 'Blue Aria', 'odds': 2.54, 'placed_odds': 2.54, 'stake': 8.78, 'market_id': '1.246885311', 'race_name': '7f Nov Stks', 'result': 'PENDING'}
+2025-08-22 13:44:00 | INFO | State: {'balance': 219.31199999999998, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': True}
+2025-08-22 13:44:00 | WARNING | Skipping bet for 7f Nov Stks - race already running (via state flag)
+2025-08-22 13:47:31 | INFO | chase - Market closed: 7f Nov Stks, result: LOST
+2025-08-22 13:47:31 | ERROR | Exception in place_bet_job for 7f Nov Stks: 'str' object has no attribute 'exists'
+2025-08-22 13:47:31 | ERROR | Traceback (most recent call last):
+  File "/root/betfairbot/chase_watch.py", line 387, in place_bet_job
+    append_result(rec)
+  File "/root/betfairbot/chase_watch.py", line 275, in append_result
+    write_csv_row(csv_file_all_results)
+  File "/root/betfairbot/chase_watch.py", line 264, in write_csv_row
+    write_header = not file_path.exists()
+                       ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'exists'
+
+2025-08-22 13:59:00 | INFO | State: {'balance': 210.53199999999998, 'leg': 1, 'accumulated_losses': 8.78, 'prev_stake': 8.78, 'chase_active': False, 'is_running_race': False}
+2025-08-22 13:59:00 | INFO | Bid placed: {'selection_id': 83654051, 'runner_name': 'Do Or Do Not', 'odds': 3.15, 'placed_odds': 3.15, 'stake': 8.43, 'market_id': '1.246885390', 'race_name': '6f Grp 2', 'result': 'PENDING'}
+2025-08-22 14:06:30 | INFO | chase - Market closed: 6f Grp 2, result: LOST
+2025-08-22 14:06:30 | ERROR | Exception in place_bet_job for 6f Grp 2: 'str' object has no attribute 'exists'
+2025-08-22 14:06:30 | ERROR | Traceback (most recent call last):
+  File "/root/betfairbot/chase_watch.py", line 387, in place_bet_job
+    append_result(rec)
+  File "/root/betfairbot/chase_watch.py", line 275, in append_result
+    write_csv_row(csv_file_all_results)
+  File "/root/betfairbot/chase_watch.py", line 264, in write_csv_row
+    write_header = not file_path.exists()
+                       ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'exists'
+
+2025-08-22 14:19:00 | INFO | State: {'balance': 202.10199999999998, 'leg': 2, 'accumulated_losses': 17.21, 'prev_stake': 8.43, 'chase_active': False, 'is_running_race': False}
+2025-08-22 14:19:00 | INFO | Bid placed: {'selection_id': 28925618, 'runner_name': 'Windsor Pass', 'odds': 3.45, 'placed_odds': 3.45, 'stake': 12.65, 'market_id': '1.246885350', 'race_name': '7f Hcap', 'result': 'PENDING'}
+2025-08-22 14:26:30 | INFO | chase - Market closed: 7f Hcap, result: LOST
+2025-08-22 14:26:30 | ERROR | Exception in place_bet_job for 7f Hcap: 'str' object has no attribute 'exists'
+2025-08-22 14:26:30 | ERROR | Traceback (most recent call last):
+  File "/root/betfairbot/chase_watch.py", line 387, in place_bet_job
+    append_result(rec)
+  File "/root/betfairbot/chase_watch.py", line 275, in append_result
+    write_csv_row(csv_file_all_results)
+  File "/root/betfairbot/chase_watch.py", line 264, in write_csv_row
+    write_header = not file_path.exists()
+                       ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'exists'
+
+2025-08-22 14:34:00 | INFO | State: {'balance': 189.45199999999997, 'leg': 3, 'accumulated_losses': 29.86, 'prev_stake': 12.65, 'chase_active': False, 'is_running_race': False}
+2025-08-22 14:34:00 | INFO | Bid placed: {'selection_id': 67168370, 'runner_name': 'Arizona Blaze', 'odds': 7.0, 'placed_odds': 7.0, 'stake': 18.98, 'market_id': '1.246885397', 'race_name': '5f Grp 1', 'result': 'PENDING'}
+2025-08-22 14:44:00 | INFO | State: {'balance': 189.45199999999997, 'leg': 3, 'accumulated_losses': 29.86, 'prev_stake': 12.65, 'chase_active': False, 'is_running_race': True}
+2025-08-22 14:44:00 | WARNING | Skipping bet for 1m2f Hcap - race already running (via state flag)
+2025-08-22 14:44:01 | INFO | chase - Market closed: 5f Grp 1, result: LOST
+2025-08-22 14:44:01 | ERROR | Exception in place_bet_job for 5f Grp 1: 'str' object has no attribute 'exists'
+2025-08-22 14:44:01 | ERROR | Traceback (most recent call last):
+  File "/root/betfairbot/chase_watch.py", line 387, in place_bet_job
+    append_result(rec)
+  File "/root/betfairbot/chase_watch.py", line 275, in append_result
+    write_csv_row(csv_file_all_results)
+  File "/root/betfairbot/chase_watch.py", line 264, in write_csv_row
+    write_header = not file_path.exists()
+                       ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'exists'
+
+2025-08-22 14:54:00 | INFO | State: {'balance': 170.47199999999998, 'leg': 4, 'accumulated_losses': 48.84, 'prev_stake': 18.98, 'chase_active': False, 'is_running_race': False}
+2025-08-22 14:54:00 | INFO | Bid placed: {'selection_id': 71661999, 'runner_name': 'On A Vespa', 'odds': 3.1, 'placed_odds': 3.1, 'stake': 28.47, 'market_id': '1.246885357', 'race_name': '7f Hcap', 'result': 'PENDING'}
+2025-08-22 15:00:00 | INFO | chase - Market closed: 7f Hcap, result: WON
+2025-08-22 15:00:00 | ERROR | Exception in place_bet_job for 7f Hcap: 'str' object has no attribute 'exists'
+2025-08-22 15:00:00 | ERROR | Traceback (most recent call last):
+  File "/root/betfairbot/chase_watch.py", line 387, in place_bet_job
+    append_result(rec)
+  File "/root/betfairbot/chase_watch.py", line 275, in append_result
+    write_csv_row(csv_file_all_results)
+  File "/root/betfairbot/chase_watch.py", line 264, in write_csv_row
+    write_header = not file_path.exists()
+                       ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'exists'
+
+2025-08-22 15:09:00 | INFO | State: {'balance': 230.259, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-08-22 15:09:00 | INFO | Bid placed: {'selection_id': 12696756, 'runner_name': 'Zgharta', 'odds': 3.25, 'placed_odds': 3.25, 'stake': 9.22, 'market_id': '1.246885405', 'race_name': '1m2f Hcap', 'result': 'PENDING'}
+2025-08-22 15:19:00 | INFO | State: {'balance': 230.259, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': True}
+2025-08-22 15:19:00 | WARNING | Skipping bet for 1m4f Hcap - race already running (via state flag)
+2025-08-22 15:21:31 | INFO | chase - Market closed: 1m2f Hcap, result: LOST
+2025-08-22 15:21:31 | ERROR | Exception in place_bet_job for 1m2f Hcap: 'str' object has no attribute 'exists'
+2025-08-22 15:21:31 | ERROR | Traceback (most recent call last):
+  File "/root/betfairbot/chase_watch.py", line 387, in place_bet_job
+    append_result(rec)
+  File "/root/betfairbot/chase_watch.py", line 275, in append_result
+    write_csv_row(csv_file_all_results)
+  File "/root/betfairbot/chase_watch.py", line 264, in write_csv_row
+    write_header = not file_path.exists()
+                       ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'exists'
+
+2025-08-22 15:29:00 | INFO | State: {'balance': 221.039, 'leg': 1, 'accumulated_losses': 9.22, 'prev_stake': 9.22, 'chase_active': False, 'is_running_race': False}
+2025-08-22 15:29:00 | INFO | Bid placed: {'selection_id': 48500509, 'runner_name': 'The Pug', 'odds': 3.5, 'placed_odds': 3.5, 'stake': 8.85, 'market_id': '1.246885364', 'race_name': '1m2f Stks', 'result': 'PENDING'}
+2025-08-22 15:37:01 | INFO | chase - Market closed: 1m2f Stks, result: WON
+2025-08-22 15:37:01 | ERROR | Exception in place_bet_job for 1m2f Stks: 'str' object has no attribute 'exists'
+2025-08-22 15:37:01 | ERROR | Traceback (most recent call last):
+  File "/root/betfairbot/chase_watch.py", line 387, in place_bet_job
+    append_result(rec)
+  File "/root/betfairbot/chase_watch.py", line 275, in append_result
+    write_csv_row(csv_file_all_results)
+  File "/root/betfairbot/chase_watch.py", line 264, in write_csv_row
+    write_header = not file_path.exists()
+                       ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'exists'
+
+2025-08-22 15:44:00 | INFO | State: {'balance': 243.164, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-08-22 15:44:00 | INFO | Bid placed: {'selection_id': 83846567, 'runner_name': 'Naval Light', 'odds': 4.4, 'placed_odds': 4.4, 'stake': 9.73, 'market_id': '1.246885413', 'race_name': '7f Mdn Stks', 'result': 'PENDING'}
+2025-08-22 15:49:00 | INFO | State: {'balance': 243.164, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': True}
+2025-08-22 15:49:00 | WARNING | Skipping bet for 2m Mdn Hrd - race already running (via state flag)
+2025-08-22 15:52:00 | INFO | chase - Market closed: 7f Mdn Stks, result: LOST
+2025-08-22 15:52:00 | ERROR | Exception in place_bet_job for 7f Mdn Stks: 'str' object has no attribute 'exists'
+2025-08-22 15:52:00 | ERROR | Traceback (most recent call last):
+  File "/root/betfairbot/chase_watch.py", line 387, in place_bet_job
+    append_result(rec)
+  File "/root/betfairbot/chase_watch.py", line 275, in append_result
+    write_csv_row(csv_file_all_results)
+  File "/root/betfairbot/chase_watch.py", line 264, in write_csv_row
+    write_header = not file_path.exists()
+                       ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'exists'
+
+2025-08-22 15:59:00 | INFO | State: {'balance': 233.434, 'leg': 1, 'accumulated_losses': 9.73, 'prev_stake': 9.73, 'chase_active': False, 'is_running_race': False}
+2025-08-22 15:59:00 | INFO | Bid placed: {'selection_id': 63615664, 'runner_name': 'Moab', 'odds': 3.1, 'placed_odds': 3.1, 'stake': 9.34, 'market_id': '1.246885369', 'race_name': '1m4f Hcap', 'result': 'PENDING'}
+2025-08-22 16:04:00 | INFO | State: {'balance': 233.434, 'leg': 1, 'accumulated_losses': 9.73, 'prev_stake': 9.73, 'chase_active': False, 'is_running_race': True}
+2025-08-22 16:04:00 | WARNING | Skipping bet for 1m Mdn Stks - race already running (via state flag)
+2025-08-22 16:05:30 | INFO | chase - Market closed: 1m4f Hcap, result: LOST
+2025-08-22 16:05:30 | ERROR | Exception in place_bet_job for 1m4f Hcap: 'str' object has no attribute 'exists'
+2025-08-22 16:05:30 | ERROR | Traceback (most recent call last):
+  File "/root/betfairbot/chase_watch.py", line 387, in place_bet_job
+    append_result(rec)
+  File "/root/betfairbot/chase_watch.py", line 275, in append_result
+    write_csv_row(csv_file_all_results)
+  File "/root/betfairbot/chase_watch.py", line 264, in write_csv_row
+    write_header = not file_path.exists()
+                       ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'exists'
+
+2025-08-22 16:09:00 | INFO | State: {'balance': 224.094, 'leg': 2, 'accumulated_losses': 19.07, 'prev_stake': 9.34, 'chase_active': False, 'is_running_race': False}
+2025-08-22 16:09:00 | INFO | Bid placed: {'selection_id': 84671262, 'runner_name': 'Bellamano', 'odds': 3.65, 'placed_odds': 3.65, 'stake': 14.01, 'market_id': '1.246887102', 'race_name': '1m Nursery', 'result': 'PENDING'}
+2025-08-22 16:14:00 | INFO | State: {'balance': 224.094, 'leg': 2, 'accumulated_losses': 19.07, 'prev_stake': 9.34, 'chase_active': False, 'is_running_race': True}
+2025-08-22 16:14:00 | WARNING | Skipping bet for 1m1f Hcap - race already running (via state flag)
+2025-08-22 16:15:00 | INFO | chase - Market closed: 1m Nursery, result: LOST
+2025-08-22 16:15:00 | ERROR | Exception in place_bet_job for 1m Nursery: 'str' object has no attribute 'exists'
+2025-08-22 16:15:00 | ERROR | Traceback (most recent call last):
+  File "/root/betfairbot/chase_watch.py", line 387, in place_bet_job
+    append_result(rec)
+  File "/root/betfairbot/chase_watch.py", line 275, in append_result
+    write_csv_row(csv_file_all_results)
+  File "/root/betfairbot/chase_watch.py", line 264, in write_csv_row
+    write_header = not file_path.exists()
+                       ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'exists'
+
+2025-08-22 16:19:00 | INFO | State: {'balance': 210.084, 'leg': 3, 'accumulated_losses': 33.08, 'prev_stake': 14.01, 'chase_active': False, 'is_running_race': False}
+2025-08-22 16:19:00 | INFO | Bid placed: {'selection_id': 549657, 'runner_name': 'Fifth Column', 'odds': 4.7, 'placed_odds': 4.7, 'stake': 21.02, 'market_id': '1.246885420', 'race_name': '1m Hcap', 'result': 'PENDING'}
+2025-08-22 16:24:00 | INFO | State: {'balance': 210.084, 'leg': 3, 'accumulated_losses': 33.08, 'prev_stake': 14.01, 'chase_active': False, 'is_running_race': True}
+2025-08-22 16:24:00 | WARNING | Skipping bet for 2m3f Nov Hrd - race already running (via state flag)
+2025-08-22 16:28:31 | INFO | chase - Market closed: 1m Hcap, result: WON
+2025-08-22 16:28:31 | ERROR | Exception in place_bet_job for 1m Hcap: 'str' object has no attribute 'exists'
+2025-08-22 16:28:31 | ERROR | Traceback (most recent call last):
+  File "/root/betfairbot/chase_watch.py", line 387, in place_bet_job
+    append_result(rec)
+  File "/root/betfairbot/chase_watch.py", line 275, in append_result
+    write_csv_row(csv_file_all_results)
+  File "/root/betfairbot/chase_watch.py", line 264, in write_csv_row
+    write_header = not file_path.exists()
+                       ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'exists'
+
+2025-08-22 16:34:00 | INFO | State: {'balance': 287.858, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-08-22 16:34:00 | INFO | Bid placed: {'selection_id': 82550990, 'runner_name': 'Seren Star', 'odds': 1.8, 'placed_odds': 1.8, 'stake': 11.52, 'market_id': '1.246885262', 'race_name': '1m1f Hcap', 'result': 'PENDING'}
+2025-08-22 16:40:00 | INFO | State: {'balance': 287.858, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': True}
+2025-08-22 16:40:00 | WARNING | Skipping bet for 1m Stks - race already running (via state flag)
+2025-08-22 16:42:00 | INFO | chase - Market closed: 1m1f Hcap, result: WON
+2025-08-22 16:42:00 | ERROR | Exception in place_bet_job for 1m1f Hcap: 'str' object has no attribute 'exists'
+2025-08-22 16:42:00 | ERROR | Traceback (most recent call last):
+  File "/root/betfairbot/chase_watch.py", line 387, in place_bet_job
+    append_result(rec)
+  File "/root/betfairbot/chase_watch.py", line 275, in append_result
+    write_csv_row(csv_file_all_results)
+  File "/root/betfairbot/chase_watch.py", line 264, in write_csv_row
+    write_header = not file_path.exists()
+                       ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'exists'
+
+2025-08-22 16:47:00 | INFO | State: {'balance': 297.074, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-08-22 16:47:00 | INFO | Bid placed: {'selection_id': 86834837, 'runner_name': 'Enha', 'odds': 3.1, 'placed_odds': 3.1, 'stake': 11.89, 'market_id': '1.246885225', 'race_name': '6f Mdn Stks', 'result': 'PENDING'}
+2025-08-22 16:54:00 | INFO | State: {'balance': 297.074, 'leg': 0, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': True}
+2025-08-22 16:54:00 | WARNING | Skipping bet for 2m3f Hcap Hrd - race already running (via state flag)
+2025-08-22 16:54:00 | INFO | chase - Market closed: 6f Mdn Stks, result: LOST
+2025-08-22 16:54:00 | ERROR | Exception in place_bet_job for 6f Mdn Stks: 'str' object has no attribute 'exists'
+2025-08-22 16:54:00 | ERROR | Traceback (most recent call last):
+  File "/root/betfairbot/chase_watch.py", line 387, in place_bet_job
+    append_result(rec)
+  File "/root/betfairbot/chase_watch.py", line 275, in append_result
+    write_csv_row(csv_file_all_results)
+  File "/root/betfairbot/chase_watch.py", line 264, in write_csv_row
+    write_header = not file_path.exists()
+                       ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'exists'
+
+2025-08-22 17:04:00 | INFO | State: {'balance': 285.184, 'leg': 1, 'accumulated_losses': 11.89, 'prev_stake': 11.89, 'chase_active': False, 'is_running_race': False}
+2025-08-22 17:04:00 | INFO | Bid placed: {'selection_id': 72033622, 'runner_name': 'Tiernan', 'odds': 1.26, 'placed_odds': 1.26, 'stake': 11.41, 'market_id': '1.246885266', 'race_name': '1m3f Nov Stks', 'result': 'PENDING'}
+2025-08-22 17:10:00 | INFO | State: {'balance': 285.184, 'leg': 1, 'accumulated_losses': 11.89, 'prev_stake': 11.89, 'chase_active': False, 'is_running_race': True}
+2025-08-22 17:10:00 | WARNING | Skipping bet for 1m Listed - race already running (via state flag)
+2025-08-22 17:12:00 | INFO | chase - Market closed: 1m3f Nov Stks, result: LOST
+2025-08-22 17:12:00 | ERROR | Exception in place_bet_job for 1m3f Nov Stks: 'str' object has no attribute 'exists'
+2025-08-22 17:12:00 | ERROR | Traceback (most recent call last):
+  File "/root/betfairbot/chase_watch.py", line 387, in place_bet_job
+    append_result(rec)
+  File "/root/betfairbot/chase_watch.py", line 275, in append_result
+    write_csv_row(csv_file_all_results)
+  File "/root/betfairbot/chase_watch.py", line 264, in write_csv_row
+    write_header = not file_path.exists()
+                       ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'exists'
+
+2025-08-22 17:17:00 | INFO | State: {'balance': 273.774, 'leg': 2, 'accumulated_losses': 23.3, 'prev_stake': 11.41, 'chase_active': False, 'is_running_race': False}
+2025-08-22 17:17:00 | INFO | Bid placed: {'selection_id': 41411046, 'runner_name': 'Atlantis Blue', 'odds': 2.54, 'placed_odds': 2.54, 'stake': 18.83, 'market_id': '1.246885231', 'race_name': '1m Hcap', 'result': 'PENDING'}
+2025-08-22 17:23:00 | INFO | chase - Market closed: 1m Hcap, result: LOST
+2025-08-22 17:23:00 | ERROR | Exception in place_bet_job for 1m Hcap: 'str' object has no attribute 'exists'
+2025-08-22 17:23:00 | ERROR | Traceback (most recent call last):
+  File "/root/betfairbot/chase_watch.py", line 387, in place_bet_job
+    append_result(rec)
+  File "/root/betfairbot/chase_watch.py", line 275, in append_result
+    write_csv_row(csv_file_all_results)
+  File "/root/betfairbot/chase_watch.py", line 264, in write_csv_row
+    write_header = not file_path.exists()
+                       ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'exists'
+
+2025-08-22 17:24:00 | INFO | State: {'balance': 254.94400000000002, 'leg': 3, 'accumulated_losses': 42.129999999999995, 'prev_stake': 18.83, 'chase_active': False, 'is_running_race': False}
+2025-08-22 17:24:00 | INFO | Bid placed: {'selection_id': 41935092, 'runner_name': 'Quantum Quest', 'odds': 1.88, 'placed_odds': 1.88, 'stake': 57.45, 'market_id': '1.246888778', 'race_name': '3m1f Mdn Hrd', 'result': 'PENDING'}
+2025-08-22 17:26:24 | INFO | ⏱ Already past 5:00 AM, fetching today's races immediately...
+2025-08-22 17:26:24 | INFO | Logged in to Betfair API
+2025-08-22 17:26:24 | INFO | Fetched 15 markets for today
+2025-08-22 17:26:24 | INFO | Running daily 5 AM reset
+2025-08-22 17:26:24 | INFO | Race 3m1f Mdn Hrd already passed or too close
+2025-08-22 17:26:24 | INFO | Scheduled bet for 1m4f Hcap at 2025-08-22 17:34:00+00:00
+2025-08-22 17:26:24 | INFO | Scheduled bet for 1m Hcap at 2025-08-22 17:40:00+00:00
+2025-08-22 17:26:24 | INFO | Scheduled bet for 1m4f Hcap at 2025-08-22 17:47:00+00:00
+2025-08-22 17:26:24 | INFO | Scheduled bet for 3m2f Hcap Chs at 2025-08-22 17:54:00+00:00
+2025-08-22 17:26:24 | INFO | Skipping 5f Hcap/Hamilton 22nd Aug - reason: low win list
+2025-08-22 17:26:24 | INFO | Skipping 5f Hcap/Hamilton 22nd Aug
+2025-08-22 17:26:24 | INFO | Scheduled bet for 1m6f Hcap at 2025-08-22 18:10:00+00:00
+2025-08-22 17:26:24 | INFO | Skipping 5f Hcap/Goodwood 22nd Aug - reason: low win list
+2025-08-22 17:26:24 | INFO | Skipping 5f Hcap/Goodwood 22nd Aug
+2025-08-22 17:26:24 | INFO | Scheduled bet for 3m2f Hcap Chs at 2025-08-22 18:24:00+00:00
+2025-08-22 17:26:24 | INFO | Skipping 6f Hcap/Hamilton 22nd Aug - reason: low win list
+2025-08-22 17:26:24 | INFO | Skipping 6f Hcap/Hamilton 22nd Aug
+2025-08-22 17:26:24 | INFO | Scheduled bet for 1m6f Hcap at 2025-08-22 18:40:00+00:00
+2025-08-22 17:26:24 | INFO | Skipping 6f Hcap/Goodwood 22nd Aug - reason: low win list
+2025-08-22 17:26:24 | INFO | Skipping 6f Hcap/Goodwood 22nd Aug
+2025-08-22 17:26:24 | INFO | Scheduled bet for 2m INHF at 2025-08-22 18:54:00+00:00
+2025-08-22 17:26:24 | INFO | Skipping 5f Hcap/Hamilton 22nd Aug - reason: low win list
+2025-08-22 17:26:24 | INFO | Skipping 5f Hcap/Hamilton 22nd Aug
+2025-08-22 17:26:24 | INFO | Scheduled bet for 2m1f Stks at 2025-08-22 19:14:00+00:00
+2025-08-22 17:26:24 | INFO | All races scheduled. Scheduler running...
+2025-08-22 17:26:24 | INFO | Logout scheduled at 2025-08-22 23:01:00+01:00
+2025-08-22 17:34:00 | INFO | State: {'balance': 220.0, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False}
+2025-08-22 17:34:00 | INFO | Bid placed: {'selection_id': 9648, 'runner_name': 'Defiance', 'odds': 3.2, 'placed_odds': 3.2, 'stake': 8.8, 'market_id': '1.246885272', 'race_name': '1m4f Hcap', 'result': 'PENDING'}
+2025-08-22 17:40:00 | INFO | State: {'balance': 220.0, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': True}
+2025-08-22 17:40:00 | WARNING | Skipping bet for 1m Hcap - race already running (via state flag)
+2025-08-22 17:42:01 | INFO | chase - Market closed: 1m4f Hcap, result: LOST
+2025-08-22 17:42:01 | INFO | Bet placed for 1m4f Hcap: Defiance | stake 8.8 | result L | balance 211.2
+2025-08-22 17:47:00 | INFO | State: {'balance': 211.2, 'leg': 2, 'accumulated_losses': 8.8, 'prev_stake': 8.8, 'chase_active': False, 'is_running_race': False}
+2025-08-22 17:47:00 | INFO | Bid placed: {'selection_id': 78060262, 'runner_name': 'Sound Janet', 'odds': 4.4, 'placed_odds': 4.4, 'stake': 13.2, 'market_id': '1.246885242', 'race_name': '1m4f Hcap', 'result': 'PENDING'}
+2025-08-22 17:54:00 | INFO | State: {'balance': 211.2, 'leg': 2, 'accumulated_losses': 8.8, 'prev_stake': 8.8, 'chase_active': False, 'is_running_race': True}
+2025-08-22 17:54:00 | WARNING | Skipping bet for 3m2f Hcap Chs - race already running (via state flag)
+2025-08-22 17:56:31 | INFO | chase - Market closed: 1m4f Hcap, result: LOST
+2025-08-22 17:56:31 | INFO | Bet placed for 1m4f Hcap: Sound Janet | stake 13.2 | result L | balance 198.0
+2025-08-22 18:10:00 | INFO | State: {'balance': 198.0, 'leg': 3, 'accumulated_losses': 22.0, 'prev_stake': 13.2, 'chase_active': False, 'is_running_race': False}
+2025-08-22 18:10:00 | INFO | Bid placed: {'selection_id': 82651759, 'runner_name': 'Kilmeaden', 'odds': 4.9, 'placed_odds': 4.9, 'stake': 19.8, 'market_id': '1.246887122', 'race_name': '1m6f Hcap', 'result': 'PENDING'}
+2025-08-22 18:17:30 | INFO | chase - Market closed: 1m6f Hcap, result: LOST
+2025-08-22 18:17:30 | INFO | Bet placed for 1m6f Hcap: Kilmeaden | stake 19.8 | result L | balance 178.2
+2025-08-22 18:24:00 | INFO | State: {'balance': 178.2, 'leg': 4, 'accumulated_losses': 41.8, 'prev_stake': 19.8, 'chase_active': False, 'is_running_race': False}
+2025-08-22 18:24:00 | INFO | Bid placed: {'selection_id': 42866969, 'runner_name': 'Bal Kauto', 'odds': 2.44, 'placed_odds': 2.44, 'stake': 32.67, 'market_id': '1.246888788', 'race_name': '3m2f Hcap Chs', 'result': 'PENDING'}
+2025-08-22 18:37:01 | INFO | chase - Market closed: 3m2f Hcap Chs, result: WON
+2025-08-22 18:37:01 | INFO | Bet placed for 3m2f Hcap Chs: Bal Kauto | stake 32.67 | result W | balance 225.2448
+2025-08-22 18:40:00 | INFO | State: {'balance': 225.2448, 'leg': 1, 'accumulated_losses': 0.0, 'prev_stake': None, 'chase_active': False, 'is_running_race': False}
+2025-08-22 18:40:00 | INFO | Bid placed: {'selection_id': 25244542, 'runner_name': 'Bear Creek', 'odds': 3.4, 'placed_odds': 3.4, 'stake': 9.01, 'market_id': '1.246887127', 'race_name': '1m6f Hcap', 'result': 'PENDING'}
+2025-08-22 18:49:31 | INFO | chase - Market closed: 1m6f Hcap, result: LOST
+2025-08-22 18:49:31 | INFO | Bet placed for 1m6f Hcap: Bear Creek | stake 9.01 | result L | balance 216.2348
+2025-08-22 18:54:00 | INFO | State: {'balance': 216.2348, 'leg': 2, 'accumulated_losses': 9.01, 'prev_stake': 9.01, 'chase_active': False, 'is_running_race': False}
+2025-08-22 18:54:00 | INFO | Bid placed: {'selection_id': 68799505, 'runner_name': 'Sellerna Bay', 'odds': 2.34, 'placed_odds': 2.34, 'stake': 14.87, 'market_id': '1.246888793', 'race_name': '2m INHF', 'result': 'PENDING'}
+2025-08-22 19:03:31 | INFO | chase - Market closed: 2m INHF, result: LOST
+2025-08-22 19:03:31 | INFO | Bet placed for 2m INHF: Sellerna Bay | stake 14.87 | result L | balance 201.3648
+2025-08-22 19:14:00 | INFO | State: {'balance': 201.3648, 'leg': 3, 'accumulated_losses': 23.88, 'prev_stake': 14.87, 'chase_active': False, 'is_running_race': False}
+2025-08-22 19:14:00 | INFO | Bid placed: {'selection_id': 27082247, 'runner_name': 'Enniskerry', 'odds': 2.98, 'placed_odds': 2.98, 'stake': 24.54, 'market_id': '1.246887132', 'race_name': '2m1f Stks', 'result': 'PENDING'}
+2025-08-22 19:23:01 | INFO | chase - Market closed: 2m1f Stks, result: LOST
+2025-08-22 19:23:01 | INFO | Bet placed for 2m1f Stks: Enniskerry | stake 24.54 | result L | balance 176.8248
+2025-08-22 22:01:00 | INFO | Logged out from Betfair API after cutoff

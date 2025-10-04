@@ -1,0 +1,420 @@
+
+    <h2>🐎 Ghost Bet Report — Friday, September 19, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
+        <thead style="background-color:#f2f2f2;">
+            <tr>
+                <th>Time</th>
+                <th>Venue</th>
+                <th>Race</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 01:35 PM</td>
+            <td>Ayr</td>
+            <td>7f Nursery</td>
+            <td>Radiance</td>
+            <td>3.40</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 01:52 PM</td>
+            <td>Newbury</td>
+            <td>6f Mdn Stks</td>
+            <td>One And Gone</td>
+            <td>4.40</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 02:03 PM</td>
+            <td>Ayr</td>
+            <td>6f Nursery</td>
+            <td>Reciprocated</td>
+            <td>4.30</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 19, 2025 02:10 PM</td>
+            <td>Newton Abbot</td>
+            <td>2m5f Nov Chs</td>
+            <td>Art Of Diplomacy</td>
+            <td>1.43</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 19, 2025 02:20 PM</td>
+            <td>Downpatrick</td>
+            <td>2m2f Mdn Hrd</td>
+            <td>High Court Cave</td>
+            <td>1.74</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 02:29 PM</td>
+            <td>Newbury</td>
+            <td>7f Cond Stks</td>
+            <td>True Test</td>
+            <td>3.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 02:38 PM</td>
+            <td>Ayr</td>
+            <td>5f Listed Stks</td>
+            <td>Ipanema Queen</td>
+            <td>3.35</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 19, 2025 02:49 PM</td>
+            <td>Newton Abbot</td>
+            <td>2m5f Mdn Hrd</td>
+            <td>A Pai De Nom</td>
+            <td>2.32</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 19, 2025 02:53 PM</td>
+            <td>Downpatrick</td>
+            <td>2m2f Hcap Hrd</td>
+            <td>Arcland</td>
+            <td>3.30</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 03:02 PM</td>
+            <td>Newbury</td>
+            <td>7f Nursery</td>
+            <td>French Affair</td>
+            <td>5.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 19, 2025 03:12 PM</td>
+            <td>Ayr</td>
+            <td>5f Listed Stks</td>
+            <td>Beautiful Diamond</td>
+            <td>3.65</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 03:22 PM</td>
+            <td>Newton Abbot</td>
+            <td>2m1f Nov Hrd</td>
+            <td>Highland Haven</td>
+            <td>2.02</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 03:29 PM</td>
+            <td>Downpatrick</td>
+            <td>2m2f Hcap Hrd</td>
+            <td>Centaq</td>
+            <td>5.90</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 19, 2025 03:36 PM</td>
+            <td>Newbury</td>
+            <td>1m Cond Stks</td>
+            <td>Look To The Stars</td>
+            <td>3.80</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 03:51 PM</td>
+            <td>Ayr</td>
+            <td>6f Hcap</td>
+            <td>Eternal Sunshine</td>
+            <td>4.40</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 19, 2025 03:57 PM</td>
+            <td>Newton Abbot</td>
+            <td>2m1f Hcap Hrd</td>
+            <td>Dickens</td>
+            <td>2.60</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 19, 2025 04:05 PM</td>
+            <td>Downpatrick</td>
+            <td>2m5f Nov Hrd</td>
+            <td>Sporting Glance</td>
+            <td>3.90</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 19, 2025 04:12 PM</td>
+            <td>Newbury</td>
+            <td>7f Listed Stks</td>
+            <td>Remmooz</td>
+            <td>2.86</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 19, 2025 04:22 PM</td>
+            <td>Ayr</td>
+            <td>1m Hcap</td>
+            <td>Penelopes Sister</td>
+            <td>4.40</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 19, 2025 04:29 PM</td>
+            <td>Newton Abbot</td>
+            <td>2m5f Hcap Hrd</td>
+            <td>Prince Zaltar</td>
+            <td>3.75</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 19, 2025 04:35 PM</td>
+            <td>Downpatrick</td>
+            <td>2m2f Beg Chs</td>
+            <td>Mickey Cohen</td>
+            <td>3.65</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 04:42 PM</td>
+            <td>Newcastle</td>
+            <td>1m2f Hcap</td>
+            <td>Duffus Castle</td>
+            <td>4.40</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 04:50 PM</td>
+            <td>Newbury</td>
+            <td>1m4f Hcap</td>
+            <td>El Megeeth</td>
+            <td>3.55</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 04:51 PM</td>
+            <td>Ayr</td>
+            <td>1m Hcap</td>
+            <td>Dwindling Funds</td>
+            <td>2.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 19, 2025 04:58 PM</td>
+            <td>Dundalk</td>
+            <td>5f Stks</td>
+            <td>By The Lake</td>
+            <td>2.78</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 19, 2025 05:06 PM</td>
+            <td>Newton Abbot</td>
+            <td>3m2f Hcap Chs</td>
+            <td>Shantou Lucky</td>
+            <td>1.50</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 05:11 PM</td>
+            <td>Downpatrick</td>
+            <td>2m7f Hcap Chs</td>
+            <td>Betty Dutton</td>
+            <td>3.65</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 05:15 PM</td>
+            <td>Newcastle</td>
+            <td>2m Hcap</td>
+            <td>Quercus Robur</td>
+            <td>2.22</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 05:23 PM</td>
+            <td>Newbury</td>
+            <td>1m2f Hcap</td>
+            <td>Vincent Rocks</td>
+            <td>5.40</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 05:28 PM</td>
+            <td>Ayr</td>
+            <td>1m5f Hcap</td>
+            <td>Perseus Way</td>
+            <td>6.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 05:32 PM</td>
+            <td>Dundalk</td>
+            <td>6f Mdn</td>
+            <td>Coincidental Glory</td>
+            <td>4.60</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 05:44 PM</td>
+            <td>Downpatrick</td>
+            <td>2m2f NHF</td>
+            <td>Minella Jury</td>
+            <td>3.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 19, 2025 05:49 PM</td>
+            <td>Newcastle</td>
+            <td>6f Mdn Stks</td>
+            <td>Storm Esme</td>
+            <td>4.50</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 06:06 PM</td>
+            <td>Dundalk</td>
+            <td>7f Hcap</td>
+            <td>Imperial Dream</td>
+            <td>5.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 19, 2025 06:22 PM</td>
+            <td>Newcastle</td>
+            <td>7f Mdn Stks</td>
+            <td>Great Dream</td>
+            <td>2.36</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 19, 2025 06:38 PM</td>
+            <td>Dundalk</td>
+            <td>1m Hcap</td>
+            <td>Sierra De Gredos</td>
+            <td>6.80</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 06:50 PM</td>
+            <td>Newcastle</td>
+            <td>1m Hcap</td>
+            <td>Sassy Glory</td>
+            <td>3.60</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 07:08 PM</td>
+            <td>Dundalk</td>
+            <td>1m4f Hcap</td>
+            <td>Frank Pickle</td>
+            <td>3.30</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 07:23 PM</td>
+            <td>Newcastle</td>
+            <td>6f Hcap</td>
+            <td>Invitorio</td>
+            <td>4.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 07:39 PM</td>
+            <td>Dundalk</td>
+            <td>1m2f Hcap</td>
+            <td>Faro Island</td>
+            <td>3.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 07:51 PM</td>
+            <td>Newcastle</td>
+            <td>7f Hcap</td>
+            <td>Mister Mojito</td>
+            <td>2.60</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 08:08 PM</td>
+            <td>Dundalk</td>
+            <td>1m2f Hcap</td>
+            <td>Limestone Red</td>
+            <td>6.60</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 19, 2025 08:20 PM</td>
+            <td>Newcastle</td>
+            <td>5f Hcap</td>
+            <td>Dandy Fitz</td>
+            <td>5.00</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 19, 2025 08:39 PM</td>
+            <td>Dundalk</td>
+            <td>1m2f Mdn</td>
+            <td>Edward Hamilton</td>
+            <td>2.02</td>
+            <td>WON</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 44 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 18 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 26 <br>
+        <strong>Net Profit/Loss:</strong> <span style="color:#28a745;">$13.36</span>
+    </p>
+    

@@ -1,0 +1,159 @@
+
+    <h2>🐎 CHASE Report — Thursday, September 18, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Sep 18, 2025 01:55 PM</td>
+            <td>Ayr 18th Sep</td>
+            <td>Mr Colonel</td>
+            <td>1.56</td>
+            <td>£8.80</td>
+            <td>LOST</td>
+            <td>£-8.80</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 18, 2025 02:07 PM</td>
+            <td>Yarmouth 18th Sep</td>
+            <td>Gouken</td>
+            <td>2.84</td>
+            <td>£14.52</td>
+            <td>LOST</td>
+            <td>£-14.52</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 18, 2025 02:28 PM</td>
+            <td>Pontefract 18th Sep</td>
+            <td>Kind Touch</td>
+            <td>1.87</td>
+            <td>£32.17</td>
+            <td>LOST</td>
+            <td>£-32.17</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 18, 2025 02:37 PM</td>
+            <td>Yarmouth 18th Sep</td>
+            <td>Green Falcon</td>
+            <td>2.84</td>
+            <td>£53.09</td>
+            <td>LOST</td>
+            <td>£-53.09</td>
+            <td>Leg 4</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 18, 2025 02:53 PM</td>
+            <td>Ayr 18th Sep</td>
+            <td>Crowd Quake</td>
+            <td>3.85</td>
+            <td>£79.64</td>
+            <td>LOST</td>
+            <td>£-79.64</td>
+            <td>Leg 5</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 18, 2025 03:06 PM</td>
+            <td>Yarmouth 18th Sep</td>
+            <td>Kalokalo</td>
+            <td>1.86</td>
+            <td>£31.78</td>
+            <td>WON</td>
+            <td>£27.33</td>
+            <td>Leg 6</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 18, 2025 03:23 PM</td>
+            <td>Ayr 18th Sep</td>
+            <td>Aeolian</td>
+            <td>2.38</td>
+            <td>£2.37</td>
+            <td>LOST</td>
+            <td>£-2.37</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 18, 2025 03:42 PM</td>
+            <td>Naas 18th Sep</td>
+            <td>Believe In Glory</td>
+            <td>5.20</td>
+            <td>£3.56</td>
+            <td>LOST</td>
+            <td>£-3.56</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 18, 2025 03:53 PM</td>
+            <td>Ayr 18th Sep</td>
+            <td>Waiting All Night</td>
+            <td>4.10</td>
+            <td>£5.34</td>
+            <td>LOST</td>
+            <td>£-5.34</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 18, 2025 04:03 PM</td>
+            <td>Kempton 18th Sep</td>
+            <td>Leone Alato</td>
+            <td>3.20</td>
+            <td>£8.01</td>
+            <td>LOST</td>
+            <td>£-8.01</td>
+            <td>Leg 4</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 18, 2025 04:16 PM</td>
+            <td>Naas 18th Sep</td>
+            <td>Ipanema Beach</td>
+            <td>2.66</td>
+            <td>£13.22</td>
+            <td>LOST</td>
+            <td>£-13.22</td>
+            <td>Leg 5</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 18, 2025 04:24 PM</td>
+            <td>Chelmsford City 18th Sep</td>
+            <td>Explosion</td>
+            <td>1.64</td>
+            <td>£26.61</td>
+            <td>WON</td>
+            <td>£17.03</td>
+            <td>Leg 6</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 12 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 2 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 10 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £-176.36
+    </p>
+    

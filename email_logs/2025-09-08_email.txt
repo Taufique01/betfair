@@ -1,0 +1,393 @@
+
+    <h2>🐎 Ghost Bet Report — Monday, September 08, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
+        <thead style="background-color:#f2f2f2;">
+            <tr>
+                <th>Time</th>
+                <th>Venue</th>
+                <th>Race</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 01:27 PM</td>
+            <td>Lingfield</td>
+            <td>7f Mdn Stks</td>
+            <td>Ribenska</td>
+            <td>1.08</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 01:59 PM</td>
+            <td>Lingfield</td>
+            <td>1m2f Nov Stks</td>
+            <td>Shumus</td>
+            <td>2.62</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 02:19 PM</td>
+            <td>Perth</td>
+            <td>2m Nov Hrd</td>
+            <td>Chortal</td>
+            <td>1.42</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 02:29 PM</td>
+            <td>Lingfield</td>
+            <td>1m4f Hcap</td>
+            <td>Saliko</td>
+            <td>1.93</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 02:40 PM</td>
+            <td>Windsor</td>
+            <td>6f Nov Stks</td>
+            <td>Hilitany</td>
+            <td>1.96</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 02:51 PM</td>
+            <td>Perth</td>
+            <td>2m4f Nov Hcap Chs</td>
+            <td>King Roly</td>
+            <td>2.38</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 02:59 PM</td>
+            <td>Lingfield</td>
+            <td>5f Hcap</td>
+            <td>Agostino</td>
+            <td>3.85</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 03:11 PM</td>
+            <td>Windsor</td>
+            <td>1m3f Hcap</td>
+            <td>Just Adair</td>
+            <td>3.25</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 03:19 PM</td>
+            <td>Perth</td>
+            <td>2m Hcap Hrd</td>
+            <td>The Last Cloud</td>
+            <td>2.00</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 03:36 PM</td>
+            <td>Lingfield</td>
+            <td>1m Hcap</td>
+            <td>Harryella</td>
+            <td>2.24</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 03:44 PM</td>
+            <td>Windsor</td>
+            <td>1m3f Hcap</td>
+            <td>Zarakerjack</td>
+            <td>5.90</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 03:51 PM</td>
+            <td>Perth</td>
+            <td>3m Hcap Chs</td>
+            <td>Jumping Susie</td>
+            <td>4.60</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 03:57 PM</td>
+            <td>Galway</td>
+            <td>2m1f Mdn Hrd</td>
+            <td>Money Dancer</td>
+            <td>2.14</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 04:05 PM</td>
+            <td>Lingfield</td>
+            <td>7f Hcap</td>
+            <td>Zaltalla</td>
+            <td>4.90</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 04:13 PM</td>
+            <td>Windsor</td>
+            <td>1m Nov Stks</td>
+            <td>Livonian</td>
+            <td>1.60</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 04:18 PM</td>
+            <td>Perth</td>
+            <td>2m4f Hcap Hrd</td>
+            <td>Top Flight Century</td>
+            <td>4.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 04:28 PM</td>
+            <td>Galway</td>
+            <td>2m1f Hcap Hrd</td>
+            <td>Kotkito Bello</td>
+            <td>6.60</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 04:34 PM</td>
+            <td>Lingfield</td>
+            <td>6f Hcap</td>
+            <td>Hockney</td>
+            <td>3.25</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 04:44 PM</td>
+            <td>Newcastle</td>
+            <td>1m2f Hcap</td>
+            <td>Hosanna Power</td>
+            <td>3.95</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 04:50 PM</td>
+            <td>Windsor</td>
+            <td>1m Hcap</td>
+            <td>Dalmally</td>
+            <td>4.90</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 04:56 PM</td>
+            <td>Perth</td>
+            <td>3m Hcap Hrd</td>
+            <td>Spit Spot</td>
+            <td>3.85</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 04:58 PM</td>
+            <td>Galway</td>
+            <td>2m5f Hrd</td>
+            <td>Lord Erskine</td>
+            <td>3.45</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 05:07 PM</td>
+            <td>Lingfield</td>
+            <td>6f Hcap</td>
+            <td>Phoenix Moon</td>
+            <td>3.90</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 05:18 PM</td>
+            <td>Newcastle</td>
+            <td>2m Hcap</td>
+            <td>Hatysa</td>
+            <td>1.77</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 05:18 PM</td>
+            <td>Windsor</td>
+            <td>1m2f Hcap</td>
+            <td>Karthala</td>
+            <td>4.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 05:30 PM</td>
+            <td>Galway</td>
+            <td>2m6f Hcap Hrd</td>
+            <td>Doyen Flyer</td>
+            <td>6.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 05:39 PM</td>
+            <td>Windsor</td>
+            <td>6f Hcap</td>
+            <td>Coul Angel</td>
+            <td>3.45</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 05:43 PM</td>
+            <td>Lingfield</td>
+            <td>1m Hcap</td>
+            <td>My Ambition</td>
+            <td>4.20</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 05:50 PM</td>
+            <td>Newcastle</td>
+            <td>5f Nov Stks</td>
+            <td>Lord Harcourt</td>
+            <td>2.20</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 06:00 PM</td>
+            <td>Galway</td>
+            <td>2m6f Hcap Hrd</td>
+            <td>Sporting Glance</td>
+            <td>5.70</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 06:13 PM</td>
+            <td>Windsor</td>
+            <td>6f Hcap</td>
+            <td>Law Of Design</td>
+            <td>3.45</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 08, 2025 06:15 PM</td>
+            <td>Newcastle</td>
+            <td>1m Nov Stks</td>
+            <td>Raammee</td>
+            <td>1.12</td>
+            <td>WON</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 06:30 PM</td>
+            <td>Galway</td>
+            <td>2m2f Beg Chs</td>
+            <td>My Great Mate</td>
+            <td>1.74</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 06:45 PM</td>
+            <td>Windsor</td>
+            <td>1m2f Hcap Stks</td>
+            <td>Hibikinada Du Mazet A</td>
+            <td>3.75</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 06:46 PM</td>
+            <td>Newcastle</td>
+            <td>1m Hcap</td>
+            <td>Jewel Maker</td>
+            <td>4.70</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 07:03 PM</td>
+            <td>Galway</td>
+            <td>2m6f Hcap Chs</td>
+            <td>Arctic Gale</td>
+            <td>2.60</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 07:16 PM</td>
+            <td>Newcastle</td>
+            <td>7f Hcap</td>
+            <td>Overlooked</td>
+            <td>3.50</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 07:30 PM</td>
+            <td>Galway</td>
+            <td>2m1f INHF</td>
+            <td>Runaway Rosie</td>
+            <td>1.67</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 07:51 PM</td>
+            <td>Newcastle</td>
+            <td>6f Hcap</td>
+            <td>Gis A Sub</td>
+            <td>4.80</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 08:17 PM</td>
+            <td>Newcastle</td>
+            <td>5f Hcap</td>
+            <td>Cash In</td>
+            <td>3.55</td>
+            <td>LOST</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 08, 2025 08:46 PM</td>
+            <td>Newcastle</td>
+            <td>5f Hcap</td>
+            <td>Herakles</td>
+            <td>4.40</td>
+            <td>LOST</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 41 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 16 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 25 <br>
+        <strong>Net Profit/Loss:</strong> <span style="color:#28a745;">$1.93</span>
+    </p>
+    

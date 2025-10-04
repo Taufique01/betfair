@@ -1,0 +1,126 @@
+
+    <h2>🐎 CHASE Report — Friday, October 03, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Oct 03, 2025 02:04 PM</td>
+            <td>Fontwell 3rd Oct</td>
+            <td>Just A Memory</td>
+            <td>3.95</td>
+            <td>£8.80</td>
+            <td>LOST</td>
+            <td>£-8.80</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 03, 2025 02:21 PM</td>
+            <td>Hexham 3rd Oct</td>
+            <td>Spadestep</td>
+            <td>1.49</td>
+            <td>£21.56</td>
+            <td>WON</td>
+            <td>£10.56</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 03, 2025 02:37 PM</td>
+            <td>Fontwell 3rd Oct</td>
+            <td>Jorebel</td>
+            <td>1.89</td>
+            <td>£8.88</td>
+            <td>WON</td>
+            <td>£7.90</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 03, 2025 02:57 PM</td>
+            <td>Hexham 3rd Oct</td>
+            <td>Slemish</td>
+            <td>5.00</td>
+            <td>£9.19</td>
+            <td>LOST</td>
+            <td>£-9.19</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 03, 2025 03:11 PM</td>
+            <td>Fontwell 3rd Oct</td>
+            <td>Fresh Perspective</td>
+            <td>2.18</td>
+            <td>£9.35</td>
+            <td>WON</td>
+            <td>£11.03</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 03, 2025 03:28 PM</td>
+            <td>Hexham 3rd Oct</td>
+            <td>Double Digits</td>
+            <td>2.60</td>
+            <td>£9.27</td>
+            <td>LOST</td>
+            <td>£-9.27</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 03, 2025 03:38 PM</td>
+            <td>Ascot 3rd Oct</td>
+            <td>Race To The Stars</td>
+            <td>2.46</td>
+            <td>£15.30</td>
+            <td>LOST</td>
+            <td>£-15.30</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Oct 03, 2025 03:54 PM</td>
+            <td>Gowran Park 3rd Oct</td>
+            <td>The Great Nudie</td>
+            <td>2.16</td>
+            <td>£25.42</td>
+            <td>LOST</td>
+            <td>£-25.42</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Oct 03, 2025 04:06 PM</td>
+            <td>Southwell 3rd Oct</td>
+            <td>New York Minute</td>
+            <td>3.55</td>
+            <td>£38.13</td>
+            <td>WON</td>
+            <td>£97.23</td>
+            <td>Leg 4</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 9 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 4 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 5 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £58.74
+    </p>
+    

@@ -1,0 +1,154 @@
+2025-09-30 05:00:00 | INFO | Logged in to Betfair API
+2025-09-30 05:00:00 | INFO | Fetched 38 markets for today
+2025-09-30 05:00:00 | INFO | Scheduled bet for 5f Mdn at 1:43:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 1m App Hcap at 1:58:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 2m1f Hcap Hrd at 2:05:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 6f Nursery at 2:13:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 1m2f Hcap at 2:20:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 6f Mdn Stks at 2:28:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 2m1f Mdn Hrd at 2:35:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 6f Hcap at 2:43:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 1m5f Hcap at 2:50:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 1m2f Hcap at 2:58:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 2m5f Hcap Chs at 3:05:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 6f Hcap at 3:13:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 1m Hcap at 3:20:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 7f Hcap at 3:28:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 2m4f Hcap Hrd at 3:35:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 1m Mdn at 3:43:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 1m Hcap at 3:50:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 7f Hcap at 3:58:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 2m Hcap Chs at 4:05:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 1m2f Listed at 4:13:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 1m Nov Stks at 4:20:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 6f Hcap at 4:28:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 2m1f NHF at 4:35:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 1m Hcap at 4:43:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 5f Hcap at 4:50:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 1m2f Hcap at 4:58:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 1m7f Hcap at 5:03:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 1m Hcap at 5:18:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 6f Nursery at 5:23:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 2m Hcap at 5:28:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 6f Hcap at 5:53:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 6f Nov Stks at 5:58:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 1m2f Arab Hcap at 6:23:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 7f Mdn Stks at 6:28:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 7f Nursery at 6:58:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 1m Hcap at 7:28:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 7f Hcap at 7:58:30PM
+2025-09-30 05:00:00 | INFO | Scheduled bet for 6f Hcap at 8:28:30PM
+2025-09-30 13:43:30 | INFO | Bet placed: Tornado Kiss x 1.88 @ Cork 5f Mdn
+2025-09-30 13:49:30 | INFO | Logged bet: 2025-09-30 13:49:30 | Cork | 5f Mdn | 2025-09-30 13:45:00 | 85557496 | Tornado Kiss | 1.88 | WON
+2025-09-30 13:49:30 | INFO | watch - Market closed: 5f Mdn, result: WON
+2025-09-30 13:58:30 | INFO | Bet placed: Dwindling Funds x 3.8 @ Ayr 1m App Hcap
+2025-09-30 14:05:30 | INFO | Bet placed: Fairly Fulling x 4.0 @ Sedgefield 2m1f Hcap Hrd
+2025-09-30 14:06:00 | INFO | Logged bet: 2025-09-30 14:06:00 | Ayr | 1m App Hcap | 2025-09-30 14:00:00 | 82025208 | Dwindling Funds | 3.8 | WON
+2025-09-30 14:06:00 | INFO | watch - Market closed: 1m App Hcap, result: WON
+2025-09-30 14:13:30 | INFO | Bet placed: Soy El Fuego x 5.9 @ Cork 6f Nursery
+2025-09-30 14:15:31 | INFO | Logged bet: 2025-09-30 14:15:31 | Sedgefield | 2m1f Hcap Hrd | 2025-09-30 14:07:00 | 61225649 | Fairly Fulling | 4.0 | LOST
+2025-09-30 14:15:31 | INFO | watch - Market closed: 2m1f Hcap Hrd, result: LOST
+2025-09-30 14:20:30 | INFO | Bet placed: Stipulation x 4.7 @ Bath 1m2f Hcap
+2025-09-30 14:23:31 | INFO | Logged bet: 2025-09-30 14:23:31 | Cork | 6f Nursery | 2025-09-30 14:15:00 | 86948484 | Soy El Fuego | 5.9 | LOST
+2025-09-30 14:23:31 | INFO | watch - Market closed: 6f Nursery, result: LOST
+2025-09-30 14:28:30 | INFO | Bet placed: Jeddaal x 1.93 @ Ayr 6f Mdn Stks
+2025-09-30 14:30:31 | INFO | Logged bet: 2025-09-30 14:30:31 | Bath | 1m2f Hcap | 2025-09-30 14:22:00 | 74399372 | Stipulation | 4.7 | LOST
+2025-09-30 14:30:31 | INFO | watch - Market closed: 1m2f Hcap, result: LOST
+2025-09-30 14:35:30 | INFO | Bet placed: Ammes x 1.41 @ Sedgefield 2m1f Mdn Hrd
+2025-09-30 14:37:00 | INFO | Logged bet: 2025-09-30 14:37:00 | Ayr | 6f Mdn Stks | 2025-09-30 14:30:00 | 85294064 | Jeddaal | 1.93 | LOST
+2025-09-30 14:37:00 | INFO | watch - Market closed: 6f Mdn Stks, result: LOST
+2025-09-30 14:43:00 | INFO | Logged bet: 2025-09-30 14:43:00 | Sedgefield | 2m1f Mdn Hrd | 2025-09-30 14:37:00 | 75978140 | Ammes | 1.41 | WON
+2025-09-30 14:43:00 | INFO | watch - Market closed: 2m1f Mdn Hrd, result: WON
+2025-09-30 14:43:30 | INFO | Bet placed: Amicitia x 3.8 @ Cork 6f Hcap
+2025-09-30 14:50:30 | INFO | Bet placed: Harlington x 5.0 @ Bath 1m5f Hcap
+2025-09-30 14:52:01 | INFO | Logged bet: 2025-09-30 14:52:01 | Cork | 6f Hcap | 2025-09-30 14:45:00 | 22202483 | Amicitia | 3.8 | LOST
+2025-09-30 14:52:01 | INFO | watch - Market closed: 6f Hcap, result: LOST
+2025-09-30 14:58:30 | INFO | Bet placed: Obito x 3.0 @ Ayr 1m2f Hcap
+2025-09-30 15:00:31 | INFO | Logged bet: 2025-09-30 15:00:31 | Bath | 1m5f Hcap | 2025-09-30 14:52:00 | 1063073 | Harlington | 5.0 | LOST
+2025-09-30 15:00:31 | INFO | watch - Market closed: 1m5f Hcap, result: LOST
+2025-09-30 15:05:30 | INFO | Bet placed: Moonshine Man x 2.66 @ Sedgefield 2m5f Hcap Chs
+2025-09-30 15:07:30 | INFO | Logged bet: 2025-09-30 15:07:30 | Ayr | 1m2f Hcap | 2025-09-30 15:00:00 | 81862449 | Obito | 3.0 | LOST
+2025-09-30 15:07:30 | INFO | watch - Market closed: 1m2f Hcap, result: LOST
+2025-09-30 15:13:30 | INFO | Bet placed: Ukiyo x 4.5 @ Cork 6f Hcap
+2025-09-30 15:16:01 | INFO | Logged bet: 2025-09-30 15:16:01 | Sedgefield | 2m5f Hcap Chs | 2025-09-30 15:07:00 | 74504587 | Moonshine Man | 2.66 | LOST
+2025-09-30 15:16:01 | INFO | watch - Market closed: 2m5f Hcap Chs, result: LOST
+2025-09-30 15:20:30 | INFO | Bet placed: Thapa Vc x 5.1 @ Bath 1m Hcap
+2025-09-30 15:22:31 | INFO | Logged bet: 2025-09-30 15:22:31 | Cork | 6f Hcap | 2025-09-30 15:15:00 | 40388564 | Ukiyo | 4.5 | WON
+2025-09-30 15:22:31 | INFO | watch - Market closed: 6f Hcap, result: WON
+2025-09-30 15:28:30 | INFO | Bet placed: Quest For Fun x 3.0 @ Ayr 7f Hcap
+2025-09-30 15:30:01 | INFO | Logged bet: 2025-09-30 15:30:01 | Bath | 1m Hcap | 2025-09-30 15:22:00 | 35792174 | Thapa Vc | 5.1 | WON
+2025-09-30 15:30:01 | INFO | watch - Market closed: 1m Hcap, result: WON
+2025-09-30 15:35:30 | INFO | Bet placed: Zamond x 3.1 @ Sedgefield 2m4f Hcap Hrd
+2025-09-30 15:37:00 | INFO | Logged bet: 2025-09-30 15:37:00 | Ayr | 7f Hcap | 2025-09-30 15:30:00 | 27699876 | Quest For Fun | 3.0 | LOST
+2025-09-30 15:37:00 | INFO | watch - Market closed: 7f Hcap, result: LOST
+2025-09-30 15:43:30 | INFO | Bet placed: River Ara x 2.5 @ Cork 1m Mdn
+2025-09-30 15:45:01 | INFO | Logged bet: 2025-09-30 15:45:01 | Sedgefield | 2m4f Hcap Hrd | 2025-09-30 15:37:00 | 36938829 | Zamond | 3.1 | WON
+2025-09-30 15:45:01 | INFO | watch - Market closed: 2m4f Hcap Hrd, result: WON
+2025-09-30 15:50:30 | INFO | Bet placed: Havana Mojito x 6.2 @ Bath 1m Hcap
+2025-09-30 15:54:01 | INFO | Logged bet: 2025-09-30 15:54:01 | Cork | 1m Mdn | 2025-09-30 15:45:00 | 85755964 | River Ara | 2.5 | LOST
+2025-09-30 15:54:01 | INFO | watch - Market closed: 1m Mdn, result: LOST
+2025-09-30 15:58:30 | INFO | Bet placed: Jkr Cobbler x 4.9 @ Ayr 7f Hcap
+2025-09-30 15:59:01 | INFO | Logged bet: 2025-09-30 15:59:01 | Bath | 1m Hcap | 2025-09-30 15:52:00 | 56330237 | Havana Mojito | 6.2 | LOST
+2025-09-30 15:59:01 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-09-30 16:05:30 | INFO | Bet placed: Delpotro x 2.52 @ Sedgefield 2m Hcap Chs
+2025-09-30 16:06:00 | INFO | Logged bet: 2025-09-30 16:06:00 | Ayr | 7f Hcap | 2025-09-30 16:00:00 | 40401159 | Jkr Cobbler | 4.9 | WON
+2025-09-30 16:06:00 | INFO | watch - Market closed: 7f Hcap, result: WON
+2025-09-30 16:13:30 | INFO | Bet placed: Purview x 4.1 @ Cork 1m2f Listed
+2025-09-30 16:20:30 | INFO | Bet placed: Item x 1.82 @ Bath 1m Nov Stks
+2025-09-30 16:21:01 | INFO | Logged bet: 2025-09-30 16:21:01 | Sedgefield | 2m Hcap Chs | 2025-09-30 16:07:00 | 74275955 | Delpotro | 2.52 | LOST
+2025-09-30 16:21:01 | INFO | watch - Market closed: 2m Hcap Chs, result: LOST
+2025-09-30 16:22:31 | INFO | Logged bet: 2025-09-30 16:22:31 | Cork | 1m2f Listed | 2025-09-30 16:15:00 | 76676755 | Purview | 4.1 | WON
+2025-09-30 16:22:31 | INFO | watch - Market closed: 1m2f Listed, result: WON
+2025-09-30 16:28:00 | INFO | Logged bet: 2025-09-30 16:28:00 | Bath | 1m Nov Stks | 2025-09-30 16:22:00 | 11916068 | Item | 1.82 | WON
+2025-09-30 16:28:00 | INFO | watch - Market closed: 1m Nov Stks, result: WON
+2025-09-30 16:28:30 | INFO | Bet placed: Montezuma x 4.7 @ Ayr 6f Hcap
+2025-09-30 16:35:30 | INFO | Bet placed: Siouxfonic x 2.72 @ Sedgefield 2m1f NHF
+2025-09-30 16:40:31 | INFO | Logged bet: 2025-09-30 16:40:31 | Ayr | 6f Hcap | 2025-09-30 16:30:00 | 161669 | Montezuma | 4.7 | LOST
+2025-09-30 16:40:31 | INFO | watch - Market closed: 6f Hcap, result: LOST
+2025-09-30 16:43:30 | INFO | Bet placed: Sujet x 4.5 @ Cork 1m Hcap
+2025-09-30 16:50:01 | INFO | Logged bet: 2025-09-30 16:50:01 | Sedgefield | 2m1f NHF | 2025-09-30 16:37:00 | 85482666 | Siouxfonic | 2.72 | WON
+2025-09-30 16:50:01 | INFO | watch - Market closed: 2m1f NHF, result: WON
+2025-09-30 16:50:30 | INFO | Bet placed: Hk Fourteen x 4.5 @ Bath 5f Hcap
+2025-09-30 16:53:00 | INFO | Logged bet: 2025-09-30 16:53:00 | Cork | 1m Hcap | 2025-09-30 16:45:00 | 71525965 | Sujet | 4.5 | LOST
+2025-09-30 16:53:00 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-09-30 16:58:30 | INFO | Bet placed: Hashtagnotions x 4.7 @ Newcastle 1m2f Hcap
+2025-09-30 16:58:30 | INFO | Logged bet: 2025-09-30 16:58:30 | Bath | 5f Hcap | 2025-09-30 16:52:00 | 70754962 | Hk Fourteen | 4.5 | WON
+2025-09-30 16:58:30 | INFO | watch - Market closed: 5f Hcap, result: WON
+2025-09-30 17:03:30 | INFO | Bet placed: Just Dottie x 2.28 @ Ayr 1m7f Hcap
+2025-09-30 17:05:30 | INFO | Logged bet: 2025-09-30 17:05:30 | Newcastle | 1m2f Hcap | 2025-09-30 17:00:00 | 67992236 | Hashtagnotions | 4.7 | LOST
+2025-09-30 17:05:30 | INFO | watch - Market closed: 1m2f Hcap, result: LOST
+2025-09-30 17:13:31 | INFO | Logged bet: 2025-09-30 17:13:31 | Ayr | 1m7f Hcap | 2025-09-30 17:05:00 | 42822056 | Just Dottie | 2.28 | LOST
+2025-09-30 17:13:31 | INFO | watch - Market closed: 1m7f Hcap, result: LOST
+2025-09-30 17:18:30 | INFO | Bet placed: Famous Enough x 5.2 @ Cork 1m Hcap
+2025-09-30 17:23:30 | INFO | Bet placed: Walk On Walk On x 4.7 @ Bath 6f Nursery
+2025-09-30 17:28:30 | INFO | Bet placed: Navid x 1.4 @ Newcastle 2m Hcap
+2025-09-30 17:28:31 | INFO | Logged bet: 2025-09-30 17:28:31 | Cork | 1m Hcap | 2025-09-30 17:20:00 | 54881004 | Famous Enough | 5.2 | LOST
+2025-09-30 17:28:31 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-09-30 17:34:31 | INFO | Logged bet: 2025-09-30 17:34:31 | Bath | 6f Nursery | 2025-09-30 17:25:00 | 84080038 | Walk On Walk On | 4.7 | LOST
+2025-09-30 17:34:31 | INFO | watch - Market closed: 6f Nursery, result: LOST
+2025-09-30 17:38:01 | INFO | Logged bet: 2025-09-30 17:38:01 | Newcastle | 2m Hcap | 2025-09-30 17:30:00 | 71447028 | Navid | 1.4 | LOST
+2025-09-30 17:38:01 | INFO | watch - Market closed: 2m Hcap, result: LOST
+2025-09-30 17:53:30 | INFO | Bet placed: On Edge x 6.4 @ Bath 6f Hcap
+2025-09-30 17:58:30 | INFO | Bet placed: Hello Goodbye x 1.91 @ Newcastle 6f Nov Stks
+2025-09-30 18:03:00 | INFO | Logged bet: 2025-09-30 18:03:00 | Bath | 6f Hcap | 2025-09-30 17:55:00 | 145113 | On Edge | 6.4 | WON
+2025-09-30 18:03:00 | INFO | watch - Market closed: 6f Hcap, result: WON
+2025-09-30 18:05:30 | INFO | Logged bet: 2025-09-30 18:05:30 | Newcastle | 6f Nov Stks | 2025-09-30 18:00:00 | 20121812 | Hello Goodbye | 1.91 | WON
+2025-09-30 18:05:30 | INFO | watch - Market closed: 6f Nov Stks, result: WON
+2025-09-30 18:23:30 | INFO | Bet placed: Mobaasher A x 4.7 @ Bath 1m2f Arab Hcap
+2025-09-30 18:28:30 | INFO | Bet placed: Golden Conqueror x 2.02 @ Newcastle 7f Mdn Stks
+2025-09-30 18:34:30 | INFO | Logged bet: 2025-09-30 18:34:30 | Newcastle | 7f Mdn Stks | 2025-09-30 18:30:00 | 88088325 | Golden Conqueror | 2.02 | WON
+2025-09-30 18:34:30 | INFO | watch - Market closed: 7f Mdn Stks, result: WON
+2025-09-30 18:37:31 | INFO | Logged bet: 2025-09-30 18:37:31 | Bath | 1m2f Arab Hcap | 2025-09-30 18:25:00 | 69175046 | Mobaasher A | 4.7 | LOST
+2025-09-30 18:37:31 | INFO | watch - Market closed: 1m2f Arab Hcap, result: LOST
+2025-09-30 18:58:30 | INFO | Bet placed: Thanos x 2.94 @ Newcastle 7f Nursery
+2025-09-30 19:07:01 | INFO | Logged bet: 2025-09-30 19:07:01 | Newcastle | 7f Nursery | 2025-09-30 19:00:00 | 7153026 | Thanos | 2.94 | LOST
+2025-09-30 19:07:01 | INFO | watch - Market closed: 7f Nursery, result: LOST
+2025-09-30 19:28:30 | INFO | Bet placed: Barleybrown x 4.1 @ Newcastle 1m Hcap
+2025-09-30 19:37:01 | INFO | Logged bet: 2025-09-30 19:37:01 | Newcastle | 1m Hcap | 2025-09-30 19:30:00 | 45720432 | Barleybrown | 4.1 | LOST
+2025-09-30 19:37:01 | INFO | watch - Market closed: 1m Hcap, result: LOST
+2025-09-30 19:58:30 | INFO | Bet placed: Penelope Valentine x 2.32 @ Newcastle 7f Hcap
+2025-09-30 20:04:30 | INFO | Logged bet: 2025-09-30 20:04:30 | Newcastle | 7f Hcap | 2025-09-30 20:00:00 | 69684787 | Penelope Valentine | 2.32 | LOST
+2025-09-30 20:04:30 | INFO | watch - Market closed: 7f Hcap, result: LOST
+2025-09-30 20:28:30 | INFO | Bet placed: The Green Man x 5.3 @ Newcastle 6f Hcap
+2025-09-30 20:34:00 | INFO | Logged bet: 2025-09-30 20:34:00 | Newcastle | 6f Hcap | 2025-09-30 20:30:00 | 886325 | The Green Man | 5.3 | WON
+2025-09-30 20:34:00 | INFO | watch - Market closed: 6f Hcap, result: WON

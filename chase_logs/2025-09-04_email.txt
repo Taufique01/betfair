@@ -1,0 +1,115 @@
+
+    <h2>🐎 CHASE Report — Thursday, September 04, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 01:58 PM</td>
+            <td>Southwell 4th Sep</td>
+            <td>Night Tara</td>
+            <td>1.90</td>
+            <td>£8.80</td>
+            <td>LOST</td>
+            <td>£-8.80</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 02:18 PM</td>
+            <td>Haydock 4th Sep</td>
+            <td>Spartan Times</td>
+            <td>3.35</td>
+            <td>£13.20</td>
+            <td>LOST</td>
+            <td>£-13.20</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 04, 2025 02:28 PM</td>
+            <td>Southwell 4th Sep</td>
+            <td>Inside Story</td>
+            <td>1.82</td>
+            <td>£32.20</td>
+            <td>WON</td>
+            <td>£26.40</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 02:49 PM</td>
+            <td>Haydock 4th Sep</td>
+            <td>Faeberon</td>
+            <td>2.68</td>
+            <td>£8.98</td>
+            <td>LOST</td>
+            <td>£-8.98</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 03:13 PM</td>
+            <td>Haydock 4th Sep</td>
+            <td>Gaspacho</td>
+            <td>2.42</td>
+            <td>£14.82</td>
+            <td>LOST</td>
+            <td>£-14.82</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 04, 2025 03:46 PM</td>
+            <td>Haydock 4th Sep</td>
+            <td>Blue To Blue</td>
+            <td>2.24</td>
+            <td>£23.04</td>
+            <td>WON</td>
+            <td>£28.57</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 04, 2025 04:01 PM</td>
+            <td>Southwell 4th Sep</td>
+            <td>Sapphire Princess</td>
+            <td>2.92</td>
+            <td>£9.17</td>
+            <td>LOST</td>
+            <td>£-9.17</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 04, 2025 04:26 PM</td>
+            <td>Lingfield 4th Sep</td>
+            <td>Double Meaning</td>
+            <td>1.40</td>
+            <td>£27.51</td>
+            <td>WON</td>
+            <td>£11.00</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 8 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 3 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 5 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £11.00
+    </p>
+    

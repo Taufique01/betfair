@@ -1,0 +1,12 @@
+🐎 Ghost Bet Report — 2025-08-23
+--------------------------------------------------
+[2025-08-23 13:30:01] Killarney — 2m Mdn Hrd — Wholelotofbusiness @ 1.98 — LOST
+[2025-08-23 13:32:31] Newmarket — 6f Nov Stks — Words Of Truth @ 1.80 — WON
+[2025-08-23 13:39:31] Goodwood — 1m Nov Stks — Wetsand @ 2.54 — WON
+[2025-08-23 13:58:00] York — 1m1f Grp 3 — Bullet Point @ 3.50 — LOST
+[2025-08-23 14:02:32] Curragh — 7f Mdn — Ice Dancer @ 4.60 — LOST
+
+Total Bets: 5
+Wins: 2
+Losses: 3
+Net Profit/Loss: $-0.66

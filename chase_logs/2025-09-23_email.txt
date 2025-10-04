@@ -1,0 +1,170 @@
+
+    <h2>🐎 CHASE Report — Tuesday, September 23, 2025</h2>
+    <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse">
+        <thead style="background-color:#f2f2f2">
+            <tr>
+                <th>Time</th>
+                <th>Track</th>
+                <th>Runner</th>
+                <th>Odds</th>
+                <th>Stake</th>
+                <th>Result</th>
+                <th>Profit</th>
+                <th>Leg</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        <tr style="color:#28a745">
+            <td>Sep 23, 2025 01:58 PM</td>
+            <td>Lingfield 23rd Sep</td>
+            <td>Master Vintner</td>
+            <td>1.40</td>
+            <td>£8.80</td>
+            <td>WON</td>
+            <td>£3.52</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 23, 2025 02:16 PM</td>
+            <td>Beverley 23rd Sep</td>
+            <td>Circle Of Magic</td>
+            <td>2.14</td>
+            <td>£8.95</td>
+            <td>LOST</td>
+            <td>£-8.95</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 23, 2025 02:28 PM</td>
+            <td>Listowel 23rd Sep</td>
+            <td>Straight Up</td>
+            <td>3.60</td>
+            <td>£13.43</td>
+            <td>WON</td>
+            <td>£34.92</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 23, 2025 02:44 PM</td>
+            <td>Beverley 23rd Sep</td>
+            <td>Ironwill</td>
+            <td>2.40</td>
+            <td>£9.98</td>
+            <td>WON</td>
+            <td>£13.97</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 23, 2025 02:56 PM</td>
+            <td>Listowel 23rd Sep</td>
+            <td>Liamo</td>
+            <td>6.20</td>
+            <td>£10.54</td>
+            <td>LOST</td>
+            <td>£-10.54</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 23, 2025 03:06 PM</td>
+            <td>Warwick 23rd Sep</td>
+            <td>Soleil Darizona</td>
+            <td>1.57</td>
+            <td>£22.19</td>
+            <td>WON</td>
+            <td>£12.65</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#28a745">
+            <td>Sep 23, 2025 03:19 PM</td>
+            <td>Lingfield 23rd Sep</td>
+            <td>Indian Spirit</td>
+            <td>2.16</td>
+            <td>£10.63</td>
+            <td>WON</td>
+            <td>£12.33</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 23, 2025 03:36 PM</td>
+            <td>Warwick 23rd Sep</td>
+            <td>Beau Quali</td>
+            <td>2.32</td>
+            <td>£11.12</td>
+            <td>LOST</td>
+            <td>£-11.12</td>
+            <td>Leg 1</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 23, 2025 03:44 PM</td>
+            <td>Beverley 23rd Sep</td>
+            <td>Democracy Dilemma</td>
+            <td>3.80</td>
+            <td>£16.68</td>
+            <td>LOST</td>
+            <td>£-16.68</td>
+            <td>Leg 2</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 23, 2025 03:56 PM</td>
+            <td>Listowel 23rd Sep</td>
+            <td>Evening Blossom</td>
+            <td>4.00</td>
+            <td>£25.02</td>
+            <td>LOST</td>
+            <td>£-25.02</td>
+            <td>Leg 3</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 23, 2025 04:08 PM</td>
+            <td>Warwick 23rd Sep</td>
+            <td>Belle Montrose</td>
+            <td>2.80</td>
+            <td>£41.29</td>
+            <td>LOST</td>
+            <td>£-41.29</td>
+            <td>Leg 4</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 23, 2025 04:21 PM</td>
+            <td>Lingfield 23rd Sep</td>
+            <td>City Of Poets</td>
+            <td>3.30</td>
+            <td>£61.94</td>
+            <td>LOST</td>
+            <td>£-61.94</td>
+            <td>Leg 5</td>
+        </tr>
+        
+        <tr style="color:#dc3545">
+            <td>Sep 23, 2025 04:31 PM</td>
+            <td>Southwell 23rd Sep</td>
+            <td>Night Tara</td>
+            <td>1.34</td>
+            <td>£121.85</td>
+            <td>LOST</td>
+            <td>£-121.85</td>
+            <td>Leg 6</td>
+        </tr>
+        
+        </tbody>
+    </table>
+    <p>
+        <strong>Total Bets:</strong> 13 &nbsp; | &nbsp;
+        <strong>Wins:</strong> 5 &nbsp; | &nbsp;
+        <strong>Losses:</strong> 8 &nbsp; | &nbsp;
+        <strong>Skipped:</strong> 0 <br>
+        <strong>Net P/L:</strong> £-220.00
+    </p>
+    
