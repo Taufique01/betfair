@@ -442,7 +442,7 @@ elif page == "History":
     if show_cols:
         time_col_order = "timestamp" if "timestamp" in df_all.columns else ("date" if "date" in df_all.columns else None)
         if time_col_order is not None and pd.api.types.is_datetime64_any_dtype(df_all[time_col_order]):
-            df_sorted = df_all.sort_values(time_col_order, descending=True)
+            df_sorted = df_all.sort_values(time_col_order, ascending=True)
         else:
             df_sorted = df_all.iloc[::-1].copy()
 
