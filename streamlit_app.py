@@ -1,6 +1,8 @@
 # app.py
 import os
+import json
 import contextlib
+from pathlib import Path
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
@@ -9,18 +11,7 @@ import pandas as pd
 import streamlit as st
 
 from sqlalchemy import select
-from db_layer import SessionLocal, Bet, Schedule  # ← your ORM session & models
-
-"""
-Bet Results Dashboard (Streamlit) — ORM (SQLAlchemy) version
-
-- Reads from DB (tables: bets, schedules) using SQLAlchemy ORM
-- KPIs, filters, downloadable filtered CSV
-- "Today's Summary (till now)" in your local timezone
-- "Day-wise Stats" with running balance (ALL days)
-- "Trades" table (last 20)
-- "Today's Races" split into Upcoming / Completed with bet results when available
-"""
+from db_layer import SessionLocal, Bet, Schedule  # ORM session & models
 
 # ───────────────────────── Page setup ─────────────────────────
 st.set_page_config(page_title="Bet Results Dashboard", page_icon="🎯", layout="wide")
@@ -28,16 +19,15 @@ st.set_page_config(page_title="Bet Results Dashboard", page_icon="🎯", layout=
 # ───────────────────────── Config ─────────────────────────
 CURRENCY = os.getenv("CURRENCY", "$")
 LOCAL_TZ = os.getenv("LOCAL_TZ", "Asia/Dhaka")
+CONFIG_PATH = Path(os.getenv("CONFIG_PATH", "config.json"))
+TRACK_GRADES_PATH = Path(os.getenv("TRACK_GRADES_PATH", "track_grades.json"))
+LOW_WIN_RACES_PATH = Path(os.getenv("LOW_WIN_RACES_PATH", "low_win_races.json"))
+STRAT_SETTINGS_PATH = Path(os.getenv("STRAT_SETTINGS_PATH", "strat_settings.json"))
+BANK_BALANCE_PATH = Path(os.getenv("BANK_BALANCE_PATH", "bank_balance.json"))
 
 # ───────────────────────── ORM → DataFrame ─────────────────────────
 @st.cache_data(show_spinner=False)
 def load_bets_df() -> pd.DataFrame:
-    """
-    ORM-based load from bets table.
-    Returns columns the UI expects:
-    id, timestamp, market_id, race_name, track, date (alias of race_datetime),
-    leg, selection, odds, stake, result, profit, balance (alias of balance_after)
-    """
     with contextlib.closing(SessionLocal()) as s:
         rows = s.execute(
             select(Bet).order_by(Bet.timestamp, Bet.race_datetime, Bet.id)
@@ -47,26 +37,25 @@ def load_bets_df() -> pd.DataFrame:
     for b in rows:
         recs.append({
             "id": b.id,
-            "timestamp": b.timestamp,                       # tz-aware datetime (from model)
+            "job_id": b.job_id,
+            "timestamp": b.timestamp,
             "market_id": b.market_id,
             "race_name": b.race_name,
             "track": b.track,
-            "date": b.race_datetime,                        # rename for UI compatibility
+            "date": b.race_datetime,        # alias for readability
+            "race_datetime": b.race_datetime,
             "leg": b.leg,
             "selection": b.selection,
             "odds": float(b.odds) if b.odds is not None else None,
             "stake": float(b.stake) if b.stake is not None else None,
-            "result": (b.result or "").strip().upper() if b.result is not None else None,  # 'P' | 'W' | 'L'
+            "result": (b.result or "").strip().upper() if b.result is not None else None,  # 'P'|'W'|'L'
             "profit": float(b.profit) if b.profit is not None else None,
             "balance": float(b.balance_after) if b.balance_after is not None else None,
         })
     return pd.DataFrame.from_records(recs)
 
-def load_todays_races_df(local_tz: str = "Asia/Dhaka") -> pd.DataFrame:
-    """
-    Build a table of today's scheduled races (from `schedules`) and join the latest bet (from `bets`),
-    showing status and results if completed.
-    """
+@st.cache_data(show_spinner=False)
+def load_todays_schedules_with_latest_bet(local_tz: str = "Asia/Dhaka") -> pd.DataFrame:
     TZ = ZoneInfo(local_tz)
     now_local = datetime.now(TZ)
 
@@ -105,9 +94,9 @@ def load_todays_races_df(local_tz: str = "Asia/Dhaka") -> pd.DataFrame:
         run_local = sc.run_at.astimezone(TZ) if sc.run_at else None
         b = latest_by_job.get(sc.job_id)
         records.append({
-            "run_time_local": run_local,               # local display
+            "run_time_local": run_local,
             "job_id": sc.job_id,
-            "status": sc.status,                       # scheduled|running|done|skipped|error
+            "status": sc.status,  # scheduled|running|done|skipped|error
             "race_name": sc.race_name,
             "track": sc.track,
             "market_id": sc.market_id,
@@ -116,11 +105,10 @@ def load_todays_races_df(local_tz: str = "Asia/Dhaka") -> pd.DataFrame:
             "selection": getattr(b, "selection", None),
             "odds": float(getattr(b, "odds", np.nan)) if getattr(b, "odds", None) is not None else None,
             "stake": float(getattr(b, "stake", np.nan)) if getattr(b, "stake", None) is not None else None,
-            "result": getattr(b, "result", None),      # 'P' | 'W' | 'L' or None
+            "result": (getattr(b, "result", None) or None),
             "profit": float(getattr(b, "profit", np.nan)) if getattr(b, "profit", None) is not None else None,
             "balance": float(getattr(b, "balance_after", np.nan)) if getattr(b, "balance_after", None) is not None else None,
 
-            # Race datetime (UTC in DB) — useful for ordering/fallbacks
             "race_datetime_utc": getattr(b, "race_datetime", None),
         })
 
@@ -137,7 +125,7 @@ def load_todays_races_df(local_tz: str = "Asia/Dhaka") -> pd.DataFrame:
 # ───────────────────────── Helpers ─────────────────────────
 def coerce_types(df: pd.DataFrame) -> pd.DataFrame:
     # Parse datetimes
-    for col in ["timestamp", "date"]:
+    for col in ["timestamp", "date", "race_datetime"]:
         if col in df.columns:
             df[col] = pd.to_datetime(df[col], utc=True, errors="coerce")
 
@@ -150,7 +138,7 @@ def coerce_types(df: pd.DataFrame) -> pd.DataFrame:
     if "result" in df.columns:
         df["result"] = df["result"].astype(str).str.strip().str.upper()
 
-    # Derive UTC day for global filters
+    # Derive UTC day (available if you need grouping)
     if "date" in df.columns and pd.api.types.is_datetime64_any_dtype(df["date"]):
         df["day"] = (df["date"].dt.tz_convert("UTC") if pd.api.types.is_datetime64tz_dtype(df["date"]) else df["date"]).dt.date
     elif "timestamp" in df.columns and pd.api.types.is_datetime64_any_dtype(df["timestamp"]):
@@ -175,144 +163,71 @@ def max_drawdown(series: pd.Series) -> float:
     drawdown = series - running_max
     return float(drawdown.min()) if len(series) else 0.0  # negative number
 
-# ───────────────────────── Sidebar ─────────────────────────
-st.sidebar.header("⚙️ Settings")
+# ───────────────────────── Config I/O helpers ─────────────────────────
+def load_config(path: Path) -> dict:
+    if not path.exists():
+        return {}
+    try:
+        with path.open("r", encoding="utf-8") as f:
+            return json.load(f)
+    except json.JSONDecodeError:
+        backup = path.with_suffix(".corrupt.backup.json")
+        try:
+            path.replace(backup)
+        except Exception:
+            pass
+        return {}
 
-# Manual refresh button (clear cached queries)
-if st.sidebar.button("↻ Refresh now", use_container_width=True):
+def save_config(path: Path, cfg: dict) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        json.dump(cfg, f, indent=2, ensure_ascii=False)
+
+def load_json_file(path: Path, fallback):
+    if not path.exists():
+        return fallback
+    try:
+        with path.open("r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return fallback
+
+# ───────────────────────── Sidebar ─────────────────────────
+if st.sidebar.button("↻ Refresh", use_container_width=True):
     st.cache_data.clear()
     if hasattr(st, "rerun"):
         st.rerun()
     else:
         st.experimental_rerun()
 
-# ───────────────────────── Load + prepare data ─────────────────────────
+page = st.sidebar.radio("Pages", ["Today’s Races", "Stats", "History", "Settings"], index=0)
+
+# ───────────────────────── Load + prepare base data ─────────────────────────
 try:
-    df_raw = load_bets_df()
-    if df_raw.empty:
+    df_all = load_bets_df()
+    if df_all.empty:
         st.sidebar.warning("No rows in `bets` table yet.")
 except Exception as e:
     st.sidebar.error(f"DB error: {e}")
     st.stop()
 
-df = coerce_types(df_raw.copy())
+df_all = coerce_types(df_all.copy())
 
-# Starting balance (if not in table, let user provide)
-starting_balance_default = 0.0
-if "balance" in df.columns and df["balance"].notna().any():
-    try:
-        starting_balance_default = float(df["balance"].dropna().iloc[0])
-    except Exception:
-        starting_balance_default = 0.0
+# Global aggregates (no filters)
+balance_series_global = compute_balance(df_all, starting_balance=0.0)
+wins_global     = int((df_all.get("result", pd.Series([])) == "W").sum())
+losses_global   = int((df_all.get("result", pd.Series([])) == "L").sum())
+pending_global  = int((df_all.get("result", pd.Series([])) == "P").sum())
+total_bets_glob = int(len(df_all))
+total_stake_glb = float(df_all["stake"].sum()) if "stake" in df_all.columns else 0.0
+total_profit_glb = float(df_all["profit"].sum()) if "profit" in df_all.columns else (
+    float(balance_series_global.iloc[-1] - balance_series_global.iloc[-2]) if len(balance_series_global) > 1 else 0.0
+) if len(balance_series_global) > 0 else 0.0
+dd_global = max_drawdown(balance_series_global)
 
-starting_balance = st.sidebar.number_input(
-    "Starting balance (only used if no 'balance' column)",
-    value=starting_balance_default,
-    step=10.0
-)
+time_col = "timestamp" if "timestamp" in df_all.columns else ("date" if "date" in df_all.columns else None)
 
-# Include Pending (P) bets?
-include_pending = st.sidebar.checkbox("Include pending bets (P)", value=False)
-if not include_pending and "result" in df.columns:
-    df = df[df["result"].isin(["W", "L"])]
-
-# Filters
-st.sidebar.subheader("Filters")
-
-# Date range (UTC-based)
-if "day" in df.columns and df["day"].notna().any():
-    min_day = df["day"].min()
-    max_day = df["day"].max()
-    date_range = st.sidebar.date_input("Date range", value=(min_day, max_day))
-    if isinstance(date_range, tuple) and len(date_range) == 2:
-        start_day, end_day = date_range
-        df = df[(df["day"] >= start_day) & (df["day"] <= end_day)]
-
-# Race Name filter (optional)
-if "race_name" in df.columns:
-    race_names = sorted(df["race_name"].dropna().unique().tolist())
-    selected_races = st.sidebar.multiselect("Race Name (optional)", race_names, default=[])
-    if selected_races:
-        df = df[df["race_name"].isin(selected_races)]
-
-# Result filter (W/L/P)
-if "result" in df.columns:
-    results = sorted([r for r in df["result"].dropna().unique().tolist()])
-    default_results = results if include_pending else [r for r in results if r in ("W", "L")]
-    selected_results = st.sidebar.multiselect("Result", results, default=default_results)
-    if selected_results:
-        df = df[df["result"].isin(selected_results)]
-
-# Odds range
-if "odds" in df.columns and df["odds"].notna().any():
-    min_odds = float(df["odds"].min())
-    max_odds = float(df["odds"].max())
-    odds_min, odds_max = st.sidebar.slider(
-        "Odds range",
-        min_value=float(round(min_odds, 2)),
-        max_value=float(round(max_odds + 0.01, 2)),
-        value=(float(round(min_odds, 2)), float(round(max_odds, 2)))
-    )
-    df = df[(df["odds"] >= odds_min) & (df["odds"] <= odds_max)]
-
-# Text search
-search_text = st.sidebar.text_input("Search (selection / race / track)").strip().lower()
-if search_text:
-    mask = pd.Series([False] * len(df), index=df.index)
-    for col in ["selection", "race_name", "track"]:
-        if col in df.columns:
-            mask |= df[col].astype(str).str.lower().str.contains(search_text, na=False)
-    df = df[mask]
-
-# ───────────────────────── KPIs ─────────────────────────
-balance_series = compute_balance(df, starting_balance=starting_balance)
-
-wins = int((df["result"] == "W").sum()) if "result" in df.columns else 0
-losses = int((df["result"] == "L").sum()) if "result" in df.columns else 0
-pendings = int((df["result"] == "P").sum()) if "result" in df.columns else 0
-total_bets = int(len(df))
-total_stake = float(df["stake"].sum()) if "stake" in df.columns else 0.0
-total_profit = float(df["profit"].sum()) if "profit" in df.columns else (
-    float(balance_series.iloc[-1] - balance_series.iloc[0]) if len(balance_series) > 1 else 0.0
-)
-win_rate = (wins / total_bets * 100.0) if total_bets else 0.0
-roi = (total_profit / total_stake * 100.0) if total_stake else 0.0
-dd = max_drawdown(balance_series)  # negative number
-
-# Pick a datetime column for time-based UI
-time_col = "timestamp" if "timestamp" in df.columns else ("date" if "date" in df.columns else None)
-
-# ## --- TODAY'S SUMMARY (local timezone) ---
-TZ = ZoneInfo(LOCAL_TZ)
-now_local = datetime.now(TZ)
-
-today_metrics = None
-today_remaining = 0
-if time_col is not None and pd.api.types.is_datetime64_any_dtype(df[time_col]):
-    if pd.api.types.is_datetime64tz_dtype(df[time_col]):
-        dt_local = df[time_col].dt.tz_convert(TZ)
-    else:
-        dt_local = df[time_col].dt.tz_localize(TZ)
-
-    df = df.assign(local_day=dt_local.dt.date)
-    today = now_local.date()
-    mask_today_so_far = (df["local_day"] == today) & (dt_local <= now_local)
-    mask_today_later  = (df["local_day"] == today) & (dt_local > now_local)
-
-    df_today = df.loc[mask_today_so_far].copy()
-    today_remaining = int(mask_today_later.sum())
-
-    if not df_today.empty:
-        t_bets   = int(len(df_today))
-        t_wins   = int((df_today["result"] == "W").sum()) if "result" in df_today.columns else 0
-        t_losses = int((df_today["result"] == "L").sum()) if "result" in df_today.columns else 0
-        t_stake  = float(df_today["stake"].sum()) if "stake" in df_today.columns else 0.0
-        t_profit = float(df_today["profit"].sum()) if "profit" in df_today.columns else 0.0
-        t_win_rt = (t_wins / t_bets * 100.0) if t_bets else 0.0
-        t_roi    = (t_profit / t_stake * 100.0) if t_stake else 0.0
-        today_metrics = (t_bets, t_wins, t_losses, t_stake, t_profit, t_win_rt, t_roi)
-
-# ───────────────────────── UI ─────────────────────────
+# ───────────────────────── Shared UI bits (styles) ─────────────────────────
 st.markdown(
     """
     <style>
@@ -334,169 +249,391 @@ st.markdown(
         font-size: 28px;
         font-weight: 700;
         margin-top: 4px;
-        color: #10b981; /* emerald-500 for visibility in dark theme */
+        color: #10b981;
       }
     </style>
     """,
     unsafe_allow_html=True,
 )
 
-st.title("🎯 Bet Results Dashboard")
-st.caption("Data source: database tables **bets** and **schedules** (via SQLAlchemy ORM). Click **↻ Refresh now** to clear cache and requery DB.")
+# ───────────────────────── Page: Today’s Races ─────────────────────────
+if page == "Today’s Races":
+    st.title("🏇 Today’s Races")
 
-# KPI row
-cols = st.columns(7)
-labels = [
-    ("Total Bets", total_bets),
-    ("Wins", wins),
-    ("Losses", losses),
-    ("Pending", pendings if include_pending else 0),
-    ("Total Stake", f"{CURRENCY}{total_stake:.2f}"),
-    ("P / L", f"{CURRENCY}{total_profit:+.2f}"),
-    ("Max Drawdown", f"{CURRENCY}{dd:.2f}"),
-]
-for (label, value), c in zip(labels, cols):
-    c.markdown(f'<div class="metric-card"><div class="muted">{label}</div><div class="value">{value}</div></div>', unsafe_allow_html=True)
+    TZ = ZoneInfo(LOCAL_TZ)
+    now_local = datetime.now(TZ)
 
-# ───────────────────────── Today's Races (Upcoming / Completed) ─────────────────────────
-st.markdown("---")
-st.subheader(f"Today's Races · {LOCAL_TZ}")
+    today_metrics = None
+    current_balance = float(balance_series_global.iloc[-1]) if len(balance_series_global) else 0.0
 
-df_races = load_todays_races_df(LOCAL_TZ)
+    if time_col is not None and pd.api.types.is_datetime64_any_dtype(df_all[time_col]):
+        dt_local = df_all[time_col].dt.tz_convert(TZ) if pd.api.types.is_datetime64tz_dtype(df_all[time_col]) else df_all[time_col].dt.tz_localize(TZ)
+        df_today = df_all.assign(local_day=dt_local.dt.date)
+        today = now_local.date()
+        mask_today_so_far = (df_today["local_day"] == today) & (dt_local <= now_local)
 
-if df_races.empty:
-    st.info("No schedules found for today.")
-else:
-    now_local = datetime.now(ZoneInfo(LOCAL_TZ))
-    upcoming_mask = df_races["run_time_local"] >= now_local
-    df_upcoming = df_races.loc[upcoming_mask].copy()
-    df_completed = df_races.loc[~upcoming_mask].copy()
+        df_today_so_far = df_today.loc[mask_today_so_far].copy()
+        if not df_today_so_far.empty:
+            t_bets   = int(len(df_today_so_far))
+            t_wins   = int((df_today_so_far["result"] == "W").sum()) if "result" in df_today_so_far.columns else 0
+            t_losses = int((df_today_so_far["result"] == "L").sum()) if "result" in df_today_so_far.columns else 0
+            t_stake  = float(df_today_so_far["stake"].sum()) if "stake" in df_today_so_far.columns else 0.0
+            t_profit = float(df_today_so_far["profit"].sum()) if "profit" in df_today_so_far.columns else 0.0
+            t_win_rt = (t_wins / t_bets * 100.0) if t_bets else 0.0
+            t_roi    = (t_profit / t_stake * 100.0) if t_stake else 0.0
+            today_metrics = (t_bets, t_wins, t_losses, t_stake, t_profit, t_win_rt, t_roi)
 
-    cols_common = ["run_time_local", "track", "race_name", "status"]
-    cols_bet = ["selection", "odds", "stake", "result", "profit", "balance"]
-    display_upcoming = [c for c in cols_common + cols_bet if c in df_upcoming.columns]
-    display_completed = [c for c in cols_common + cols_bet if c in df_completed.columns]
+    st.subheader(f"Today’s Summary · {LOCAL_TZ}")
+    if today_metrics is None:
+        st.info("No dated rows found to compute today's stats yet.")
+    else:
+        t_bets, t_wins, t_losses, t_stake, t_profit, t_win_rt, t_roi = today_metrics
+        cA, cB, cC, cD, cE, cF, cG, cH = st.columns(8)
+        for (label, val), c in zip(
+            [
+                ("Bets Today", t_bets),
+                ("Wins", t_wins),
+                ("Losses", t_losses),
+                ("Stake", f"{CURRENCY}{t_stake:.2f}"),
+                ("P / L", f"{CURRENCY}{t_profit:+.2f}"),
+                ("Win Rate", f"{t_win_rt:.1f}%"),
+                ("ROI", f"{t_roi:.1f}%"),
+                ("Current Balance", f"{CURRENCY}{current_balance:.2f}"),
+            ],
+            [cA, cB, cC, cD, cE, cF, cG, cH],
+        ):
+            c.markdown(
+                f'<div class="metric-card"><div class="muted">{label}</div><div class="value">{val}</div></div>',
+                unsafe_allow_html=True
+            )
 
-    tab1, tab2 = st.tabs(["⏳ Upcoming", "✅ Completed"])
-    with tab1:
-        if df_upcoming.empty:
-            st.info("No upcoming races today.")
+    st.markdown("---")
+    st.subheader(f"Races Today · {LOCAL_TZ}")
+
+    df_races = load_todays_schedules_with_latest_bet(LOCAL_TZ)
+    if df_races.empty:
+        st.info("No schedules found for today.")
+    else:
+        statuses = ["All", "scheduled", "running", "done", "skipped", "error"]
+        tabs = st.tabs([s.capitalize() for s in statuses])
+
+        base_cols = ["run_time_local", "track", "race_name", "status"]
+        bet_cols  = ["selection", "odds", "stake", "result", "profit", "balance"]
+        display_cols = [c for c in base_cols + bet_cols if c in df_races.columns]
+
+        for s, tab in zip(statuses, tabs):
+            with tab:
+                if s == "All":
+                    df_view = df_races.copy()
+                else:
+                    df_view = df_races[df_races["status"] == s].copy()
+
+                if df_view.empty:
+                    st.info(f"No {s.lower()} races." if s != "All" else "No races today.")
+                else:
+                    df_view["run_time_local"] = df_view["run_time_local"].dt.strftime("%H:%M")
+                    st.dataframe(df_view[display_cols], use_container_width=True, hide_index=True)
+
+        remaining = (df_races["status"].isin(["scheduled", "running"])).sum()
+        st.caption(f"Races remaining today (by status): {remaining}")
+
+# ───────────────────────── Page: Stats (Day-wise) ─────────────────────────
+elif page == "Stats":
+    st.title("📊 Day-wise Stats")
+
+    TZ = ZoneInfo(LOCAL_TZ)
+    if time_col is not None and pd.api.types.is_datetime64_any_dtype(df_all[time_col]):
+        dt_local_for_days = df_all[time_col].dt.tz_convert(TZ) if pd.api.types.is_datetime64tz_dtype(df_all[time_col]) else df_all[time_col].dt.tz_localize(TZ)
+        df_day = df_all.assign(day_local=dt_local_for_days.dt.date)
+    else:
+        df_day = df_all.copy()
+        df_day["day_local"] = df_all["day"] if "day" in df_all.columns else pd.NaT
+
+    if df_day["day_local"].notna().any():
+        daily_stats = (
+            df_day.groupby("day_local", dropna=True)
+                  .agg(
+                      bets=("result", "size"),
+                      wins=("result", lambda s: (s == "W").sum()),
+                      losses=("result", lambda s: (s == "L").sum()),
+                      stake=("stake", "sum") if "stake" in df_day.columns else ("result", "size"),
+                      profit=("profit", "sum") if "profit" in df_day.columns else ("result", "size"),
+                  )
+                  .reset_index()
+                  .sort_values("day_local")
+        )
+        for col in ["stake", "profit"]:
+            if col in daily_stats.columns:
+                daily_stats[col] = pd.to_numeric(daily_stats[col], errors="coerce").fillna(0.0)
+
+        daily_stats["win_rate_%"] = np.where(daily_stats["bets"] > 0, (daily_stats["wins"] / daily_stats["bets"]) * 100.0, 0.0)
+        daily_stats["roi_%"] = np.where(
+            daily_stats["stake"] > 0,
+            (daily_stats["profit"] / daily_stats["stake"]) * 100.0,
+            0.0
+        )
+        if "profit" in daily_stats.columns:
+            daily_stats["balance"] = float(0.0) + daily_stats["profit"].cumsum()
         else:
-            df_upcoming["run_time_local"] = df_upcoming["run_time_local"].dt.strftime("%H:%M")
-            st.dataframe(df_upcoming[display_upcoming], use_container_width=True, hide_index=True)
-    with tab2:
-        if df_completed.empty:
-            st.info("No completed races yet today.")
+            daily_stats["balance"] = np.nan
+
+        total_days = int(daily_stats["day_local"].nunique())
+        total_bets = int(daily_stats["bets"].sum())
+        total_wins = int(daily_stats["wins"].sum())
+        total_losses = int(daily_stats["losses"].sum())
+        total_stake = float(daily_stats["stake"].sum()) if "stake" in daily_stats.columns else 0.0
+        total_profit = float(daily_stats["profit"].sum()) if "profit" in daily_stats.columns else 0.0
+        last_balance = float(daily_stats["balance"].iloc[-1]) if "balance" in daily_stats.columns and len(daily_stats) else 0.0
+
+        c1, c2, c3, c4, c5, c6, c7 = st.columns(7)
+        for (label, val), c in zip(
+            [
+                ("Days", total_days),
+                ("Total Bets", total_bets),
+                ("Wins", total_wins),
+                ("Losses", total_losses),
+                ("Total Stake", f"{CURRENCY}{total_stake:.2f}"),
+                ("P / L", f"{CURRENCY}{total_profit:+.2f}"),
+                ("Last Balance", f"{CURRENCY}{last_balance:.2f}"),
+            ],
+            [c1, c2, c3, c4, c5, c6, c7],
+        ):
+            c.markdown(f'<div class="metric-card"><div class="muted">{label}</div><div class="value">{val}</div></div>', unsafe_allow_html=True)
+
+        st.markdown("---")
+        display_cols = ["day_local", "bets", "wins", "losses"]
+        if "stake" in daily_stats.columns: display_cols.append("stake")
+        if "profit" in daily_stats.columns: display_cols.append("profit")
+        display_cols += ["win_rate_%", "roi_%", "balance"]
+
+        daily_display = daily_stats[display_cols].copy()
+        for c in ["stake", "profit", "win_rate_%", "roi_%", "balance"]:
+            if c in daily_display.columns:
+                daily_display[c] = daily_display[c].astype(float).round(2)
+
+        st.dataframe(daily_display, use_container_width=True, hide_index=True)
+    else:
+        st.info("No date/time column found to compute day-wise stats.")
+
+# ───────────────────────── Page: History (Summary + Trades) ─────────────────────────
+elif page == "History":
+    st.title("📜 History")
+
+    cols = st.columns(7)
+    labels = [
+        ("Total Bets", total_bets_glob),
+        ("Wins", wins_global),
+        ("Losses", losses_global),
+        ("Pending", pending_global),
+        ("Total Stake", f"{CURRENCY}{total_stake_glb:.2f}"),
+        ("P / L", f"{CURRENCY}{total_profit_glb:+.2f}"),
+        ("Max Drawdown", f"{CURRENCY}{dd_global:.2f}"),
+    ]
+    for (label, value), c in zip(labels, cols):
+        c.markdown(
+            f'<div class="metric-card"><div class="muted">{label}</div><div class="value">{value}</div></div>',
+            unsafe_allow_html=True
+        )
+
+    st.markdown("---")
+    st.subheader("Bet Results (Trades) — full history")
+
+    show_cols = [c for c in ["timestamp", "track", "race_name", "selection", "odds", "stake", "result", "profit", "balance"] if c in df_all.columns]
+    if show_cols:
+        time_col_order = "timestamp" if "timestamp" in df_all.columns else ("date" if "date" in df_all.columns else None)
+        if time_col_order is not None and pd.api.types.is_datetime64_any_dtype(df_all[time_col_order]):
+            df_sorted = df_all.sort_values(time_col_order, descending=True)
         else:
-            df_completed["run_time_local"] = df_completed["run_time_local"].dt.strftime("%H:%M")
-            df_completed = df_completed.sort_values("run_time_local", ascending=False)
-            st.dataframe(df_completed[display_completed], use_container_width=True, hide_index=True)
+            df_sorted = df_all.iloc[::-1].copy()
 
-# ───────────────────────── Today's Summary (till now) ─────────────────────────
-st.markdown("---")
-st.subheader(f"Today's Summary · {LOCAL_TZ}")
-if today_metrics is None:
-    st.info("No dated rows found to compute today's stats.")
-else:
-    t_bets, t_wins, t_losses, t_stake, t_profit, t_win_rt, t_roi = today_metrics
-    cA, cB, cC, cD, cE, cF, cG = st.columns(7)
-    for (label, val), c in zip(
-        [
-            ("Bets Today", t_bets),
-            ("Wins", t_wins),
-            ("Losses", t_losses),
-            ("Stake", f"{CURRENCY}{t_stake:.2f}"),
-            ("P / L", f"{CURRENCY}{t_profit:+.2f}"),
-            ("Win Rate", f"{t_win_rt:.1f}%"),
-            ("ROI", f"{t_roi:.1f}%"),
-        ],
-        [cA, cB, cC, cD, cE, cF, cG],
-    ):
-        c.markdown(f'<div class="metric-card"><div class="muted">{label}</div><div class="value">{val}</div></div>', unsafe_allow_html=True)
-    st.caption(f"Races remaining today: {(df_races['run_time_local'] >= now_local).sum() if not df_races.empty else 0}")
+        df_trades = df_sorted[show_cols].copy()
+        for col in ["odds", "stake", "profit", "balance"]:
+            if col in df_trades.columns:
+                df_trades[col] = df_trades[col].map(lambda x: round(x, 3) if pd.notna(x) else x)
 
-# ───────────────────────── Day-wise Stats (local day) ─────────────────────────
-st.markdown("---")
-st.subheader(f"Day-wise Stats · {LOCAL_TZ}")
-
-# Build a local-day column
-if time_col is not None and pd.api.types.is_datetime64_any_dtype(df[time_col]):
-    if pd.api.types.is_datetime64tz_dtype(df[time_col]):
-        dt_local_for_days = df[time_col].dt.tz_convert(ZoneInfo(LOCAL_TZ))
+        st.dataframe(df_trades, use_container_width=True, hide_index=True)
     else:
-        dt_local_for_days = df[time_col].dt.tz_localize(ZoneInfo(LOCAL_TZ))
-    df_day = df.assign(day_local=dt_local_for_days.dt.date)
-else:
-    df_day = df.copy()
-    df_day["day_local"] = df["day"] if "day" in df.columns else pd.NaT
+        st.info("No displayable columns found. Check your `bets` schema.")
 
-if df_day["day_local"].notna().any():
-    daily_stats = (
-        df_day.groupby("day_local", dropna=True)
-              .agg(
-                  bets=("result", "size"),
-                  wins=("result", lambda s: (s == "W").sum()),
-                  losses=("result", lambda s: (s == "L").sum()),
-                  stake=("stake", "sum") if "stake" in df_day.columns else ("result", "size"),
-                  profit=("profit", "sum") if "profit" in df_day.columns else ("result", "size"),
-              )
-              .reset_index()
-              .sort_values("day_local")
+    st.download_button(
+        "⬇️ Download full bets CSV",
+        data=df_all.to_csv(index=False).encode("utf-8"),
+        file_name="bet_results_full.csv",
+        mime="text/csv",
     )
-    for col in ["stake", "profit"]:
-        if col in daily_stats.columns:
-            daily_stats[col] = pd.to_numeric(daily_stats[col], errors="coerce").fillna(0.0)
 
-    daily_stats["win_rate_%"] = np.where(daily_stats["bets"] > 0, (daily_stats["wins"] / daily_stats["bets"]) * 100.0, 0.0)
-    daily_stats["roi_%"] = np.where(
-        daily_stats["stake"] > 0,
-        (daily_stats["profit"] / daily_stats["stake"]) * 100.0,
-        0.0
+# ───────────────────────── Page: Settings (email_recipient + JSON editors + bank balance) ─────────────────────────
+elif page == "Settings":
+    st.title("⚙️ Settings")
+
+    # ---------- Email Recipient ----------
+    st.caption(f"`{CONFIG_PATH.name}`")
+    cfg = load_config(CONFIG_PATH)
+
+    with st.form("recipient_settings_form", clear_on_submit=False):
+        st.subheader("Notification Recipient")
+        email_recipient = st.text_input(
+            "Email Recipient",
+            value=cfg.get("email_recipient", ""),
+            placeholder="recipient@example.com",
+        )
+        submitted = st.form_submit_button("💾 Save Recipient", use_container_width=True)
+        if submitted:
+            cfg["email_recipient"] = email_recipient.strip()
+            try:
+                save_config(CONFIG_PATH, cfg)
+                st.success("Recipient saved to config.json.")
+            except Exception as e:
+                st.error(f"Failed to save config: {e}")
+
+    st.markdown("---")
+
+    # ---------- Track Grades Editor ----------
+    st.subheader("Track Grades")
+    st.caption(f"`{TRACK_GRADES_PATH.name}`")
+
+    default_tracks = {
+        "Ascot": {"skip": False, "grade": "A"},
+        "Brighton": {"skip": True, "grade": "C"},
+        "York": {"skip": False, "grade": "A"},
+    }
+    tracks_obj = load_json_file(TRACK_GRADES_PATH, default_tracks)
+
+    rows = []
+    if isinstance(tracks_obj, dict):
+        for k, v in tracks_obj.items():
+            rows.append({"track": k, "skip": bool(v.get("skip", False)), "grade": str(v.get("grade", ""))})
+    else:
+        for k, v in default_tracks.items():
+            rows.append({"track": k, "skip": v["skip"], "grade": v["grade"]})
+
+    df_tracks = pd.DataFrame(rows).sort_values("track") if rows else pd.DataFrame(columns=["track", "skip", "grade"])
+
+    edited_tracks = st.data_editor(
+        df_tracks,
+        num_rows="dynamic",
+        use_container_width=True,
+        key="tracks_editor",
+        column_config={
+            "track": st.column_config.TextColumn("Track", required=True),
+            "skip": st.column_config.CheckboxColumn("Skip", default=False),
+            "grade": st.column_config.TextColumn("Grade", help="Optional note/grade"),
+        }
     )
-    if "profit" in daily_stats.columns:
-        daily_stats["balance"] = float(starting_balance) + daily_stats["profit"].cumsum()
-    else:
-        daily_stats["balance"] = np.nan
 
-    display_cols = ["day_local", "bets", "wins", "losses"]
-    if "stake" in daily_stats.columns: display_cols.append("stake")
-    if "profit" in daily_stats.columns: display_cols.append("profit")
-    display_cols += ["win_rate_%", "roi_%", "balance"]
+    if st.button("💾 Save low grades races", use_container_width=True):
+        try:
+            cleaned = {}
+            for _, r in edited_tracks.dropna(subset=["track"]).iterrows():
+                name = str(r["track"]).strip()
+                if not name:
+                    continue
+                cleaned[name] = {
+                    "skip": bool(r.get("skip", False)),
+                    "grade": str(r.get("grade", "")),
+                }
+            save_config(TRACK_GRADES_PATH, cleaned)
+            st.success("Saved track_grades.json")
+        except Exception as e:
+            st.error(f"Failed to save track_grades.json: {e}")
 
-    daily_display = daily_stats[display_cols].copy()
-    for c in ["stake", "profit", "win_rate_%", "roi_%", "balance"]:
-        if c in daily_display.columns:
-            daily_display[c] = daily_display[c].astype(float).round(2)
+    st.markdown("---")
 
-    st.dataframe(daily_display, use_container_width=True, hide_index=True)
-else:
-    st.info("No date/time column found to compute day-wise stats.")
+    # ---------- Low Win Races Editor ----------
+    st.subheader("Low Win Races")
+    st.caption(f"`{LOW_WIN_RACES_PATH.name}`")
 
-# ───────────────────────── Trades (LAST 20) ─────────────────────────
-st.markdown("---")
-st.subheader("Trades (last 20)")
-show_cols = [c for c in ["timestamp", "track", "race_name", "selection", "odds", "stake", "result", "profit", "balance"] if c in df.columns]
+    default_low_win = [
+        {"event_name": "5f Hcap", "skip": True},
+        {"event_name": "6f Hcap", "skip": True},
+    ]
+    low_win_list = load_json_file(LOW_WIN_RACES_PATH, default_low_win)
 
-if show_cols:
-    time_col_order = "timestamp" if "timestamp" in df.columns else ("date" if "date" in df.columns else None)
-    if time_col_order is not None and pd.api.types.is_datetime64_any_dtype(df[time_col_order]):
-        df_sorted = df.sort_values(time_col_order, ascending=False)
-    else:
-        df_sorted = df.iloc[::-1].copy()
+    if not isinstance(low_win_list, list):
+        low_win_list = default_low_win
 
-    df_last20 = df_sorted[show_cols].head(20).copy()
-    for col in ["odds", "stake", "profit", "balance"]:
-        if col in df_last20.columns:
-            df_last20[col] = df_last20[col].map(lambda x: round(x, 3) if pd.notna(x) else x)
+    df_low = pd.DataFrame(low_win_list)
+    if "event_name" not in df_low.columns:
+        df_low["event_name"] = ""
+    if "skip" not in df_low.columns:
+        df_low["skip"] = False
+    df_low = df_low[["event_name", "skip"]]
 
-    st.dataframe(df_last20, use_container_width=True, hide_index=True)
-else:
-    st.info("No displayable columns found. Check your `bets` schema.")
+    edited_low = st.data_editor(
+        df_low,
+        num_rows="dynamic",
+        use_container_width=True,
+        key="low_win_editor",
+        column_config={
+            "event_name": st.column_config.TextColumn("Event Name", required=True),
+            "skip": st.column_config.CheckboxColumn("Skip", default=False),
+        }
+    )
 
-# Download filtered CSV (from DB rows after filters)
-st.download_button(
-    "⬇️ Download filtered CSV",
-    data=df.to_csv(index=False).encode("utf-8"),
-    file_name="bet_results_filtered.csv",
-    mime="text/csv",
-)
+    if st.button("💾 Save low win races", use_container_width=True):
+        try:
+            out = []
+            for _, r in edited_low.dropna(subset=["event_name"]).iterrows():
+                name = str(r["event_name"]).strip()
+                if not name:
+                    continue
+                out.append({"event_name": name, "skip": bool(r.get("skip", False))})
+            save_config(LOW_WIN_RACES_PATH, out)
+            st.success("Saved low_win_races.json")
+        except Exception as e:
+            st.error(f"Failed to save low_win_races.json: {e}")
+
+    st.markdown("---")
+
+    # ---------- Strategy Settings Editor ----------
+    st.subheader("Strategy Settings")
+    st.caption(f"`{STRAT_SETTINGS_PATH.name}`")
+
+    default_strat = {"cutoff_time": "23:00", "bet_buffer_seconds": 300}
+    strat_cfg = load_json_file(STRAT_SETTINGS_PATH, default_strat)
+
+    with st.form("strat_settings_form", clear_on_submit=False):
+        cutoff_time = st.text_input("Cutoff Time (HH:MM, 24h)", value=str(strat_cfg.get("cutoff_time", "23:00")))
+        bet_buffer_seconds = st.number_input("Bet Buffer Seconds", min_value=0, step=5, value=int(strat_cfg.get("bet_buffer_seconds", 300)))
+        submitted_strat = st.form_submit_button("💾 Save start setting", use_container_width=True)
+        if submitted_strat:
+            try:
+                datetime.strptime(cutoff_time.strip(), "%H:%M")
+                save_config(STRAT_SETTINGS_PATH, {
+                    "cutoff_time": cutoff_time.strip(),
+                    "bet_buffer_seconds": int(bet_buffer_seconds),
+                })
+                st.success("Saved strat_settings.json")
+            except ValueError:
+                st.error("Invalid time format for Cutoff Time. Use HH:MM (24h).")
+            except Exception as e:
+                st.error(f"Failed to save strat_settings.json: {e}")
+
+    st.markdown("---")
+
+    # ---------- Bank Balance Editor ----------
+    st.subheader("Bank Balance")
+    st.caption(f"`{BANK_BALANCE_PATH.name}`")
+
+    bank_default = {"balance": 220.00}
+    bank_cfg = load_json_file(BANK_BALANCE_PATH, bank_default)
+    try:
+        current_balance_val = float(bank_cfg.get("balance", bank_default["balance"]))
+    except Exception:
+        current_balance_val = bank_default["balance"]
+
+    with st.form("bank_balance_form", clear_on_submit=False):
+        new_balance = st.number_input(
+            "Balance",
+            min_value=0.0,
+            step=1.0,
+            value=round(current_balance_val, 2),
+            format="%.2f"
+        )
+        submitted_bank = st.form_submit_button("💾 Save bank balance", use_container_width=True)
+        if submitted_bank:
+            try:
+                save_config(BANK_BALANCE_PATH, {"balance": float(new_balance)})
+                st.success("Saved bank_balance.json")
+            except Exception as e:
+                st.error(f"Failed to save bank_balance.json: {e}")
