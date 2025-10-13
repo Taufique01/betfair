@@ -18,7 +18,7 @@ st.set_page_config(page_title="Bet Results Dashboard", page_icon="🎯", layout=
 
 # ───────────────────────── Config ─────────────────────────
 CURRENCY = os.getenv("CURRENCY", "$")
-LOCAL_TZ = os.getenv("LOCAL_TZ", "Asia/Dhaka")
+LOCAL_TZ = os.getenv("LOCAL_TZ", "Europe/London")
 CONFIG_PATH = Path(os.getenv("CONFIG_PATH", "config.json"))
 TRACK_GRADES_PATH = Path(os.getenv("TRACK_GRADES_PATH", "track_grades.json"))
 LOW_WIN_RACES_PATH = Path(os.getenv("LOW_WIN_RACES_PATH", "low_win_races.json"))
