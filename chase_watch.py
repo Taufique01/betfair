@@ -1,4 +1,3 @@
-
 # ============================
 # File: chase_bot.py
 # Purpose: Main logic; imports DB helpers from db_layer.py
@@ -19,7 +18,7 @@ from results import await_result
 
 from db_layer import (
     init_db, record_schedule, update_schedule_status,
-    create_pending_bet, finalize_bet
+    create_pending_bet, finalize_bet, get_balance, update_balance
 )
 
 # -----------------------------
@@ -72,6 +71,7 @@ def load_json(path: Path):
         return json.load(f)
 
 def load_initial_balance():
+    """Initial boot balance (from file, only used at startup reset)."""
     if not BALANCE_FILE.exists():
         log_message(f"Missing {BALANCE_FILE}", "ERROR"); sys.exit(1)
     b = load_json(BALANCE_FILE)
@@ -80,21 +80,33 @@ def load_initial_balance():
     return float(b["balance"])
 
 def load_state():
+    """Load chase state from JSON, but override balance from DB after startup."""
     if STATE_FILE.exists():
         with open(STATE_FILE, "r") as f:
-            return json.load(f)
-    return {
-        "balance": load_initial_balance(),
-        "leg": 1,
-        "accumulated_losses": 0.0,
-        "prev_stake": None,
-        "chase_active": False,
-        "is_running_race": False,
-    }
+            state = json.load(f)
+    else:
+        state = {
+            "balance": load_initial_balance(),
+            "leg": 1,
+            "accumulated_losses": 0.0,
+            "prev_stake": None,
+            "chase_active": False,
+            "is_running_race": False,
+        }
+
+    # Always override with DB balance (single source of truth)
+    try:
+        db_balance = get_balance()
+        state["balance"] = db_balance
+    except Exception as e:
+        log_message(f"⚠️ Could not load balance from DB: {e}", "ERROR")
+
+    return state
 
 def save_state(state: dict):
+    """Save local chase state (excluding DB sync)."""
     with open(STATE_FILE, "w") as f:
-        json.dump(state, f)
+        json.dump(state, f, indent=2)
 
 # -----------------------------
 # Stake calculation
@@ -247,7 +259,7 @@ def place_bet_job(client, market, job_id: str):
             update_schedule_status(job_id, "skipped", error=msg)
             return
 
-        bal = state.get("balance", 0.0)
+        bal = get_balance()  # ✅ Always use DB balance
         if bal < float(MIN_STAKE):
             msg = f"Skipping bet for {market.market_name} - balance too low ({bal} < {MIN_STAKE})"
             log_message(msg, "WARN")
@@ -313,12 +325,11 @@ def place_bet_job(client, market, job_id: str):
         state["balance"] = bal
         state["is_running_race"] = False
         save_state(state)
+        update_balance(bal)  # ✅ Persist new balance to DB
 
-        # DB: finalize bet + schedule
         finalize_bet(bet_id, result_code=("W" if win else "L"), profit=profit, balance_after=bal)
         update_schedule_status(job_id, "done")
 
-        # Optional CSV
         rec = {
             "timestamp": datetime.now(LONDON).isoformat(),
             "market_id": getattr(market, "market_id", None),
@@ -335,9 +346,7 @@ def place_bet_job(client, market, job_id: str):
         }
         append_result_csv(rec)
 
-        log_message(
-            f"Bet {rec['race_name']}: {rec['selection']} | stake {stake} | result {rec['result']} | balance {bal}"
-        )
+        log_message(f"Bet {rec['race_name']}: {rec['selection']} | stake {stake} | result {rec['result']} | balance {bal}")
 
     except Exception as e:
         import traceback
@@ -355,14 +364,21 @@ def place_bet_job(client, market, job_id: str):
 
 def daily_reset_job():
     log_message("Running daily 5 AM reset")
+
+    # Load initial balance from JSON
+    init_balance = load_initial_balance()
+
     save_state({
-        "balance": load_initial_balance(),
+        "balance": init_balance,
         "leg": 1,
         "accumulated_losses": 0.0,
         "prev_stake": None,
         "chase_active": False,
         "is_running_race": False,
     })
+
+    update_balance(init_balance)  # ✅ Sync to DB
+    log_message(f"Daily reset completed. Starting balance: {init_balance}")
 
 # -----------------------------
 # Scheduling (creates rows in DB)
@@ -393,7 +409,6 @@ def schedule_races(scheduler):
 
         job_id = f"{getattr(m, 'market_id', 'm')}-{int(bet_time.timestamp())}"
 
-        # DB row CREATED here for the schedule
         record_schedule(job_id, m, bet_time, status="scheduled")
 
         try:
@@ -419,9 +434,7 @@ def schedule_races(scheduler):
 # Main
 # -----------------------------
 if __name__ == "__main__":
-    from datetime import time as dt_time
     init_db()
-
     TZ = LONDON
     scheduler = BackgroundScheduler(timezone=TZ)
     scheduler.start()
