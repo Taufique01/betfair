@@ -97,19 +97,30 @@ def update_balance(new_balance: float):
 # -----------------------------
 # Core CRUD helpers
 # -----------------------------
+# db_layer.py
 def record_schedule(job_id: str, market, run_at: datetime, status="scheduled", error=None):
-    with SessionLocal() as s:
-        sched = Schedule(
-            job_id=job_id,
-            market_id=getattr(market, "market_id", None),
-            race_name=getattr(market, "market_name", None),
-            track=getattr(getattr(market, "event", None), "name", None),
-            run_at=run_at,
-            status=status,
-            error=error,
+    from sqlalchemy import text
+    with engine.begin() as conn:
+        conn.execute(
+            text("""
+            INSERT INTO schedules (job_id, market_id, race_name, track, run_at, status, error, created_at)
+            VALUES (:jid, :mid, :rname, :track, :run_at, :status, :error, CURRENT_TIMESTAMP)
+            ON CONFLICT(job_id) DO UPDATE
+            SET run_at = excluded.run_at,
+                status = excluded.status,
+                error = excluded.error,
+                updated_at = CURRENT_TIMESTAMP
+            """),
+            {
+                "jid": job_id,
+                "mid": getattr(market, "market_id", None),
+                "rname": getattr(market, "market_name", None),
+                "track": getattr(getattr(market, "event", None), "name", None),
+                "run_at": run_at,
+                "status": status,
+                "error": error,
+            },
         )
-        s.add(sched)
-        s.commit()
 
 def update_schedule_status(job_id: str, status: str, error: str | None = None):
     with SessionLocal() as s:
