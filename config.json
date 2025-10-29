@@ -1,7 +1,7 @@
 {
-  "betfair_username": "denverdowns@proton.me",
-  "betfair_password": "Hayd3n2002!",
-  "betfair_app_key": "C0E8TBsIPsgjw34g",
+  "betfair_username": "Phisherman.sem@gmail.com",
+  "betfair_password": "Foxhillhorse@53",
+  "betfair_app_key": "Am5ISM41HfA961hy",
   "cert_file": "C:/Users/Adam/Desktop/Betfair Bot/certs/client-2048.crt",
   "key_file": "C:/Users/Adam/Desktop/Betfair Bot/certs/client-2048.key",
   "pem_file": "C:/Users/Adam/Desktop/Betfair Bot/certs/client-2048.pem",
@@ -22,3 +22,4 @@
   "smtp_pass": "kirk giax oebg tlwb",
   "email_from": "no-reply@yourdomain.com"
 }
+
