@@ -1,1 +1,8 @@
-{"balance": 220.0, "leg": 1, "accumulated_losses": 0.0, "prev_stake": null, "chase_active": false}
+{
+  "balance": 2000.0,
+  "leg": 1,
+  "accumulated_losses": 0.0,
+  "prev_stake": null,
+  "chase_active": false,
+  "is_running_race": false
+}
