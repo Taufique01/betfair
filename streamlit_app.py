@@ -96,14 +96,14 @@ def load_todays_schedules_with_latest_bet(local_tz: str = "Asia/Dhaka") -> pd.Da
         records.append({
             "run_time_local": run_local,
             "job_id": sc.job_id,
-            "status": sc.status,  # scheduled|running|done|skipped|error
+            "status": sc.status,
             "race_name": sc.race_name,
             "track": sc.track,
             "market_id": sc.market_id,
 
-            # Bet details (if any)
+            # ✅ Show odds from Bet if available, else from Schedule
             "selection": getattr(b, "selection", None),
-            "odds": float(getattr(b, "odds", np.nan)) if getattr(b, "odds", None) is not None else None,
+            "odds": float(getattr(b, "odds", sc.odds)) if (getattr(b, "odds", None) is not None or sc.odds is not None) else None,
             "stake": float(getattr(b, "stake", np.nan)) if getattr(b, "stake", None) is not None else None,
             "result": (getattr(b, "result", None) or None),
             "profit": float(getattr(b, "profit", np.nan)) if getattr(b, "profit", None) is not None else None,
