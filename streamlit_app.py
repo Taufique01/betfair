@@ -56,7 +56,7 @@ def load_bets_df() -> pd.DataFrame:
 
 @st.cache_data(show_spinner=False)
 def load_todays_schedules_with_latest_bet(local_tz: str = "Asia/Dhaka") -> pd.DataFrame:
-    TZ = ZoneInfo(local_tz)
+    TZ = ZoneInfo("Europe/London")
     now_local = datetime.now(TZ)
 
     # Local day bounds
