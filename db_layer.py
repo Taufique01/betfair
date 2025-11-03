@@ -94,26 +94,24 @@ def update_balance(new_balance: float):
 # Core CRUD helpers
 # -----------------------------
 # db_layer.py
-def record_schedule(job_id: str, market, run_at: datetime, status="scheduled", error=None,
-                    fav_name=None, odds=None):
-    """Insert or update a scheduled race with optional favorite/odds snapshot."""
+def record_schedule(job_id: str, market, run_at: datetime, status="scheduled", error=None, odds=None):
+    """Insert or update a scheduled race with optional odds snapshot."""
     from sqlalchemy import text
     with engine.begin() as conn:
         conn.execute(
             text("""
             INSERT INTO schedules (
                 job_id, market_id, race_name, track,
-                run_at, status, error, fav_name, odds, created_at
+                run_at, status, error, odds, created_at
             )
             VALUES (
                 :jid, :mid, :rname, :track,
-                :run_at, :status, :error, :fav_name, :odds, CURRENT_TIMESTAMP
+                :run_at, :status, :error, :odds, CURRENT_TIMESTAMP
             )
             ON CONFLICT(job_id) DO UPDATE
             SET run_at = excluded.run_at,
                 status = excluded.status,
                 error = excluded.error,
-                fav_name = excluded.fav_name,
                 odds = excluded.odds,
                 updated_at = CURRENT_TIMESTAMP
             """),
@@ -125,7 +123,6 @@ def record_schedule(job_id: str, market, run_at: datetime, status="scheduled", e
                 "run_at": run_at,
                 "status": status,
                 "error": error,
-                "fav_name": fav_name,
                 "odds": odds,
             },
         )
