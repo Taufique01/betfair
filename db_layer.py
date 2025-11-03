@@ -37,6 +37,8 @@ class Schedule(Base):
     created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), server_default=func.now())
     updated_at: Mapped[Optional[datetime]] = mapped_column(DateTime(timezone=True), onupdate=func.now())
     bets: Mapped[list["Bet"]] = relationship(back_populates="schedule", cascade="all, delete-orphan")
+    odds: Mapped[float] = mapped_column(Float)
+
 
 class Bet(Base):
     __tablename__ = "bets"
