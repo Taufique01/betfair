@@ -215,5 +215,13 @@ chase_results/
 email_logs/
 logs/
 
+bank_balance.json
+certs/
+chase_results/
+chase_state.json
+config.json
+logs/
+strat_settings.json
+
 
 

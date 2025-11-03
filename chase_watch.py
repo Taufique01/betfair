@@ -409,7 +409,22 @@ def schedule_races(scheduler):
 
         job_id = f"{getattr(m, 'market_id', 'm')}-{int(bet_time.timestamp())}"
 
-        record_schedule(job_id, m, bet_time, status="scheduled")
+        # 🔹 NEW: Fetch favorite + odds snapshot now
+        try:
+            fav, odds = determine_fav_and_odds(client, m)
+        except Exception as e:
+            fav, odds = None, None
+            log_message(f"⚠️ Could not fetch odds for {m.market_name}: {e}", "WARN")
+
+        # 🔹 NEW: Save snapshot info into DB
+        record_schedule(
+            job_id=job_id,
+            market=m,
+            run_time=bet_time,
+            status="scheduled",
+            fav_name=(fav.get("runner_name") if fav else None),
+            odds=(float(odds) if odds else None),
+        )
 
         try:
             scheduler.add_job(
@@ -422,7 +437,7 @@ def schedule_races(scheduler):
                 coalesce=True,
                 replace_existing=True,
             )
-            log_message(f"Scheduled bet for {m.market_name} at {bet_time} (job_id={job_id})")
+            log_message(f"Scheduled bet for {m.market_name} at {bet_time} (job_id={job_id}) | fav={fav.get('runner_name') if fav else '-'} | odds={odds}")
         except Exception as e:
             err = f"Failed to schedule {m.market_name} at {bet_time}: {e}"
             log_message(err, "ERROR")
