@@ -237,7 +237,7 @@ def get_cutoff():
 def place_bet_job(client, trading, market, job_id: str):
     try:
         update_schedule_status(job_id, "running")
-        state = load_state(trading)
+        state = load_state()
         leg = state.get("leg", 1)
 
         now = datetime.now(LONDON)
