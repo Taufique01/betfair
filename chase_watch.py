@@ -410,7 +410,6 @@ def schedule_races(scheduler):
             market=m,
             run_at=bet_time,
             status="scheduled",
-            fav_name=(fav.get("runner_name") if fav else None),
             odds=(float(odds) if odds else None),
         )
 
