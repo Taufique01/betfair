@@ -73,8 +73,8 @@ def load_json(path: Path):
 def load_balance_from_remote(trading):
     """Initial boot balance (from file, only used at startup reset)."""
     balances  = trading.account.get_account_funds()
-    
-    return balances['available_to_bet_balance']
+    print("balances", balances)
+    return balances.available_to_bet_balance
 
 def load_state():
     """Load chase state from JSON, but override balance from DB after startup."""
