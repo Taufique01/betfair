@@ -25,6 +25,16 @@ LOW_WIN_RACES_PATH = Path(os.getenv("LOW_WIN_RACES_PATH", "low_win_races.json"))
 STRAT_SETTINGS_PATH = Path(os.getenv("STRAT_SETTINGS_PATH", "strat_settings.json"))
 BANK_BALANCE_PATH = Path(os.getenv("BANK_BALANCE_PATH", "bank_balance.json"))
 
+
+@st.cache_data(ttl=15, show_spinner=False)
+def get_current_balance() -> float:
+    """Fetch the latest current_balance from bot_balance table."""
+    with contextlib.closing(SessionLocal()) as s:
+        row = s.execute("SELECT current_balance FROM bot_balance WHERE id = 1").fetchone()
+        if not row:
+            return 0.0
+        return float(row[0] or 0.0)
+
 # ───────────────────────── ORM → DataFrame ─────────────────────────
 @st.cache_data(show_spinner=False)
 def load_bets_df() -> pd.DataFrame:
@@ -264,7 +274,7 @@ if page == "Today’s Races":
     now_local = datetime.now(TZ)
 
     today_metrics = None
-    current_balance = float(balance_series_global.iloc[-1]) if len(balance_series_global) else 0.0
+    current_balance = get_current_balance()
 
     if time_col is not None and pd.api.types.is_datetime64_any_dtype(df_all[time_col]):
         dt_local = df_all[time_col].dt.tz_convert(TZ) if pd.api.types.is_datetime64tz_dtype(df_all[time_col]) else df_all[time_col].dt.tz_localize(TZ)
