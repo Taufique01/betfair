@@ -403,7 +403,7 @@ def schedule_races(scheduler):
         except Exception as e:
             fav, odds = None, None
             log_message(f"⚠️ Could not fetch odds for {m.market_name}: {e}", "WARN")
-        log_message("odds", "INFO")
+        log_message(f"odds: {odds}", "INFO")
         # 🔹 NEW: Save snapshot info into DB
         record_schedule(
             job_id=job_id,
