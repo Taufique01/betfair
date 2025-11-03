@@ -18,7 +18,7 @@ from results import await_result
 
 from db_layer import (
     init_db, record_schedule, update_schedule_status,
-    create_pending_bet, finalize_bet, get_balance, update_balance
+    create_pending_bet, finalize_bet, update_balance
 )
 
 # -----------------------------

@@ -78,10 +78,6 @@ def init_db():
 # -----------------------------
 # Balance helpers
 # -----------------------------
-def get_balance() -> float:
-    with SessionLocal() as s:
-        row = s.get(BotBalance, 1)
-        return float(row.current_balance) if row else 0.0
 
 def update_balance(new_balance: float):
     with SessionLocal() as s:
