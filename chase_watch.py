@@ -249,6 +249,8 @@ def place_bet_job(client, trading, market, job_id: str):
             return
 
         bal = load_balance_from_remote(trading)  # ✅ Always use DB balance
+        log_message(f"Balance: {bal}", "ERROR")
+
         if bal < float(MIN_STAKE):
             msg = f"Skipping bet for {market.market_name} - balance too low ({bal} < {MIN_STAKE})"
             log_message(msg, "WARN")
