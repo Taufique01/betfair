@@ -25,4 +25,4 @@ def create_client(cfg):
     )
     safe_api_call(client.login)
     logger.info("Logged in to Betfair API")
-    return client.betting, client.logout
+    return client.betting, client.logout, client

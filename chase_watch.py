@@ -70,14 +70,11 @@ def load_json(path: Path):
     with open(path, "r") as f:
         return json.load(f)
 
-def load_initial_balance():
+def load_balance_from_remote(trading):
     """Initial boot balance (from file, only used at startup reset)."""
-    if not BALANCE_FILE.exists():
-        log_message(f"Missing {BALANCE_FILE}", "ERROR"); sys.exit(1)
-    b = load_json(BALANCE_FILE)
-    if "balance" not in b:
-        log_message(f"{BALANCE_FILE} missing 'balance' key", "ERROR"); sys.exit(1)
-    return float(b["balance"])
+    balances  = trading.account.get_account_funds()
+    
+    return balances['available_to_bet_balance']
 
 def load_state():
     """Load chase state from JSON, but override balance from DB after startup."""
@@ -86,20 +83,12 @@ def load_state():
             state = json.load(f)
     else:
         state = {
-            "balance": load_initial_balance(),
             "leg": 1,
             "accumulated_losses": 0.0,
             "prev_stake": None,
             "chase_active": False,
             "is_running_race": False,
         }
-
-    # Always override with DB balance (single source of truth)
-    try:
-        db_balance = get_balance()
-        state["balance"] = db_balance
-    except Exception as e:
-        log_message(f"⚠️ Could not load balance from DB: {e}", "ERROR")
 
     return state
 
@@ -245,10 +234,10 @@ def get_cutoff():
 # Job (runs at scheduled time)
 # -----------------------------
 
-def place_bet_job(client, market, job_id: str):
+def place_bet_job(client, trading, market, job_id: str):
     try:
         update_schedule_status(job_id, "running")
-        state = load_state()
+        state = load_state(trading)
         leg = state.get("leg", 1)
 
         now = datetime.now(LONDON)
@@ -259,7 +248,7 @@ def place_bet_job(client, market, job_id: str):
             update_schedule_status(job_id, "skipped", error=msg)
             return
 
-        bal = get_balance()  # ✅ Always use DB balance
+        bal = load_balance_from_remote(trading)  # ✅ Always use DB balance
         if bal < float(MIN_STAKE):
             msg = f"Skipping bet for {market.market_name} - balance too low ({bal} < {MIN_STAKE})"
             log_message(msg, "WARN")
@@ -322,7 +311,6 @@ def place_bet_job(client, market, job_id: str):
             state["leg"] = leg + 1
 
         bal += profit
-        state["balance"] = bal
         state["is_running_race"] = False
         save_state(state)
         update_balance(bal)  # ✅ Persist new balance to DB
@@ -362,11 +350,11 @@ def place_bet_job(client, market, job_id: str):
 # Daily 5 AM reset
 # -----------------------------
 
-def daily_reset_job():
+def daily_reset_job(trading):
     log_message("Running daily 5 AM reset")
 
     # Load initial balance from JSON
-    init_balance = load_initial_balance()
+    init_balance = load_balance_from_remote(trading)
 
     save_state({
         "balance": init_balance,
@@ -385,14 +373,14 @@ def daily_reset_job():
 # -----------------------------
 
 def schedule_races(scheduler):
-    client, _ = create_client(load_config())
+    client, _, trading = create_client(load_config())
 
     mkts = get_today_markets(client, LONDON)
     settings = load_json(STRAT_FILE)
     low_win_list = load_json(LOW_WIN_FILE)
     track_grades = load_json(TRACK_GRADE_FILE)
 
-    daily_reset_job()
+    daily_reset_job(trading)
 
     for m in mkts:
         race_start = to_datetime(getattr(m, "market_start_time", None))
@@ -432,7 +420,7 @@ def schedule_races(scheduler):
                 "date",
                 id=job_id,
                 run_date=bet_time,
-                args=[client, m, job_id],
+                args=[client, trading, m, job_id, ],
                 misfire_grace_time=30,
                 coalesce=True,
                 replace_existing=True,
