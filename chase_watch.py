@@ -408,7 +408,7 @@ def schedule_races(scheduler):
         record_schedule(
             job_id=job_id,
             market=m,
-            run_time=bet_time,
+            run_at=bet_time,
             status="scheduled",
             fav_name=(fav.get("runner_name") if fav else None),
             odds=(float(odds) if odds else None),
