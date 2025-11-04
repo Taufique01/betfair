@@ -240,7 +240,7 @@ def place_chase_bet(trading, market, fav, stake, odds):
         log_message(f"⚠️ Bet placement not successful: {response.status}")
         return {"win": False, "profit": 0.0, "selection": runner_name}
 
-    bet_id = response.instruction_reports[0].bet_id
+    bet_id = response.place_instruction_reports[0].bet_id
     log_message(f"✅ Bet placed successfully: bet_id={bet_id}")
 
     # ---- Build local record ----
