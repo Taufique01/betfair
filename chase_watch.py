@@ -15,6 +15,7 @@ from logger_factory import get_logger
 from config_utils import load_config, create_client
 from markets import get_today_markets, determine_fav_and_odds
 from results import await_result
+from betfairlightweight import filters
 
 from db_layer import (
     init_db, record_schedule, update_schedule_status,
@@ -199,26 +200,67 @@ def append_result_csv(record):
 # -----------------------------
 # Bet placement
 # -----------------------------
+def place_chase_bet(trading, market, fav, stake, odds):
+    selection_id = fav.get("selection_id")
+    runner_name  = fav.get("runner_name")
+    market_id    = getattr(market, "market_id", None)
+    race_name    = getattr(market, "market_name", None)
+    race_start   = to_datetime(getattr(market, "market_start_time", None))
 
-def place_chase_bet(client, market, fav, stake, odds):
+    if not market_id or not selection_id:
+        raise ValueError("Missing market_id or selection_id")
+
+    # ---- Build order ----
+    limit_order = filters.limit_order(
+        size=float(stake),
+        price=float(odds),
+        persistence_type="LAPSE"
+    )
+
+    instruction = filters.place_instruction(
+        order_type="LIMIT",
+        selection_id=selection_id,
+        side="BACK",      # change to "LAY" if needed
+        limit_order=limit_order,
+    )
+
+    # ---- Place the bet ----
+    log_message(f"Placing BACK bet on {runner_name} @ {odds} for {stake}")
+    try:
+        response = trading.betting.place_orders(
+            market_id=market_id,
+            instructions=[instruction]
+        )
+    except Exception as e:
+        log_message(f"❌ Bet placement failed: {e}")
+        return {"win": False, "profit": 0.0, "selection": runner_name, "error": str(e)}
+
+    # ---- Inspect response ----
+    if response.status != "SUCCESS":
+        log_message(f"⚠️ Bet placement not successful: {response.status}")
+        return {"win": False, "profit": 0.0, "selection": runner_name}
+
+    bet_id = response.instruction_reports[0].bet_id
+    log_message(f"✅ Bet placed successfully: bet_id={bet_id}")
+
+    # ---- Build local record ----
     bet = {
-        "selection_id": fav.get("selection_id"),
-        "runner_name": fav.get("runner_name"),
+        "selection_id": selection_id,
+        "runner_name": runner_name,
         "odds": odds,
-        "placed_odds": float(odds),
         "stake": stake,
-        "market_id": getattr(market, "market_id", None),
-        "race_name": getattr(market, "market_name", None),
+        "market_id": market_id,
+        "race_name": race_name,
+        "bet_id": bet_id,
         "result": "PENDING",
     }
-    log_message(f"Bid placed: {bet}")
 
-    race_start = to_datetime(getattr(market, "market_start_time", None))
-    await_result(client, market, market.market_name, bet, race_start, channel="chase")
+    # ---- Wait for outcome ----
+    await_result(trading.betting, market, race_name, bet, race_start, channel="chase")
 
     win = bet.get("result") == "WON"
     profit = (odds - 1) * stake if win else -stake
-    return {"win": win, "profit": float(profit), "selection": fav.get("runner_name")}
+    return {"win": win, "profit": float(profit), "selection": runner_name}
 
 # -----------------------------
 # Config helpers
@@ -289,7 +331,7 @@ def place_bet_job(client, trading, market, job_id: str):
         save_state(state)
 
         try:
-            outcome = place_chase_bet(client, market, fav, stake, float(odds))
+            outcome = place_chase_bet(trading, market, fav, stake, float(odds))
         except Exception as e:
             err = f"Error placing bet {market.market_name}: {e}"
             log_message(err, "ERROR")
