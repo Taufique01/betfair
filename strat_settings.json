@@ -1,4 +1,14 @@
 {
-  "cutoff_time": "20:00",
-  "bet_buffer_seconds": 300
+  "sim_mode": true,
+  "sim_starting_balance": 500.0,
+  "cutoff_time": "16:08",
+  "cap_count_from": "14:00",
+  "daily_cap_wins": 1,
+  "max_legs": 6,
+  "bet_buffer_seconds": 60,
+  "odds": { "min_leg1": 2.0, "min_legs_2_to_6": 2.7 },
+  "distance_filter": { "enabled": false, "min_furlongs": 8 },
+  "racetype_filter": { "allow": [], "forbid": [] },
+  "favourite_stability": { "check": false, "max_drift_factor": 5.0 }
 }
+
