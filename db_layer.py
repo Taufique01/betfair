@@ -96,7 +96,16 @@ def update_balance(new_balance: float):
 # Core CRUD helpers
 # -----------------------------
 # db_layer.py
-def record_schedule(job_id: str, market, run_at: datetime, status="scheduled", error=None, odds=None):
+def record_schedule(
+    job_id: str,
+    market,
+    run_at: datetime,
+    status="scheduled",
+    error=None,
+    odds=None,
+    selection=None,
+    selection_id=None,
+):
     """Insert or update a scheduled race with optional odds snapshot."""
     from sqlalchemy import text
     with engine.begin() as conn:
