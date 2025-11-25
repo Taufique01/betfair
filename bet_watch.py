@@ -47,7 +47,7 @@ def process_next_race(betting, market):
 # ───────────────────────────────────────────────────────
 def schedule_today_races(scheduler):
     """Fetch today's markets and schedule bets."""
-    client, _ = create_client(load_config())
+    client, _, _ = create_client(load_config())
 
     markets = get_today_markets(client, TZ)
     now_utc = datetime.now(UTC)
