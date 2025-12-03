@@ -1,5 +1,5 @@
 {
-  "sim_mode": true,
+  "sim_mode": false,
   "sim_starting_balance": 500.0,
   "cutoff_time": "16:08",
   "cap_count_from": "14:00",
@@ -7,8 +7,8 @@
   "max_legs": 6,
   "bet_buffer_seconds": 60,
   "odds": {
-    "min_leg1": 2.0,
-    "min_legs_2_to_6": 2.7
+    "min_leg1": 1.0,
+    "min_legs_2_to_6": 2.3
   },
   "distance_filter": {
     "enabled": false,

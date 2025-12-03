@@ -1,8 +1,10 @@
 {
-  "balance": 2000.0,
+  "balance": 0.0,
   "leg": 1,
   "accumulated_losses": 0.0,
   "prev_stake": null,
   "chase_active": false,
-  "is_running_race": false
+  "is_running_race": false,
+  "wins_counted_today": 0,
+  "day_done": false
 }
