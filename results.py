@@ -181,4 +181,4 @@ def await_result(
             logger.info(f"{channel} - Market closed: {race_name}, result: {bet['result']}")
             return
 
-        time.sleep(15)
+        time.sleep(10)
