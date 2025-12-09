@@ -103,82 +103,74 @@ def await_result(
         # Pattern matched → inferred winner
         return sel
 
+    # Poll loop with DSC-0018 tolerance
+    empty_count = 0
+    last_book = None
+
     while True:
         books = safe_api_call(
             betting.list_market_book,
             market_ids=[market.market_id],
-            price_projection=price_projection(price_data=["EX_BEST_OFFERS", "EX_LTP"])
+            price_projection=price_projection(price_data=["EX_BEST_OFFERS", "EX_LTP"]),
+            retries=1,   # no heavy retry at this layer
         )
+
         if not books:
-            logger.warning(f"{channel} - No MarketBook returned for {race_name}.")
-            time.sleep(30)
+            empty_count += 1
+            logger.warning(f"{channel} - No MarketBook returned ({empty_count}) for {race_name}")
+
+            # ⛔ If we've already inferred a winner and we keep failing → finalize
+            if likely_winner_id and empty_count >= 3:
+                bet["result"] = "WON" if likely_winner_id == bet.get("selection_id") else "LOST"
+                on_final(bet, location, race_name, race_start)
+                logger.info(f"{channel} - Finalizing result based on inferred winner (DSC-0018 fallback)")
+                return
+
+            time.sleep(10)
             continue
 
+        # Reset fail count when data arrives
+        empty_count = 0
         book = books[0]
+        last_book = book
         status = getattr(book, "status", "UNKNOWN")
 
         logger.debug(f"{channel} - Polling {location} — {race_name}: {status}")
 
-        # ----------------------------------------------------------
-        # 1. Attempt early winner inference (your new logic)
-        # ----------------------------------------------------------
+        # 1️⃣ Try to infer winner early
         if likely_winner_id is None and status != "CLOSED":
             sel = infer_winner(book)
             if sel is not None:
-                # Lookup name
                 runner = next((r for r in book.runners if r.selection_id == sel), None)
-                name = getattr(runner, "runner_name", str(sel))
                 likely_winner_id = sel
-                likely_winner_name = name
+                likely_winner_name = getattr(runner, "runner_name", str(sel))
                 likely_time_utc = datetime.utcnow().isoformat(timespec="seconds")
-
                 logger.info(
                     f"{channel} - Likely winner inferred: "
-                    f"{name} (sel_id={sel}) at {likely_time_utc} UTC"
+                    f"{likely_winner_name} (sel_id={sel}) at {likely_time_utc} UTC"
                 )
 
-        # ----------------------------------------------------------
-        # 2. Market CLOSED → confirm official winner
-        # ----------------------------------------------------------
+        # 2️⃣ Market closed → confirm official if available
         if status == "CLOSED":
             official = next(
                 (r for r in getattr(book, "runners", []) if getattr(r, "status", "") == "WINNER"),
                 None
             )
-
             if official:
                 official_id = official.selection_id
-                official_name = official.runner_name
+                bet["result"] = ("WON" if official_id == bet.get("selection_id") else "LOST")
+                logger.info(f"{channel} - Official winner confirmed for {race_name}")
             else:
-                official_id = None
-                official_name = "UNKNOWN"
+                # Official winner still missing → fallback if good inference
+                if likely_winner_id:
+                    bet["result"] = ("WON" if likely_winner_id == bet.get("selection_id") else "LOST")
+                    logger.info(f"{channel} - Using inferred winner for {race_name}")
+                else:
+                    bet["result"] = "LOST"
+                    logger.warning(f"{channel} - No official/inferred winner — marking LOST")
 
-            # Determine WON/LOST for the given bet
-            bet["result"] = (
-                "WON" if official_id == bet.get("selection_id") else "LOST"
-            )
-
-            # Print comparison if inferred winner exists
-            if likely_winner_id:
-                # Lag = official published time - likely inference time
-                try:
-                    t_likely = datetime.fromisoformat(likely_time_utc)
-                    t_official = datetime.utcnow()
-                    lag = (t_official - t_likely).total_seconds()
-                except:
-                    lag = None
-
-                logger.info(
-                    f"{channel} - Likely winner vs official winner: "
-                    f"likely={likely_winner_name} (sel_id={likely_winner_id}) at {likely_time_utc}; "
-                    f"official={official_name} (sel_id={official_id}); "
-                    f"lag={lag} seconds"
-                )
-
-            if channel == "watch":
-                on_final(bet, location, race_name, race_start)
-
-            logger.info(f"{channel} - Market closed: {race_name}, result: {bet['result']}")
+            on_final(bet, location, race_name, race_start)
+            logger.info(f"{channel} - Market closed: {race_name}, result={bet['result']}")
             return
 
         time.sleep(10)
