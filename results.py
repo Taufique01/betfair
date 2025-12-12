@@ -111,8 +111,8 @@ def await_result(
         books = safe_api_call(
             betting.list_market_book,
             market_ids=[market.market_id],
-            price_projection=price_projection(price_data=["EX_BEST_OFFERS", "EX_LTP"]),
-            retries=1,   # no heavy retry at this layer
+            price_projection=price_projection(price_data=["EX_BEST_OFFERS"]),
+            retries=1,
         )
 
         if not books:
